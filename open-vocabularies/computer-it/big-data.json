@@ -1,0 +1,250 @@
+[
+  {
+    "word": "Volume",
+    "phonetic": "'vɒljum",
+    "definition": [
+      "n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量",
+      "vi. 成团卷起",
+      "vt. 把...收集成卷",
+      "a. 大量的",
+      "[计] 卷",
+      "大量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998083
+  },
+  {
+    "word": "Velocity",
+    "phonetic": "vi'lɒsәti",
+    "definition": [
+      "n. 速度, 迅速",
+      "[化] 速度",
+      "高速"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9993443
+  },
+  {
+    "word": "Variety",
+    "phonetic": "vә'raiәti",
+    "definition": [
+      "n. 多样, 种类, 变种, 杂耍",
+      "[化] 变种",
+      "多样"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998829
+  },
+  {
+    "word": "Value",
+    "phonetic": "'vælju:",
+    "definition": [
+      "n. 价值, 价格, 购买力, 评价, 估价, 计算结果",
+      "vt. 评价, 估价, 重视",
+      "[计] 计算结果",
+      "价值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999501
+  },
+  {
+    "word": "Variability",
+    "phonetic": ".vєәriә'biliti",
+    "definition": [
+      "n. 易变, 变化性, 变异性",
+      "[化] 可变性; 变异性",
+      "可变性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991597
+  },
+  {
+    "word": "Veracity",
+    "phonetic": "vә'ræsiti",
+    "definition": [
+      "n. 说话老实, 老实, 诚实",
+      "真实性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9982073
+  },
+  {
+    "word": "Hadoop Distributed File System",
+    "phonetic": "",
+    "definition": [
+      "分布式文件系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "high throughput",
+    "phonetic": "hai ˈθru:put",
+    "definition": [
+      "[医]高流通量",
+      "高吞吐量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "streaming access",
+    "phonetic": "",
+    "definition": [
+      "流形式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "Data Warehouse",
+    "phonetic": "ˈdeitə ˈwɛəhaus",
+    "definition": [
+      "数据仓库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 10
+  },
+  {
+    "word": "NoSQL",
+    "phonetic": "",
+    "definition": [
+      "非关系型数据库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "Structured Method",
+    "phonetic": "",
+    "definition": [
+      "结构化方法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "Semi-Structured Data",
+    "phonetic": "",
+    "definition": [
+      "半结构化数据"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Node Manager",
+    "phonetic": "",
+    "definition": [
+      "节点管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "Resource Manager",
+    "phonetic": "",
+    "definition": [
+      "[计] 资源管理程序",
+      "资源管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Spatial analysis",
+    "phonetic": "",
+    "definition": [
+      "空间分析"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "Simulation analysis",
+    "phonetic": "",
+    "definition": [
+      "[计] 模拟分析",
+      "仿真分析"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "Signal analysis",
+    "phonetic": "",
+    "definition": [
+      "信号分析"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Regression analysis",
+    "phonetic": "",
+    "definition": [
+      "[计] 回归分析",
+      "[化] 回归分析",
+      "回归分析"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

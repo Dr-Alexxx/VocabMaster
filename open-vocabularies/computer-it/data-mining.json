@@ -1,0 +1,210 @@
+[
+  {
+    "word": "Local Data Base",
+    "phonetic": "",
+    "definition": [
+      "[计] 局部数据库",
+      "[化] 局部数据库",
+      "本地数据库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "Data Acquisition",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据采集",
+      "[化] 数据采集",
+      "数据采集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "Data Model",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据模型",
+      "数据模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 14
+  },
+  {
+    "word": "Data Handling",
+    "phonetic": "",
+    "definition": [
+      "[化] 数据处理",
+      "[经] 数据处理",
+      "数据处理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "Data Compression",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据压缩",
+      "数据压缩"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "Data Recovery",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据恢复",
+      "数据恢复"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "Data Integration",
+    "phonetic": "",
+    "definition": [
+      "数据集成"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 10
+  },
+  {
+    "word": "Data Migration",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据迁移",
+      "数据迁移"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "Data Element",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据元",
+      "数据元"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "Data Redundancy",
+    "phonetic": "",
+    "definition": [
+      "数据冗余"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Web data mining",
+    "phonetic": "",
+    "definition": [
+      "网络数据抽取"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "data standardization",
+    "phonetic": "",
+    "definition": [
+      "数据标准化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Data Backup",
+    "phonetic": "",
+    "definition": [
+      "数据备份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "Full Backup",
+    "phonetic": "",
+    "definition": [
+      "全部备份",
+      "[计] 完全备份",
+      "完全备份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "Incremental Backup",
+    "phonetic": "",
+    "definition": [
+      "增量备份",
+      "[计] 增量备份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Differential Backup",
+    "phonetic": "",
+    "definition": [
+      "差异备份",
+      "[计] 差异备份",
+      "差分备份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

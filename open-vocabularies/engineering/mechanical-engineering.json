@@ -1,0 +1,2008 @@
+[
+  {
+    "word": "Abrasion",
+    "phonetic": "ә'breiʒәn",
+    "definition": [
+      "n. 磨擦, 磨损, 磨损处",
+      "[化] 磨耗; 磨蚀",
+      "EN: is the process of scuffing, scratching, wearing down, marring, or rubbing away. It can be intentionally imposed in a controlled process using an abrasive. Abrasion can be an undesirable effect of exposure to normal use or exposure to the elements."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9981746
+  },
+  {
+    "word": "Absolute zero",
+    "phonetic": "",
+    "definition": [
+      "绝对零度",
+      "[化] 绝对零度",
+      "EN: is the lowest possible temperature of a system, defined as zero kelvin or −273.15 °C. No experiment has yet measured a temperature of absolute zero."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 151
+  },
+  {
+    "word": "Accelerated life testing",
+    "phonetic": "",
+    "definition": [
+      "EN: is the process of testing a product by subjecting it to conditions (stress, strain, temperatures, voltage, vibration rate, pressure etc.) in excess of its normal service parameters in an effort to uncover faults and potential modes of failure in a short amount of time. By analyzing the product's response to such tests, engineers can make predictions about the service life and maintenance intervals of a product."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 150
+  },
+  {
+    "word": "Acceleration",
+    "phonetic": "әk.selә'reiʃәn",
+    "definition": [
+      "n. 加速, 促进, 加速度",
+      "[化] 加速度",
+      "EN: In physics, acceleration is the rate of change of velocity of an object with respect to time. An object's acceleration is the net result of any and all forces acting on the object, as described by Newton's second law. The SI unit for acceleration is metre per second squared (m s). Accelerations are vector quantities (they have magnitude and direction) and add according to the parallelogram law. As a vector, the calculated net force is equal to the product of the object's mass (a scalar quantity) and its acceleration."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991982
+  },
+  {
+    "word": "Accelerometer",
+    "phonetic": "әk.selә'rɒmitә",
+    "definition": [
+      "n. 加速度计",
+      "[化] 加速度计",
+      "EN: is a device that measures proper acceleration. Proper acceleration, being the acceleration (or rate of change of velocity) of a body in its own instantaneous rest frame, is not the same as coordinate acceleration, being the acceleration in a fixed coordinate system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9972158
+  },
+  {
+    "word": "Accuracy and precision",
+    "phonetic": "",
+    "definition": [
+      "EN: In measurement of a set, accuracy is closeness of the measurements to a specific value, while precision is the closeness of the measurements to each other. More commonly, accuracy or trueness is a description of systematic errors, a measure of statistical bias, while precision is a description of random errors, a measure of statistical variability; the two concepts are independent of each other. Alternatively, ISO defines accuracy as describing a combination of both random and systematic observational error, so high accuracy requires both high precision and high trueness."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 147
+  },
+  {
+    "word": "Ackermann steering geometry",
+    "phonetic": "",
+    "definition": [
+      "EN: a geometric arrangement of linkages in the steering of a car or other vehicle designed to solve the problem of wheels on the inside and outside of a turn needing to trace out circles of different radii. It was invented by the German carriage builder Georg Lankensperger in Munich in 1817, then patented by his agent in England, Rudolph Ackermann (1764–1834) in 1818 for horse-drawn carriages. Erasmus Darwin may have a prior claim as the inventor dating from 1758."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 146
+  },
+  {
+    "word": "Acoustic droplet ejection",
+    "phonetic": "",
+    "definition": [
+      "EN: (ADE) uses a pulse of ultrasound to move low volumes of fluids (typically nanoliters or picoliters) without any physical contact. This technology focuses acoustic energy into a fluid sample in order to eject droplets as small as a picoliter. ADE technology is a very gentle process. This feature makes the technology suitable for a wide variety of applications including proteomics and cell-based assays."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 145
+  },
+  {
+    "word": "Active cooling",
+    "phonetic": "",
+    "definition": [
+      "EN: an active cooling system is one that involves the use of energy to cool something, as opposed to passive cooling that uses no energy. Such systems circulate a coolant to transfer heat from one place to another. The coolant is either a gas, such as in air cooling of computers, or a liquid such as in a car engine. In the latter case, liquid is pumped to transfer heat from the engine to the radiator, which in turn is cooled by passing air over it. Other active cooling systems make use of a refrigeration cycle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 144
+  },
+  {
+    "word": "Actual mechanical advantage",
+    "phonetic": "",
+    "definition": [
+      "EN: The actual mechanical advantage (AMA) is the mechanical advantage determined by physical measurement of the input and output forces. AMA takes into account energy loss due to deflection, friction, and wear."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 143
+  },
+  {
+    "word": "Adjoint equation",
+    "phonetic": "",
+    "definition": [
+      "EN: is a linear differential equation, usually derived from its primal equation using integration by parts. Gradient values with respect to a particular quantity of interest can be efficiently calculated by solving the adjoint equation. Methods based on solution of adjoint equations are used in wing shape optimization, fluid flow control and uncertainty quantification. For example d X t = a ( X t ) d t + b ( X t ) d W {\\displaystyle dX_{t}=a(X_{t})dt+b(X_{t})dW} this is an Itō stochastic differential equation. Now by using Euler scheme, we integrate the parts of this equation and get another equation, X n + 1 = X n + a Δ t + ζ b Δ t {\\displaystyle X_{n+1}=X_{n}+a\\Delta t+\\zeta b{\\sqrt {\\Delta t}"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 142
+  },
+  {
+    "word": "Aerodynamics",
+    "phonetic": ".єәrәudai'næmiks",
+    "definition": [
+      "n. 空气动力学",
+      "[化] 空气动力学",
+      "EN: the study of the motion of air, particularly its interaction with a solid object, such as an airplane wing. It is a sub-field of fluid dynamics and gas dynamics, and many aspects of aerodynamics theory are common to these fields."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9978982
+  },
+  {
+    "word": "Agitator (device)",
+    "phonetic": "",
+    "definition": [
+      "EN: a device or mechanism to put something into motion by shaking or stirring. Agitators usually consist of an impeller and a shaft; an impeller is a rotor located within a tube or conduit attached to the shaft, which helps enhance the pressure in order for the flow of a fluid be done."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 140
+  },
+  {
+    "word": "Air handler",
+    "phonetic": "",
+    "definition": [
+      "EN: an air handler, or air handling unit (often abbreviated to AHU), is a device used to regulate and circulate air as part of a heating, ventilating, and air-conditioning (HVAC) system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 139
+  },
+  {
+    "word": "Air compressor",
+    "phonetic": "",
+    "definition": [
+      "[化] 空气压缩机; 空压机",
+      "EN: a device that converts power (using an electric motor, diesel or gasoline engine, etc.) into potential energy stored in pressurized air (i.e., compressed air). By one of several methods, an air compressor forces more and more air into a storage tank, increasing the pressure. When tank pressure reaches its engineered upper limit the air compressor shuts off. The compressed air, then, is held in the tank until called into use."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 138
+  },
+  {
+    "word": "Air conditioner",
+    "phonetic": "",
+    "definition": [
+      "[化] 空调器; 空气调节器",
+      "EN: Air conditioning (often referred to as AC, A/C, or air con) is the process of removing heat and moisture from the interior of an occupied space, to improve the comfort of occupants. Air conditioning can be used in both domestic and commercial environments."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 137
+  },
+  {
+    "word": "Air preheater",
+    "phonetic": "",
+    "definition": [
+      "[化] 空气预热器",
+      "EN: (APH) any device designed to heat air before another process (for example, combustion in a boiler) with the primary objective of increasing the thermal efficiency of the process. They may be used alone or to replace a recuperative heat system or to replace a steam coil."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 136
+  },
+  {
+    "word": "Airflow",
+    "phonetic": "'єәflәu",
+    "definition": [
+      "n. 空气的流动, 气流",
+      "EN: Airflow, or air flow, is the movement of air from one area to another. The primary cause of airflow is the existence of pressure gradients. Air behaves in a fluid manner, meaning particles naturally flow from areas of higher pressure to those where the pressure is lower. Atmospheric air pressure is directly related to altitude, temperature, and composition. In engineering, airflow is a measurement of the amount of air per unit of time that flows through a particular device."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9980887
+  },
+  {
+    "word": "Allowance",
+    "phonetic": "ә'lauәns",
+    "definition": [
+      "n. 津贴, 零用钱, 限额, 折扣, 允许",
+      "vt. 定量供应",
+      "EN: a planned deviation between an exact dimension and a nominal or theoretical dimension, or between an intermediate-stage dimension and an intended final dimension. The unifying abstract concept is that a certain amount of difference allows for some known factor of compensation or interference. For example, an area of excess metal may be left because it is needed to complete subsequent machining. Common cases are listed below. An allowance, which is a planned deviation from an ideal, is contrasted with a tolerance, which accounts for expected but unplanned deviations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992323
+  },
+  {
+    "word": "American Society of Mechanical Engineers",
+    "phonetic": "",
+    "definition": [
+      "EN: The American Society of Mechanical Engineers (ASME) is a professional association that, in its own words, \"promotes the art, science, and practice of multidisciplinary engineering and allied sciences around the globe\" via \"continuing education, training and professional development, codes and standards, research, conferences and publications, government relations, and other forms of outreach.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 133
+  },
+  {
+    "word": "Ampere",
+    "phonetic": "'æmpєә",
+    "definition": [
+      "n. 安培",
+      "[化] 安培",
+      "EN: the base unit of electric current in the International System of Units (SI). It is named after André-Marie Ampère (1775–1836), French mathematician and physicist, considered the father of electrodynamics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9962174
+  },
+  {
+    "word": "Applied mechanics",
+    "phonetic": "",
+    "definition": [
+      "[机] 应用力学",
+      "EN: describes the behavior of a body, in either a beginning state of rest or of motion, subjected to the action of forces. Applied mechanics, bridges the gap between physical theory and its application to technology. It is used in many fields of engineering, especially mechanical engineering and civil engineering. In this context, it is commonly referred to as engineering mechanics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 131
+  },
+  {
+    "word": "Archimedes' screw",
+    "phonetic": "",
+    "definition": [
+      "EN: also known by the name Archimedean screw or screw pump, is a machine used for transferring water from a low-lying body of water into irrigation ditches. Water is pumped by turning a screw-shaped surface inside a pipe. The screw pump is commonly attributed to Archimedes,"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 130
+  },
+  {
+    "word": "Artificial intelligence",
+    "phonetic": "",
+    "definition": [
+      "[计] 人工智能",
+      "EN: (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. In computer science AI research is defined as the study of \"intelligent agents\": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term \"artificial intelligence\" is applied when a machine mimics \"cognitive\" functions that humans associate with other human minds, such as \"learning\" and \"problem solving\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 129
+  },
+  {
+    "word": "Assembly drawing",
+    "phonetic": "",
+    "definition": [
+      "[计] 装配图, 总图",
+      "[化] 装配图",
+      "EN: see Technical drawing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 128
+  },
+  {
+    "word": "Automaton clock",
+    "phonetic": "",
+    "definition": [
+      "EN: An automaton clock or automata clock is a type of striking clock featuring automatons. Clocks like these were built from the 1st century BC through to Victorian times in Europe. A cuckoo clock is a simple form of this type of clock."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 127
+  },
+  {
+    "word": "Automobile",
+    "phonetic": "'ɒ:tәmәbi:l",
+    "definition": [
+      "n. 汽车",
+      "[机] 汽车",
+      "EN: a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995995
+  },
+  {
+    "word": "Automobile handling",
+    "phonetic": "",
+    "definition": [
+      "EN: Automobile handling and vehicle handling are descriptions of the way a wheeled vehicle responds and reacts to the inputs of a driver, as well as how it moves along a track or road. It is commonly judged by how a vehicle performs particularly during cornering, acceleration, and braking as well as on the vehicle's directional stability when moving in steady state condition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 125
+  },
+  {
+    "word": "Automotive engineering",
+    "phonetic": "ˌɔ:təˈməutiv ˌendʒiˈniəriŋ",
+    "definition": [
+      "汽车工程,汽车技术",
+      "EN: Automotive engineering, along with aerospace engineering and marine engineering, is a branch of vehicle engineering, incorporating elements of mechanical, electrical, electronic, software and safety engineering as applied to the design, manufacture and operation of motorcycles, automobiles and trucks and their respective engineering subsystems. It also includes modification of vehicles. Manufacturing domain deals with the creation and assembling the whole parts of automobiles is also included in it. The automotive engineering field is research -intensive and involves direct application of mathematical models and formulas. The study of automotive engineering is to design, develop, fabricate,"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 124
+  },
+  {
+    "word": "Axle",
+    "phonetic": "'æksl",
+    "definition": [
+      "n. 轴, 车轴",
+      "[电] 轴",
+      "EN: a central shaft for a rotating wheel or gear. On wheeled vehicles, the axle may be fixed to the wheels, rotating with them, or fixed to the vehicle, with the wheels rotating around the axle. In the former case, bearings or bushings are provided at the mounting points where the axle is supported. In the latter case, a bearing or bushing sits inside a central hole in the wheel to allow the wheel or gear to rotate around the axle. Sometimes, especially on bicycles, the latter type axle is referred to as a spindle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9986821
+  },
+  {
+    "word": "Babbitt",
+    "phonetic": "'bæbit",
+    "definition": [
+      "n. 巴比特式人物",
+      "[医] 巴比特合金(锡、铜、锑的合金)",
+      "EN: also called Babbitt metal or bearing metal, is any of several alloys used for the bearing surface in a plain bearing. The original Babbitt alloy was invented in 1839 by Isaac Babbitt in Taunton, Massachusetts, United States."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9956747
+  },
+  {
+    "word": "Backdrive",
+    "phonetic": "",
+    "definition": [
+      "EN: a component used in reverse to obtain its input from its output. This extends to many concepts and systems from thought based to practical mechanical applications."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 121
+  },
+  {
+    "word": "Backlash",
+    "phonetic": "'bæklæʃ",
+    "definition": [
+      "n. 后冲, 强烈反对",
+      "[电] 反撞, 逆栅流",
+      "EN: sometimes called lash or play, is a clearance or lost motion in a mechanism caused by gaps between the parts. It can be defined as \"the maximum distance or angle through which any part of a mechanical system may be moved in one direction without applying appreciable force or motion to the next part in mechanical sequence\",."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991925
+  },
+  {
+    "word": "Balancing machine",
+    "phonetic": "",
+    "definition": [
+      "[化] 平衡机; 平衡试验机",
+      "EN: a measuring tool used for balancing rotating machine parts such as rotors for electric motors, fans, turbines, disc brakes, disc drives, propellers and pumps."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 119
+  },
+  {
+    "word": "Ball detent",
+    "phonetic": "",
+    "definition": [
+      "EN: a simple mechanical arrangement used to hold a moving part in a temporarily fixed position relative to another part. Usually the moving parts slide with respect to each other, or one part rotates within the other."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 118
+  },
+  {
+    "word": "Ball screw",
+    "phonetic": "",
+    "definition": [
+      "EN: a mechanical linear actuator that translates rotational motion to linear motion with little friction. A threaded shaft provides a helical raceway for ball bearings which act as a precision screw. As well as being able to apply or withstand high thrust loads, they can do so with minimum internal friction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 117
+  },
+  {
+    "word": "Ball spline",
+    "phonetic": "",
+    "definition": [
+      "EN: Ball splines (Ball Spline bearings) are a special type of linear motion bearing that are used to provide nearly frictionless linear motion while allowing the member to transmit torque simultaneously. There are grooves ground along the length of the shaft (thus forming splines) for the recirculating ground balls to run inside. The outer shell that houses the balls is called a nut rather than a bushing, but is not a nut in the traditional sense—it is not free to rotate about the shaft, but is free to travel up and down the shaft."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 116
+  },
+  {
+    "word": "Beale number",
+    "phonetic": "",
+    "definition": [
+      "EN: a parameter that characterizes the performance of Stirling engines. It is often used to estimate the power output of a Stirling engine design. For engines operating with a high temperature differential, typical values for the Beale number range from ( 0.11 ) to ( 0.15 ); where a larger number indicates higher performance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 115
+  },
+  {
+    "word": "Bearing",
+    "phonetic": "'bєәriŋ",
+    "definition": [
+      "n. 举止, 轴承, 忍受, 关系, 意义, 方向, 生育",
+      "[化] 轴承",
+      "EN: a machine element that constrains relative motion to only the desired motion, and reduces friction between moving parts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9993280
+  },
+  {
+    "word": "Bearing pressure",
+    "phonetic": "",
+    "definition": [
+      "[机] 承压, 承轴压力",
+      "EN: a particular case of contact mechanics often occurring in cases where a convex surface (male cylinder or sphere) contacts a concave surface (female cylinder or sphere: bore or hemispherical cup). Excessive contact pressure can lead to a typical bearing failure such as a plastic deformation similar to peening. This problem is also referred to as bearing resistance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 113
+  },
+  {
+    "word": "Bearing surface",
+    "phonetic": "",
+    "definition": [
+      "[机] 承面, 轴承受面",
+      "EN: the area of contact between two objects. It usually is used in reference to bolted joints and bearings, but can be applied to a wide variety of engineering applications. On a screw the bearing area loosely refers to the underside of the head. Strictly speaking, the bearing area refers to the area of the screw head that directly bears on the part being fastened. For a cylindrical bearing it is the projected area perpendicular to the applied force. On a spring the bearing area refers to the amount of area on the top or bottom surface of the spring in contact with the constraining part. The ways of machine tools, such as dovetail slides, box ways, prismatic ways, and other types of machine slid"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 112
+  },
+  {
+    "word": "Belt",
+    "phonetic": "belt",
+    "definition": [
+      "n. 带子, 地带",
+      "[医] 带, 腰带, 束带, 地带, 区",
+      "EN: a loop of flexible material used to link two or more rotating shafts mechanically, most often parallel. Belts may be used as a source of motion, to transmit power efficiently or to track relative movement. Belts are looped over pulleys and may have a twist between the pulleys, and the shafts need not be parallel."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997570
+  },
+  {
+    "word": "Belt friction",
+    "phonetic": "",
+    "definition": [
+      "EN: describes the friction forces between a belt and a surface, such as a belt wrapped around a bollard. When one end of the belt is being pulled only part of this force is transmitted to the other end wrapped about a surface. The friction force increases with the amount of wrap about a surface and makes it so the tension in the belt can be different at both ends of the belt. Belt friction can be modeled by the Belt friction equation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 110
+  },
+  {
+    "word": "Bending",
+    "phonetic": "'bendiŋ",
+    "definition": [
+      "[化] 弯曲; 弯曲度",
+      "EN: In applied mechanics, bending (also known as flexure) characterizes the behavior of a slender structural element subjected to an external load applied perpendicularly to a longitudinal axis of the element."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9977572
+  },
+  {
+    "word": "Biomechatronics",
+    "phonetic": "",
+    "definition": [
+      "EN: an applied interdisciplinary science that aims to integrate biology, mechanics, and electronics. It also encompasses the fields of robotics and neuroscience. Biomechatronic devices encompass a wide range of applications from the development of prosthetic limbs to engineering solutions concerning respiration, vision, and the cardiovascular system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 108
+  },
+  {
+    "word": "Body in white",
+    "phonetic": "",
+    "definition": [
+      "EN: or BIW refers to the stage in automobile manufacturing in which a car body's components have been joined together, using one or a combination of different techniques: welding (spot, MIG/MAG), riveting, clinching, bonding, laser brazing etc. BIW is termed before painting and before the engine, chassis sub-assemblies, or trim (glass, door locks/handles, seats, upholstery, electronics, etc.) have been assembled in the frame structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 107
+  },
+  {
+    "word": "Bogie",
+    "phonetic": "'bәugi",
+    "definition": [
+      "n. 妖怪, 可怕的人(物)",
+      "[机] 转向架",
+      "EN: a chassis or framework that carries a wheelset, attached to a vehicle—a modular subassembly of wheels and axles. Bogies take various forms in various modes of transport."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 971065
+  },
+  {
+    "word": "Bonded seal",
+    "phonetic": "",
+    "definition": [
+      "EN: a type of washer used to provide a seal around a screw or bolt. Originally made by Dowty Group, they are also known as Dowty seals or Dowty washers. Now widely manufactured, they are available in a range of standard sizes and materials"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 105
+  },
+  {
+    "word": "Brittleness",
+    "phonetic": "'britlnis",
+    "definition": [
+      "[计] 脆度, 致命性",
+      "[化] 脆性",
+      "EN: A material is brittle if, when subjected to stress, it breaks without significant plastic deformation. Brittle materials absorb relatively little energy prior to fracture, even those of high strength."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9962534
+  },
+  {
+    "word": "Buckling",
+    "phonetic": "'bʌkliŋ",
+    "definition": [
+      "[化] 屈曲",
+      "EN: instability that leads to a failure mode. When a structure is subjected to compressive stress, buckling may occur. Buckling is characterized by a sudden sideways deflection of a structural member. This may occur even though the stresses that develop in the structure are well below those needed to cause failure of the material of which the structure is composed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9958605
+  },
+  {
+    "word": "Bus",
+    "phonetic": "bʌs",
+    "definition": [
+      "n. 公共汽车",
+      "[计] 总线; 汇流条; 母线",
+      "EN: A bus (archaically also omnibus, multibus, motorbus, and autobus) is a road vehicle designed to carry many passengers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998547
+  },
+  {
+    "word": "Bushing",
+    "phonetic": "'buʃiŋ",
+    "definition": [
+      "n. 轴衬, 套管",
+      "[化] 衬套; 管衬; 轴瓦",
+      "EN: or rubber bushing is a type of vibration isolator. It provides an interface between two parts, damping the energy transmitted through the bushing. A common application is in vehicle suspension systems, where a bushing made of rubber (or, more often, synthetic rubber or polyurethane) separates the faces of two metal objects while allowing a certain amount of movement. This movement allows the suspension parts to move freely, for example, when traveling over a large bump, while minimizing transmission of noise and small vibrations through to the chassis of the vehicle. A rubber bushing may also be described as a flexible mounting or antivibration mounting."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9969889
+  },
+  {
+    "word": "Boiler",
+    "phonetic": "'bɒilә",
+    "definition": [
+      "n. 煮器, 汽锅, 锅炉",
+      "[化] 锅炉",
+      "EN: a closed vessel in which fluid (generally water) is heated. The fluid does not necessarily boil. The heated or vaporized fluid exits the boiler for use in various processes or heating applications, including water heating, central heating, boiler-based power generation, cooking, and sanitation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989139
+  },
+  {
+    "word": "CAD",
+    "phonetic": "kæd",
+    "definition": [
+      "n. 卑鄙的男人, 下流人, 无赖, 计算机辅助设计",
+      "[计] 字符汇编/反汇编, 计算机辅助设计, 计算机辅助探测, 计算机辅助诊断",
+      "EN: see Computer-aided design."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9974280
+  },
+  {
+    "word": "CAM",
+    "phonetic": "kæm",
+    "definition": [
+      "n. 凸轮, 计算机辅助制造, 中央地址存储器",
+      "[计] 计算机辅助制造; 计算机辅助生产",
+      "EN: see Computer-aided manufacturing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9985509
+  },
+  {
+    "word": "CAID",
+    "phonetic": "kɑ:'eð",
+    "definition": [
+      "n. 酋长, 伊斯兰教法官或市政官员",
+      "EN: see Computer-aided industrial design."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 97
+  },
+  {
+    "word": "Calculator",
+    "phonetic": "'kælkjuleitә",
+    "definition": [
+      "n. 计算者, 计算器",
+      "[计] 计算器",
+      "EN: An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9988475
+  },
+  {
+    "word": "Calculus",
+    "phonetic": "'kælkjulәs",
+    "definition": [
+      "n. 结石;微积分学",
+      "EN: the mathematical study of continuous change."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9987262
+  },
+  {
+    "word": "Car handling",
+    "phonetic": "",
+    "definition": [
+      "EN: Automobile handling and vehicle handling are descriptions of the way a wheeled vehicle responds and reacts to the inputs of a driver, as well as how it moves along a track or road. It is commonly judged by how a vehicle performs particularly during cornering, acceleration, and braking as well as on the vehicle's directional stability when moving in steady state condition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 94
+  },
+  {
+    "word": "Carbon fiber reinforced polymer",
+    "phonetic": "",
+    "definition": [
+      "EN: or carbon fiber reinforced plastic, or carbon fiber reinforced thermoplastic (CFRP, CRP, CFRTP, or often simply carbon fiber, carbon composite, or even carbon), is an extremely strong and light fiber-reinforced plastic which contains carbon fibers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 93
+  },
+  {
+    "word": "Carbon fibers",
+    "phonetic": "",
+    "definition": [
+      "EN: or carbon fibres (alternatively CF, graphite fiber or graphite fibre) are fibers about 5–10 micrometres in diameter and composed mostly of carbon atoms. Carbon fibers have several advantages including high stiffness, high tensile strength, low weight, high chemical resistance, high temperature tolerance and low thermal expansion. These properties have made carbon fiber very popular in aerospace, civil engineering, military, and motorsports, along with other competition sports. However, they are relatively expensive when compared with similar fibers, such as glass fibers or plastic fibers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 92
+  },
+  {
+    "word": "Classical mechanics",
+    "phonetic": "",
+    "definition": [
+      "[计] 经典力学",
+      "[化] 经典力学",
+      "EN: describes the motion of macroscopic objects, from projectiles to parts of machinery, and astronomical objects, such as spacecraft, planets, stars and galaxies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 91
+  },
+  {
+    "word": "Clean room design",
+    "phonetic": "",
+    "definition": [
+      "EN: the method of copying a design by reverse engineering and then recreating it without infringing any of the copyrights associated with the original design. Clean-room design is useful as a defense against copyright infringement because it relies on independent invention. However, because independent invention is not a defense against patents, clean-room designs typically cannot be used to circumvent patent restrictions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 90
+  },
+  {
+    "word": "Clevis fastener",
+    "phonetic": "",
+    "definition": [
+      "EN: a fastener consisting of a U-shaped bracket through which a pin is placed"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 89
+  },
+  {
+    "word": "Clock",
+    "phonetic": "klɒk",
+    "definition": [
+      "n. 时钟, 计时器, (袜子上的)绣花边花",
+      "vt. 绣花样, 记时, 记录",
+      "vi. 记录时间",
+      "[计] 时钟",
+      "EN: an instrument used to measure, keep, and indicate time. The clock is one of the oldest human inventions, meeting the need to measure intervals of time shorter than the natural units: the day, the lunar month, and the year. Devices operating on several physical processes have been used over the millennia."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997365
+  },
+  {
+    "word": "Clutch",
+    "phonetic": "klʌtʃ",
+    "definition": [
+      "n. 抓紧, 掌握, 离合器, 一窝小鸡",
+      "vt. 抓住, 踩汽车离合器踏板",
+      "vi. 抓",
+      "[计] 联轴器; 离合器",
+      "EN: a mechanical device which engages and disengages power transmission especially from driving shaft to driven shaft."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994855
+  },
+  {
+    "word": "CNC",
+    "phonetic": "",
+    "definition": [
+      "[计] 计算机数控",
+      "EN: (CNC)), the automated control of machining tools (drills, boring tools, lathes) by means of a computer. An NC machine alters a blank piece of material (metal, plastic, wood, ceramic, or composite) to meet precise specifications by following programmed instructions and without a manual operator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 86
+  },
+  {
+    "word": "Coefficient of thermal expansion",
+    "phonetic": "",
+    "definition": [
+      "[化] 热膨胀系数",
+      "EN: describes how the size of an object changes with a change in temperature. Specifically, it measures the fractional change in size per degree change in temperature at a constant pressure. Several types of coefficients have been developed: volumetric, area, and linear. The choice of coefficient depends on the particular application and which dimensions are considered important."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 85
+  },
+  {
+    "word": "Coil spring",
+    "phonetic": "",
+    "definition": [
+      "[化] 螺旋弹簧",
+      "EN: also known as a helical spring, is a mechanical device which is typically used to store energy and subsequently release it, to absorb shock, or to maintain a force between contacting surfaces. They are made of an elastic material formed into the shape of a helix which returns to its natural length when unloaded."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 84
+  },
+  {
+    "word": "Combustion",
+    "phonetic": "kәm'bʌstʃәn",
+    "definition": [
+      "n. 燃烧, 骚动",
+      "[化] 燃烧",
+      "EN: also known as burning when accompanied by fire, is a high-temperature exothermic redox chemical reaction between a fuel (the reductant) and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture as smoke. Generally, the chemical equation for stoichiometric combustion of a hydrocarbon in oxygen is C x H y + z O 2 ⟶ x CO 2 + y 2 H 2 O {\\displaystyle {\\ce {C_{\\mathit {x}}H_{\\mathit {y}}{}+{\\mathit {z}}O2->{\\mathit {x}}CO2{}+{\\frac {\\mathit {y}}{2}}H2O}}} , where z = x + y 4 {\\displaystyle z=x+{\\frac {y}{4}}} ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9990198
+  },
+  {
+    "word": "Composite material",
+    "phonetic": "",
+    "definition": [
+      "[化] 复合材料",
+      "EN: (also called a composition material, or shortened to composite), is a material made from two or more constituent materials with significantly different physical or chemical properties that, when combined, produce a material with characteristics different from the individual components. The individual components remain separate and distinct within the finished structure, differentiating composites from mixtures and solid solutions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 82
+  },
+  {
+    "word": "Compression ratio",
+    "phonetic": "",
+    "definition": [
+      "[电] 压缩比",
+      "EN: The static compression ratio, (symbol ε {\\displaystyle \\varepsilon } ), of an internal combustion engine or external combustion engine is a value that represents the ratio of the volume of its combustion chamber from its largest capacity to its smallest capacity. It is a fundamental specification for many common combustion engines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 81
+  },
+  {
+    "word": "Compressive strength",
+    "phonetic": "",
+    "definition": [
+      "[化] 压缩强度",
+      "[医] 抗压强度",
+      "EN: or compression strength, is the capacity of a material or structure to withstand loads tending to reduce size, as opposed to tensile strength, which withstands loads tending to elongate. In other words, compressive strength resists compression (being pushed together), whereas tensile strength resists tension (being pulled apart). In the study of strength of materials, tensile strength, compressive strength, and shear strength can be analyzed independently."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 80
+  },
+  {
+    "word": "Computational fluid dynamics",
+    "phonetic": "",
+    "definition": [
+      "[计] 计算流体动力学语言",
+      "EN: (CFD) a branch of fluid mechanics that uses numerical analysis and data structures to analyze and solve problems that involve fluid flows. Computers are used to perform the calculations required to simulate the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions. With high-speed supercomputers, better solutions can be achieved, and are often required to solve the largest and most complex problems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 79
+  },
+  {
+    "word": "Computer",
+    "phonetic": "kәm'pju:tә",
+    "definition": [
+      "n. 电脑, 电子计算机",
+      "[计] 计算机",
+      "EN: a device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks. A \"complete\" computer including the hardware, the operating system (main software), and peripheral equipment required and used for \"full\" operation can be referred to as a computer system. This term may as well be used for a group of computers that are connected and work together, in particular a computer network or computer cluster."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999411
+  },
+  {
+    "word": "Computer-aided design",
+    "phonetic": "",
+    "definition": [
+      "[计] 计算机辅助设计",
+      "EN: (CAD) the use of computer systems (or workstations) to aid in the creation, modification, analysis, or optimization of a design. CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing. CAD output is often in the form of electronic files for print, machining, or other manufacturing operations. The term CADD (for Computer Aided Design and Drafting) is also used."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 77
+  },
+  {
+    "word": "Computer-aided industrial design",
+    "phonetic": "",
+    "definition": [
+      "EN: (CAID) a subset of computer-aided design (CAD) software that can assist in creating the look-and-feel, or industrial design aspects of a product in development."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 76
+  },
+  {
+    "word": "Computer-aided manufacturing",
+    "phonetic": "",
+    "definition": [
+      "[计] 计算机辅助生产; 计算机辅助制造",
+      "EN: (CAM) the use of software to control machine tools and related ones in the manufacturing of workpieces. This is not the only definition for CAM, but it is the most common; CAM may also refer to the use of a computer to assist in all operations of a manufacturing plant, including planning, management, transportation and storage."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 75
+  },
+  {
+    "word": "Computer numerical control",
+    "phonetic": "",
+    "definition": [
+      "[计] 计算机数控",
+      "EN: Numerical control (NC), (also computer numerical control (CNC)), is the automated control of machining tools (drills, boring tools, lathes) and 3D printers by means of a computer. An NC machine alters a blank piece of material (metal, plastic, wood, ceramic, or composite) to meet precise specifications by following programmed instructions and without a manual operator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 74
+  },
+  {
+    "word": "Conservation of mass",
+    "phonetic": "",
+    "definition": [
+      "[化] 质量守恒",
+      "[医] 质量不灭",
+      "EN: The law of conservation of mass or principle of mass conservation states that for any system closed to all transfers of matter and energy, the mass of the system must remain constant over time, as system's mass cannot change, so quantity can neither be added nor be removed. Hence, the quantity of mass is conserved over time."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 73
+  },
+  {
+    "word": "Constant-velocity joint",
+    "phonetic": "",
+    "definition": [
+      "EN: (also known as homokinetic or CV joints), allow a drive shaft to transmit power through a variable angle, at constant rotational speed, without an appreciable increase in friction or play. They are mainly used in front wheel drive vehicles. Modern rear wheel drive cars with independent rear suspension typically use CV joints at the ends of the rear axle halfshafts and increasingly use them on the drive shafts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 72
+  },
+  {
+    "word": "Continuum mechanics",
+    "phonetic": "",
+    "definition": [
+      "EN: a branch of mechanics that deals with the mechanical behavior of materials modeled as a continuous mass rather than as discrete particles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 71
+  },
+  {
+    "word": "Control theory",
+    "phonetic": "",
+    "definition": [
+      "EN: in control systems engineering is a subfield of mathematics that deals with the control of continuously operating dynamical systems in engineered processes and machines. The objective is to develop a control model for controlling such systems using a control action in an optimum manner without delay or overshoot and ensuring control stability."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 70
+  },
+  {
+    "word": "Corrosion",
+    "phonetic": "kә'rәuʒәn",
+    "definition": [
+      "n. 腐蚀, 侵蚀, 腐蚀产生的物质, 铁锈, 锈",
+      "[计] 腐蚀",
+      "EN: a natural process that converts a refined metal to a more chemically-stable form, such as its oxide, hydroxide, or sulfide. It is the gradual destruction of materials (usually metals) by chemical and/or electrochemical reaction with their environment. Corrosion engineering is the field dedicated to controlling and stopping corrosion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9986100
+  },
+  {
+    "word": "Cotter pin",
+    "phonetic": "",
+    "definition": [
+      "[机] 开口销",
+      "EN: a pin or wedge passing through a hole to fix parts tightly together."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 68
+  },
+  {
+    "word": "Crankshaft",
+    "phonetic": "'kræŋkʃæft",
+    "definition": [
+      "n. 曲轴",
+      "[机] 曲柄轴",
+      "EN: a mechanical part able to perform a conversion between reciprocating motion and rotational motion. In a reciprocating engine, it translates reciprocating motion of the piston into rotational motion; whereas in a reciprocating compressor, it converts the rotational motion into reciprocating motion. In order to do the conversion between two motions, the crankshaft has \"crank throws\" or \"crankpins\", additional bearing surfaces whose axis is offset from that of the crank, to which the \"big ends\" of the connecting rods from each cylinder attach."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9970040
+  },
+  {
+    "word": "Damping ratio",
+    "phonetic": "",
+    "definition": [
+      "[电] 阻尼比",
+      "EN: an influence within or upon an oscillatory system that has the effect of reducing, restricting or preventing its oscillations. In physical systems, damping is produced by processes that dissipate the energy stored in the oscillation. Examples include viscous drag in mechanical systems, resistance in electronic oscillators, and absorption and scattering of light in optical oscillators."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 66
+  },
+  {
+    "word": "Deformation (engineering)",
+    "phonetic": "",
+    "definition": [
+      "EN: refers to the change in size or shape of an object. Deformation that is reversible is termed as elastic deformation, while irreversible deformation is termed plastic deformation. Strain is the relative deformation of an infinitesimally small cube of material, and is generally linearly proportional to the forces or stresses acting on the cube while the deformation is elastic. The determination of the stress and strain throughout a solid object is given by the field of strength of materials and for a structure by structural analysis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 65
+  },
+  {
+    "word": "Delamination",
+    "phonetic": "di:,læmi'neiʃәn",
+    "definition": [
+      "n. 分层",
+      "[计] 分层",
+      "EN: is a mode of failure where a material fractures into layers. A variety of materials including laminate composites and concrete can fail by delamination."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9958867
+  },
+  {
+    "word": "Design for manufacturability",
+    "phonetic": "",
+    "definition": [
+      "EN: (also sometimes known as design for manufacturing or DFM), is the general engineering practice of designing products in such a way that they are easy to manufacture. The concept exists in almost all engineering disciplines, but the implementation differs widely depending on the manufacturing technology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 63
+  },
+  {
+    "word": "Diesel engine",
+    "phonetic": "",
+    "definition": [
+      "[电] 柴油机",
+      "EN: (also known as a compression-ignition or CI engine), named after Rudolf Diesel, is an internal combustion engine in which ignition of the fuel is caused by the elevated temperature of the air in the cylinder due to the mechanical compression (adiabatic compression)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 62
+  },
+  {
+    "word": "Differential",
+    "phonetic": "difә'renʃәl",
+    "definition": [
+      "a. 差别的, 特异的, 微分的",
+      "n. 差别, 两路线运费差额, 工资差额",
+      "EN: A differential is a gear train with three shafts that has the property that the rotational speed of one shaft is the average of the speeds of the others, or a fixed multiple of that average."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991198
+  },
+  {
+    "word": "Dimensionless number",
+    "phonetic": "",
+    "definition": [
+      "EN: a quantity to which no physical dimension is assigned. Dimensionless quantities are widely used in many fields, such as mathematics, physics, chemistry, engineering, and economics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 60
+  },
+  {
+    "word": "Diode",
+    "phonetic": "'daiәud",
+    "definition": [
+      "n. 二极管",
+      "[化] 二极管",
+      "EN: a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance); it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other. A diode vacuum tube or thermionic diode is a vacuum tube with two electrodes, a heated cathode and a plate, in which electrons can flow in only one direction, from cathode to plate. A semiconductor diode, the most commonly used type today, is a crystalline piece of semiconductor material with a p–n junction connected to two electrical terminals."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9979670
+  },
+  {
+    "word": "Driveshaft",
+    "phonetic": "",
+    "definition": [
+      "(机器的)传动轴, 驱动轴",
+      "EN: a component for transmitting mechanical power and torque and rotation, usually used to connect other components of a drivetrain that cannot be connected directly because of distance or the need to allow for relative movement between them."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9961075
+  },
+  {
+    "word": "Dynamics",
+    "phonetic": "dai'næmiks",
+    "definition": [
+      "n. 动力学",
+      "[化] 动力学",
+      "EN: the branch of classical mechanics that is concerned with the study of forces and their effects on motion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995929
+  },
+  {
+    "word": "Dynamometer",
+    "phonetic": ".dainә'mɒmitә",
+    "definition": [
+      "n. 测力计, 功率计, 电功率计",
+      "[化] 功率计; 测力计",
+      "EN: a device for simultaneously measuring the torque and rotational speed (RPM) of an engine, motor or other rotating prime mover so that its instantaneous power may be calculated."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9963904
+  },
+  {
+    "word": "Elasticity",
+    "phonetic": "i.læs'tisiti",
+    "definition": [
+      "n. 弹力, 弹性",
+      "[化] 弹性",
+      "EN: In physics, elasticity is the ability of a body to resist a distorting influence and to return to its original size and shape when that influence or force is removed. Solid objects will deform when adequate forces are applied to them. If the material is elastic, the object will return to its initial shape and size when these forces are removed. Hooke's law states that the force should be proportional to the extension. The physical reasons for elastic behavior can be quite different for different materials. In metals, the atomic lattice changes size and shape when forces are applied (energy is added to the system). When forces are removed, the lattice goes back to the original lower energy st"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9985767
+  },
+  {
+    "word": "Electric current",
+    "phonetic": "",
+    "definition": [
+      "电流",
+      "[化] 电流",
+      "EN: a stream of charged particles, such as electrons or ions, moving through an electrical conductor or space. It is measured as the net rate of flow of electric charge through a surface or into a control volume."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 54
+  },
+  {
+    "word": "Electric motor",
+    "phonetic": "",
+    "definition": [
+      "[电] 电动机",
+      "EN: an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of rotation of a shaft. Electric motors can be powered by direct current (DC) sources, such as from batteries, motor vehicles or rectifiers, or by alternating current (AC) sources, such as a power grid, inverters or electrical generators. An electric generator is mechanically identical to an electric motor, but operates in the reverse direction, converting mechanical energy into electrical energy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 53
+  },
+  {
+    "word": "Electrical engineering",
+    "phonetic": "",
+    "definition": [
+      "[计] 电气工程",
+      "EN: Electrical engineering is an engineering discipline concerned with the study, design and application of equipment, devices and systems which use electricity, electronics, and electromagnetism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 52
+  },
+  {
+    "word": "Electrical circuit",
+    "phonetic": "iˈlektrikəl ˈsə:kit",
+    "definition": [
+      "电路",
+      "EN: an electrical network consisting of a closed loop, giving a return path for the current."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 51
+  },
+  {
+    "word": "Electrical network",
+    "phonetic": "",
+    "definition": [
+      "[计] 电子网络",
+      "EN: an interconnection of electrical components (e.g., batteries, resistors, inductors, capacitors, switches, transistors) or a model of such an interconnection, consisting of electrical elements (e.g., voltage sources, current sources, resistances, inductances, capacitances)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 50
+  },
+  {
+    "word": "Electronic circuit",
+    "phonetic": "",
+    "definition": [
+      "[医] 电子线路, 电子回路",
+      "EN: a type of electrical circuit which is composed of individual electronic components, such as resistors, transistors, capacitors, inductors and diodes, connected by conductive wires or traces through which electric current can flow."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 49
+  },
+  {
+    "word": "Engineering",
+    "phonetic": ".endʒi'niәriŋ",
+    "definition": [
+      "n. 工程学, 工程, 操纵",
+      "[化] 机器; 机器学",
+      "EN: the use of scientific principles to design and build machines, structures, and other items."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997615
+  },
+  {
+    "word": "Engineering drawing",
+    "phonetic": "",
+    "definition": [
+      "[化] 工程制图",
+      "EN: a type of technical drawing that is used to convey information about an object. Detail drawings commonly specify the dimensions and tolerances for the construction of a single component, while a master drawing or assembly drawing links the detail drawings for each component in a system. Only required information is typically specified, usually only in one place to avoid inconsistency."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 47
+  },
+  {
+    "word": "Engineering economics",
+    "phonetic": "",
+    "definition": [
+      "EN: a subset of economics that studies the behavior of individuals and firms in making engineering decisions regarding the allocation of limited resources. It is a simplified application of microeconomics in that it assumes elements such as price determination, competition and demand/supply to be fixed inputs."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "Engineering ethics",
+    "phonetic": "",
+    "definition": [
+      "EN: a field that examines and sets the obligations by engineers to society, to their clients, and to the profession. Many engineering professional societies have prepared codes of ethics which are largely similar to each other."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "Engineering management",
+    "phonetic": "",
+    "definition": [
+      "[化] 工程管理",
+      "EN: the combination of technological problem-solving and the organizational, administrative, legal and planning abilities of management in order to oversee the operational performance of complex engineering driven enterprises."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 44
+  },
+  {
+    "word": "Engineering society",
+    "phonetic": "",
+    "definition": [
+      "EN: a professional organization for engineers of various disciplines. Some are umbrella type organizations which accept many different disciplines, while others are discipline-specific. There are also many student-run engineering societies, commonly at universities or technical colleges."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 43
+  },
+  {
+    "word": "Exploratory engineering",
+    "phonetic": "",
+    "definition": [
+      "EN: the process of designing and analyzing detailed hypothetical models of systems that are not feasible with current technologies or methods, but do seem to be clearly within the bounds of what science considers to be possible. It usually results in prototypes or computer simulations that are as convincing as possible to those that know the relevant science, given the lack of experimental confirmation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "First law of thermodynamics",
+    "phonetic": "fə:st lɔ: ɔv ˌθə:məudaiˈnæmiks",
+    "definition": [
+      "热力学第一定律",
+      "EN: states that energy can neither be created nor destroyed; it can change only from one form to another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "Force",
+    "phonetic": "fɒ:s",
+    "definition": [
+      "n. 力量, 武力, 势力, 影响力, 军队, 力, 效力",
+      "vt. 强迫, 强夺, 推动, 提高",
+      "[计] 人工转移; 强制",
+      "EN: an influence that can push or pull an object to change its motion. A force can cause an object with mass to change its velocity (e.g. moving from a state of rest), i.e., to accelerate. A force has both magnitude and direction, making it a vector quantity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999628
+  },
+  {
+    "word": "Friction",
+    "phonetic": "'frikʃәn",
+    "definition": [
+      "n. 摩擦, 摩擦治疗, 不和",
+      "[医] 摩擦",
+      "EN: the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other. There are several types of friction including static friction between non-moving surfaces and kinetic friction between moving surfaces; for two given solid surfaces, static friction is greater than kinetic friction. Fluid friction describes the friction between layers of a viscous fluid that are moving relative to each other."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992664
+  },
+  {
+    "word": "Gear",
+    "phonetic": "giә",
+    "definition": [
+      "n. 齿轮, 工具",
+      "vt. 以齿轮连起, 开动, 使适应, 安排",
+      "vi. 连接上, 适合",
+      "EN: a rotating circular machine part having cut or inserted teeth which mesh with another compatible toothed part to transmit torque and speed. Each gear tooth essentially functions as a lever with its fulcrum at the gear's center."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997393
+  },
+  {
+    "word": "Gear coupling",
+    "phonetic": "",
+    "definition": [
+      "[化] 齿轮联轴节; 齿轮联轴器",
+      "EN: a mechanical device for transmitting torque between two shafts that are not collinear. It consists of a flexible joint fixed to each shaft. The two joints are connected by a third shaft, called the spindle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 37
+  },
+  {
+    "word": "Gear ratio",
+    "phonetic": "",
+    "definition": [
+      "[化] 齿轮速比; 齿轮传动速比; 齿轮齿数比",
+      "EN: the ratio of the pitch circles of mating gears which defines the speed ratio and the mechanical advantage of the gear set."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 36
+  },
+  {
+    "word": "Heat engine",
+    "phonetic": "",
+    "definition": [
+      "[化] 热机",
+      "EN: a system that converts heat or thermal energy—and chemical energy—to mechanical energy, which can then be used to do mechanical work."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "Invention",
+    "phonetic": "in'venʃәn",
+    "definition": [
+      "n. 发明, 创作能力, 虚构的故事",
+      "[经] 发明",
+      "EN: a unique or novel device, method, composition, idea or process. An inventor who creates or discovers a new invention can sometimes receive a patent, or legal right to exclude others from making, using, or selling that invention for a limited time."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995227
+  },
+  {
+    "word": "Joule",
+    "phonetic": "dʒaul",
+    "definition": [
+      "n. 焦耳",
+      "[化] 焦耳",
+      "EN: the SI unit of energy, which uses the symbol J. It is equal to the amount of work done when a force of 1 newton displaces a mass through a distance of 1 metre in the direction of the force applied. It is also the energy dissipated as heat when an electric current of one ampere passes through a resistance of one ohm for one second."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 954952
+  },
+  {
+    "word": "Kelvin",
+    "phonetic": "'kelvin",
+    "definition": [
+      "[化] 开(尔文)SI热力学温度单位; 符号K",
+      "[医] 开耳芬(电单位)",
+      "EN: the primary SI unit of temperature, which uses the symbol K and has absolute zero as its zero point. The temperature in degree Celsius is defined as the temperature in kelvins minus 273.15 (i.e. 0 °C is equal to 273.15 K)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 978081
+  },
+  {
+    "word": "Lever",
+    "phonetic": "'levә",
+    "definition": [
+      "n. 杠杆, 似杠杆之工具",
+      "vt. 撬开",
+      "vi. 使用杠杆",
+      "EN: a simple machine consisting of a beam or rigid rod pivoted at a fixed hinge, or fulcrum. A lever amplifies an input force to provide a greater output force, which is said to provide leverage. The ratio of the output force to the input force is the mechanical advantage of the lever."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992513
+  },
+  {
+    "word": "Machinery's Handbook",
+    "phonetic": "",
+    "definition": [
+      "EN: a classic, one-volume reference work in mechanical engineering and practical workshop mechanics published by Industrial Press, New York, since 1914; its 31st edition was published in 2020. Recent editions of the handbook contain chapters on mathematics, mechanics, materials, measuring, toolmaking, manufacturing, threading, gears, and machine elements, combined with excerpts from ANSI standards."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "Newton (unit)",
+    "phonetic": "",
+    "definition": [
+      "EN: the SI unit of force, which uses the symbol N. It is defined as 1 kg⋅m/s, the force which gives a mass of 1 kilogram an acceleration of 1 metre per second per second. It is named after Isaac Newton in recognition of his work on classical mechanics, specifically Newton's second law of motion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 29
+  },
+  {
+    "word": "Ohm's law",
+    "phonetic": "",
+    "definition": [
+      "[计] 欧姆定律",
+      "[医] 欧姆氏定律(电流)",
+      "EN: states that the current through a conductor between two points is directly proportional to the voltage across the two points. It is typically expressed as the equation I = V ÷ R, where I is the current through the conductor, V is the voltage measured across the conductor and R is the resistance of the conductor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "Pascal (unit)",
+    "phonetic": "",
+    "definition": [
+      "EN: the SI unit of pressure, which uses the symbol Pa and is defined as one newton per square metre. It is also used to quantify internal pressure, stress, Young's modulus, and ultimate tensile strength."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "Power",
+    "phonetic": "'pauә",
+    "definition": [
+      "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率",
+      "vt. 使...有力量, 供以动力, 激励",
+      "[计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性",
+      "EN: the amount of energy transferred or converted per unit time. Power is a scalar quantity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999729
+  },
+  {
+    "word": "Professional engineer",
+    "phonetic": "",
+    "definition": [
+      "EN: (PE) – In the United States, this designation is given to engineers who have passed the Principles and Practice of Engineering exam, or PE exam. Upon passing the PE exam and meeting other eligibility requirements, that vary by state, such as education and experience, an engineer can then become registered in their State to stamp and sign engineering drawings and calculations as a PE."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 25
+  },
+  {
+    "word": "Second law of thermodynamics",
+    "phonetic": "",
+    "definition": [
+      "[化] 热力学第二定律",
+      "EN: states that when energy changes from one form to another form, or matter moves freely, entropy (disorder) in a closed system increases. In other words, heat always moves from hotter objects to colder objects unless energy is supplied to reverse the direction of heat flow, and not all heat energy can be converted into work in a cyclic process."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 24
+  },
+  {
+    "word": "Stress–strain curve",
+    "phonetic": "",
+    "definition": [
+      "[化] 应力-应变曲线; 应力-应变曲线图",
+      "EN: a chart which gives the relationship between stress and strain for a given material. It is obtained by gradually applying load to a test coupon and measuring the deformation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "Switch",
+    "phonetic": "switʃ",
+    "definition": [
+      "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔",
+      "vt. 转变, 切换, 摆动, 转换, 使转轨",
+      "vi. 转换, 变换, 摆动",
+      "[计] 开关; 翻转; 转移",
+      "EN: an electrical component that can disconnect or connect the conducting path in an electrical circuit, interrupting the electric current or diverting it from one conductor to another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997396
+  },
+  {
+    "word": "Technical drawing",
+    "phonetic": "",
+    "definition": [
+      "EN: the act and discipline of composing drawings that visually communicate how something functions or is constructed. In industry and engineering, common conventions constitute a visual language and help to ensure that the drawing is precise, unambiguous and relatively easy to understand. Many of the symbols and principles of technical drawing are codified in an international standard called ISO 128."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "Technology",
+    "phonetic": "tek'nɒlәdʒi",
+    "definition": [
+      "n. 技术, 工业技术, 术语",
+      "[医] 技术学, 工艺学",
+      "EN: refers to both the application of knowledge for achieving practical goals in a reproducible way, and the products and tools resulting from such efforts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999415
+  },
+  {
+    "word": "Tensile strength",
+    "phonetic": "",
+    "definition": [
+      "[化] 拉伸强度; 抗拉强度; 抗张强度",
+      "[医] 牵引韧力",
+      "EN: also called ultimate tensile strength or ultimate strength, is the maximum stress that a material can withstand while being stretched or pulled before breaking. In brittle materials the ultimate tensile strength is close to the yield point, whereas in ductile materials the ultimate tensile strength can be higher."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "Thermodynamics",
+    "phonetic": ".θә:mәudai'næmiks",
+    "definition": [
+      "n. 热力学",
+      "[化] 热力学",
+      "EN: a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation. The behavior of these quantities is governed by the four laws of thermodynamics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9975962
+  },
+  {
+    "word": "Third law of thermodynamics",
+    "phonetic": "",
+    "definition": [
+      "[化] 热力学第三定律",
+      "EN: states that the entropy of a system approaches a constant value when its temperature approaches absolute zero, because its atoms would stop moving. However, heat transfer between the system and its surroundings would prevent the system from ever reaching absolute zero."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 17
+  },
+  {
+    "word": "Track gauge",
+    "phonetic": "",
+    "definition": [
+      "轨距规",
+      "EN: Spacing of the rails on a railway track"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "Truck (railway)",
+    "phonetic": "",
+    "definition": [
+      "EN: Chassis for wheels and suspension under railway vehicles, bogie outside U.S."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "Valve",
+    "phonetic": "vælv",
+    "definition": [
+      "n. 活瓣, 阀, 活门",
+      "v. 装阀, 用阀调节",
+      "EN: a device or natural object (such as a heart valve) that regulates, directs or controls the flow of a fluid (gases, liquids, fluidized solids, or slurries) by opening, closing, or partially obstructing various passageways"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994048
+  },
+  {
+    "word": "Vector",
+    "phonetic": "'vektә",
+    "definition": [
+      "n. 矢量, 传病媒介",
+      "vt. (用无线电)导引, 给...导航",
+      "[计] 矢量; 向量",
+      "EN: a geometric object that has magnitude (or length) and direction. A vector quantity is differentiated from a scalar quantity which only has magnitude, not direction. Vectors can be added to other vectors according to vector algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989864
+  },
+  {
+    "word": "Volt",
+    "phonetic": "vәult",
+    "definition": [
+      "n. 伏特",
+      "[化] 伏特",
+      "EN: the SI unit of electric potential, electric potential difference (voltage), and electromotive force, which uses the symbol V."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 987474
+  },
+  {
+    "word": "Wear",
+    "phonetic": "wєә",
+    "definition": [
+      "n. 穿着, 戴, 使用, 耗损, 服装, 耐久性",
+      "vt. 穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨",
+      "vi. 磨损, 变旧, 耐久, 渐变, 渐渐消失",
+      "EN: is the damaging, gradual removal or deformation of material at solid surfaces. Causes of wear can be mechanical (e.g., erosion) or chemical (e.g., corrosion). The study of wear and related processes is referred to as tribology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999482
+  },
+  {
+    "word": "Wedge",
+    "phonetic": "wedʒ",
+    "definition": [
+      "n. 楔子, 楔形物, 起因, 导致分裂的东西",
+      "vt. 楔住, 挤进, 楔入",
+      "vi. 楔入, 挤进",
+      "EN: a triangular shaped tool, and is a portable inclined plane, and one of the six classical simple machines. It can be used to separate two objects or portions of an object, lift up an object, or hold an object in place. It functions by converting a force applied to its blunt end into forces perpendicular (normal) to its inclined surfaces. The mechanical advantage of a wedge is given by the ratio of the length of its slope to its width. Although a short wedge with a wide angle may do a job faster, it requires more force than a long wedge with a narrow angle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9993743
+  },
+  {
+    "word": "Wheel",
+    "phonetic": "hwi:l",
+    "definition": [
+      "n. 轮子, 车轮, 轮, 方向盘, 旋转, 机构, 重要人物",
+      "vt. 使旋转, 转动, 使转向",
+      "vi. 旋转, 转弯, 盘旋",
+      "EN: In its primitive form, a wheel is a circular block of a hard and durable material at whose center has been bored a hole through which is placed an axle bearing about which the wheel rotates when torque is applied to the wheel about its axis. The wheel and axle assembly can be considered one of the six simple machines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998001
+  },
+  {
+    "word": "Wheel and axle",
+    "phonetic": "hwi:l ænd ˈæksəl",
+    "definition": [
+      "n. 轮轴; 轮轴式起重器",
+      "EN: a machine consisting of a wheel attached to a smaller axle so that these two parts rotate together in which a force is transferred from one to the other. The wheel and axle can be viewed as a version of the lever, with a drive force applied tangentially to the perimeter of the wheel and a load force applied to the axle, respectively, that are balanced around the hinge which is the fulcrum."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "Wheelset",
+    "phonetic": "'hwi:lset",
+    "definition": [
+      "n. [机]轮副(即同轴的一对轮子)",
+      "EN: the wheel–axle assembly of a railroad car. The frame assembly beneath each end of a car, railcar or locomotive that holds the wheelsets is called the bogie (or truck in North America). Most North American freight cars have two bogies with two or three wheelsets, depending on the type of car; short freight cars generally have no bogies but instead have two wheelsets."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9963009
+  },
+  {
+    "word": "Work",
+    "phonetic": "wә:k",
+    "definition": [
+      "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程",
+      "vi. 工作, 劳动, 做, 运转, 起作用, 被加工",
+      "vt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+      "EN: the energy transferred to or from an object via the application of force along a displacement. Work is a scalar quantity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999883
+  },
+  {
+    "word": "Yield point",
+    "phonetic": "",
+    "definition": [
+      "[化] 屈服点",
+      "EN: In materials science and engineering, the yield point is the point on a stress–strain curve that indicates the limit of elastic behavior and the beginning of plastic behavior. Below the yield point, a material will deform elastically and will return to its original shape when the applied stress is removed. Once the yield point is passed, some fraction of the deformation will be permanent and non-reversible and is known as plastic deformation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Yield strength",
+    "phonetic": "",
+    "definition": [
+      "[计] 屈变力, 屈服强度",
+      "[化] 屈服强度",
+      "EN: or yield stress, is a material property and is the stress corresponding to the yield point at which the material begins to deform plastically. The yield strength is often used to determine the maximum allowable load in a mechanical component, since it represents the upper limit to forces that can be applied without producing permanent deformation. In some materials, such as aluminium, there is a gradual onset of non-linear behavior, making the precise yield point difficult to determine. In such a case, the offset yield point (or proof stress) is taken as the stress at which 0.2% plastic deformation occurs. Yielding is a gradual failure mode which is normally not catastrophic, unlike ultimate"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "Young's modulus",
+    "phonetic": "",
+    "definition": [
+      "[电] 杨氏系数",
+      "EN: Young's modulus E {\\displaystyle E} , the Young modulus or the modulus of elasticity in tension, is a mechanical property that measures the tensile stiffness of a solid material. It quantifies the relationship between tensile stress σ {\\displaystyle \\sigma } (force per unit area) and axial strain ε {\\displaystyle \\varepsilon } (proportional deformation) in the linear elastic region of a material and is determined using the formula:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "Zero defects",
+    "phonetic": "",
+    "definition": [
+      "EN: (or ZD), was a management-led program to eliminate defects in industrial production that enjoyed brief popularity in American industry from 1964 to the early 1970s. Quality expert Philip Crosby later incorporated it into his \"Absolutes of Quality Management\" and it enjoyed a renaissance in the American automobile industry—as a performance goal more than as a program—in the 1990s. Although applicable to any type of enterprise, it has been primarily adopted within supply chains wherever large volumes of components are being purchased (common items such as nuts and bolts are good examples)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Zeroth Law of Thermodynamics",
+    "phonetic": "",
+    "definition": [
+      "[化] 热力学第零定律",
+      "EN: If body A is in thermal equilibrium (no heat transfers between them when in contact) with body C, and body B is in thermal equilibrium with body C, then A is in thermal equilibrium with B."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

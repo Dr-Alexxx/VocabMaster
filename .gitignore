@@ -1,0 +1,10 @@
+node_modules/
+dist/
+release/
+output/
+coverage/
+*.log
+.vite/
+.agents/
+__pycache__/
+*.py[cod]

@@ -1,0 +1,949 @@
+[
+  {
+    "word": "abstract nonsense",
+    "phonetic": "",
+    "definition": [
+      "EN: A tongue-in-cheek reference to category theory, using which one can employ arguments that establish a (possibly concrete) result without reference to any specifics of the present problem. For that reason, it is also known as general abstract nonsense or generalized abstract nonsense."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 73
+  },
+  {
+    "word": "canonical",
+    "phonetic": "kә'nɔnikәl",
+    "definition": [
+      "a. 依教规的, 被认为圣典的, 权威的, 典型的",
+      "[建] 正则的",
+      "EN: A reference to a standard or choice-free presentation of some mathematical object (e.g., canonical map, canonical form, or canonical ordering). The same term can also be used more informally to refer to something \"standard\" or \"classic\". For example, one might say that Euclid's proof is the \"canonical proof\" of the infinitude of primes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9985773
+  },
+  {
+    "word": "deep",
+    "phonetic": "di:p",
+    "definition": [
+      "a. 深的",
+      "adv. 深入地",
+      "n. 深渊, 深处",
+      "EN: A result is called \"deep\" if its proof requires concepts and methods that are advanced beyond the concepts needed to formulate the result. For example, the prime number theorem – originally proved using techniques of complex analysis – was once thought to be a deep result until elementary proofs were found. On the other hand, the fact that π is irrational is usually known to be a deep result, because it requires a considerable development of real analysis before the proof can be established – even though the claim itself can be stated in terms of simple number theory and geometry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999025
+  },
+  {
+    "word": "elegant",
+    "phonetic": "'eligәnt",
+    "definition": [
+      "a. 优雅的, 端庄的, 高雅的",
+      "EN: An aesthetic term referring to the ability of an idea to provide insight into mathematics, whether by unifying disparate fields, introducing a new perspective on a single field, or by providing a technique of proof which is either particularly simple, or which captures the intuition or imagination as to why the result it proves is true. In some occasions, the term \"beautiful\" can also be used to the same effect, though Gian-Carlo Rota distinguished between elegance of presentation and beauty of concept, saying that for example, some topics could be written about elegantly although the mathematical content is not beautiful, and some theorems or proofs are beautiful but may be written about in"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996058
+  },
+  {
+    "word": "elementary",
+    "phonetic": ".eli'mentәri",
+    "definition": [
+      "a. 初步的, 基本的",
+      "[医] 元素的, 基础的, 初级的",
+      "EN: A proof or a result is called \"elementary\" if it only involves basic concepts and methods in the field, and is to be contrasted with deep results which require more development within or outside the field. The concept of \"elementary proof\" is used specifically in number theory, where it usually refers to a proof that does not resort to methods from complex analysis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997489
+  },
+  {
+    "word": "folklore",
+    "phonetic": "'fәuklɒ:",
+    "definition": [
+      "n. 民俗学, 民间风俗, 民间传说",
+      "EN: A result is called \"folklore\" if it is non-obvious and non-published, yet generally known to the specialists within a field. In many scenarios, it is unclear as to who first obtained the result, though if the result is significant, it may eventually find its way into the textbooks, whereupon it ceases to be folklore."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9988581
+  },
+  {
+    "word": "natural",
+    "phonetic": "'nætʃәrәl",
+    "definition": [
+      "n. 白痴",
+      "a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的",
+      "EN: Similar to \"canonical\" but more specific, and which makes reference to a description (almost exclusively in the context of transformations) which holds independently of any choices. Though long used informally, this term has found a formal definition in category theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999285
+  },
+  {
+    "word": "pathological",
+    "phonetic": ",pæθә'lɔdʒikәl",
+    "definition": [
+      "a. 病理学的, 由疾病引起的, (非正式)不合理的, 仅由想象引起的, 不理智的",
+      "[计] 错误的",
+      "EN: An object behaves pathologically (or, somewhat more broadly used, in a degenerated way) if it either fails to conform to the generic behavior of such objects, fails to satisfy certain context-dependent regularity properties, or simply disobeys mathematical intuition. These can be contradictory requirements, and sometimes the term is more deliberately used to refer to an object artificially constructed as a counterexample to these properties. A simple example is that from the definition of a triangle having angles which sum to π radians, a single straight line conforms to this definition pathologically."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9986610
+  },
+  {
+    "word": "rigor (rigour)",
+    "phonetic": "",
+    "definition": [
+      "EN: The act of establishing a mathematical result using indisputable logic, rather than informal descriptive argument. Rigor is a cornerstone quality of mathematics, and can play an important role in preventing mathematics from degenerating into fallacies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 65
+  },
+  {
+    "word": "well-behaved",
+    "phonetic": "",
+    "definition": [
+      "a. 行为端正的",
+      "EN: An object is well-behaved (in contrast with being Pathological) if it satisfies certain prevailing regularity properties, or if it conforms to mathematical intuition (even though intuition can often suggest opposite behaviors as well). In some occasions (e.g., analysis), the term \"smooth\" can also be used to the same effect."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 64
+  },
+  {
+    "word": "almost all",
+    "phonetic": "",
+    "definition": [
+      "EN: A shorthand term for \"all except for a set of measure zero\", when there is a measure to speak of, with the phrases almost surely and almost everywhere having related meanings. For example, \"almost all real numbers are transcendental\" because the algebraic real numbers form a countable subset of the real numbers with measure zero. One can also speak of \"almost all\" integers having a property to mean \"all except finitely many\", despite the integers not admitting a measure for which this agrees with the previous usage, such as \"almost all prime numbers are odd\". There is a more complicated meaning for integers as well, discussed in the main article. Finally, this term is sometimes used synonymo"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 63
+  },
+  {
+    "word": "arbitrarily large",
+    "phonetic": "",
+    "definition": [
+      "EN: Notions which arise mostly in the context of limits, referring to the recurrence of a phenomenon as the limit is approached. A statement such as that predicate P is satisfied by arbitrarily large values, can be expressed in more formal notation by ∀x : ∃y ≥ x : P(y). See also frequently. The statement that quantity f(x) depending on x \"can be made\" arbitrarily large, corresponds to ∀y : ∃x : f(x) ≥ y."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 62
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "'ɑ:bitrәri",
+    "definition": [
+      "a. 任意的, 武断的, 专治的, 霸道的",
+      "EN: A shorthand for the universal quantifier. An arbitrary choice is one which is made unrestrictedly, or alternatively, a statement holds of an arbitrary element of a set if it holds of any element of that set. Also much in general-language use among mathematicians: \"Of course, this problem can be arbitrarily complicated\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992455
+  },
+  {
+    "word": "eventually",
+    "phonetic": "i'ventʃuәli",
+    "definition": [
+      "adv. 最后, 终于",
+      "EN: In the context of limits, this is shorthand meaning for sufficiently large arguments; the relevant argument(s) are implicit in the context. As an example, \"the function log(log(x)) eventually becomes larger than 100\"; in this context, \"eventually\" means \"for sufficiently large x.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998894
+  },
+  {
+    "word": "factor through",
+    "phonetic": "",
+    "definition": [
+      "EN: A term in category theory referring to composition of morphisms. If for three objects A, B, and C a map f : A → C {\\displaystyle f\\colon A\\to C} can be written as a composition f = h ∘ g {\\displaystyle f=h\\circ g} with g : A → B {\\displaystyle g\\colon A\\to B} and h : B → C {\\displaystyle h\\colon B\\to C} , then f is said to factor through any (and all) of B {\\displaystyle B} , g {\\displaystyle g} , and h {\\displaystyle h} ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 59
+  },
+  {
+    "word": "finite",
+    "phonetic": "'fainait",
+    "definition": [
+      "a. 有限的, 有穷的, 限定的",
+      "n. 有限物",
+      "EN: When said of the value of a variable assuming values from the non-negative extended reals R ≥ 0 ∪ { ∞ } , {\\displaystyle \\mathbb {R} _{\\geq 0}\\cup \\{\\infty \\},} the meaning is usually \"not infinite\". For example, if the variance of a random variable is said to be finite, this implies it is a non-negative real number, possibly zero. In some contexts though, for example in \"a small but finite amplitude\", zero and infinitesimals are meant to be excluded. When said of the value of a variable assuming values from the extended natural numbers N ∪ { ∞ } , {\\displaystyle \\mathbb {N} \\cup \\{\\infty \\},} the meaning is simply \"not infinite\". When said of a set or a mathematical object whose main compon"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9990330
+  },
+  {
+    "word": "frequently",
+    "phonetic": "'fri:kwәntli",
+    "definition": [
+      "adv. 频繁, 经常地",
+      "EN: In the context of limits, this is shorthand for arbitrarily large arguments and its relatives; as with eventually, the intended variant is implicit. As an example, the sequence ( − 1 ) n {\\displaystyle (-1)^{n}} is frequently in the interval (1/2, 3/2), because there are arbitrarily large n for which the value of the sequence is in the interval."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998190
+  },
+  {
+    "word": "formal, formally",
+    "phonetic": "",
+    "definition": [
+      "EN: Qualifies anything that is sufficiently precise to be translated straightforwardly in a formal system. For example. a formal proof, a formal definition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 56
+  },
+  {
+    "word": "generic",
+    "phonetic": "dʒi'nerik",
+    "definition": [
+      "a. 属类的, 一般的",
+      "[计] 一般的",
+      "EN: This term has similar connotations as almost all but is used particularly for concepts outside the purview of measure theory. A property holds \"generically\" on a set if the set satisfies some (context-dependent) notion of density, or perhaps if its complement satisfies some (context-dependent) notion of smallness. For example, a property which holds on a dense Gδ (intersection of countably many open sets) is said to hold generically. In algebraic geometry, one says that a property of points on an algebraic variety that holds on a dense Zariski open set is true generically; however, it is usually not said that a property which holds merely on a dense set (which is not Zariski open) is generic"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9993555
+  },
+  {
+    "word": "in general",
+    "phonetic": "",
+    "definition": [
+      "大多数",
+      "EN: In a descriptive context, this phrase introduces a simple characterization of a broad class of objects, with an eye towards identifying a unifying principle. This term introduces an \"elegant\" description which holds for \"arbitrary\" objects. Exceptions to this description may be mentioned explicitly, as \"pathological\" cases."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 54
+  },
+  {
+    "word": "left-hand side, right-hand side (LHS, RHS)",
+    "phonetic": "",
+    "definition": [
+      "EN: Most often, these refer simply to the left-hand or the right-hand side of an equation; for example, x = y + 1 {\\displaystyle x=y+1} has x {\\displaystyle x} on the LHS and y + 1 {\\displaystyle y+1} on the RHS. Occasionally, these are used in the sense of lvalue and rvalue: an RHS is primitive, and an LHS is derivative."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 53
+  },
+  {
+    "word": "nice",
+    "phonetic": "nais",
+    "definition": [
+      "a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的",
+      "EN: A mathematical object is colloquially called nice or sufficiently nice if it satisfies hypotheses or properties, sometimes unspecified or even unknown, that are especially desirable in a given context. It is an informal antonym for pathological. For example, one might conjecture that a differential operator ought to satisfy a certain boundedness condition \"for nice test functions,\" or one might state that some interesting topological invariant should be computable \"for nice spaces X.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999103
+  },
+  {
+    "word": "object",
+    "phonetic": "'ɒbdʒekt",
+    "definition": [
+      "n. 物体, 目标, 目的, 对象, 宾语, 客体",
+      "vi. 反对, 抱反感",
+      "vt. 提出...来反对",
+      "[计] 对象",
+      "EN: Anything that can be assigned to a variable and for which equality with another object can be considered. The term was coined when variables began to be used for sets and mathematical structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998847
+  },
+  {
+    "word": "onto",
+    "phonetic": "'ɒntu:",
+    "definition": [
+      "prep. 在...之上",
+      "EN: A function (which in mathematics is generally defined as mapping the elements of one set A to elements of another B) is called \"A onto B\" (instead of \"A to B\" or \"A into B\") only if it is surjective; it may even be said that \"f is onto\" (i. e. surjective). Not translatable (without circumlocutions) to some languages other than English."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999074
+  },
+  {
+    "word": "proper",
+    "phonetic": "'prɒpә",
+    "definition": [
+      "a. 适当的, 固有的, 高尚的, 专属的",
+      "adv. 完全地, 彻底地",
+      "EN: If, for some notion of substructure, objects are substructures of themselves (that is, the relationship is reflexive), then the qualification proper requires the objects to be different. For example, a proper subset of a set S is a subset of S that is different from S, and a proper divisor of a number n is a divisor of n that is different from n. This overloaded word is also non-jargon for a proper morphism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997942
+  },
+  {
+    "word": "property",
+    "phonetic": "'prɒpәti",
+    "definition": [
+      "n. 财产, 所有权, 性质, 属性",
+      "[计] 属性",
+      "EN: A characteristic that a mathematical object may have or not; for example \"being positive\". Properties are often expressed with formulas and are used for specifying sets and subsets, typically with set-builder notation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999007
+  },
+  {
+    "word": "regular",
+    "phonetic": "'regjulә",
+    "definition": [
+      "a. 规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的",
+      "n. 正规军, 正式队员",
+      "adv. 经常地",
+      "n. 正常体",
+      "[计] 正常体",
+      "EN: A function is called regular if it satisfies satisfactory continuity and differentiability properties, which are often context-dependent. These properties might include possessing a specified number of derivatives, with the function and its derivatives exhibiting some nice property (see nice above), such as Hölder continuity. Informally, this term is sometimes used synonymously with smooth, below. These imprecise uses of the word regular are not to be confused with the notion of a regular topological space, which is rigorously defined."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998630
+  },
+  {
+    "word": "resp",
+    "phonetic": "",
+    "definition": [
+      "反映",
+      "EN: (Respectively) A convention to shorten parallel expositions. \"A (resp. B) [has some relationship to] X (resp. Y)\" means that A [has some relationship to] X and also that B [has (the same) relationship to] Y. For example, squares (resp. triangles) have 4 sides (resp. 3 sides); or compact (resp. Lindelöf) spaces are ones where every open cover has a finite (resp. countable) open subcover."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "sharp",
+    "phonetic": "ʃɑ:p",
+    "definition": [
+      "n. 半升音调, 利刃, 骗子",
+      "a. 锋利的, 明显的, 敏锐的, 急剧的, 尖刻的, 严厉的, 刺耳的, 精明的",
+      "adv. 锐利地, 急速地",
+      "EN: Often, a mathematical theorem will establish constraints on the behavior of some object; for example, a function will be shown to have an upper or lower bound. The constraint is sharp (sometimes optimal) if it cannot be made more restrictive without failing in some cases. For example, for arbitrary non-negative real numbers x, the exponential function e, where e = 2.7182818..., gives an upper bound on the values of the quadratic function x. This is not sharp; the gap between the functions is everywhere at least 1. Among the exponential functions of the form α, setting α = e = 2.0870652... results in a sharp upper bound; the slightly smaller choice α = 2 fails to produce an upper bound, since"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997951
+  },
+  {
+    "word": "smooth",
+    "phonetic": "smu:ð",
+    "definition": [
+      "a. 平滑的, 平稳的, 流畅的, 和蔼的, 安祥的, 圆滑的, 调匀的, 无毛的",
+      "vt. 使光滑, 烫平, 使平和, 消除",
+      "vi. 变平滑, 变平静",
+      "n. 一块平地, 平滑部分",
+      "EN: ness is a concept which mathematics has endowed with many meanings, from simple differentiability to infinite differentiability to analyticity, and still others which are more complicated. Each such usage attempts to invoke the physically intuitive notion of smoothness."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997578
+  },
+  {
+    "word": "strong, stronger",
+    "phonetic": "",
+    "definition": [
+      "EN: A theorem is said to be strong if it deduces restrictive results from general hypotheses. One celebrated example is Donaldson's theorem, which puts tight restraints on what would otherwise appear to be a large class of manifolds. This (informal) usage reflects the opinion of the mathematical community: not only should such a theorem be strong in the descriptive sense (below) but it should also be definitive in its area. A theorem, result, or condition is further called stronger than another one if a proof of the second can be easily obtained from the first but not conversely. An example is the sequence of theorems: Fermat's little theorem, Euler's theorem, Lagrange's theorem, each of which i"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 43
+  },
+  {
+    "word": "sufficiently large, suitably small, sufficiently close",
+    "phonetic": "",
+    "definition": [
+      "EN: In the context of limits, these terms refer to some (unspecified, even unknown) point at which a phenomenon prevails as the limit is approached. A statement such as that predicate P holds for sufficiently large values, can be expressed in more formal notation by ∃x : ∀y ≥ x : P(y). See also eventually."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "upstairs, downstairs",
+    "phonetic": "",
+    "definition": [
+      "EN: A descriptive term referring to notation in which two objects are written one above the other; the upper one is upstairs and the lower, downstairs. For example, in a fiber bundle, the total space is often said to be upstairs, with the base space downstairs. In a fraction, the numerator is occasionally referred to as upstairs and the denominator downstairs, as in \"bringing a term upstairs\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "up to, modulo, mod out by",
+    "phonetic": "",
+    "definition": [
+      "EN: An extension to mathematical discourse of the notions of modular arithmetic. A statement is true up to a condition if the establishment of that condition is the only impediment to the truth of the statement. Also used when working with members of equivalence classes, especially in category theory, where the equivalence relation is (categorical) isomorphism; for example, \"The tensor product in a weak monoidal category is associative and unital up to a natural isomorphism.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "vanish",
+    "phonetic": "'væniʃ",
+    "definition": [
+      "vi. 消失, 不见, 成为零",
+      "EN: To assume the value 0. For example, \"The function sin(x) vanishes for those values of x that are integer multiples of π.\" This can also apply to limits: see Vanish at infinity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996051
+  },
+  {
+    "word": "weak, weaker",
+    "phonetic": "",
+    "definition": [
+      "EN: The converse of strong."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 38
+  },
+  {
+    "word": "well-defined",
+    "phonetic": "'weldi'faind",
+    "definition": [
+      "a. 定义明确的, 明确的",
+      "EN: Accurately and precisely described or specified. For example, sometimes a definition relies on a choice of some object; the result of the definition must then be independent of this choice."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 37
+  },
+  {
+    "word": "aliter",
+    "phonetic": "",
+    "definition": [
+      "EN: An obsolescent term which is used to announce to the reader an alternative method, or proof of a result. In a proof, it therefore flags a piece of reasoning that is superfluous from a logical point of view, but has some other interest."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 36
+  },
+  {
+    "word": "by way of contradiction (BWOC), or \"for, if not",
+    "phonetic": "",
+    "definition": [
+      "EN: The rhetorical prelude to a proof by contradiction, preceding the negation of the statement to be proved."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "if and only if (iff)",
+    "phonetic": "",
+    "definition": [
+      "EN: An abbreviation for logical equivalence of statements."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 34
+  },
+  {
+    "word": "necessary and sufficient",
+    "phonetic": "",
+    "definition": [
+      "EN: A minor variant on \"if and only if\"; \"A is necessary (and sufficient) for B\" means \"A if (only if) B\". For example, \"For a field K to be algebraically closed it is necessary and sufficient that it have no finite field extensions\" means \"K is algebraically closed if and only if it has no finite extensions\". Often used in lists, as in \"The following conditions are necessary and sufficient for a field to be algebraically closed...\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "one and only one",
+    "phonetic": "",
+    "definition": [
+      "EN: A statement of the existence and uniqueness of an object; the object exists, and furthermore, no other such object exists."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 32
+  },
+  {
+    "word": "Q.E.D",
+    "phonetic": "",
+    "definition": [
+      "EN: (Quod erat demonstrandum): A Latin abbreviation, meaning \"which was to be demonstrated\", historically placed at the end of proofs, but less common currently, having been supplanted by the Halmos end-of-proof mark, a square sign ∎."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 31
+  },
+  {
+    "word": "sufficiently nice",
+    "phonetic": "",
+    "definition": [
+      "EN: A condition on objects in the scope of the discussion, to be specified later, that will guarantee that some stated property holds for them. When working out a theorem, the use of this expression in the statement of the theorem indicates that the conditions involved may be not yet known to the speaker, and that the intent is to collect the conditions that will be found to be needed in order for the proof of the theorem to go through."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "the following are equivalent (TFAE)",
+    "phonetic": "",
+    "definition": [
+      "EN: Often several equivalent conditions (especially for a definition, such as normal subgroup) are equally useful in practice; one introduces a theorem stating an equivalence of more than two statements with TFAE."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 29
+  },
+  {
+    "word": "transport of structure",
+    "phonetic": "",
+    "definition": [
+      "EN: It is often the case that two objects are shown to be equivalent in some way, and that one of them is endowed with additional structure. Using the equivalence, we may define such a structure on the second object as well, via transport of structure. For example, any two vector spaces of the same dimension are isomorphic; if one of them is given an inner product and if we fix a particular isomorphism, then we may define an inner product on the other space by factoring through the isomorphism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "without (any) loss of generality (WLOG, WOLOG, WALOG), we may assume (WMA)",
+    "phonetic": "",
+    "definition": [
+      "EN: Sometimes a proposition can be more easily proved with additional assumptions on the objects it concerns. If the proposition as stated follows from this modified one with a simple and minimal explanation (for example, if the remaining special cases are identical but for notation), then the modified assumptions are introduced with this phrase and the altered proposition is proved."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "angle chasing",
+    "phonetic": "",
+    "definition": [
+      "EN: Used to describe a geometrical proof that involves finding relationships between the various angles in a diagram."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 26
+  },
+  {
+    "word": "back-of-the-envelope calculation",
+    "phonetic": "",
+    "definition": [
+      "EN: An informal computation omitting much rigor without sacrificing correctness. Often this computation is \"proof of concept\" and treats only an accessible special case."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 25
+  },
+  {
+    "word": "brute force",
+    "phonetic": "",
+    "definition": [
+      "[计] 硬算, 强制; 强力程序",
+      "EN: Rather than finding underlying principles or patterns, this is a method where one would evaluate as many cases as needed to sufficiently prove or provide convincing evidence that the thing in question is true. Sometimes this involves evaluating every possible case (where it is also known as proof by exhaustion)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 24
+  },
+  {
+    "word": "by example",
+    "phonetic": "",
+    "definition": [
+      "EN: A proof by example is an argument whereby a statement is not proved but instead illustrated by an example. If done well, the specific example would easily generalize to a general proof."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "by inspection",
+    "phonetic": "",
+    "definition": [
+      "EN: A rhetorical shortcut made by authors who invite the reader to verify, at a glance, the correctness of a proposed expression or deduction. If an expression can be evaluated by straightforward application of simple techniques and without recourse to extended calculation or general theory, then it can be evaluated by inspection. It is also applied to solving equations; for example to find roots of a quadratic equation by inspection is to 'notice' them, or mentally check them. 'By inspection' can play a kind of gestalt role: the answer or solution simply clicks into place."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 22
+  },
+  {
+    "word": "by intimidation",
+    "phonetic": "",
+    "definition": [
+      "EN: Style of proof where claims believed by the author to be easily verifiable are labelled as 'obvious' or 'trivial', which often results in the reader being confused."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "clearly, can be easily shown",
+    "phonetic": "",
+    "definition": [
+      "EN: A term which shortcuts around calculation the mathematician perceives to be tedious or routine, accessible to any member of the audience with the necessary expertise in the field; Laplace used obvious (French: évident)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 20
+  },
+  {
+    "word": "complete intuition",
+    "phonetic": "",
+    "definition": [
+      "EN: commonly reserved for jokes (puns on complete induction)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "diagram chasing",
+    "phonetic": "",
+    "definition": [
+      "EN: Given a commutative diagram of objects and morphisms between them, if one wishes to prove some property of the morphisms (such as injectivity) which can be stated in terms of elements, then the proof can proceed by tracing the path of elements of various objects around the diagram as successive morphisms are applied to it. That is, one chases elements around the diagram, or does a diagram chase."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 18
+  },
+  {
+    "word": "handwaving",
+    "phonetic": "",
+    "definition": [
+      "EN: A non-technique of proof mostly employed in lectures, where formal argument is not strictly necessary. It proceeds by omission of details or even significant ingredients, and is merely a plausibility argument."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 17
+  },
+  {
+    "word": "index battle",
+    "phonetic": "",
+    "definition": [
+      "EN: For proofs involving objects with multiple indices which can be solved by going to the bottom (if anyone wishes to take up the effort). Similar to diagram chasing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "morally true",
+    "phonetic": "",
+    "definition": [
+      "EN: Used to indicate that the speaker believes a statement should be true, given their mathematical experience, even though a proof has not yet been put forward. As a variation, the statement may in fact be false, but instead provide a slogan for or illustration of a correct principle. Hasse's local-global principle is a particularly influential example of this."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "obviously",
+    "phonetic": "'ɔbviәsli",
+    "definition": [
+      "adv. 显而易见地, 明显地",
+      "EN: See clearly."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998722
+  },
+  {
+    "word": "the proof is left as an exercise to the reader",
+    "phonetic": "",
+    "definition": [
+      "EN: Usually applied to a claim within a larger proof when the proof of that claim can be produced routinely by any member of the audience with the necessary expertise, but is not so simple as to be obvious."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "trivial",
+    "phonetic": "'tiviәl",
+    "definition": [
+      "a. 琐碎的, 不重要的, 轻微的, 平常的",
+      "EN: Similar to clearly. A concept is trivial if it holds by definition, is an immediate corollary to a known statement, or is a simple special case of a more general concept."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991820
+  },
+  {
+    "word": "binary",
+    "phonetic": "'bainәri",
+    "definition": [
+      "a. 由两部分组成的, 二进位的, 二元的",
+      "[计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令",
+      "EN: A binary relation is a set of ordered pairs; an element x is said to be related to another element y if and only if (x,y) are in the set."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9988813
+  },
+  {
+    "word": "correspondence",
+    "phonetic": ".kɒri'spɒndәns",
+    "definition": [
+      "n. 相符, 通信, 信件",
+      "[医] 对应, 相对",
+      "EN: A correspondence from a set A to a set B is a subset of a Cartesian product A × B ; in other words, it is a binary relation but with the specification of the ambient sets A, B used in the definition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994039
+  },
+  {
+    "word": "diagram",
+    "phonetic": "'daiәɡræm",
+    "definition": [
+      "n. 图表;图解",
+      "EN: A visual representation of the relationship(s) between variables."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992676
+  },
+  {
+    "word": "function",
+    "phonetic": "'fʌŋkʃәn",
+    "definition": [
+      "n. 官能, 职务, 功能, 函数",
+      "vi. 活动, 运行, 行使职责",
+      "[计] 功能, 函数",
+      "EN: A function f: A → B is an ordered triple (A, B, f ) consisting of sets A, B and a subset f of the Cartesian product A × B subject to the condition (a, b), (a, b′) ∈ f implies b = b′. In other words, it is a special kind of correspondence where given an element a of A, there is a unique element b of B that corresponds to it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998558
+  },
+  {
+    "word": "invariant",
+    "phonetic": "in'vєәriәnt",
+    "definition": [
+      "a. 无变化的, 不变的",
+      "n. 不变量",
+      "EN: An invariant of an object or a space is a property or number of the object or a space that remains unchanged under some transformations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9972578
+  },
+  {
+    "word": "map",
+    "phonetic": "mæp",
+    "definition": [
+      "n. 地图, 天体图, 映像",
+      "vt. 映射, 绘制...地图, 计划",
+      "[计] 实用程序, 映射, 制造自动化协议",
+      "EN: A synonym for a function between sets or a morphism in a category. Depending on authors, the term \"maps\" or the term \"functions\" may be reserved for specific kinds of functions or morphisms (e.g., function as an analytic term and map as a general term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998458
+  },
+  {
+    "word": "mathematics",
+    "phonetic": ".mæθә'mætiks",
+    "definition": [
+      "n. 数学",
+      "[机] 数学",
+      "EN: See mathematics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995743
+  },
+  {
+    "word": "multivalued",
+    "phonetic": "'mʌlti'vælju:d",
+    "definition": [
+      "[计] 多值",
+      "EN: A \"multivalued function” from a set A to a set B is a function from A to the subsets of B. It has typically the property that, for almost all points x of B, there is a neighbourhood of x such that the restriction of the function to the neighbourhood can be considered as a set of functions from the neighbourhood to B."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "projection",
+    "phonetic": "prә'dʒekʃәn",
+    "definition": [
+      "n. 发射, 计划, 突出部分, 设计, 推测",
+      "[计] 投影",
+      "EN: A projection is, roughly, a map from some space or object to another that omits some information on the object or space. For example, R 2 → R , ( x , y ) ↦ x {\\displaystyle \\mathbb {R} ^{2}\\to \\mathbb {R} ,(x,y)\\mapsto x} is a projection and its restriction to a graph of a function, say, is also a projection. The terms “idempotent operator” and “forgetful map” are also synonyms for a projection."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995245
+  },
+  {
+    "word": "structure",
+    "phonetic": "'strʌktʃә",
+    "definition": [
+      "n. 结构, 构造, 建筑物",
+      "vt. 构成, 组织",
+      "EN: A mathematical structure on an object is an additional set of objects or data attached to the object (e.g., relation, operation, metric, topology)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999050
+  },
+  {
+    "word": "GL",
+    "phonetic": "",
+    "definition": [
+      "[医] 铍(4号元素铍的别名)",
+      "EN: Let V be a finite-dimensional vector space over k....Let (ei)1≤ i ≤ n be a basis for V....There is an isomorphism of the polynomial algebra k[Tij]1≤ i, j ≤ n onto the algebra Symk(V ⊗ V)....It extends to an isomorphism of k[GLn] to the localized algebra Symk(V ⊗ V)D, where D = det(ei ⊗ ej)....We write k[GL(V)] for this last algebra. By transport of structure, we obtain a linear algebraic group GL(V) isomorphic to GLn."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 971023
+  }
+]

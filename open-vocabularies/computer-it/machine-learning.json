@@ -1,0 +1,610 @@
+[
+  {
+    "word": "Decision Tree",
+    "phonetic": "",
+    "definition": [
+      "[计] 判定树",
+      "[化] 决策树",
+      "决策树"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 48
+  },
+  {
+    "word": "Naive Bayes model NBM",
+    "phonetic": "",
+    "definition": [
+      "朴素贝叶斯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 47
+  },
+  {
+    "word": "Support Vector Machine SVM",
+    "phonetic": "",
+    "definition": [
+      "支持向量机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "linear regression",
+    "phonetic": "",
+    "definition": [
+      "[化] 线性回归",
+      "线性回归"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "clustering",
+    "phonetic": "'klʌstәriŋ",
+    "definition": [
+      "[计] 分类归并; 聚类",
+      "聚类"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9979422
+  },
+  {
+    "word": "reinforcement learning",
+    "phonetic": "",
+    "definition": [
+      "强化学习"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 43
+  },
+  {
+    "word": "Deep Learning",
+    "phonetic": "",
+    "definition": [
+      "深度学习"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "neural networks",
+    "phonetic": "",
+    "definition": [
+      "神经网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "overfitting",
+    "phonetic": "",
+    "definition": [
+      "n. 过适;[数] 过度拟合",
+      "v. 过适(overfit现在分词)",
+      "过拟合"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "underfitting",
+    "phonetic": "",
+    "definition": [
+      "欠拟合"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 39
+  },
+  {
+    "word": "classifier",
+    "phonetic": "'klæsifaiә",
+    "definition": [
+      "n. 分类者, 分粒器, 分级机, 汉语中的量词",
+      "[计] 分类符, 分类器",
+      "分类器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9962193
+  },
+  {
+    "word": "precision",
+    "phonetic": "pri'siʒәn",
+    "definition": [
+      "n. 精密, 精确, 精确度, 精度",
+      "a. 精密的, 精确的",
+      "[计] 精度",
+      "查准率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994534
+  },
+  {
+    "word": "recall",
+    "phonetic": "ri'kɒ:l",
+    "definition": [
+      "n. 回忆, 召回, 撤消",
+      "vt. 回想, 回忆, 召回, 撤消, 使恢复",
+      "[计] 检索",
+      "查全率 / 召回率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998871
+  },
+  {
+    "word": "binary classifier",
+    "phonetic": "",
+    "definition": [
+      "二元分类"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "separating hyperplane",
+    "phonetic": "",
+    "definition": [
+      "凸集分离定理 / 超平面分离定理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 34
+  },
+  {
+    "word": "generative learning models",
+    "phonetic": "",
+    "definition": [
+      "生成模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "discriminative learning models",
+    "phonetic": "",
+    "definition": [
+      "判别模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 32
+  },
+  {
+    "word": "optimisation",
+    "phonetic": "ɒptɪmaɪ'seɪʃən",
+    "definition": [
+      "[医]最佳化, 最优法; 最优化",
+      "优化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 973385
+  },
+  {
+    "word": "gradient descent",
+    "phonetic": "",
+    "definition": [
+      "[计] 梯度下降",
+      "梯度下降"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "threshold",
+    "phonetic": "'θreʃәuld",
+    "definition": [
+      "n. 门槛, 入口, 开端, 阈",
+      "[计] 阈; 阈值",
+      "阈值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995276
+  },
+  {
+    "word": "perceptron",
+    "phonetic": "pә'septrɔn",
+    "definition": [
+      "[计] 感知器",
+      "[化] 感知机",
+      "感知机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 967641
+  },
+  {
+    "word": "learning rate",
+    "phonetic": "",
+    "definition": [
+      "步长"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "first order",
+    "phonetic": "",
+    "definition": [
+      "[计] 初指令, 一阶",
+      "一阶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 26
+  },
+  {
+    "word": "derivative",
+    "phonetic": "di'rivәtiv",
+    "definition": [
+      "a. 引出的, 派生的",
+      "n. 引出之物, 派生物, 衍生字",
+      "导数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989222
+  },
+  {
+    "word": "minima",
+    "phonetic": "'minimә",
+    "definition": [
+      "最小量, 极小值, 极小, 最低限度, 最小数",
+      "[医] 最小, 最低, 极小, 最低点, 最小量, 最低量, 最低数",
+      "极小值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 24
+  },
+  {
+    "word": "conditional probaility",
+    "phonetic": "",
+    "definition": [
+      "条件概率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "training set",
+    "phonetic": "",
+    "definition": [
+      "训练集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 22
+  },
+  {
+    "word": "validation set",
+    "phonetic": "",
+    "definition": [
+      "验证集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "test set",
+    "phonetic": "",
+    "definition": [
+      "[电] 测试机组",
+      "测试集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 20
+  },
+  {
+    "word": "hold-out method",
+    "phonetic": "",
+    "definition": [
+      "留出法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "double cross validation",
+    "phonetic": "",
+    "definition": [
+      "交叉验证法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 18
+  },
+  {
+    "word": "leave-one-out cross validation",
+    "phonetic": "",
+    "definition": [
+      "留一法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 17
+  },
+  {
+    "word": "Taylor expansion",
+    "phonetic": "",
+    "definition": [
+      "泰勒展开"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "loss function",
+    "phonetic": "",
+    "definition": [
+      "[计] 损失函数",
+      "[经] 功能损失",
+      "损失函数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "step function",
+    "phonetic": "",
+    "definition": [
+      "[电] 逐级函数",
+      "阶跃函数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 14
+  },
+  {
+    "word": "activation function",
+    "phonetic": "",
+    "definition": [
+      "激活函数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "multilayer perceptron",
+    "phonetic": "",
+    "definition": [
+      "多层感知机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "backpropagation",
+    "phonetic": "",
+    "definition": [
+      "反向传播算法(BP算法)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "chain rule",
+    "phonetic": "",
+    "definition": [
+      "[计] 链式法则",
+      "链式法则"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 10
+  },
+  {
+    "word": "information entropy",
+    "phonetic": "",
+    "definition": [
+      "信息熵"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "information gain",
+    "phonetic": "",
+    "definition": [
+      "信息增益"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "gain ratio",
+    "phonetic": "",
+    "definition": [
+      "增益率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Gini index",
+    "phonetic": "",
+    "definition": [
+      "基尼指数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "pruning",
+    "phonetic": "'pru:niŋ",
+    "definition": [
+      "n. 修剪, 修枝, 剪枝",
+      "[计] 修剪",
+      "剪枝"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9984112
+  },
+  {
+    "word": "pre-pruning",
+    "phonetic": "",
+    "definition": [
+      "预剪枝"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "post-pruning",
+    "phonetic": "",
+    "definition": [
+      "后剪枝"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "kernel method",
+    "phonetic": "",
+    "definition": [
+      "核方法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "kernel learning",
+    "phonetic": "",
+    "definition": [
+      "核学习"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "word": "Attack",
+    "phonetic": "ә'tæk",
+    "definition": [
+      "n. 攻击, 抨击",
+      "vt. 攻击, 抨击, 动手干",
+      "vi. 攻击",
+      "51%攻击 51%"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999209
+  },
+  {
+    "word": "Airdrop",
+    "phonetic": "'єәdrɒp",
+    "definition": [
+      "n. 空投",
+      "vt. 空投",
+      "空投"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9962661
+  },
+  {
+    "word": "AltCoin",
+    "phonetic": "",
+    "definition": [
+      "山寨币"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 51
+  },
+  {
+    "word": "BitCoin",
+    "phonetic": "",
+    "definition": [
+      "比特币"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 50
+  },
+  {
+    "word": "Block",
+    "phonetic": "blɒk",
+    "definition": [
+      "n. 街区, 木块, 石块, 块",
+      "vt. 阻塞, 封锁, 使成块状",
+      "[计] 块, 数据块",
+      "区块"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998686
+  },
+  {
+    "word": "Block Height",
+    "phonetic": "",
+    "definition": [
+      "区块高度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 48
+  },
+  {
+    "word": "Block Reward",
+    "phonetic": "",
+    "definition": [
+      "区块奖励"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 47
+  },
+  {
+    "word": "Centralized 中心化",
+    "phonetic": "",
+    "definition": [
+      "中心化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "CryptoCurrency",
+    "phonetic": "",
+    "definition": [
+      "加密数字货币"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "Cryptography",
+    "phonetic": "krip'tɒgrәfi",
+    "definition": [
+      "n. 密码使用法, 密码学",
+      "[计] 密码学",
+      "密码学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9970722
+  },
+  {
+    "word": "Confirmation",
+    "phonetic": ".kɒnfә'meiʃәn",
+    "definition": [
+      "n. 证实, 证明, 批准, 确认",
+      "[计] 确认",
+      "交易确认"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994640
+  },
+  {
+    "word": "Consensus",
+    "phonetic": "kәn'sensәs",
+    "definition": [
+      "n. 合意, 一致, 同感",
+      "[计] 合意",
+      "共识"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996683
+  },
+  {
+    "word": "Decentralized Autonomous Organization",
+    "phonetic": "",
+    "definition": [
+      "去中心化自治组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "Decentralized APPlication DApp",
+    "phonetic": "",
+    "definition": [
+      "去中心化应用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "Distributed Denial Of Service",
+    "phonetic": "",
+    "definition": [
+      "分布式拒绝服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 39
+  },
+  {
+    "word": "Distributed Ledger Technology DLT",
+    "phonetic": "",
+    "definition": [
+      "分布式账本技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 38
+  },
+  {
+    "word": "Double Spending",
+    "phonetic": "",
+    "definition": [
+      "双花"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 37
+  },
+  {
+    "word": "Mining",
+    "phonetic": "'mainiŋ",
+    "definition": [
+      "n. 采矿",
+      "[经] 采矿, 采矿业",
+      "挖矿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994412
+  },
+  {
+    "word": "Miner",
+    "phonetic": "'mainә",
+    "definition": [
+      "n. 矿工, 开矿机, 坑道工兵",
+      "[经] 矿工",
+      "矿工"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994307
+  },
+  {
+    "word": "Mining Pool",
+    "phonetic": "",
+    "definition": [
+      "矿池"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 34
+  },
+  {
+    "word": "Minting",
+    "phonetic": "",
+    "definition": [
+      "vt. 铸造, 铸币(mint的现在分词形式)",
+      "铸币奖励"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "Money Laundering",
+    "phonetic": "ˈmʌni ˈlɔ:ndərɪŋ",
+    "definition": [
+      "n. 洗黑钱,洗钱; 洗钱; 洗黑钱",
+      "洗钱"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 32
+  },
+  {
+    "word": "Nonce",
+    "phonetic": "nɒns",
+    "definition": [
+      "n. 特定场合, 当前",
+      "a. 特定场合的",
+      "随机数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9957467
+  },
+  {
+    "word": "Paper Wallet",
+    "phonetic": "",
+    "definition": [
+      "纸钱包"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "PreMining",
+    "phonetic": "",
+    "definition": [
+      "预挖矿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 29
+  },
+  {
+    "word": "Private key",
+    "phonetic": "",
+    "definition": [
+      "私人密钥,个人密钥(用于把即将发送的消息进行加密的密钥)",
+      "私钥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "Public key",
+    "phonetic": "",
+    "definition": [
+      "[计] 公开密钥",
+      "公钥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "Seed",
+    "phonetic": "si:d",
+    "definition": [
+      "n. 种子, 籽, 萌芽, 子孙, 精液",
+      "vt. 在...播种, 催...发育, 脱...籽",
+      "vi. 结实, 播种",
+      "种子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998081
+  },
+  {
+    "word": "Smart Contract",
+    "phonetic": "",
+    "definition": [
+      "智能合约"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 25
+  },
+  {
+    "word": "Signature",
+    "phonetic": "'signәtʃә",
+    "definition": [
+      "n. 签字, 识别标志, 调号",
+      "[计] 签名附件",
+      "签名"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996227
+  },
+  {
+    "word": "Digital Signature",
+    "phonetic": "",
+    "definition": [
+      "[计] 数字签名",
+      "数字签名"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "Side Chains",
+    "phonetic": "",
+    "definition": [
+      "侧链"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 22
+  },
+  {
+    "word": "Testnet",
+    "phonetic": "",
+    "definition": [
+      "测试网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "Timestamp",
+    "phonetic": "",
+    "definition": [
+      "n. 时间戳;时间邮票",
+      "时间戳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 20
+  },
+  {
+    "word": "Transaction Fee",
+    "phonetic": "",
+    "definition": [
+      "交易手续费"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "Wallet",
+    "phonetic": "'wɒlit",
+    "definition": [
+      "n. 皮夹",
+      "[法] 皮包, 皮夹, 钱袋",
+      "钱包"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994413
+  },
+  {
+    "word": "White-Paper",
+    "phonetic": "",
+    "definition": [
+      "白皮书"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 17
+  },
+  {
+    "word": "Accounts",
+    "phonetic": "",
+    "definition": [
+      "n. 账号;会计账簿;账目(account的复数)",
+      "\b账户"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "Balances",
+    "phonetic": "ˈbælənsiz",
+    "definition": [
+      "n. 平衡( balance的名词复数 ); 天平; 平衡力; (酿酒配料的)均衡",
+      "v. (使)平衡( balance的第三人称单数 ); (使)均衡; (使)相抵; 权衡",
+      "余额"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "Byzantine Fault Tolerance",
+    "phonetic": "",
+    "definition": [
+      "拜占庭容错"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 14
+  },
+  {
+    "word": "BitCoin Ledger",
+    "phonetic": "",
+    "definition": [
+      "比特币账目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "BitCoin Network",
+    "phonetic": "",
+    "definition": [
+      "比特币网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "Central Ledger",
+    "phonetic": "",
+    "definition": [
+      "中央分类帐"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "Chain Linking",
+    "phonetic": "",
+    "definition": [
+      "链式链接"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 10
+  },
+  {
+    "word": "Consensus Process",
+    "phonetic": "",
+    "definition": [
+      "共识流程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "Ether",
+    "phonetic": "'i:θә",
+    "definition": [
+      "n. 醚, 苍天, 以太",
+      "[化] 醚; 以太",
+      "以太"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9983175
+  },
+  {
+    "word": "Ethereum",
+    "phonetic": "",
+    "definition": [
+      "以太坊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Digital identity",
+    "phonetic": "",
+    "definition": [
+      "数字身份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "Fork",
+    "phonetic": "fɒ:k",
+    "definition": [
+      "n. 叉子, 叉状物, 分岔",
+      "vi. 分支, 分歧",
+      "vt. 做成叉形, 叉起",
+      "[计] 派生指令",
+      "分叉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996242
+  },
+  {
+    "word": "Gas",
+    "phonetic": "gæs",
+    "definition": [
+      "n. 气体, 汽油, 瓦斯",
+      "[化] 气体; 煤气; 瓦斯; 毒气",
+      "气体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998977
+  },
+  {
+    "word": "Halving",
+    "phonetic": "'hɑ:viŋ",
+    "definition": [
+      "对分, 二等分, 减半, [航空、 航海]等分",
+      "减半"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 965238
+  },
+  {
+    "word": "Hardfork",
+    "phonetic": "",
+    "definition": [
+      "硬分叉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Hashrate",
+    "phonetic": "",
+    "definition": [
+      "哈希率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

@@ -1,0 +1,938 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-15T07:08:08+00:00",
+  "schema": [
+    "word",
+    "phonetic",
+    "definition",
+    "examples",
+    "etymology",
+    "synonyms",
+    "antonyms",
+    "frequency"
+  ],
+  "summary": {
+    "vocabularies": 41,
+    "words": 52907
+  },
+  "sources": {
+    "ecdict": {
+      "name": "ECDICT",
+      "url": "https://github.com/skywind3000/ECDICT",
+      "license": "MIT",
+      "license_url": "https://github.com/skywind3000/ECDICT/blob/master/LICENSE"
+    },
+    "wikipedia": {
+      "name": "Wikipedia glossary articles",
+      "url": "https://en.wikipedia.org/",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use"
+    },
+    "technology-words": {
+      "name": "most-frequent-technology-english-words",
+      "url": "https://github.com/Wei-Xia/most-frequent-technology-english-words",
+      "license": "MIT",
+      "license_url": "https://github.com/Wei-Xia/most-frequent-technology-english-words/blob/master/LICENSE"
+    },
+    "computer-words": {
+      "name": "Computer-English-Words",
+      "url": "https://github.com/HurleyWong/Computer-English-Words",
+      "license": "Apache-2.0",
+      "license_url": "https://github.com/HurleyWong/Computer-English-Words/blob/master/LICENSE"
+    },
+    "medical-abbreviations": {
+      "name": "medical_abbreviations",
+      "url": "https://github.com/imantsm/medical_abbreviations",
+      "license": "MIT",
+      "license_url": "https://github.com/imantsm/medical_abbreviations/blob/master/LICENSE"
+    }
+  },
+  "vocabularies": [
+    {
+      "id": "cn-middle-school",
+      "name": "中国内地中考英语完整词汇",
+      "category": "中国内地考试",
+      "category_slug": "exam-cn",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-cn/cn-middle-school.json",
+      "words": 1603,
+      "chinese_definitions": 1603,
+      "language": "en-zh"
+    },
+    {
+      "id": "cn-high-school",
+      "name": "中国内地高考英语完整词汇",
+      "category": "中国内地考试",
+      "category_slug": "exam-cn",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-cn/cn-high-school.json",
+      "words": 3676,
+      "chinese_definitions": 3676,
+      "language": "en-zh"
+    },
+    {
+      "id": "cn-postgraduate",
+      "name": "全国硕士研究生招生考试英语词汇",
+      "category": "中国内地考试",
+      "category_slug": "exam-cn",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-cn/cn-postgraduate.json",
+      "words": 4801,
+      "chinese_definitions": 4801,
+      "language": "en-zh"
+    },
+    {
+      "id": "cn-cet6-full",
+      "name": "大学英语六级完整词汇",
+      "category": "中国内地考试",
+      "category_slug": "exam-cn",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-cn/cn-cet6-full.json",
+      "words": 5407,
+      "chinese_definitions": 5407,
+      "language": "en-zh"
+    },
+    {
+      "id": "cn-cet4-full",
+      "name": "大学英语四级完整词汇",
+      "category": "中国内地考试",
+      "category_slug": "exam-cn",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-cn/cn-cet4-full.json",
+      "words": 3849,
+      "chinese_definitions": 3849,
+      "language": "en-zh"
+    },
+    {
+      "id": "automotive-design",
+      "name": "汽车设计专业英语",
+      "category": "交通与制造",
+      "category_slug": "transport-manufacturing",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of automotive design",
+          "resolved_page": "Glossary of automotive design",
+          "pageid": 3048838,
+          "revision": 1350199004,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_automotive_design"
+        }
+      ],
+      "file": "transport-manufacturing/automotive-design.json",
+      "words": 100,
+      "chinese_definitions": 48,
+      "language": "mixed"
+    },
+    {
+      "id": "nautical",
+      "name": "航海专业英语",
+      "category": "交通与制造",
+      "category_slug": "transport-manufacturing",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of nautical terms (A–L)",
+          "resolved_page": "Glossary of nautical terms (A–L)",
+          "pageid": 1036810,
+          "revision": 1363617708,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_%28A%E2%80%93L%29"
+        },
+        {
+          "requested_page": "Glossary of nautical terms (M–Z)",
+          "resolved_page": "Glossary of nautical terms (M–Z)",
+          "pageid": 66931758,
+          "revision": 1360678896,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_%28M%E2%80%93Z%29"
+        }
+      ],
+      "file": "transport-manufacturing/nautical.json",
+      "words": 1939,
+      "chinese_definitions": 1190,
+      "language": "mixed"
+    },
+    {
+      "id": "aerospace-engineering",
+      "name": "航空航天工程英语",
+      "category": "交通与制造",
+      "category_slug": "transport-manufacturing",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of aerospace engineering",
+          "resolved_page": "Glossary of aerospace engineering",
+          "pageid": 50775420,
+          "revision": 1363982199,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering"
+        }
+      ],
+      "file": "transport-manufacturing/aerospace-engineering.json",
+      "words": 266,
+      "chinese_definitions": 136,
+      "language": "mixed"
+    },
+    {
+      "id": "rail-transport",
+      "name": "铁路运输专业英语",
+      "category": "交通与制造",
+      "category_slug": "transport-manufacturing",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of rail transport terms",
+          "resolved_page": "Glossary of rail transport terms",
+          "pageid": 578491,
+          "revision": 1363884030,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms"
+        }
+      ],
+      "file": "transport-manufacturing/rail-transport.json",
+      "words": 527,
+      "chinese_definitions": 174,
+      "language": "mixed"
+    },
+    {
+      "id": "education",
+      "name": "教育学专业英语",
+      "category": "人文与社会科学",
+      "category_slug": "humanities-social",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of education terms (A–C)",
+          "resolved_page": "Glossary of education terms (A–C)",
+          "pageid": 4119490,
+          "revision": 1337614397,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28A%E2%80%93C%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (D–F)",
+          "resolved_page": "Glossary of education terms (D–F)",
+          "pageid": 4119715,
+          "revision": 1289865518,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28D%E2%80%93F%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (G–L)",
+          "resolved_page": "Glossary of education terms (G–L)",
+          "pageid": 4120098,
+          "revision": 1260838066,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28G%E2%80%93L%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (M–O)",
+          "resolved_page": "Glossary of education terms (M–O)",
+          "pageid": 4120308,
+          "revision": 1315465052,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28M%E2%80%93O%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (P–R)",
+          "resolved_page": "Glossary of education terms (P–R)",
+          "pageid": 4120556,
+          "revision": 1358946719,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28P%E2%80%93R%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (S)",
+          "resolved_page": "Glossary of education terms (S)",
+          "pageid": 4120925,
+          "revision": 1315465757,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28S%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (T–Z)",
+          "resolved_page": "Glossary of education terms (T–Z)",
+          "pageid": 4121145,
+          "revision": 1359562168,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28T%E2%80%93Z%29"
+        }
+      ],
+      "file": "humanities-social/education.json",
+      "words": 281,
+      "chinese_definitions": 113,
+      "language": "mixed"
+    },
+    {
+      "id": "agriculture",
+      "name": "农业专业英语",
+      "category": "农林科学",
+      "category_slug": "agriculture",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of agriculture",
+          "resolved_page": "Glossary of agriculture",
+          "pageid": 62031142,
+          "revision": 1348023525,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_agriculture"
+        }
+      ],
+      "file": "agriculture/agriculture.json",
+      "words": 687,
+      "chinese_definitions": 422,
+      "language": "mixed"
+    },
+    {
+      "id": "medicine",
+      "name": "医学专业英语",
+      "category": "医学与健康",
+      "category_slug": "medical-health",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of medicine",
+          "resolved_page": "Glossary of medicine",
+          "pageid": 57233472,
+          "revision": 1360678855,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine"
+        }
+      ],
+      "file": "medical-health/medicine.json",
+      "words": 331,
+      "chinese_definitions": 262,
+      "language": "mixed"
+    },
+    {
+      "id": "medical-abbreviations",
+      "name": "医学英语缩略语",
+      "category": "医学与健康",
+      "category_slug": "medical-health",
+      "source_ids": [
+        "medical-abbreviations"
+      ],
+      "license": "MIT",
+      "file": "medical-health/medical-abbreviations.json",
+      "words": 3928,
+      "chinese_definitions": 2235,
+      "language": "mixed"
+    },
+    {
+      "id": "gre-full",
+      "name": "GRE 完整词汇",
+      "category": "国际考试",
+      "category_slug": "exam-international",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-international/gre-full.json",
+      "words": 7504,
+      "chinese_definitions": 7504,
+      "language": "en-zh"
+    },
+    {
+      "id": "ielts-full",
+      "name": "IELTS 完整词汇",
+      "category": "国际考试",
+      "category_slug": "exam-international",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-international/ielts-full.json",
+      "words": 5040,
+      "chinese_definitions": 5040,
+      "language": "en-zh"
+    },
+    {
+      "id": "toefl-full",
+      "name": "TOEFL 完整词汇",
+      "category": "国际考试",
+      "category_slug": "exam-international",
+      "source_ids": [
+        "ecdict"
+      ],
+      "license": "MIT",
+      "file": "exam-international/toefl-full.json",
+      "words": 6974,
+      "chinese_definitions": 6974,
+      "language": "en-zh"
+    },
+    {
+      "id": "geology",
+      "name": "地质学专业英语",
+      "category": "地球科学",
+      "category_slug": "earth-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of geology",
+          "resolved_page": "Glossary of geology",
+          "pageid": 16068751,
+          "revision": 1310667722,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_geology"
+        }
+      ],
+      "file": "earth-science/geology.json",
+      "words": 381,
+      "chinese_definitions": 308,
+      "language": "en-zh"
+    },
+    {
+      "id": "environmental-science",
+      "name": "环境科学专业英语",
+      "category": "地球科学",
+      "category_slug": "earth-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of environmental science",
+          "resolved_page": "Glossary of environmental science",
+          "pageid": 16270616,
+          "revision": 1307237699,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_environmental_science"
+        }
+      ],
+      "file": "earth-science/environmental-science.json",
+      "words": 594,
+      "chinese_definitions": 308,
+      "language": "mixed"
+    },
+    {
+      "id": "chemistry",
+      "name": "化学专业英语",
+      "category": "基础科学",
+      "category_slug": "basic-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of chemistry terms",
+          "resolved_page": "Glossary of chemistry terms",
+          "pageid": 13849906,
+          "revision": 1356237739,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms"
+        }
+      ],
+      "file": "basic-science/chemistry.json",
+      "words": 309,
+      "chinese_definitions": 265,
+      "language": "en-zh"
+    },
+    {
+      "id": "mathematics",
+      "name": "数学专业英语",
+      "category": "基础科学",
+      "category_slug": "basic-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of mathematical jargon",
+          "resolved_page": "Glossary of mathematical jargon",
+          "pageid": 1042164,
+          "revision": 1361673035,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_mathematical_jargon"
+        }
+      ],
+      "file": "basic-science/mathematics.json",
+      "words": 73,
+      "chinese_definitions": 39,
+      "language": "mixed"
+    },
+    {
+      "id": "physics",
+      "name": "物理学专业英语",
+      "category": "基础科学",
+      "category_slug": "basic-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of physics",
+          "resolved_page": "Glossary of physics",
+          "pageid": 36626070,
+          "revision": 1354927493,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_physics"
+        }
+      ],
+      "file": "basic-science/physics.json",
+      "words": 241,
+      "chinese_definitions": 203,
+      "language": "en-zh"
+    },
+    {
+      "id": "civil-engineering",
+      "name": "土木工程专业英语",
+      "category": "工程技术",
+      "category_slug": "engineering",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of civil engineering",
+          "resolved_page": "Glossary of civil engineering",
+          "pageid": 50969944,
+          "revision": 1287136140,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_civil_engineering"
+        }
+      ],
+      "file": "engineering/civil-engineering.json",
+      "words": 61,
+      "chinese_definitions": 49,
+      "language": "en-zh"
+    },
+    {
+      "id": "engineering-general",
+      "name": "工程学综合英语",
+      "category": "工程技术",
+      "category_slug": "engineering",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of engineering: A–L",
+          "resolved_page": "Glossary of engineering: A–L",
+          "pageid": 36535684,
+          "revision": 1347039928,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_engineering%3A_A%E2%80%93L"
+        },
+        {
+          "requested_page": "Glossary of engineering: M–Z",
+          "resolved_page": "Glossary of engineering: M–Z",
+          "pageid": 68711047,
+          "revision": 1347041469,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_engineering%3A_M%E2%80%93Z"
+        }
+      ],
+      "file": "engineering/engineering-general.json",
+      "words": 636,
+      "chinese_definitions": 491,
+      "language": "mixed"
+    },
+    {
+      "id": "architecture",
+      "name": "建筑学专业英语",
+      "category": "工程技术",
+      "category_slug": "engineering",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of architecture",
+          "resolved_page": "Glossary of architecture",
+          "pageid": 3104368,
+          "revision": 1357492123,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_architecture"
+        }
+      ],
+      "file": "engineering/architecture.json",
+      "words": 277,
+      "chinese_definitions": 197,
+      "language": "mixed"
+    },
+    {
+      "id": "mechanical-engineering",
+      "name": "机械工程专业英语",
+      "category": "工程技术",
+      "category_slug": "engineering",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of mechanical engineering",
+          "resolved_page": "Glossary of mechanical engineering",
+          "pageid": 50783328,
+          "revision": 1350584247,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_mechanical_engineering"
+        }
+      ],
+      "file": "engineering/mechanical-engineering.json",
+      "words": 152,
+      "chinese_definitions": 107,
+      "language": "mixed"
+    },
+    {
+      "id": "electrical-electronics",
+      "name": "电气与电子工程英语",
+      "category": "工程技术",
+      "category_slug": "engineering",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of electrical and electronics engineering",
+          "resolved_page": "Glossary of electrical and electronics engineering",
+          "pageid": 50937678,
+          "revision": 1355802679,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"
+        }
+      ],
+      "file": "engineering/electrical-electronics.json",
+      "words": 1033,
+      "chinese_definitions": 588,
+      "language": "mixed"
+    },
+    {
+      "id": "law",
+      "name": "法律专业英语",
+      "category": "法律与公共事务",
+      "category_slug": "law-public",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of law",
+          "resolved_page": "Glossary of law",
+          "pageid": 69374745,
+          "revision": 1329911812,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_law"
+        }
+      ],
+      "file": "law-public/law.json",
+      "words": 53,
+      "chinese_definitions": 37,
+      "language": "mixed"
+    },
+    {
+      "id": "biology",
+      "name": "生物学专业英语",
+      "category": "生命科学",
+      "category_slug": "life-science",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of biology",
+          "resolved_page": "Glossary of biology",
+          "pageid": 36675565,
+          "revision": 1358416505,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_biology"
+        }
+      ],
+      "file": "life-science/biology.json",
+      "words": 326,
+      "chinese_definitions": 283,
+      "language": "en-zh"
+    },
+    {
+      "id": "cloud-computing",
+      "name": "云计算专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/cloud-computing.json",
+      "words": 46,
+      "chinese_definitions": 46,
+      "language": "en-zh"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "人工智能专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of artificial intelligence",
+          "resolved_page": "Glossary of artificial intelligence",
+          "pageid": 50336055,
+          "revision": 1359286732,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
+        }
+      ],
+      "file": "computer-it/artificial-intelligence.json",
+      "words": 396,
+      "chinese_definitions": 107,
+      "language": "mixed"
+    },
+    {
+      "id": "distributed-systems",
+      "name": "分布式系统专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/distributed-systems.json",
+      "words": 86,
+      "chinese_definitions": 86,
+      "language": "en-zh"
+    },
+    {
+      "id": "blockchain",
+      "name": "区块链专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/blockchain.json",
+      "words": 53,
+      "chinese_definitions": 53,
+      "language": "en-zh"
+    },
+    {
+      "id": "big-data",
+      "name": "大数据专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/big-data.json",
+      "words": 19,
+      "chinese_definitions": 19,
+      "language": "en-zh"
+    },
+    {
+      "id": "data-mining",
+      "name": "数据挖掘专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/data-mining.json",
+      "words": 16,
+      "chinese_definitions": 16,
+      "language": "en-zh"
+    },
+    {
+      "id": "machine-learning",
+      "name": "机器学习专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "computer-words",
+        "ecdict"
+      ],
+      "license": "Apache-2.0 AND MIT",
+      "file": "computer-it/machine-learning.json",
+      "words": 48,
+      "chinese_definitions": 48,
+      "language": "en-zh"
+    },
+    {
+      "id": "technology-high-frequency",
+      "name": "程序员技术英语高频词",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "technology-words"
+      ],
+      "license": "MIT",
+      "file": "computer-it/technology-high-frequency.json",
+      "words": 259,
+      "chinese_definitions": 259,
+      "language": "en-zh"
+    },
+    {
+      "id": "computer-science",
+      "name": "计算机科学专业英语",
+      "category": "计算机与信息技术",
+      "category_slug": "computer-it",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of computer science",
+          "resolved_page": "Glossary of computer science",
+          "pageid": 57143357,
+          "revision": 1364204325,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
+        }
+      ],
+      "file": "computer-it/computer-science.json",
+      "words": 240,
+      "chinese_definitions": 164,
+      "language": "mixed"
+    },
+    {
+      "id": "business",
+      "name": "商务与管理英语",
+      "category": "财经与管理",
+      "category_slug": "business-finance",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "List of business terms",
+          "resolved_page": "List of business terms",
+          "pageid": 3349994,
+          "revision": 1341442732,
+          "url": "https://en.wikipedia.org/wiki/List_of_business_terms"
+        }
+      ],
+      "file": "business-finance/business.json",
+      "words": 84,
+      "chinese_definitions": 36,
+      "language": "mixed"
+    },
+    {
+      "id": "economics",
+      "name": "经济学专业英语",
+      "category": "财经与管理",
+      "category_slug": "business-finance",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of economics",
+          "resolved_page": "Glossary of economics",
+          "pageid": 50757843,
+          "revision": 1348621688,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_economics"
+        }
+      ],
+      "file": "business-finance/economics.json",
+      "words": 449,
+      "chinese_definitions": 230,
+      "language": "mixed"
+    },
+    {
+      "id": "stock-market",
+      "name": "证券与股票市场英语",
+      "category": "财经与管理",
+      "category_slug": "business-finance",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of stock market terms",
+          "resolved_page": "Glossary of stock market terms",
+          "pageid": 46224045,
+          "revision": 1352051376,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_stock_market_terms"
+        }
+      ],
+      "file": "business-finance/stock-market.json",
+      "words": 27,
+      "chinese_definitions": 11,
+      "language": "mixed"
+    },
+    {
+      "id": "project-management",
+      "name": "项目管理专业英语",
+      "category": "财经与管理",
+      "category_slug": "business-finance",
+      "source_ids": [
+        "wikipedia",
+        "ecdict"
+      ],
+      "license": "CC-BY-SA-4.0 AND MIT",
+      "source_revisions": [
+        {
+          "requested_page": "Glossary of project management",
+          "resolved_page": "Glossary of project management",
+          "pageid": 20052202,
+          "revision": 1300962361,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_project_management"
+        }
+      ],
+      "file": "business-finance/project-management.json",
+      "words": 135,
+      "chinese_definitions": 62,
+      "language": "mixed"
+    }
+  ]
+}

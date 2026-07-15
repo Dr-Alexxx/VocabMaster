@@ -1,0 +1,566 @@
+[
+  {
+    "word": "Public Cloud",
+    "phonetic": "",
+    "definition": [
+      "公有云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "Private Cloud",
+    "phonetic": "",
+    "definition": [
+      "私有云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "Hybrid Cloud",
+    "phonetic": "",
+    "definition": [
+      "混合云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 44
+  },
+  {
+    "word": "Cloud Backup",
+    "phonetic": "",
+    "definition": [
+      "云备份"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 43
+  },
+  {
+    "word": "Software as a Service",
+    "phonetic": "",
+    "definition": [
+      "软件即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "Platform as a Service",
+    "phonetic": "",
+    "definition": [
+      "平台即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "Infrastructure as a Service",
+    "phonetic": "",
+    "definition": [
+      "基础设施即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "Backend as a Service",
+    "phonetic": "",
+    "definition": [
+      "后端即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 39
+  },
+  {
+    "word": "Functions as a Service",
+    "phonetic": "",
+    "definition": [
+      "功能即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 38
+  },
+  {
+    "word": "Network as a Service",
+    "phonetic": "",
+    "definition": [
+      "网络即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 37
+  },
+  {
+    "word": "Machine as a Service",
+    "phonetic": "",
+    "definition": [
+      "物联网即服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 36
+  },
+  {
+    "word": "Virtualization",
+    "phonetic": "",
+    "definition": [
+      "[计] 虚拟化",
+      "虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "Computational Virtualization",
+    "phonetic": "",
+    "definition": [
+      "计算虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 34
+  },
+  {
+    "word": "Storage Virtualization",
+    "phonetic": "",
+    "definition": [
+      "存储虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "Network Virtualization",
+    "phonetic": "",
+    "definition": [
+      "网络虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 32
+  },
+  {
+    "word": "Desktop Virtualization",
+    "phonetic": "",
+    "definition": [
+      "桌面虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 31
+  },
+  {
+    "word": "Network Function Virtualization",
+    "phonetic": "",
+    "definition": [
+      "网络功能虚拟化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "Software Defined Network",
+    "phonetic": "",
+    "definition": [
+      "软件定义网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 29
+  },
+  {
+    "word": "Resources Pool",
+    "phonetic": "",
+    "definition": [
+      "资源池"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "Cloud Migration",
+    "phonetic": "",
+    "definition": [
+      "云迁移"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "Cloud Security",
+    "phonetic": "",
+    "definition": [
+      "云安全"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 26
+  },
+  {
+    "word": "Cloud Storage",
+    "phonetic": "",
+    "definition": [
+      "云存储"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 25
+  },
+  {
+    "word": "CloudOS",
+    "phonetic": "",
+    "definition": [
+      "云操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 24
+  },
+  {
+    "word": "Elastic Compute Cloud",
+    "phonetic": "",
+    "definition": [
+      "弹性计算云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "Virtual Private Cloud",
+    "phonetic": "",
+    "definition": [
+      "虚拟私有云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 22
+  },
+  {
+    "word": "Business Continuity",
+    "phonetic": "",
+    "definition": [
+      "业务连续性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "Load Balance",
+    "phonetic": "",
+    "definition": [
+      "[电] 负载平衡",
+      "负载均衡"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 20
+  },
+  {
+    "word": "High Availability",
+    "phonetic": "",
+    "definition": [
+      "高可用性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "Network Storage Technologies",
+    "phonetic": "",
+    "definition": [
+      "网络存储"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 18
+  },
+  {
+    "word": "Cluster",
+    "phonetic": "'klʌstә",
+    "definition": [
+      "n. 串, 丛, 群, 簇",
+      "vi. 成串, 丛生",
+      "vt. 使聚集",
+      "[计] 簇",
+      "集群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996800
+  },
+  {
+    "word": "Scalability",
+    "phonetic": ",skeilә'biliti",
+    "definition": [
+      "[计] 可伸缩性",
+      "可伸缩性/可拓展性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9965079
+  },
+  {
+    "word": "Container",
+    "phonetic": "kәn'teinә",
+    "definition": [
+      "n. 容器, 集装箱",
+      "[化] 集装箱; 贮存箱; 容器(任何一种)",
+      "容器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996639
+  },
+  {
+    "word": "Container Image",
+    "phonetic": "",
+    "definition": [
+      "容器镜像"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 14
+  },
+  {
+    "word": "Orchestration",
+    "phonetic": ".ɒ:kes'treiʃәn",
+    "definition": [
+      "n. 协调的结合, 管弦乐编曲",
+      "编排"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9979259
+  },
+  {
+    "word": "Middleware",
+    "phonetic": "'midlweә(r)",
+    "definition": [
+      "n. [计]中间设备,中间件",
+      "中间件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9957873
+  },
+  {
+    "word": "Content Delivery Network",
+    "phonetic": "",
+    "definition": [
+      "内容分发网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "Service-Level Agreement",
+    "phonetic": "",
+    "definition": [
+      "服务等级协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 10
+  },
+  {
+    "word": "Grid Computing",
+    "phonetic": "",
+    "definition": [
+      "网格计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "Distributed Computing",
+    "phonetic": "",
+    "definition": [
+      "[计] 分布式计算",
+      "分布式计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "Fog Computing",
+    "phonetic": "",
+    "definition": [
+      "雾计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Edge Computing",
+    "phonetic": "",
+    "definition": [
+      "边缘计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "Parallel Computing",
+    "phonetic": "",
+    "definition": [
+      "并行计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Utility computing",
+    "phonetic": "",
+    "definition": [
+      "效用计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "Storage Area Networ",
+    "phonetic": "",
+    "definition": [
+      "存储区域网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "multi-tenancy technology",
+    "phonetic": "",
+    "definition": [
+      "多租户技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Cloud Native",
+    "phonetic": "",
+    "definition": [
+      "云原生"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

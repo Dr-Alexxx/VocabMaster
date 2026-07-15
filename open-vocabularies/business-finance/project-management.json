@@ -1,0 +1,1722 @@
+[
+  {
+    "word": "Agile software development",
+    "phonetic": "",
+    "definition": [
+      "EN: is a set of fundamental principles about how software should be developed based on an agile way of working in contrast to previous heavy-handed software development methodologies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 135
+  },
+  {
+    "word": "Aggregate planning",
+    "phonetic": "",
+    "definition": [
+      "[经] 总体规划, 总体计划",
+      "EN: is an operational activity which does an aggregate plan for the production process, in advance of 2 to 18 months, to give an idea to management as to what quantity of materials and other resources are to be procured and when, so that the total cost of operations of the organization is kept to the minimum over that period."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 134
+  },
+  {
+    "word": "Allocation",
+    "phonetic": ".ælәu'keiʃәn",
+    "definition": [
+      "n. 配置, 分配, 拨给",
+      "[经] 分配, 拨款, 分摊",
+      "EN: is the assignment of available resources in an economic way."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992918
+  },
+  {
+    "word": "Benefits management plan",
+    "phonetic": "",
+    "definition": [
+      "EN: a document that describes the activities necessary for achieving the benefits of a project and when these planned benefits will be delivered. It also outlines metrics and procedures to measure progress against benefits."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 132
+  },
+  {
+    "word": "BOSCARD",
+    "phonetic": "",
+    "definition": [
+      "EN: a strategic planning tool used in project management to give the Terms of reference for new projects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 131
+  },
+  {
+    "word": "Budget",
+    "phonetic": "'bʌdʒit",
+    "definition": [
+      "n. 预算",
+      "vi. 编预算",
+      "vt. 编入预算, 安排",
+      "a. 廉价的",
+      "EN: generally refers to a list of all planned expenses and revenues."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998946
+  },
+  {
+    "word": "Budgeted cost of work performed",
+    "phonetic": "",
+    "definition": [
+      "EN: (BCWP) measures the budgeted cost of work that has actually been performed, rather than the cost of work scheduled."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 129
+  },
+  {
+    "word": "Budgeted cost of work scheduled",
+    "phonetic": "",
+    "definition": [
+      "EN: (BCWS) the approved budget that has been allocated to complete a scheduled task (or Work Breakdown Structure (WBS) component) during a specific time period."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 128
+  },
+  {
+    "word": "Business case",
+    "phonetic": "",
+    "definition": [
+      "商业案例",
+      "EN: a document that examines business need and cost-benefits analysis of a project to justify the approval of the project and to set its boundaries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 127
+  },
+  {
+    "word": "Business model",
+    "phonetic": "",
+    "definition": [
+      "EN: is a profit-producing system that has an important degree of independence from the other systems within an enterprise."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 126
+  },
+  {
+    "word": "Business analysis",
+    "phonetic": "",
+    "definition": [
+      "[经] 营业分析",
+      "EN: is the set of tasks, knowledge, and techniques required to identify business needs and determine solutions to business problems. Solutions often include a systems development component, but may also consist of process improvement or organizational change."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 125
+  },
+  {
+    "word": "Business operations",
+    "phonetic": "",
+    "definition": [
+      "[法] 经营",
+      "EN: are those ongoing recurring activities involved in the running of a business for the purpose of producing value for the stakeholders. They are contrasted with project management, and consist of business processes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 124
+  },
+  {
+    "word": "Business process",
+    "phonetic": "",
+    "definition": [
+      "EN: is a collection of related, structured activities or tasks that produce a specific service or product (serve a particular goal) for a particular customer or customers. There are three types of business processes: Management processes, Operational processes, and Supporting processes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 123
+  },
+  {
+    "word": "Business process modeling",
+    "phonetic": "",
+    "definition": [
+      "EN: (BPM) is the activity of representing processes of an enterprise, so that the current (\"as is\") process may be analyzed and improved in future (\"to be\")."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 122
+  },
+  {
+    "word": "Capability maturity model",
+    "phonetic": "",
+    "definition": [
+      "EN: (CMM) in software engineering is a model of the maturity of the capability of certain business processes. A maturity model can be described as a structured collection of elements that describe certain aspects of maturity in an organization, and aids in the definition and understanding of an organization's processes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 121
+  },
+  {
+    "word": "Change control",
+    "phonetic": "",
+    "definition": [
+      "EN: is the procedures used to ensure that changes (within quality management systems (QMS) and information technology (IT) systems) are introduced in a controlled and coordinated manner. Change control is a major aspect of the broader discipline of change management."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 120
+  },
+  {
+    "word": "Change management",
+    "phonetic": "",
+    "definition": [
+      "EN: is a field of management focused on organizational changes. It aims to ensure that methods and procedures are used for efficient and prompt handling of all changes to controlled IT infrastructure, in order to minimize the number and impact of any related incidents upon service."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 119
+  },
+  {
+    "word": "Case study",
+    "phonetic": "",
+    "definition": [
+      "[计] 实例研究, 情况研究",
+      "[经] 案例研究",
+      "EN: is a research method which involves an in-depth, longitudinal examination of a single instance or event: a case. They provide a systematic way of looking at events, collecting data, analyzing information, and reporting the results."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 118
+  },
+  {
+    "word": "Certified Associate in Project Management",
+    "phonetic": "",
+    "definition": [
+      "EN: is an entry-level certification for project practitioners offered by Project Management Institute."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 117
+  },
+  {
+    "word": "Communications log",
+    "phonetic": "",
+    "definition": [
+      "EN: is an ongoing documentation of communication events between any identified project stakeholders, managed and collected by the project manager that describes: the sender and receiver of the communication event; where, when and for how long the communication event elapsed; in what form the communication event took place; a summary of what information was communicated; what actions/outcomes should be taken as a result of the communication event; and to what level of priority should the actions/outcomes of the communication event be graded"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 116
+  },
+  {
+    "word": "Constructability",
+    "phonetic": "",
+    "definition": [
+      "[计] 可构造性",
+      "EN: is a project management technique to review the construction processes from start to finish during pre-construction phrase. It will identify obstacles before a project is actually built to reduce or prevent error, delays, and cost overrun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 115
+  },
+  {
+    "word": "Constructability review",
+    "phonetic": "",
+    "definition": [
+      "EN: is a process of reviewing design documents, construction drawings, specifications, and other construction documentation intended for use by a builder to construct the project. The purpose of a constructability review is to eliminate design errors, omissions, and coordination issues prior to bidding the documents so that the project bid is accurate, and less likely to create uncertainty, delays, added costs, or other risks during construction. Constructability reviews identify those risks so they can be corrected before bidding and constructing the project. Constructability reviews should be conducted by a multi-disciplined team of design, engineering, and construction professionals independe"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 114
+  },
+  {
+    "word": "Costs",
+    "phonetic": "",
+    "definition": [
+      "n. 费用;诉讼费;损失(cost的复数)",
+      "EN: in economics, business, and accounting are the value of money that has been used up to produce something, and hence is not available for use anymore. In business, the cost may be one of acquisition, in which case the amount of money expended to acquire it is counted as cost."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 113
+  },
+  {
+    "word": "Cost engineering",
+    "phonetic": "",
+    "definition": [
+      "EN: is the area of engineering practice where engineering judgment and experience are used in the application of scientific principles and techniques to problems of cost estimating, cost control, business planning and management science, profitability analysis, project management, and planning and scheduling.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 112
+  },
+  {
+    "word": "Construction",
+    "phonetic": "kәn'strʌkʃәn",
+    "definition": [
+      "n. 建筑, 构造, 建筑物",
+      "[化] 施工",
+      "EN: , in the fields of architecture and civil engineering, is a process that consists of the building or assembling of infrastructure. Far from being a single activity, large scale construction is a feat of multitasking. Normally the job is managed by the project manager and supervised by the construction manager, design engineer, construction engineer or project architect."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998585
+  },
+  {
+    "word": "Cost overrun",
+    "phonetic": "",
+    "definition": [
+      "[经] 成本超支",
+      "EN: is defined as excess of actual cost over budget."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 110
+  },
+  {
+    "word": "Critical path method",
+    "phonetic": "",
+    "definition": [
+      "[经] 关键路线方法, 主要矛盾线路方法, 统筹方法",
+      "EN: (CPM) is a mathematically based modeling technique for scheduling a set of project activities, used in project management."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 109
+  },
+  {
+    "word": "Critical chain project management",
+    "phonetic": "",
+    "definition": [
+      "EN: (CCPM) is a method of planning and managing projects that puts more emphasis on the resources required to execute project tasks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 108
+  },
+  {
+    "word": "Dependency",
+    "phonetic": "di'pendәnsi",
+    "definition": [
+      "n. 属国, 保护地, 从属物",
+      "[医] 从属, 从属部",
+      "EN: in a project network is a link amongst a project's terminal elements."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992161
+  },
+  {
+    "word": "Dynamic systems development method",
+    "phonetic": "",
+    "definition": [
+      "EN: (DSDM) is a software development methodology originally based upon the rapid application development methodology. DSDM is an iterative and incremental approach that emphasizes continuous user involvement."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 106
+  },
+  {
+    "word": "Duration",
+    "phonetic": "dju'reiʃәn",
+    "definition": [
+      "n. 持续时间, 持续",
+      "[计] 持续时间",
+      "EN: of a project's terminal element is the number of calendar periods it takes from the time the execution of element starts to the moment it is completed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994574
+  },
+  {
+    "word": "Deliverable",
+    "phonetic": "di'livәrәbl",
+    "definition": [
+      "[计] 可交付的, 可投递的",
+      "[经] 可交割的",
+      "EN: A contractually required work product, produced and delivered to a required state. A deliverable may be a document, hardware, software or other tangible product."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9962203
+  },
+  {
+    "word": "Earned schedule",
+    "phonetic": "",
+    "definition": [
+      "EN: (ES) is an extension to earned value management (EVM), which renames 2 traditional measures, to indicate clearly they are in units of currency or quantity, not time."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 103
+  },
+  {
+    "word": "Earned value management",
+    "phonetic": "",
+    "definition": [
+      "EN: (EVM) is a project management technique for measuring project progress in an objective manner, with a combination of measuring scope, schedule, and cost in a single integrated system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 102
+  },
+  {
+    "word": "Enterprise modeling",
+    "phonetic": "",
+    "definition": [
+      "EN: is the process of understanding an enterprise business and improving its performance through creation of enterprise models. This includes the modelling of the relevant business domain (usually relatively stable), business processes (usually more volatile), and Information technology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 101
+  },
+  {
+    "word": "Estimation",
+    "phonetic": ".esti'meiʃәn",
+    "definition": [
+      "n. 判断, 估计, 尊重",
+      "[化] 估计; 估定; 测定; 估值",
+      "EN: in project management is the processes of making accurate estimates using the appropriate techniques."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989660
+  },
+  {
+    "word": "Event chain diagram",
+    "phonetic": "",
+    "definition": [
+      "EN: diagram that show the relationships between events and tasks and how the events affect each other."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 99
+  },
+  {
+    "word": "Event chain methodology",
+    "phonetic": "",
+    "definition": [
+      "EN: is an uncertainty modeling and schedule network analysis technique that is focused on identifying and managing events and event chains that affect project schedules."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 98
+  },
+  {
+    "word": "Executive sponsor",
+    "phonetic": "",
+    "definition": [
+      "EN: is the senior member of the project board and often the chair."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 97
+  },
+  {
+    "word": "Extreme project management",
+    "phonetic": "",
+    "definition": [
+      "EN: (XPM) refers to a method of managing very complex and very uncertain projects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 96
+  },
+  {
+    "word": "Float",
+    "phonetic": "flәut",
+    "definition": [
+      "n. 漂流物, 浮舟, 漂浮, 浮萍, 彩车",
+      "vi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动",
+      "vt. 使漂浮, 容纳, 淹没, 发行, 实行",
+      "[计] 浮动",
+      "EN: in a project network is the amount of time that a task in a project network can be delayed without causing a delay to subsequent tasks and or the project completion date."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996860
+  },
+  {
+    "word": "Focused improvement",
+    "phonetic": "",
+    "definition": [
+      "EN: in Theory of Constraints is the ensemble of activities aimed at elevating the performance of any system, especially a business system, with respect to its goal by eliminating its constraints one by one and by not working on non-constraints."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 94
+  },
+  {
+    "word": "Fordism",
+    "phonetic": "'fɔ:dizm",
+    "definition": [
+      "福特制(一种使工人或生产方法标准化以提高生产效率的办法)",
+      "EN: , named after Henry Ford, refers to various social theories. It has varying but related meanings in different fields, and for Marxist and non-Marxist scholars."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 93
+  },
+  {
+    "word": "Henry Gantt",
+    "phonetic": "",
+    "definition": [
+      "EN: was an American mechanical engineer and management consultant, who developed the Gantt chart in the 1910s."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 92
+  },
+  {
+    "word": "Gantt chart",
+    "phonetic": "",
+    "definition": [
+      "[计] 甘特进度表, 甘特图",
+      "EN: is a type of bar chart that illustrates a project schedule. It illustrates the start and finish dates of the terminal elements and summary elements of a project. Terminal elements and summary elements comprise the work breakdown structure of the project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 91
+  },
+  {
+    "word": "Goal",
+    "phonetic": "gәul",
+    "definition": [
+      "n. 目标, 终点, 得分, 球门, 守门员",
+      "vi. 攻门, 射门得分",
+      "EN: or objective consists of a projected state of affairs which a person or a system plans or intends to achieve or bring about — a personal or organizational desired end-point in some sort of assumed development. Many people endeavor to reach goals within a finite time by setting deadlines"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999319
+  },
+  {
+    "word": "Goal setting",
+    "phonetic": "",
+    "definition": [
+      "EN: involves establishing specific, measurable and time targeted objectives"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 89
+  },
+  {
+    "word": "Graphical Evaluation and Review Technique",
+    "phonetic": "",
+    "definition": [
+      "EN: (GERT) is a network analysis technique that allows probabilistic treatment of both network logic and activity duration estimated."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 88
+  },
+  {
+    "word": "Hammock activity",
+    "phonetic": "",
+    "definition": [
+      "EN: is a grouping of subtasks that \"hangs\" between two end dates it is tied to (or the two end-events it is fixed to)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 87
+  },
+  {
+    "word": "HERMES",
+    "phonetic": "'h\\\\\\\\:mi:z",
+    "definition": [
+      "abbr. 重放射性同位素电磁分离器(heavy element and radioactive material electromagneticseparator)",
+      "EN: is a Project Management Method developed by the Swiss Government, based on the German V-Modell. The first domain of application was software projects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 977128
+  },
+  {
+    "word": "Integrated Master Plan",
+    "phonetic": "",
+    "definition": [
+      "EN: (IMP) is an event-based, top level plan, consisting of a hierarchy of Program Events."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 85
+  },
+  {
+    "word": "ISO 10006",
+    "phonetic": "",
+    "definition": [
+      "EN: is a guidelines for quality management in projects, is an international standard developed by the International Organization for Standardization."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 84
+  },
+  {
+    "word": "Iterative and Incremental development",
+    "phonetic": "",
+    "definition": [
+      "EN: is a cyclic software development process developed in response to the weaknesses of the waterfall model. It starts with an initial planning and ends with deployment with the cyclic interaction in between"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 83
+  },
+  {
+    "word": "Kickoff meeting",
+    "phonetic": "",
+    "definition": [
+      "EN: is the first meeting with the project team and the client of the project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 82
+  },
+  {
+    "word": "Level of effort",
+    "phonetic": "",
+    "definition": [
+      "EN: (LOE) is qualified as a support type activity which doesn't lend itself to measurement of a discrete accomplishment. Examples of such an activity may be project budget accounting, customer liaison, etc."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 81
+  },
+  {
+    "word": "Linear scheduling method",
+    "phonetic": "",
+    "definition": [
+      "EN: (LSM) is a graphical scheduling method focusing on continuous resource utilization in repetitive activities. It is believed that it originally adopted the idea of Line-Of-Balance method."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 80
+  },
+  {
+    "word": "Lean manufacturing",
+    "phonetic": "",
+    "definition": [
+      "EN: or lean production, which is often known simply as \"Lean\", is the practice of a theory of production that considers the expenditure of resources for any means other than the creation of value for the presumed customer to be wasteful, and thus a target for elimination."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 79
+  },
+  {
+    "word": "Management",
+    "phonetic": "'mænidʒmәnt",
+    "definition": [
+      "n. 经营, 支配, 管理",
+      "[化] 管理处",
+      "EN: in business and human organization activity is simply the act of getting people together to accomplish desired goals. Management comprises planning, organizing, staffing, leading or directing, and controlling an organization (a group of one or more people or entities) or effort for the purpose of accomplishing a goal."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999094
+  },
+  {
+    "word": "Management process",
+    "phonetic": "",
+    "definition": [
+      "[经] 管理程序",
+      "EN: is a process of planning and controlling the performance or execution of any type of activity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 77
+  },
+  {
+    "word": "Management science",
+    "phonetic": "",
+    "definition": [
+      "[计] 管理科学",
+      "[化] 管理科学",
+      "EN: (MS), is the discipline of using mathematical modeling and other analytical methods, to help make better business management decisions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 76
+  },
+  {
+    "word": "Megaproject",
+    "phonetic": "me'ɡæprədʒekt",
+    "definition": [
+      "n. 特大工程, 特大项目",
+      "EN: is an extremely large-scale investment project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 75
+  },
+  {
+    "word": "Milestones",
+    "phonetic": "ˈmaɪlˌstəʊnz",
+    "definition": [
+      "n. 重要事件( milestone的复数形式 ); 重要阶段; 转折点; 里程碑",
+      "EN: are tools used in project management to mark specific points along a project timeline."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 74
+  },
+  {
+    "word": "Motivation",
+    "phonetic": ".mәuti'veiʃәn",
+    "definition": [
+      "n. 动机, 刺激, 推动",
+      "[医] 促动, 推动, 诱导",
+      "EN: is the set of reasons that prompts one to engage in a particular behavior."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996874
+  },
+  {
+    "word": "Nonlinear management",
+    "phonetic": "",
+    "definition": [
+      "EN: (NLM) is a superset of management techniques and strategies that allows order to emerge by giving organizations the space to self-organize, evolve and adapt, encompassing Agile, Evolutionary and Lean approaches, as well as many others."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 72
+  },
+  {
+    "word": "Operations management",
+    "phonetic": "",
+    "definition": [
+      "EN: is an area of business that is concerned with the production of good quality goods and services, and involves the responsibility of ensuring that business operations are efficient and effective. It is the management of resources, the distribution of goods and services to customers, and the analysis of queue systems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 71
+  },
+  {
+    "word": "Operations",
+    "phonetic": "",
+    "definition": [
+      "n. 运作;运营;业务操作(operation的复数)",
+      "EN: , see Business operations"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 70
+  },
+  {
+    "word": "Operations research",
+    "phonetic": "",
+    "definition": [
+      "n. <美>作业研究, 运筹学",
+      "EN: (OR) is an interdisciplinary branch of applied mathematics and formal science that uses methods such as mathematical modeling, statistics, and algorithms to arrive at optimal or near optimal solutions to complex problems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 69
+  },
+  {
+    "word": "Organization",
+    "phonetic": ".ɒ:gәnai'zeiʃәn",
+    "definition": [
+      "n. 组织, 结构, 团体, 体制",
+      "[医] 组织, 机构, 机化(血栓或坏死组织)",
+      "EN: is a social arrangement which pursues collective goals, which controls its own performance, and which has a boundary separating it from its environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999405
+  },
+  {
+    "word": "Organization development",
+    "phonetic": "",
+    "definition": [
+      "[经] 组织发展",
+      "EN: (OD) is a planned, structured, organization-wide effort to increase the organization's effectiveness and health."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 67
+  },
+  {
+    "word": "PDCA",
+    "phonetic": "",
+    "definition": [
+      "abbr. Plan-Do-Check-Action 策划-实施-检查-措施; [计]= Plan,Do,Check,Action,计划、实施、检查、措施",
+      "EN: (plan–do–check–act or plan–do–check–adjust) is an iterative design and management method used in business for the control and continual improvement of processes and products."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 66
+  },
+  {
+    "word": "Planning",
+    "phonetic": "",
+    "definition": [
+      "n. 计划的制订, 策划, 设计, 规划",
+      "[计] 计划, 规划",
+      "EN: in organizations and public policy is both the organizational process of creating and maintaining a plan; and the psychological process of thinking about the activities required to create a desired goal on some scale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997831
+  },
+  {
+    "word": "Portfolio",
+    "phonetic": "pɒ:t'fәuliәu",
+    "definition": [
+      "n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑",
+      "[法] 公文包, 文件夹, 阁员职务",
+      "EN: in finance is an appropriate mix of or collection of investments held by an institution or a private individual."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996191
+  },
+  {
+    "word": "Postmortem documentation",
+    "phonetic": "",
+    "definition": [
+      "EN: A project post-mortem is a process used to identify the causes of a project failure (or significant business-impairing downtime), and how to prevent them in the future."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 63
+  },
+  {
+    "word": "Pre-mortem",
+    "phonetic": "",
+    "definition": [
+      "EN: A pre-mortem, or premortem, is a managerial strategy in which a project team imagines that a project or organization has failed, and then works backward to determine what potentially could lead to the failure of the project or organization."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 62
+  },
+  {
+    "word": "PRINCE2",
+    "phonetic": "",
+    "definition": [
+      "EN: PRINCE2 is a project management methodology. The planning, monitoring and control of all aspects of the project and the motivation of all those involved in it to achieve the project objectives on time and to the specified cost, quality and performance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 61
+  },
+  {
+    "word": "Process",
+    "phonetic": "'prɒses",
+    "definition": [
+      "n. 程序, 进行, 过程",
+      "vt. 加工, 使...接受处理, 对...处置, 对...起诉",
+      "a. 经加工的, 有特殊光效的",
+      "[计] 进程",
+      "EN: is an ongoing collection of activities, with an inputs, outputs and the energy required to transform inputs to outputs."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999609
+  },
+  {
+    "word": "Process architecture",
+    "phonetic": "",
+    "definition": [
+      "EN: is the structural design of general process systems and applies to fields such as computers (software, hardware, networks, etc.), business processes (enterprise architecture, policy and procedures, logistics, project management, etc.), and any other process system of varying degrees of complexity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 59
+  },
+  {
+    "word": "Process management",
+    "phonetic": "",
+    "definition": [
+      "[计] 进程管理",
+      "EN: is the ensemble of activities of planning and monitoring the performance of a process, especially in the sense of business process, often confused with reengineering."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 58
+  },
+  {
+    "word": "Product breakdown structure",
+    "phonetic": "",
+    "definition": [
+      "EN: (PBS) in project management is an exhaustive, hierarchical tree structure of components that make up an item, arranged in whole-part relationship."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 57
+  },
+  {
+    "word": "Product description",
+    "phonetic": "",
+    "definition": [
+      "EN: in project management is a structured format of presenting information about a project product"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 56
+  },
+  {
+    "word": "Program evaluation and review technique",
+    "phonetic": "",
+    "definition": [
+      "[化] 统筹法",
+      "EN: (PERT) is a statistical tool, used in project management, designed to analyze and represent the tasks involved in completing a given project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 55
+  },
+  {
+    "word": "Program management",
+    "phonetic": "",
+    "definition": [
+      "EN: is the process of managing multiple ongoing inter-dependent projects. An example would be that of designing, manufacturing and providing support infrastructure for an automobile manufacturer."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 54
+  },
+  {
+    "word": "Project",
+    "phonetic": "'prɒdʒekt",
+    "definition": [
+      "n. 计划, 设计, 事业",
+      "vt. 计划, 设计, 投掷, 发射, 使凸出, 放映",
+      "vi. 凸出",
+      "EN: A temporary endeavor undertaken to create a unique product, service, or result."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999466
+  },
+  {
+    "word": "Project accounting",
+    "phonetic": "",
+    "definition": [
+      "EN: Is the practice of creating financial reports specifically designed to track the financial progress of projects, which can then be used by managers to aid project management."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 52
+  },
+  {
+    "word": "Project charter",
+    "phonetic": "",
+    "definition": [
+      "EN: is a statement of the scope, objectives, and participants in a project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 51
+  },
+  {
+    "word": "Project cost management",
+    "phonetic": "",
+    "definition": [
+      "EN: A method of managing a project in real-time from the estimating stage to project control; through the use of technology cost, schedule and productivity is monitored."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 50
+  },
+  {
+    "word": "Project management",
+    "phonetic": "",
+    "definition": [
+      "[计] 项目管理",
+      "[经] 项目管理",
+      "EN: The complete set of tasks, techniques, tools applied during project execution'."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 49
+  },
+  {
+    "word": "Project Management Body of Knowledge",
+    "phonetic": "",
+    "definition": [
+      "EN: (PMBOK) : The sum of knowledge within the profession of project management that is standardized by ISO."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 48
+  },
+  {
+    "word": "Project management office",
+    "phonetic": "",
+    "definition": [
+      "EN: The Project management office in a business or professional enterprise is the department or group that defines and maintains the standards of process, generally related to project management, within the organization. The PMO strives to standardize and introduce economies of repetition in the execution of projects. The PMO is the source of documentation, guidance and metrics on the practice of project management and execution."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 47
+  },
+  {
+    "word": "Project management process",
+    "phonetic": "",
+    "definition": [
+      "EN: is the management process of planning and controlling the performance or execution of a project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 46
+  },
+  {
+    "word": "Project management professional",
+    "phonetic": "",
+    "definition": [
+      "EN: is a certificated professional in project management."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "Project management simulators",
+    "phonetic": "",
+    "definition": [
+      "EN: are computer-based tools used in project management training programs. Usually, project management simulation is a group exercise. The computer-based simulation is an interactive learning activity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 44
+  },
+  {
+    "word": "Project management software",
+    "phonetic": "",
+    "definition": [
+      "EN: is a type of software, including scheduling, cost control and budget management, resource allocation, collaboration software, communication, quality management and documentation or administration systems, which are used to deal with the complexity of large projects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 43
+  },
+  {
+    "word": "Project management triangle",
+    "phonetic": "",
+    "definition": [
+      "EN: is a model of the constraints of project management."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "Project manager",
+    "phonetic": "",
+    "definition": [
+      "[经] 项目经理",
+      "EN: professional in the field of project management. Project managers can have the responsibility of the planning, execution, and closing of any project, typically relating to construction industry, architecture, computer networking, telecommunications or software development."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "Project network",
+    "phonetic": "",
+    "definition": [
+      "EN: is a graph (flow chart) depicting the sequence in which a project's terminal elements are to be completed by showing terminal elements and their dependencies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "Project plan",
+    "phonetic": "",
+    "definition": [
+      "[计] 项目规划, 工程计划",
+      "EN: is a formal, approved document used to guide both project execution and project control. The primary uses of the project plan are to document planning assumptions and decisions, facilitate communication among stakeholders, and document approved scope, cost, and schedule baselines. A project plan may be summary or detailed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 39
+  },
+  {
+    "word": "Project planning",
+    "phonetic": "",
+    "definition": [
+      "EN: is part of project management, which relates to the use of schedules such as Gantt charts to plan and subsequently report progress within the project environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 38
+  },
+  {
+    "word": "Project stakeholders",
+    "phonetic": "",
+    "definition": [
+      "EN: are those entities within or without an organization which sponsor a project or, have an interest or a gain upon a successful completion of a project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 37
+  },
+  {
+    "word": "Project team",
+    "phonetic": "",
+    "definition": [
+      "[经] 项目工作组",
+      "EN: is the management team leading the project, and provide services to the project. Projects often bring together a variety number of problems. Stakeholders have important issues with others."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 36
+  },
+  {
+    "word": "Proport",
+    "phonetic": "",
+    "definition": [
+      "EN: refers to the combination of the unique skills of an organisation's members for collective advantage."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "Quality",
+    "phonetic": "'kwɒlәti",
+    "definition": [
+      "n. 品质, 特性, 才能, 质量",
+      "a. 优质的",
+      "[计] 品质",
+      "EN: can mean a high degree of excellence (\"a quality product\"), a degree of excellence or the lack of it (\"work of average quality\"), or a property of something (\"the addictive quality of alcohol\"). Distinct from the vernacular, the subject of this article is the business interpretation of quality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999236
+  },
+  {
+    "word": "Quality, cost, delivery",
+    "phonetic": "",
+    "definition": [
+      "EN: (QCD) as used in lean manufacturing measures a businesses activity and develops Key performance indicators. QCD analysis often forms a part of continuous improvement programs"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "Reengineering",
+    "phonetic": "rɪ'endʒɪnɪərɪŋ",
+    "definition": [
+      "业务流程再设计",
+      "EN: is radical redesign of an organization's processes, especially its business processes. Rather than organizing a firm into functional specialties (like production, accounting, marketing, etc.) and considering the tasks that each function performs; complete processes from materials acquisition, to production, to marketing and distribution should be considered. The firm should be re-engineered into a series of processes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9953326
+  },
+  {
+    "word": "Resources",
+    "phonetic": "",
+    "definition": [
+      "n. 资源;物力(resource的复数)",
+      "EN: are what is required to carry out a project's tasks. They can be people, equipment, facilities, funding, or anything else capable of definition (usually other than labour) required for the completion of a project activity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 31
+  },
+  {
+    "word": "Resource leveling",
+    "phonetic": "",
+    "definition": [
+      "EN: 'A scheduling calculation that delays activities such that resource usage is kept below specified limits. It is also known as resource limited scheduling'."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "Risk",
+    "phonetic": "risk",
+    "definition": [
+      "n. 冒险, 危险, 保险额",
+      "vt. 冒...的危险, 冒险干",
+      "EN: is the precise probability of specific eventualities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999350
+  },
+  {
+    "word": "Risk management",
+    "phonetic": "",
+    "definition": [
+      "[计] 风险管理",
+      "EN: is a management specialism aiming to reduce different risks related to a preselected domain to the level accepted by society. It may refer to numerous types of threats caused by environment, technology, humans, organizations and politics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "Risk register",
+    "phonetic": "",
+    "definition": [
+      "EN: is a tool commonly used in project planning and organizational risk assessments."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 27
+  },
+  {
+    "word": "Schedules",
+    "phonetic": "",
+    "definition": [
+      "n. 时间表;待办事项;日程安排(schedule的复数形式)",
+      "EN: in project management consists of a list of a project's terminal elements with intended to start and finish dates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 26
+  },
+  {
+    "word": "Scientific management",
+    "phonetic": "",
+    "definition": [
+      "[计] 科学管理",
+      "[经] 科学管理",
+      "EN: is a theory of management that analyzes and synthesizes workflow processes, improving labor productivity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 25
+  },
+  {
+    "word": "Scope",
+    "phonetic": "skәup",
+    "definition": [
+      "n. 范围, 机会, 广度, 眼界, 观察仪器, 导弹射程",
+      "[计] 作用域",
+      "EN: of a project in project management is the sum total of all of its products and their requirements or features."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996893
+  },
+  {
+    "word": "Scope creep",
+    "phonetic": "",
+    "definition": [
+      "EN: refers to uncontrolled changes in a project's scope. This phenomenon can occur when the scope of a project is not properly defined, documented, or controlled. It is generally considered a negative occurrence that is to be avoided."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 23
+  },
+  {
+    "word": "Scrum",
+    "phonetic": "skrʌm",
+    "definition": [
+      "n. (橄榄球中)扭夺, 并列争球",
+      "EN: is an iterative incremental process of software development commonly used with agile software development. Despite the fact that \"Scrum\" is not an acronym, some companies implementing the process have been known to adhere to an all capital letter expression of the word, i.e. SCRUM."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9970270
+  },
+  {
+    "word": "Six Sigma",
+    "phonetic": "",
+    "definition": [
+      "EN: is a business management strategy, originally developed by Motorola, that today enjoys widespread application in many sectors of industry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 21
+  },
+  {
+    "word": "Slot-based scheduling",
+    "phonetic": "",
+    "definition": [
+      "EN: term is first used by IBM Spectrum Symphony as a resource allocation method. It is implemented to project management literature by mentioning each slot as the replaceable qualified human hours required to complete a given task."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 20
+  },
+  {
+    "word": "Software engineering",
+    "phonetic": "",
+    "definition": [
+      "[计] 软件工程",
+      "EN: is the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 19
+  },
+  {
+    "word": "Standards",
+    "phonetic": "",
+    "definition": [
+      "n. 标准;规格(standard的复数)",
+      "EN: are documents approved by a recognized body, that provide, for common and repeated use, rules, guidelines, or characteristics for products, processes, or services with which compliance is not mandatory. (ISO 9453)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 18
+  },
+  {
+    "word": "Stakeholder",
+    "phonetic": "'steikhәuldә",
+    "definition": [
+      "n. 赌金保管者",
+      "[法] 赌款保存人, 保存保证金的人",
+      "EN: Clients or other parties invested in the Project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989979
+  },
+  {
+    "word": "Systems development life cycle",
+    "phonetic": "",
+    "definition": [
+      "EN: (SDLC) is any logical process used by a systems analyst to develop an information system, including requirements, validation, training, and user ownership. An SDLC should result in a high quality system that meets or exceeds customer expectations, within time and cost estimates, works effectively and efficiently in the current and planned IT infrastructure, and is cheap to maintain and cost-effective to enhance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "Systems engineering",
+    "phonetic": "",
+    "definition": [
+      "(运用先进科学方法进行组织管理的)系统工程",
+      "EN: is an interdisciplinary field of engineering that focuses on how complex engineering projects should be designed and managed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "Task",
+    "phonetic": "tɑ:sk",
+    "definition": [
+      "n. 工作, 任务, 作业, 困难的工作",
+      "vt. 派给...工作, 使辛劳",
+      "[计] 任务",
+      "EN: is part of a set of actions which accomplish a job, problem or assignment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998953
+  },
+  {
+    "word": "Tasks",
+    "phonetic": "",
+    "definition": [
+      "n. 任务;工作;苦差事(task的复数)",
+      "EN: in project management are activity that needs to be accomplished within a defined period of time."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "Task analysis",
+    "phonetic": "",
+    "definition": [
+      "[经] 工作分析",
+      "EN: is the analysis or a breakdown of exactly how a task is accomplished, such as what sub-tasks are required"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "Time limit",
+    "phonetic": "",
+    "definition": [
+      "期限",
+      "[法] 限期, 期限",
+      "EN: is a narrow field of time, or a particular point in time, by which an objective or task must be accomplished."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "Timeline",
+    "phonetic": "ˈtaɪmlaɪn",
+    "definition": [
+      "n. 时间轴, 时间表",
+      "EN: is a graphical representation of a chronological sequence of events, also referred to as a chronology. It can also mean a schedule of activities, such as a timetable."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9987686
+  },
+  {
+    "word": "Unified process",
+    "phonetic": "",
+    "definition": [
+      "EN: The Unified process is a popular iterative and incremental software development process framework. The best-known and extensively documented refinement of the Unified Process is the Rational Unified Process (RUP)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9
+  },
+  {
+    "word": "Value engineering",
+    "phonetic": "",
+    "definition": [
+      "[化] 价值工程",
+      "[经] 价值工程",
+      "EN: (VE) is a systematic method to improve the \"value\" of goods and services by using an examination of function. Value, as defined, is the ratio of function to cost. Value can therefore be increased by either improving the function or reducing the cost. It is a primary tenet of value engineering that basic functions be preserved and not be reduced as a consequence of pursuing value improvements."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 8
+  },
+  {
+    "word": "Vertical slice",
+    "phonetic": "",
+    "definition": [
+      "EN: is a type of milestone, benchmark, or deadline, with emphasis on demonstrating progress across all components of a project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Virtual design and construction",
+    "phonetic": "",
+    "definition": [
+      "EN: (VDC) is the use of integrated multi-disciplinary performance models of design-construction projects, including the Product (i.e., facilities), Work Processes and Organization of the design - construction - operation team in order to support explicit and public business objectives."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "Wideband Delphi",
+    "phonetic": "",
+    "definition": [
+      "EN: is a consensus-based estimation technique for estimating effort."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Work",
+    "phonetic": "wә:k",
+    "definition": [
+      "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程",
+      "vi. 工作, 劳动, 做, 运转, 起作用, 被加工",
+      "vt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+      "EN: in project management is the amount of effort applied to produce a deliverable or to accomplish a task (a terminal element)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999883
+  },
+  {
+    "word": "Work breakdown structure",
+    "phonetic": "",
+    "definition": [
+      "EN: (WBS) is a method and a kind of representation that defines a project and groups the project's discrete work elements in a way that helps organize and define the total work scope of the project. A Work breakdown structure element may be a product, data, a service, or any combination. WBS also provides the necessary framework for detailed cost estimating and control along with providing guidance for schedule development and control."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "Work package",
+    "phonetic": "",
+    "definition": [
+      "EN: is a subset of a project that can be assigned to a specific party for execution. Because of the similarity, work packages are often misidentified as projects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 2
+  },
+  {
+    "word": "Work stream",
+    "phonetic": "",
+    "definition": [
+      "EN: is a set of associated activities, focused around a particular scope that follow a path from initiation to completion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]

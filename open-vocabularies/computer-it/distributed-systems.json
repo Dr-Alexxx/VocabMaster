@@ -1,0 +1,1119 @@
+[
+  {
+    "word": "autonomous computing",
+    "phonetic": "",
+    "definition": [
+      "自主计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 86
+  },
+  {
+    "word": "synchronisation",
+    "phonetic": "ˌsɪŋkrənaɪ'zeɪʃən",
+    "definition": [
+      "n. 同步",
+      "同步"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 962530
+  },
+  {
+    "word": "asynchronisation",
+    "phonetic": "",
+    "definition": [
+      "异步"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 84
+  },
+  {
+    "word": "Middleware",
+    "phonetic": "'midlweә(r)",
+    "definition": [
+      "n. [计]中间设备,中间件",
+      "中间件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9957873
+  },
+  {
+    "word": "scalability",
+    "phonetic": ",skeilә'biliti",
+    "definition": [
+      "[计] 可伸缩性",
+      "可伸缩性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9965079
+  },
+  {
+    "word": "Peer-to-Peer(P2P)",
+    "phonetic": "",
+    "definition": [
+      "点对点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 81
+  },
+  {
+    "word": "Transparency",
+    "phonetic": "træns'pærәnsi",
+    "definition": [
+      "n. 透明, 透明度, 透过性, 透明物, 清晰",
+      "[计] 透明性; 透明",
+      "透明性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9991468
+  },
+  {
+    "word": "Replication",
+    "phonetic": ".repli'keiʃәn",
+    "definition": [
+      "n. 回答, 反响, 复制, 第二次答辩, 折转, 弯回",
+      "[化] 复制",
+      "复制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9987101
+  },
+  {
+    "word": "Concurrency",
+    "phonetic": "",
+    "definition": [
+      "[计] 并发性; 并行性",
+      "并发"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 78
+  },
+  {
+    "word": "geographically",
+    "phonetic": "",
+    "definition": [
+      "[计] 自通地",
+      "地域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9988399
+  },
+  {
+    "word": "administratively",
+    "phonetic": "",
+    "definition": [
+      "adv. 管理地;行政地",
+      "管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9973351
+  },
+  {
+    "word": "domain",
+    "phonetic": "dәu'mein",
+    "definition": [
+      "n. 领域, 领土, 产业, 范围",
+      "[计] 域, 区域, 支配命令",
+      "域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996373
+  },
+  {
+    "word": "zone",
+    "phonetic": "zәun",
+    "definition": [
+      "n. 地带, 带, 地区",
+      "vt. 环绕, 使分成地带",
+      "vi. 分成区",
+      "[计] 卡片顶部的三行区; 区; 区域",
+      "区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998237
+  },
+  {
+    "word": "High performance distributed computing systems",
+    "phonetic": "",
+    "definition": [
+      "高性能分布式计算系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 73
+  },
+  {
+    "word": "Distributed information systems",
+    "phonetic": "",
+    "definition": [
+      "分布式信息系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 72
+  },
+  {
+    "word": "Distributed systems for pervasive computing",
+    "phonetic": "",
+    "definition": [
+      "分布式普适系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 71
+  },
+  {
+    "word": "Centralised",
+    "phonetic": "'sentrəlaɪz",
+    "definition": [
+      "vt. 把...集中起来;形成中心",
+      "中心化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 987608
+  },
+  {
+    "word": "Decentralised",
+    "phonetic": ",di:'sentrəlaiz",
+    "definition": [
+      "vt. (英)分散;分权(等于decentralize)",
+      "去中心化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 975309
+  },
+  {
+    "word": "parallel computing",
+    "phonetic": "",
+    "definition": [
+      "并行计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 68
+  },
+  {
+    "word": "multiprocessor",
+    "phonetic": "'mʌlti'prәusesә",
+    "definition": [
+      "[计] 多处理机, 多处理器",
+      "多处理器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9959023
+  },
+  {
+    "word": "multicore",
+    "phonetic": "'mʌltikɔ:",
+    "definition": [
+      "多芯的",
+      "多核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 66
+  },
+  {
+    "word": "message passing interface(MPI)",
+    "phonetic": "",
+    "definition": [
+      "信息传递接口"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 65
+  },
+  {
+    "word": "cluster computing",
+    "phonetic": "",
+    "definition": [
+      "集群计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 64
+  },
+  {
+    "word": "grid computing",
+    "phonetic": "",
+    "definition": [
+      "网格计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 63
+  },
+  {
+    "word": "Collective",
+    "phonetic": "kә'leiktiv",
+    "definition": [
+      "a. 集体的, 聚集的, 共同的",
+      "[医] 集体的, 集合的",
+      "汇集层"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996658
+  },
+  {
+    "word": "Fabric",
+    "phonetic": "'fæbrik",
+    "definition": [
+      "n. 织物, 布, 结构, 构造, 建筑物",
+      "[经] 组织, 建筑物, 工厂",
+      "光纤层"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996941
+  },
+  {
+    "word": "Distributed Transaction Processing",
+    "phonetic": "",
+    "definition": [
+      "分布式事务处理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 60
+  },
+  {
+    "word": "nested transaction",
+    "phonetic": "",
+    "definition": [
+      "[计] 嵌套事务",
+      "嵌套式事务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 59
+  },
+  {
+    "word": "atomic",
+    "phonetic": "ә'tɒmik",
+    "definition": [
+      "a. 原子的, 原子能的",
+      "[医] 原子的",
+      "原子性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994562
+  },
+  {
+    "word": "consistent",
+    "phonetic": "kәn'sistәnt",
+    "definition": [
+      "a. 一致的, 坚持的, 并立的, 坚固的",
+      "一致性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997775
+  },
+  {
+    "word": "isolated",
+    "phonetic": "'aisәleitid",
+    "definition": [
+      "a. 孤立的, 孤零零的",
+      "[计] 隔离的, 绝缘的",
+      "独立性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9995396
+  },
+  {
+    "word": "durable",
+    "phonetic": "'djurәbl",
+    "definition": [
+      "a. 持久的, 耐用的",
+      "持久性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992051
+  },
+  {
+    "word": "Internet of Things(IoT)",
+    "phonetic": "",
+    "definition": [
+      "物联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 54
+  },
+  {
+    "word": "sensor networks",
+    "phonetic": "",
+    "definition": [
+      "传感器网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 53
+  },
+  {
+    "word": "Layered architectures",
+    "phonetic": "",
+    "definition": [
+      "分层架构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 52
+  },
+  {
+    "word": "Object-based architectures",
+    "phonetic": "",
+    "definition": [
+      "基于对象的架构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 51
+  },
+  {
+    "word": "load balancer",
+    "phonetic": "",
+    "definition": [
+      "[电] 负载平衡器",
+      "负载均衡器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 50
+  },
+  {
+    "word": "Event-based",
+    "phonetic": "",
+    "definition": [
+      "事件驱动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 49
+  },
+  {
+    "word": "Event bus",
+    "phonetic": "",
+    "definition": [
+      "事件总线"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 48
+  },
+  {
+    "word": "publish",
+    "phonetic": "'pʌbliʃ",
+    "definition": [
+      "vt. 出版, 发行, 公开, 发表, 宣传, 公布",
+      "vi. 出版, 发行",
+      "发布"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998884
+  },
+  {
+    "word": "subscribe",
+    "phonetic": "sәb'skraib",
+    "definition": [
+      "vt. 捐献, 签署",
+      "vi. 赞成, 同意, 捐款, 预订, 认购",
+      "[计] 订阅",
+      "订阅"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9992021
+  },
+  {
+    "word": "Hybrid Architectures",
+    "phonetic": "",
+    "definition": [
+      "混合层"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 45
+  },
+  {
+    "word": "Edge-server systems",
+    "phonetic": "",
+    "definition": [
+      "边界服务器系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 44
+  },
+  {
+    "word": "boundary",
+    "phonetic": "'baundri",
+    "definition": [
+      "n. 边界, 分界线",
+      "[计] 边界",
+      "分界线"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997224
+  },
+  {
+    "word": "End-users",
+    "phonetic": "",
+    "definition": [
+      "(End-User 的复数) [计]终端用户,即用计算机实现自己目的之用户",
+      "终端用户"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 42
+  },
+  {
+    "word": "Interprocess communication",
+    "phonetic": "",
+    "definition": [
+      "[计] 进程通信",
+      "进程间通信"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 41
+  },
+  {
+    "word": "Data link layer trailer",
+    "phonetic": "",
+    "definition": [
+      "数据链路层报尾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 40
+  },
+  {
+    "word": "transient",
+    "phonetic": "'trænziәnt",
+    "definition": [
+      "n. 瞬, 短期居留者, 过境鸟, 瞬变现象",
+      "a. 短暂的, 易变的, 瞬变的, 路过的",
+      "[计] 瞬变过程; 过渡过程; 过渡的; 瞬变的; 瞬时峰值电压",
+      "瞬时"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9989265
+  },
+  {
+    "word": "persistent",
+    "phonetic": "pә'sistәnt",
+    "definition": [
+      "a. 固执的, 坚持的, 持续的, 作用持久的",
+      "[法] 坚持的, 固执的, 持续的",
+      "持久"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9994731
+  },
+  {
+    "word": "call",
+    "phonetic": "kɒ:l",
+    "definition": [
+      "n. 呼叫, 访问, 打电话, 号召, 召集, 要求",
+      "vt. 呼叫, 召集, 打电话",
+      "vi. 叫喊, 访问, 叫牌",
+      "[计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件",
+      "请求"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9999878
+  },
+  {
+    "word": "message queue",
+    "phonetic": "",
+    "definition": [
+      "[计] 报文队列",
+      "消息队列"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 36
+  },
+  {
+    "word": "across-platform",
+    "phonetic": "",
+    "definition": [
+      "跨平台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 35
+  },
+  {
+    "word": "Service Oriented Architectures(SOA)",
+    "phonetic": "",
+    "definition": [
+      "面向服务架构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 34
+  },
+  {
+    "word": "Remote Method Invocation(MRI)",
+    "phonetic": "",
+    "definition": [
+      "远程方法调用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 33
+  },
+  {
+    "word": "Simple Object Access Protocol(SOAP)",
+    "phonetic": "",
+    "definition": [
+      "简单对象访问协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 32
+  },
+  {
+    "word": "Naming",
+    "phonetic": "'neimiŋ",
+    "definition": [
+      "n. 命名",
+      "[计] 命名",
+      "命名"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9986587
+  },
+  {
+    "word": "Hash Tables",
+    "phonetic": "",
+    "definition": [
+      "哈希表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 30
+  },
+  {
+    "word": "Namespaces",
+    "phonetic": "",
+    "definition": [
+      "名称空间"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 29
+  },
+  {
+    "word": "Closure Mechanism",
+    "phonetic": "",
+    "definition": [
+      "终止机制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 28
+  },
+  {
+    "word": "linking",
+    "phonetic": "'liŋkiŋ",
+    "definition": [
+      "[计] 连接, 链接",
+      "链接"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9976254
+  },
+  {
+    "word": "aliases",
+    "phonetic": "",
+    "definition": [
+      "n. 别名(alias的复数)",
+      "别称"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 26
+  },
+  {
+    "word": "mounting",
+    "phonetic": "'mauntiŋ",
+    "definition": [
+      "n. 装备, 衬托纸, 舞台效果, 上马",
+      "[化] 装配",
+      "挂载"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9986919
+  },
+  {
+    "word": "Iterative",
+    "phonetic": "'itәrәtiv",
+    "definition": [
+      "a. 反复的, 絮叨的",
+      "n. 反复体",
+      "迭代"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9974783
+  },
+  {
+    "word": "Recursive",
+    "phonetic": "ri'kә:siv",
+    "definition": [
+      "a. 循环的, 递归的",
+      "[计] 循环的; 递归的",
+      "递归"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9973615
+  },
+  {
+    "word": "compiler",
+    "phonetic": "kәm'pailә",
+    "definition": [
+      "n. 编辑者",
+      "[计] 编译程序",
+      "编译器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9979178
+  },
+  {
+    "word": "editor",
+    "phonetic": "'editә",
+    "definition": [
+      "n. 编者, 编辑, 主笔, 编辑器, 编辑装置",
+      "[计] 编辑器",
+      "编辑器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998615
+  },
+  {
+    "word": "timer",
+    "phonetic": "'taimә",
+    "definition": [
+      "n. 计时员, 计时器",
+      "[计] 计时器",
+      "计时器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9988926
+  },
+  {
+    "word": "counter",
+    "phonetic": "'kauntә",
+    "definition": [
+      "n. 计算器, 计算者, 柜台, 筹码",
+      "a. 反方向的, 相反的",
+      "adv. 反方向地, 相反地",
+      "[计] 计数器; 计数字",
+      "计数器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997170
+  },
+  {
+    "word": "holding register",
+    "phonetic": "",
+    "definition": [
+      "保存寄存器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 18
+  },
+  {
+    "word": "clock tick",
+    "phonetic": "",
+    "definition": [
+      "[计] 时钟报时信号, 时间分段信号",
+      "时钟滴答"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 17
+  },
+  {
+    "word": "clock synchronisation algorithms",
+    "phonetic": "",
+    "definition": [
+      "时间同步算法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 16
+  },
+  {
+    "word": "network time protocol(NTP)",
+    "phonetic": "",
+    "definition": [
+      "网络时间协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 15
+  },
+  {
+    "word": "reference clock",
+    "phonetic": "",
+    "definition": [
+      "参考时钟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 14
+  },
+  {
+    "word": "time daemon",
+    "phonetic": "",
+    "definition": [
+      "时间守护程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 13
+  },
+  {
+    "word": "reference broadcast synchronisation(RBS)",
+    "phonetic": "",
+    "definition": [
+      "参考广播同步化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 12
+  },
+  {
+    "word": "fault tolerance",
+    "phonetic": "",
+    "definition": [
+      "[计] 容错, 故障容忍",
+      "容错"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 11
+  },
+  {
+    "word": "failure",
+    "phonetic": "'feiljә",
+    "definition": [
+      "n. 失败, 失败者, 不足, 缺乏, 破产",
+      "[计] 故障; 失效",
+      "失败"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9998640
+  },
+  {
+    "word": "error",
+    "phonetic": "'erә",
+    "definition": [
+      "n. 错误, 过失, 失误, 误差",
+      "[计] 错误",
+      "错误"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997802
+  },
+  {
+    "word": "fault",
+    "phonetic": "fɒ:lt",
+    "definition": [
+      "n. 过错, 故障, 毛病",
+      "vt. 挑剔",
+      "vi. 产生断层, 弄错",
+      "[计] 故障",
+      "故障"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9997151
+  },
+  {
+    "word": "Byzantine failure",
+    "phonetic": "",
+    "definition": [
+      "拜占庭故障"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 7
+  },
+  {
+    "word": "Information redundancy",
+    "phonetic": "",
+    "definition": [
+      "[电] 信息冗余",
+      "信息冗余"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 6
+  },
+  {
+    "word": "Time redundancy",
+    "phonetic": "",
+    "definition": [
+      "[计] 时间冗余",
+      "时间冗余"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 5
+  },
+  {
+    "word": "Physical redundancy",
+    "phonetic": "",
+    "definition": [
+      "物理冗余"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 4
+  },
+  {
+    "word": "Process Resilience",
+    "phonetic": "",
+    "definition": [
+      "进程恢复"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 3
+  },
+  {
+    "word": "consensus",
+    "phonetic": "kәn'sensәs",
+    "definition": [
+      "n. 合意, 一致, 同感",
+      "[计] 合意",
+      "一致性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 9996683
+  },
+  {
+    "word": "nonfaulty",
+    "phonetic": "",
+    "definition": [
+      "无故障"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": 1
+  }
+]
