@@ -29,7 +29,7 @@
       <button class="data-action" @click="previewImport"><Upload :size="19" /><span><b>从备份恢复</b><small>先预览内容，再替换当前数据</small></span><ChevronRight :size="18" /></button>
       <button class="data-action danger-action" @click="resetDialog = true"><Trash2 :size="19" /><span><b>清空学习记录</b><small>保留词库、收藏和个人笔记</small></span><ChevronRight :size="18" /></button>
     </section>
-    <footer class="app-about"><img src="/app-icon.png" alt="" /><div><b>VocabMaster 1.0.0</b><span>Windows x64 · 本地数据存储</span></div></footer>
+    <footer class="app-about"><img src="/app-icon.png" alt="" /><div><b>VocabMaster {{ appVersion }}</b><span>Windows x64 · 本地数据存储</span></div></footer>
 
     <Teleport to="body"><div v-if="backupPreview" class="dialog-layer" @click.self="backupPreview = null"><section class="dialog backup-dialog"><div class="dialog-icon"><Database :size="22" /></div><h2>确认恢复备份</h2><p>{{ backupPreview.filename }}</p><dl><div><dt>导出时间</dt><dd>{{ formatDate(backupPreview.exportedAt) }}</dd></div><div><dt>词库</dt><dd>{{ backupPreview.vocabularies }} 个</dd></div><div><dt>单词</dt><dd>{{ backupPreview.words }} 个</dd></div><div><dt>学习记录</dt><dd>{{ backupPreview.records }} 条</dd></div></dl><p class="warning-copy">恢复会替换当前全部数据，建议先导出当前备份。</p><div class="dialog-actions"><button class="secondary-btn" @click="backupPreview = null">取消</button><button class="danger-btn" @click="restoreBackup">替换并恢复</button></div></section></div></Teleport>
     <ConfirmDialog :open="resetDialog" title="清空全部学习记录" message="学习进度、答题历史、错题和统计将永久删除；词库、收藏与笔记会保留。" confirm-text="确认清空" tone="danger" @cancel="resetDialog = false" @confirm="resetProgress" />
@@ -45,6 +45,7 @@ import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 
 const settings = useSettingsStore(); const values = computed(() => settings.values); const toast = useToast()
+const appVersion = __APP_VERSION__
 const resetDialog = ref(false); const backupPreview = ref(null)
 const themes = [{ value: 'light', label: '浅色', icon: Sun }, { value: 'dark', label: '深色', icon: Moon }, { value: 'system', label: '系统', icon: Laptop }]
 const fonts = [{ value: 'small', label: '小' }, { value: 'medium', label: '中' }, { value: 'large', label: '大' }, { value: 'xlarge', label: '特大' }]

@@ -6,6 +6,7 @@ const iconv = require('iconv-lite')
 const XLSX = require('xlsx')
 const { getDatabase } = require('./database.cjs')
 const { createVocabularyTemplate } = require('./vocabulary-template.cjs')
+const { localDateKey, addLocalDays } = require('./date-utils.cjs')
 
 const importCache = new Map()
 const backupCache = new Map()
@@ -37,12 +38,8 @@ const boundedInt = (value, min, max, fallback) => {
   return Number.isFinite(number) ? Math.min(max, Math.max(min, Math.round(number))) : fallback
 }
 
-const today = () => new Date().toISOString().slice(0, 10)
-const addDays = (amount) => {
-  const date = new Date()
-  date.setDate(date.getDate() + amount)
-  return date.toISOString().slice(0, 10)
-}
+const today = () => localDateKey()
+const addDays = (amount) => addLocalDays(new Date(), amount)
 
 function calculateReview(record, quality, options = {}) {
   const q = boundedInt(quality, 0, 5, 0)
@@ -71,7 +68,7 @@ function computeStreak(db) {
   let streak = 0
   const cursor = new Date()
   if (!dates.has(today())) cursor.setDate(cursor.getDate() - 1)
-  while (dates.has(cursor.toISOString().slice(0, 10))) {
+  while (dates.has(localDateKey(cursor))) {
     streak += 1
     cursor.setDate(cursor.getDate() - 1)
   }

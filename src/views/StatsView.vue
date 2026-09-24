@@ -40,6 +40,7 @@ import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref } from 'v
 import { BookOpenCheck, ChartNoAxesCombined, ChevronRight, Clock3, Flame, Target } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
+import { addLocalDays } from '../../electron/date-utils.cjs'
 import { api } from '@/services/api.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
@@ -53,7 +54,7 @@ const heatDays = computed(() => {
   const map = new Map(data.daily.map((day) => [day.date, day.total_count]))
   const values = []
   for (let offset = 125; offset >= 0; offset -= 1) {
-    const date = new Date(); date.setDate(date.getDate() - offset); const key = date.toISOString().slice(0, 10); const count = map.get(key) || 0
+    const key = addLocalDays(new Date(), -offset); const count = map.get(key) || 0
     values.push({ date: key, count, level: count === 0 ? 0 : Math.min(4, Math.ceil(count / 10)) })
   }
   return values
@@ -65,7 +66,7 @@ function themeColors() {
 }
 function fillDaily() {
   const map = new Map(data.daily.map((item) => [item.date, item])); const result = []
-  for (let offset = period.value - 1; offset >= 0; offset -= 1) { const date = new Date(); date.setDate(date.getDate() - offset); const key = date.toISOString().slice(0,10); result.push(map.get(key) || { date: key, study_time: 0, total_count: 0, correct_count: 0 }) }
+  for (let offset = period.value - 1; offset >= 0; offset -= 1) { const key = addLocalDays(new Date(), -offset); result.push(map.get(key) || { date: key, study_time: 0, total_count: 0, correct_count: 0 }) }
   return result
 }
 function renderCharts() {
