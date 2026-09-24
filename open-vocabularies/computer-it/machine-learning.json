@@ -10,8 +10,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 48
+    "antonyms": []
   },
   {
     "word": "Naive Bayes model NBM",
@@ -22,8 +21,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 47
+    "antonyms": []
   },
   {
     "word": "Support Vector Machine SVM",
@@ -34,8 +32,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 46
+    "antonyms": []
   },
   {
     "word": "linear regression",
@@ -47,8 +44,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 45
+    "antonyms": []
   },
   {
     "word": "clustering",
@@ -60,8 +56,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9979422
+    "antonyms": []
   },
   {
     "word": "reinforcement learning",
@@ -72,8 +67,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 43
+    "antonyms": []
   },
   {
     "word": "Deep Learning",
@@ -84,8 +78,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 42
+    "antonyms": []
   },
   {
     "word": "neural networks",
@@ -96,8 +89,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 41
+    "antonyms": []
   },
   {
     "word": "overfitting",
@@ -110,8 +102,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 40
+    "antonyms": []
   },
   {
     "word": "underfitting",
@@ -122,8 +113,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 39
+    "antonyms": []
   },
   {
     "word": "classifier",
@@ -136,8 +126,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9962193
+    "antonyms": []
   },
   {
     "word": "precision",
@@ -151,8 +140,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9994534
+    "antonyms": []
   },
   {
     "word": "recall",
@@ -166,8 +154,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9998871
+    "antonyms": []
   },
   {
     "word": "binary classifier",
@@ -178,8 +165,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 35
+    "antonyms": []
   },
   {
     "word": "separating hyperplane",
@@ -190,8 +176,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 34
+    "antonyms": []
   },
   {
     "word": "generative learning models",
@@ -202,8 +187,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 33
+    "antonyms": []
   },
   {
     "word": "discriminative learning models",
@@ -214,8 +198,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 32
+    "antonyms": []
   },
   {
     "word": "optimisation",
@@ -227,8 +210,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 973385
+    "antonyms": []
   },
   {
     "word": "gradient descent",
@@ -240,8 +222,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 30
+    "antonyms": []
   },
   {
     "word": "threshold",
@@ -254,8 +235,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9995276
+    "antonyms": []
   },
   {
     "word": "perceptron",
@@ -268,8 +248,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 967641
+    "antonyms": []
   },
   {
     "word": "learning rate",
@@ -280,8 +259,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 27
+    "antonyms": []
   },
   {
     "word": "first order",
@@ -293,8 +271,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 26
+    "antonyms": []
   },
   {
     "word": "derivative",
@@ -307,8 +284,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9989222
+    "antonyms": []
   },
   {
     "word": "minima",
@@ -321,8 +297,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 24
+    "antonyms": []
   },
   {
     "word": "conditional probaility",
@@ -333,8 +308,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 23
+    "antonyms": []
   },
   {
     "word": "training set",
@@ -345,8 +319,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 22
+    "antonyms": []
   },
   {
     "word": "validation set",
@@ -357,8 +330,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 21
+    "antonyms": []
   },
   {
     "word": "test set",
@@ -370,8 +342,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 20
+    "antonyms": []
   },
   {
     "word": "hold-out method",
@@ -382,8 +353,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 19
+    "antonyms": []
   },
   {
     "word": "double cross validation",
@@ -394,8 +364,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 18
+    "antonyms": []
   },
   {
     "word": "leave-one-out cross validation",
@@ -406,8 +375,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 17
+    "antonyms": []
   },
   {
     "word": "Taylor expansion",
@@ -418,8 +386,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 16
+    "antonyms": []
   },
   {
     "word": "loss function",
@@ -432,8 +399,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 15
+    "antonyms": []
   },
   {
     "word": "step function",
@@ -445,8 +411,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 14
+    "antonyms": []
   },
   {
     "word": "activation function",
@@ -457,8 +422,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 13
+    "antonyms": []
   },
   {
     "word": "multilayer perceptron",
@@ -469,8 +433,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 12
+    "antonyms": []
   },
   {
     "word": "backpropagation",
@@ -481,8 +444,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 11
+    "antonyms": []
   },
   {
     "word": "chain rule",
@@ -494,8 +456,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 10
+    "antonyms": []
   },
   {
     "word": "information entropy",
@@ -506,8 +467,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9
+    "antonyms": []
   },
   {
     "word": "information gain",
@@ -518,8 +478,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 8
+    "antonyms": []
   },
   {
     "word": "gain ratio",
@@ -530,8 +489,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 7
+    "antonyms": []
   },
   {
     "word": "Gini index",
@@ -542,8 +500,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 6
+    "antonyms": []
   },
   {
     "word": "pruning",
@@ -556,8 +513,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9984112
+    "antonyms": []
   },
   {
     "word": "pre-pruning",
@@ -568,8 +524,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 4
+    "antonyms": []
   },
   {
     "word": "post-pruning",
@@ -580,8 +535,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 3
+    "antonyms": []
   },
   {
     "word": "kernel method",
@@ -592,8 +546,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 2
+    "antonyms": []
   },
   {
     "word": "kernel learning",
@@ -604,7 +557,6 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 1
+    "antonyms": []
   }
 ]

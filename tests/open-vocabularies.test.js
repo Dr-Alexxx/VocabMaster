@@ -12,7 +12,6 @@ const supportedFields = [
   'etymology',
   'synonyms',
   'antonyms',
-  'frequency',
 ]
 
 describe('open vocabulary collection', () => {
@@ -40,8 +39,6 @@ describe('open vocabulary collection', () => {
       expect(Array.isArray(item.examples)).toBe(true)
       expect(Array.isArray(item.synonyms)).toBe(true)
       expect(Array.isArray(item.antonyms)).toBe(true)
-      expect(Number.isInteger(item.frequency)).toBe(true)
-      expect(item.frequency).toBeGreaterThanOrEqual(0)
     }
   })
 })

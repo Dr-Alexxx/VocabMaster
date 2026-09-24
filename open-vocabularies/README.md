@@ -53,7 +53,7 @@
 
 ## 字段
 
-所有文件统一使用 `word`、`phonetic`、`definition`、`examples`、`etymology`、`synonyms`、`antonyms`、`frequency` 八个字段。`definition` 等多值字段使用 JSON 数组。
+所有文件统一使用 `word`、`phonetic`、`definition`、`examples`、`etymology`、`synonyms`、`antonyms` 七个字段。`definition` 等多值字段使用 JSON 数组。
 
 ## 许可与来源
 

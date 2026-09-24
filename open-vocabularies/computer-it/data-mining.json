@@ -10,8 +10,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 16
+    "antonyms": []
   },
   {
     "word": "Data Acquisition",
@@ -24,8 +23,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 15
+    "antonyms": []
   },
   {
     "word": "Data Model",
@@ -37,8 +35,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 14
+    "antonyms": []
   },
   {
     "word": "Data Handling",
@@ -51,8 +48,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 13
+    "antonyms": []
   },
   {
     "word": "Data Compression",
@@ -64,8 +60,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 12
+    "antonyms": []
   },
   {
     "word": "Data Recovery",
@@ -77,8 +72,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 11
+    "antonyms": []
   },
   {
     "word": "Data Integration",
@@ -89,8 +83,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 10
+    "antonyms": []
   },
   {
     "word": "Data Migration",
@@ -102,8 +95,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9
+    "antonyms": []
   },
   {
     "word": "Data Element",
@@ -115,8 +107,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 8
+    "antonyms": []
   },
   {
     "word": "Data Redundancy",
@@ -127,8 +118,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 7
+    "antonyms": []
   },
   {
     "word": "Web data mining",
@@ -139,8 +129,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 6
+    "antonyms": []
   },
   {
     "word": "data standardization",
@@ -151,8 +140,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 5
+    "antonyms": []
   },
   {
     "word": "Data Backup",
@@ -163,8 +151,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 4
+    "antonyms": []
   },
   {
     "word": "Full Backup",
@@ -177,8 +164,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 3
+    "antonyms": []
   },
   {
     "word": "Incremental Backup",
@@ -190,8 +176,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 2
+    "antonyms": []
   },
   {
     "word": "Differential Backup",
@@ -204,7 +189,6 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 1
+    "antonyms": []
   }
 ]

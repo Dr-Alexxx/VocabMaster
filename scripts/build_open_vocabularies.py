@@ -1,8 +1,8 @@
 """Build import-ready open vocabulary packs for VocabMaster.
 
 Sources are deliberately restricted to repositories and APIs with explicit
-redistribution licenses. The generated JSON files contain only the eight
-fields supported by VocabMaster's importer; provenance lives in catalog.json.
+redistribution licenses. The generated JSON files contain the seven stable
+content fields used by this collection; provenance lives in catalog.json.
 """
 
 from __future__ import annotations
@@ -427,14 +427,14 @@ def translation_values(row: dict[str, str]) -> list[str]:
     return values[:5]
 
 
-def priority(row: dict[str, str], fallback: int = 0) -> int:
+def priority(row: dict[str, str]) -> int:
     rank = int(row.get("frq") or 0)
     if rank > 0:
         return max(1, 10_000_000 - rank)
     bnc = int(row.get("bnc") or 0)
     if bnc > 0:
         return max(1, 1_000_000 - bnc)
-    return fallback
+    return 0
 
 
 def scan_ecdict(source: Path, candidate_keys: set[str]) -> tuple[dict[str, dict[str, str]], dict[str, list[dict[str, str]]]]:
@@ -455,7 +455,7 @@ def scan_ecdict(source: Path, candidate_keys: set[str]) -> tuple[dict[str, dict[
 def empty_word(word: str) -> dict[str, object]:
     return {
         "word": normalize_space(word), "phonetic": "", "definition": [], "examples": [],
-        "etymology": "", "synonyms": [], "antonyms": [], "frequency": 0,
+        "etymology": "", "synonyms": [], "antonyms": [],
     }
 
 
@@ -464,15 +464,13 @@ def from_ecdict(row: dict[str, str], word: str | None = None) -> dict[str, objec
     item.update({
         "phonetic": normalize_space(row.get("phonetic", "")),
         "definition": translation_values(row),
-        "frequency": priority(row),
     })
     return item
 
 
 def materialize_library(terms: list[dict[str, object]], lookup: dict[str, dict[str, str]]) -> list[dict[str, object]]:
     output: dict[str, dict[str, object]] = {}
-    total = max(len(terms), 1)
-    for index, source in enumerate(terms):
+    for source in terms:
         word = normalize_space(str(source.get("word", "")))
         key = normalize_key(word)
         if not key or key in output:
@@ -494,8 +492,6 @@ def materialize_library(terms: list[dict[str, object]], lookup: dict[str, dict[s
         item["definition"] = definitions[:7]
         if source.get("phonetic"):
             item["phonetic"] = normalize_space(str(source["phonetic"]))
-        if not item["frequency"]:
-            item["frequency"] = max(1, total - index)
         output[key] = item
     return list(output.values())
 
@@ -540,7 +536,7 @@ def generate_readme(catalog: dict[str, object]) -> str:
         lines.append(f"| {entry['category']} | {entry['name']} | {entry['words']} | {entry['chinese_definitions']} | {entry['license']} | `{entry['file']}` |")
     lines.extend([
         "", "## 字段", "",
-        "所有文件统一使用 `word`、`phonetic`、`definition`、`examples`、`etymology`、`synonyms`、`antonyms`、`frequency` 八个字段。`definition` 等多值字段使用 JSON 数组。", "",
+        "所有文件统一使用 `word`、`phonetic`、`definition`、`examples`、`etymology`、`synonyms`、`antonyms` 七个字段。`definition` 等多值字段使用 JSON 数组。", "",
         "## 许可与来源", "",
         "每个词库的来源 ID、页面修订号和许可证记录在 `catalog.json`。Wikipedia 派生词库包含 CC BY-SA 内容，应按 CC BY-SA 4.0 规则再分发；其他词库分别遵循 MIT 或 Apache-2.0。", "",
         "## 生成", "", "```powershell", "python scripts/build_open_vocabularies.py --ecdict <ecdict.csv> --output open-vocabularies", "```", "",
@@ -606,7 +602,7 @@ def main() -> None:
     catalog = {
         "version": "1.0",
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "schema": ["word", "phonetic", "definition", "examples", "etymology", "synonyms", "antonyms", "frequency"],
+        "schema": ["word", "phonetic", "definition", "examples", "etymology", "synonyms", "antonyms"],
         "summary": {"vocabularies": len(entries), "words": sum(entry["words"] for entry in entries)},
         "sources": SOURCE_METADATA,
         "vocabularies": entries,

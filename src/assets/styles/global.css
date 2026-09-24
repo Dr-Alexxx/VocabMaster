@@ -198,6 +198,7 @@ h3 { font-size: 15px; }
 .spelling-card h2 { max-width: 680px; text-align: center; font-size: 24px; }
 .spelling-card form { display: grid; grid-template-columns: minmax(260px, 430px) auto; gap: 7px 10px; margin-top: 30px; }
 .spelling-card form input { height: 48px; padding: 0 14px; font-size: 20px; text-align: center; }
+.spelling-card form input[readonly] { color: var(--text); border-color: var(--primary); background: var(--surface); cursor: default; }
 .letter-count { grid-column: 1; color: var(--text-faint); font-size: 11px; text-align: center; }
 .answer-feedback { display: flex; align-items: center; gap: 10px; margin-top: 20px; padding: 11px 14px; border-radius: 6px; }
 .answer-feedback div { display: flex; flex-direction: column; }.answer-feedback span { color: var(--text-soft); font-size: 12px; }.answer-feedback.correct { color: var(--success); background: var(--primary-soft); }.answer-feedback.incorrect { color: var(--danger); background: var(--danger-soft); }

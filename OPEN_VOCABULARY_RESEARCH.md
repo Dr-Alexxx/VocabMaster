@@ -16,7 +16,7 @@
 
 | 来源 | 用途 | 许可证 |
 | --- | --- | --- |
-| [ECDICT](https://github.com/skywind3000/ECDICT) | 考试标签、中文释义、音标、词频 | MIT |
+| [ECDICT](https://github.com/skywind3000/ECDICT) | 考试标签、中文释义、音标 | MIT |
 | [English Wikipedia glossaries](https://en.wikipedia.org/) | 主流专业术语与英文解释 | CC BY-SA 4.0 |
 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 程序员高频技术英语 | MIT |
 | [Computer-English-Words](https://github.com/HurleyWong/Computer-English-Words) | 云计算、分布式、区块链、机器学习等 | Apache-2.0 |
@@ -38,8 +38,7 @@
 ## 数据规范与质量控制
 
 每个词条严格包含 `word`、`phonetic`、`definition`、`examples`、`etymology`、
-`synonyms`、`antonyms`、`frequency` 八个字段。`word` 和 `definition` 必填；词频为
-非负整数；同一文件内按不区分大小写的单词去重。`npm test` 会逐一读取总目录中的
+`synonyms`、`antonyms` 七个字段。`word` 和 `definition` 必填；同一文件内按不区分大小写的单词去重。`npm test` 会逐一读取总目录中的
 全部词库，验证 JSON、字段、必填项、去重和统计值。
 
 Wikipedia 内容通过 MediaWiki API 获取，并移除导航、目录、脚注、图片说明、隐藏

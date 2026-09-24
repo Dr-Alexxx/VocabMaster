@@ -13,8 +13,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9998083
+    "antonyms": []
   },
   {
     "word": "Velocity",
@@ -27,8 +26,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9993443
+    "antonyms": []
   },
   {
     "word": "Variety",
@@ -41,8 +39,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9998829
+    "antonyms": []
   },
   {
     "word": "Value",
@@ -56,8 +53,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9999501
+    "antonyms": []
   },
   {
     "word": "Variability",
@@ -70,8 +66,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9991597
+    "antonyms": []
   },
   {
     "word": "Veracity",
@@ -83,8 +78,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9982073
+    "antonyms": []
   },
   {
     "word": "Hadoop Distributed File System",
@@ -95,8 +89,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 13
+    "antonyms": []
   },
   {
     "word": "high throughput",
@@ -108,8 +101,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 12
+    "antonyms": []
   },
   {
     "word": "streaming access",
@@ -120,8 +112,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 11
+    "antonyms": []
   },
   {
     "word": "Data Warehouse",
@@ -132,8 +123,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 10
+    "antonyms": []
   },
   {
     "word": "NoSQL",
@@ -144,8 +134,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 9
+    "antonyms": []
   },
   {
     "word": "Structured Method",
@@ -156,8 +145,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 8
+    "antonyms": []
   },
   {
     "word": "Semi-Structured Data",
@@ -168,8 +156,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 7
+    "antonyms": []
   },
   {
     "word": "Node Manager",
@@ -180,8 +167,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 6
+    "antonyms": []
   },
   {
     "word": "Resource Manager",
@@ -193,8 +179,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 5
+    "antonyms": []
   },
   {
     "word": "Spatial analysis",
@@ -205,8 +190,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 4
+    "antonyms": []
   },
   {
     "word": "Simulation analysis",
@@ -218,8 +202,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 3
+    "antonyms": []
   },
   {
     "word": "Signal analysis",
@@ -230,8 +213,7 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 2
+    "antonyms": []
   },
   {
     "word": "Regression analysis",
@@ -244,7 +226,6 @@
     "examples": [],
     "etymology": "",
     "synonyms": [],
-    "antonyms": [],
-    "frequency": 1
+    "antonyms": []
   }
 ]
