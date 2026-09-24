@@ -60,10 +60,12 @@ import { ref, watch } from 'vue'
 import { Save, Star, Volume2, X } from 'lucide-vue-next'
 import { api } from '@/services/api.js'
 import { useToast } from '@/composables/useToast.js'
+import { useSpeech } from '@/composables/useSpeech.js'
 
 const props = defineProps({ open: Boolean, wordId: Number })
 const emit = defineEmits(['close', 'updated'])
 const toast = useToast()
+const { speak: speakWord } = useSpeech()
 const loading = ref(false)
 const word = ref(null)
 const notes = ref('')
@@ -79,7 +81,7 @@ watch(() => [props.open, props.wordId], async ([open, id]) => {
 }, { immediate: true })
 
 function statusLabel(status) { return ({ new: '新词', learning: '学习中', review: '复习中', mastered: '已掌握' })[status] || '新词' }
-function speak() { if (word.value) window.speechSynthesis?.speak(new SpeechSynthesisUtterance(word.value.word)) }
+function speak() { if (word.value) speakWord(word.value.word) }
 async function toggleFavorite() {
   word.value = { ...word.value, is_favorited: !word.value.is_favorited }
   await api.updateWord(word.value.id, { is_favorited: word.value.is_favorited })

@@ -23,7 +23,8 @@
         </div>
         <div class="vocab-actions">
           <label class="switch" :title="vocab.is_active ? '停用词库' : '启用词库'"><input type="checkbox" :checked="vocab.is_active" @change="toggleActive(vocab, $event.target.checked)" /><span></span></label>
-          <button class="icon-btn" title="导出 JSON" @click="exportVocab(vocab, 'json')"><Download :size="18" /></button>
+          <button class="icon-btn" title="导出 JSON" @click="exportVocab(vocab, 'json')"><FileJson :size="18" /></button>
+          <button class="icon-btn" title="导出 CSV" @click="exportVocab(vocab, 'csv')"><FileText :size="18" /></button>
           <button v-if="!vocab.is_default" class="icon-btn danger-icon" title="删除词库" @click="askDelete(vocab)"><Trash2 :size="18" /></button>
         </div>
       </article>

@@ -35,7 +35,10 @@
 </template>
 
 <script setup>
-import * as echarts from 'echarts'
+import * as echarts from 'echarts/core'
+import { BarChart, LineChart } from 'echarts/charts'
+import { GridComponent, LegendComponent, TooltipComponent } from 'echarts/components'
+import { CanvasRenderer } from 'echarts/renderers'
 import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref } from 'vue'
 import { BookOpenCheck, ChartNoAxesCombined, ChevronRight, Clock3, Flame, Target } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
@@ -44,6 +47,8 @@ import { addLocalDays } from '../../electron/date-utils.cjs'
 import { api } from '@/services/api.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
+
+echarts.use([BarChart, LineChart, GridComponent, LegendComponent, TooltipComponent, CanvasRenderer])
 
 const settings = useSettingsStore(); const toast = useToast(); const period = ref(30)
 const data = reactive({ daily: [], modes: [], vocabularies: [], weakWords: [], totals: {} })

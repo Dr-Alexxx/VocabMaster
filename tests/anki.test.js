@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest'
-import { calculateQuality, levenshteinDistance, updateCard } from '../src/algorithms/anki.js'
+import { calculateQuality, levenshteinDistance, spellingFeedback, updateCard } from '../src/algorithms/anki.js'
 
 describe('SM-2 review scheduling', () => {
   test('resets a failed card to a one-day interval', () => {
@@ -35,5 +35,27 @@ describe('automatic answer quality', () => {
     expect(calculateQuality('choice', 'correct', 'correct', 2000)).toBe(5)
     expect(calculateQuality('choice', 'correct', 'correct', 5000)).toBe(4)
     expect(calculateQuality('choice', 'wrong', 'correct', 1000)).toBe(0)
+  })
+})
+
+describe('spelling feedback tiers', () => {
+  test('flags an exact match', () => {
+    expect(spellingFeedback('ability', 'ability')).toEqual({ tier: 'exact', quality: 5, distance: 0 })
+  })
+
+  test('flags near misses within two edits as close', () => {
+    expect(spellingFeedback('abilty', 'ability')).toEqual({ tier: 'close', quality: 3, distance: 1 })
+    expect(spellingFeedback('Abilty', 'ability')).toEqual({ tier: 'close', quality: 3, distance: 1 })
+  })
+
+  test('flags distant answers as wrong with low quality', () => {
+    const result = spellingFeedback('banana', 'ability')
+    expect(result.tier).toBe('wrong')
+    expect(result.quality).toBeLessThanOrEqual(1)
+  })
+
+  test('flags empty answers as empty', () => {
+    expect(spellingFeedback('', 'ability')).toEqual({ tier: 'empty', quality: 0, distance: 7 })
+    expect(spellingFeedback('   ', 'ability')).toEqual({ tier: 'empty', quality: 0, distance: 7 })
   })
 })

@@ -7,6 +7,8 @@ const XLSX = require('xlsx')
 const { getDatabase } = require('./database.cjs')
 const { createVocabularyTemplate } = require('./vocabulary-template.cjs')
 const { localDateKey, addLocalDays } = require('./date-utils.cjs')
+const { planDailyNewQuota } = require('./study-goal.cjs')
+const { applyBackup } = require('./backup-merge.cjs')
 
 const importCache = new Map()
 const backupCache = new Map()
@@ -172,6 +174,7 @@ function registerIpcHandlers() {
     const newLimit = boundedInt(settings.dailyNewLimit, 0, 200, 20)
     let reviews = []
     let newWords = []
+    let goal = null
     if (source === 'mistakes') {
       reviews = db.prepare(`
         SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
@@ -186,6 +189,16 @@ function registerIpcHandlers() {
         FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN learning_records lr ON lr.word_id = w.id
         WHERE w.is_favorited = 1 ORDER BY w.id DESC LIMIT ?
       `).all(Math.max(reviewLimit, 20))
+    } else if (source === 'test') {
+      newWords = db.prepare(`
+        SELECT w.*, v.name vocabulary_name, COALESCE(lr.easiness_factor, 2.5) easiness_factor,
+          COALESCE(lr.interval, 0) interval, COALESCE(lr.repetitions, 0) repetitions,
+          COALESCE(lr.status, 'new') status, 'test' queue_type, COALESCE(m.mistake_count, 0) mistake_count
+        FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id
+        LEFT JOIN learning_records lr ON lr.word_id = w.id LEFT JOIN mistake_book m ON m.word_id = w.id
+        WHERE v.is_active = 1
+        GROUP BY lower(w.word) ORDER BY RANDOM() LIMIT ?
+      `).all(20)
     } else {
       reviews = db.prepare(`
         SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
@@ -200,6 +213,12 @@ function registerIpcHandlers() {
           SELECT 1 FROM words same JOIN learning_records known ON known.word_id = same.id
           WHERE lower(same.word) = lower(w.word) AND known.is_learned = 1
         )`
+      const remainingNew = db.prepare(`
+        SELECT COUNT(DISTINCT lower(w.word)) count FROM words w
+        JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN learning_records lr ON lr.word_id = w.id
+        WHERE v.is_active = 1 AND COALESCE(lr.is_learned, 0) = 0
+      `).get().count
+      goal = planDailyNewQuota({ remainingWords: remainingNew, deadlineKey: settings.goalDeadline || null, todayKey: today(), baseLimit: newLimit })
       newWords = db.prepare(`
         SELECT w.*, v.name vocabulary_name, 2.5 easiness_factor, 0 interval, 0 repetitions,
           'new' status, 'new' queue_type
@@ -207,13 +226,13 @@ function registerIpcHandlers() {
         LEFT JOIN learning_records lr ON lr.word_id = w.id
         WHERE v.is_active = 1 AND COALESCE(lr.is_learned, 0) = 0 ${dedupClause}
         GROUP BY lower(w.word) ORDER BY COALESCE(w.frequency, 0) DESC, w.id ASC LIMIT ?
-      `).all(newLimit)
+      `).all(goal.quota)
     }
     const choicePool = db.prepare(`
       SELECT definition FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id
       WHERE v.is_active = 1 AND definition <> '[]' ORDER BY RANDOM() LIMIT 80
     `).all().flatMap((row) => jsonArray(row.definition).slice(0, 1))
-    return { words: [...reviews, ...newWords].map(hydrateWord), reviewCount: reviews.length, newCount: newWords.length, choicePool }
+    return { words: [...reviews, ...newWords].map(hydrateWord), reviewCount: reviews.length, newCount: newWords.length, choicePool, goal }
   })
 
   ipcMain.handle('study:answer', (_event, payload = {}) => {
@@ -476,31 +495,12 @@ function registerFileHandlers(db) {
       vocabularies: data.vocabularies.length, words: data.words.length, records: data.learning_records?.length || 0 }
   })
 
-  ipcMain.handle('data:import-commit', (_event, token) => {
+  ipcMain.handle('data:import-commit', (_event, token, strategy = 'replace') => {
     const data = backupCache.get(token)
     if (!data) throw new Error('备份预览已过期，请重新选择文件')
-    const tables = ['study_history', 'mistake_book', 'learning_records', 'daily_statistics', 'user_settings', 'words', 'vocabularies']
-    const columns = {
-      vocabularies: ['id','name','type','description','is_default','is_active','created_at','updated_at'],
-      words: ['id','vocabulary_id','word','phonetic','definition','examples','etymology','synonyms','antonyms','frequency','notes','is_favorited','created_at'],
-      learning_records: ['id','word_id','easiness_factor','interval','repetitions','status','next_review_date','last_review_date','is_learned','first_learned_at','created_at','updated_at'],
-      study_history: ['id','word_id','learning_record_id','study_mode','quality','time_spent','is_correct','studied_at'],
-      mistake_book: ['id','word_id','mistake_count','last_mistake_at','last_mode','is_frequent','created_at'],
-      daily_statistics: ['id','date','new_words_count','review_count','correct_count','total_count','study_time','created_at'],
-      user_settings: ['id','key','value','updated_at']
-    }
-    db.pragma('foreign_keys = OFF')
-    try {
-      db.transaction(() => {
-        tables.forEach((table) => db.prepare(`DELETE FROM ${table}`).run())
-        Object.entries(columns).forEach(([table, fields]) => {
-          const insert = db.prepare(`INSERT INTO ${table} (${fields.join(',')}) VALUES (${fields.map(() => '?').join(',')})`)
-          for (const row of data[table] || []) insert.run(...fields.map((field) => row[field] ?? null))
-        })
-      })()
-    } finally { db.pragma('foreign_keys = ON') }
+    const result = applyBackup(db, data, strategy)
     backupCache.delete(token)
-    return true
+    return result
   })
 
   ipcMain.handle('data:reset-progress', () => {

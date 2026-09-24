@@ -35,13 +35,18 @@ export function levenshteinDistance(left = '', right = '') {
   return row[b.length]
 }
 
+export function spellingFeedback(answer, correct) {
+  const submitted = String(answer ?? '').trim()
+  const target = String(correct ?? '').trim()
+  const distance = levenshteinDistance(submitted, target)
+  if (!submitted) return { tier: 'empty', quality: 0, distance: target.length }
+  if (distance === 0) return { tier: 'exact', quality: 5, distance }
+  if (distance <= 2) return { tier: 'close', quality: 3, distance }
+  return { tier: 'wrong', quality: distance <= 4 ? 1 : 0, distance }
+}
+
 export function calculateQuality(mode, answer, correct, elapsedMs = 0) {
   if (mode === 'flashcard') return Math.min(5, Math.max(0, Number(answer) || 0))
   if (mode === 'choice') return answer === correct ? (elapsedMs < 3000 ? 5 : 4) : 0
-  const distance = levenshteinDistance(String(answer).trim(), String(correct).trim())
-  if (!String(answer).trim()) return 0
-  if (distance === 0) return 5
-  if (distance <= 2) return 3
-  if (distance <= 4) return 1
-  return 0
+  return spellingFeedback(answer, correct).quality
 }

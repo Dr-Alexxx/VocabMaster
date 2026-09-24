@@ -27,7 +27,11 @@
         <div class="today-copy">
           <span class="eyebrow">今日计划</span>
           <h2>{{ dashboard.due ? '先完成到期复习，再学习新词' : '复习已清空，可以开始新词' }}</h2>
-          <p>{{ dashboard.due }} 个待复习 · 最多 {{ Math.min(dashboard.newCount, settings.values.dailyNewLimit) }} 个新词</p>
+          <p>{{ dashboard.due }} 个待复习 · 最多 {{ plannedNew }} 个新词</p>
+          <p v-if="goalActive" class="goal-line">
+            目标截止 {{ goalDeadlineText }} · 剩余 {{ goalPlan.daysLeft }} 天 · 今日建议 {{ goalPlan.quota }} 个新词
+            <b v-if="!goalPlan.feasible">按每日上限无法按期完成，建议延长截止日期</b>
+          </p>
           <button class="primary-btn large" @click="start('mixed')"><Play :size="19" fill="currentColor" />开始学习</button>
         </div>
         <div class="today-progress" :style="{ '--progress': `${todayProgress}%` }">
@@ -75,10 +79,12 @@
 <script setup>
 import { computed, onActivated, onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
-import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, Clock3, Flame, Keyboard, Layers3, Play, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
+import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock3, Flame, Keyboard, Layers3, Play, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
+import { localDateKey } from '../../electron/date-utils.cjs'
+import { planDailyNewQuota } from '../../electron/study-goal.cjs'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 
@@ -97,12 +103,24 @@ let searchTimer
 
 const dateText = new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' }).format(new Date())
 const todayAccuracy = computed(() => dashboard.value.todayTotal ? Math.round(dashboard.value.todayCorrect / dashboard.value.todayTotal * 100) : 0)
+const goalPlan = computed(() => planDailyNewQuota({
+  remainingWords: dashboard.value.newCount,
+  deadlineKey: settings.values.goalDeadline || null,
+  todayKey: localDateKey(),
+  baseLimit: Math.min(dashboard.value.newCount, settings.values.dailyNewLimit)
+}))
+const goalActive = computed(() => Boolean(settings.values.goalDeadline) && dashboard.value.newCount > 0)
+const plannedNew = computed(() => goalActive.value ? goalPlan.value.quota : Math.min(dashboard.value.newCount, settings.values.dailyNewLimit))
+const goalDeadlineText = computed(() => settings.values.goalDeadline
+  ? new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric' }).format(new Date(`${settings.values.goalDeadline}T00:00:00`))
+  : '')
 const todayProgress = computed(() => Math.min(100, Math.round(dashboard.value.todayTotal / Math.max(1, settings.values.dailyNewLimit + dashboard.value.due) * 100)))
 const modes = [
   { id: 'flashcard', name: '卡片记忆', description: '翻转卡片后进行 0–5 自评', icon: Layers3 },
   { id: 'spelling', name: '拼写练习', description: '根据释义输入英文单词', icon: Keyboard },
   { id: 'choice', name: '选择题', description: '从四个释义中辨认答案', icon: BadgeCheck },
-  { id: 'mixed', name: '混合模式', description: '三种题型自动交替出现', icon: Shuffle }
+  { id: 'mixed', name: '混合模式', description: '三种题型自动交替出现', icon: Shuffle },
+  { id: 'test', name: '词汇测试', description: '20 题拼写与选择测验，生成成绩报告', icon: ClipboardCheck }
 ]
 
 async function load() {

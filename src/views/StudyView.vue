@@ -30,8 +30,13 @@
     <main v-else-if="completed" class="study-complete">
       <div class="complete-mark"><Trophy :size="36" /></div>
       <span class="eyebrow">本次完成</span>
-      <h1>{{ words.length ? '学习计划已完成' : '当前没有待学单词' }}</h1>
+      <h1>{{ words.length ? (selectedMode === 'test' ? '测试完成' : '学习计划已完成') : '当前没有待学单词' }}</h1>
       <p>{{ words.length ? '新的复习时间已经根据本次表现安排。' : '可以激活其他词库，或稍后回来复习。' }}</p>
+      <div v-if="words.length && selectedMode === 'test'" class="test-report">
+        <b>{{ testResult.grade }} · {{ testResult.percent }}%</b>
+        <p>答对 {{ sessionStats.correct }} / {{ sessionStats.total }} 题 · {{ testResult.label }}</p>
+        <div v-if="wrongWords.length" class="wrong-words"><span>需加强：</span><em v-for="word in wrongWords" :key="word">{{ word }}</em></div>
+      </div>
       <div v-if="words.length" class="completion-stats">
         <div><b>{{ sessionStats.total }}</b><span>完成题目</span></div>
         <div><b>{{ accuracy }}%</b><span>本次正确率</span></div>
@@ -41,7 +46,7 @@
     </main>
 
     <main v-else class="study-stage">
-      <div class="queue-meta"><span class="status-chip" :class="currentWord.queue_type">{{ currentWord.queue_type === 'new' ? '新词' : '复习' }}</span><span>{{ modeName(currentMode) }}</span><span>{{ currentWord.vocabulary_name }}</span></div>
+      <div class="queue-meta"><span class="status-chip" :class="currentWord.queue_type">{{ ({ new: '新词', review: '复习', test: '测试' })[currentWord.queue_type] || '复习' }}</span><span>{{ modeName(currentMode) }}</span><span>{{ currentWord.vocabulary_name }}</span></div>
 
       <section v-if="currentMode === 'flashcard'" class="study-card flashcard" :class="{ revealed }">
         <div class="card-front">
@@ -64,9 +69,9 @@
           <span class="letter-count">{{ answer.length }} / {{ currentWord.word.length }} 个字母</span>
           <button v-if="!feedback" class="primary-btn" :disabled="!answer.trim() || submitting">{{ submitting ? '正在保存...' : '检查答案' }}</button>
         </form>
-        <div v-if="feedback" class="answer-feedback" :class="feedback.correct ? 'correct' : 'incorrect'" aria-live="polite">
-          <component :is="feedback.correct ? CircleCheck : CircleX" :size="22" />
-          <div><b>{{ feedback.correct ? '拼写正确' : '正确答案：' + currentWord.word }}</b><span v-if="!feedback.correct">你的答案：{{ answer || '未作答' }}</span></div>
+        <div v-if="feedback" class="answer-feedback" :class="feedbackClass" aria-live="polite">
+          <component :is="feedbackIcon" :size="22" />
+          <div><b>{{ feedbackTitle }}</b><span v-if="feedbackDetail">{{ feedbackDetail }}</span></div>
         </div>
       </section>
 
@@ -101,25 +106,28 @@
 <script setup>
 import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { ArrowLeft, ArrowRight, BadgeCheck, CircleCheck, CircleX, Keyboard, Layers3, PanelRightOpen, Pause, Play, Shuffle, SkipForward, Star, Trophy, Volume2 } from 'lucide-vue-next'
+import { ArrowLeft, ArrowRight, BadgeCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, Shuffle, SkipForward, Star, Trophy, Volume2 } from 'lucide-vue-next'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
-import { calculateQuality } from '@/algorithms/anki.js'
-import { choiceShortcutIndex, spellingEnterAction } from '@/algorithms/study-interaction.js'
+import { calculateQuality, spellingFeedback } from '@/algorithms/anki.js'
+import { choiceShortcutIndex, spellingEnterAction, testGrade } from '@/algorithms/study-interaction.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
+import { useSpeech } from '@/composables/useSpeech.js'
 
 const route = useRoute(); const router = useRouter(); const settings = useSettingsStore(); const toast = useToast()
+const { speak: speakWord, stop: stopSpeech } = useSpeech()
 const modeOptions = [
   { id: 'flashcard', name: '卡片', icon: Layers3 }, { id: 'spelling', name: '拼写', icon: Keyboard },
-  { id: 'choice', name: '选择', icon: BadgeCheck }, { id: 'mixed', name: '混合', icon: Shuffle }
+  { id: 'choice', name: '选择', icon: BadgeCheck }, { id: 'mixed', name: '混合', icon: Shuffle },
+  { id: 'test', name: '测试', icon: ClipboardCheck }
 ]
 const ratings = [
   { value: 0, label: '忘记', class: 'fail' }, { value: 1, label: '模糊', class: 'fail' },
   { value: 2, label: '困难', class: 'hard' }, { value: 3, label: '犹豫', class: 'okay' },
   { value: 4, label: '轻松', class: 'good' }, { value: 5, label: '熟练', class: 'easy' }
 ]
-const selectedMode = ref(['flashcard','spelling','choice','mixed'].includes(route.query.mode) ? route.query.mode : 'mixed')
+const selectedMode = ref(['flashcard','spelling','choice','mixed','test'].includes(route.query.mode) ? route.query.mode : 'mixed')
 const source = ref(['daily','mistakes','favorites'].includes(route.query.source) ? route.query.source : 'daily')
 const loading = ref(false); const sessionActive = ref(false); const completed = ref(false); const paused = ref(false)
 const submitting = ref(false)
@@ -128,14 +136,32 @@ const revealed = ref(false); const answer = ref(''); const feedback = ref(null);
 const selectedChoice = ref(''); const drawerOpen = ref(false); const spellingInput = ref(null)
 const startedAt = ref(0); const questionStartedAt = ref(0); const pausedAt = ref(0); const pausedTotal = ref(0)
 const sessionStats = ref({ total: 0, correct: 0, duration: 0 })
+const wrongWords = ref([])
 const currentWord = computed(() => words.value[currentIndex.value] || null)
 const currentMode = computed(() => modes.value[currentIndex.value] || selectedMode.value)
 const progress = computed(() => words.value.length ? Math.round(currentIndex.value / words.value.length * 100) : 0)
 const accuracy = computed(() => sessionStats.value.total ? Math.round(sessionStats.value.correct / sessionStats.value.total * 100) : 0)
-const sourceLabel = computed(() => ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹' })[source.value])
+const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹' })[source.value])
+const testResult = computed(() => testGrade(sessionStats.value.correct, sessionStats.value.total))
+const feedbackClass = computed(() => {
+  if (!feedback.value) return ''
+  if (feedback.value.tier === 'close') return 'close'
+  return feedback.value.correct ? 'correct' : 'incorrect'
+})
+const feedbackIcon = computed(() => {
+  if (!feedback.value) return CircleCheck
+  if (feedback.value.tier === 'close') return CircleAlert
+  return feedback.value.correct ? CircleCheck : CircleX
+})
+const feedbackTitle = computed(() => {
+  if (!feedback.value) return ''
+  if (feedback.value.tier === 'close') return `接近正确：${currentWord.value.word}`
+  return feedback.value.correct ? '拼写正确' : `正确答案：${currentWord.value.word}`
+})
+const feedbackDetail = computed(() => (feedback.value && feedback.value.tier !== 'exact') ? `你的答案：${answer.value || '未作答'}` : '')
 
 function shuffled(items) { return [...items].sort(() => Math.random() - 0.5) }
-function modeName(mode) { return ({ flashcard: '卡片', spelling: '拼写', choice: '选择题' })[mode] }
+function modeName(mode) { return ({ flashcard: '卡片', spelling: '拼写', choice: '选择题', test: '测验' })[mode] }
 function prepareQuestion() {
   revealed.value = false; answer.value = ''; feedback.value = null; selectedChoice.value = ''; submitting.value = false; questionStartedAt.value = Date.now()
   if (currentMode.value === 'choice') {
@@ -149,10 +175,10 @@ function prepareQuestion() {
 async function startSession() {
   loading.value = true
   try {
-    const plan = await api.dailyPlan({ ...settings.values }, source.value)
+    const plan = await api.dailyPlan({ ...settings.values }, selectedMode.value === 'test' ? 'test' : source.value)
     words.value = plan.words; choicePool.value = plan.choicePool || []
-    modes.value = words.value.map(() => selectedMode.value === 'mixed' ? shuffled(['flashcard','spelling','choice'])[0] : selectedMode.value)
-    currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0 }; startedAt.value = Date.now(); pausedTotal.value = 0
+    modes.value = words.value.map(() => selectedMode.value === 'mixed' ? shuffled(['flashcard','spelling','choice'])[0] : selectedMode.value === 'test' ? shuffled(['spelling','choice'])[0] : selectedMode.value)
+    currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0 }; wrongWords.value = []; startedAt.value = Date.now(); pausedTotal.value = 0
     if (!words.value.length) { completed.value = true; sessionActive.value = false }
     else { sessionActive.value = true; completed.value = false; prepareQuestion() }
   } catch (error) { toast.error(error.message) }
@@ -167,6 +193,7 @@ async function submit(quality) {
     await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, timeSpent: elapsed, options: { ...settings.reviewOptions } })
     sessionStats.value.total += 1
     if (quality >= 3) sessionStats.value.correct += 1
+    else if (selectedMode.value === 'test') wrongWords.value.push(currentWord.value.word)
     if (currentMode.value === 'flashcard') shouldAdvance = true
     else feedback.value.recorded = true
     return true
@@ -183,9 +210,9 @@ async function submit(quality) {
 }
 async function submitSpelling() {
   if (feedback.value || submitting.value || !answer.value.trim()) return
-  const quality = calculateQuality('spelling', answer.value, currentWord.value.word)
-  feedback.value = { correct: quality >= 3, quality, recorded: false }
-  await submit(quality)
+  const result = spellingFeedback(answer.value, currentWord.value.word)
+  feedback.value = { correct: result.quality >= 3, quality: result.quality, tier: result.tier, recorded: false }
+  await submit(result.quality)
 }
 function handleSpellingEnter() {
   const action = spellingEnterAction({
@@ -235,7 +262,7 @@ async function toggleFavorite() {
   }
 }
 function updateCurrent(updated) { Object.assign(currentWord.value, updated) }
-function speak() { if (currentWord.value) { window.speechSynthesis?.cancel(); window.speechSynthesis?.speak(new SpeechSynthesisUtterance(currentWord.value.word)) } }
+function speak() { if (currentWord.value) speakWord(currentWord.value.word) }
 function pauseStudy() { if (!sessionActive.value || paused.value || submitting.value) return; pausedAt.value = Date.now(); paused.value = true }
 function resume() { pausedTotal.value += Date.now() - pausedAt.value; paused.value = false; if (currentMode.value === 'spelling') nextTick(() => spellingInput.value?.focus()) }
 function leave() { router.push('/') }
@@ -259,5 +286,5 @@ function handleKey(event) {
   }
 }
 onMounted(() => { window.addEventListener('keydown', handleKey); if (route.query.start === '1') startSession() })
-onBeforeUnmount(() => { window.removeEventListener('keydown', handleKey); window.speechSynthesis?.cancel() })
+onBeforeUnmount(() => { window.removeEventListener('keydown', handleKey); stopSpeech() })
 </script>

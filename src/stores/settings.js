@@ -5,6 +5,8 @@ import { api } from '@/services/api.js'
 const defaults = {
   theme: 'system', fontSize: 'medium', dailyNewLimit: 20, dailyReviewLimit: 100,
   enableCrossVocabDedup: true, showExamples: true, autoPronounce: false,
+  voiceAccent: 'system', speechRate: 1,
+  goalDeadline: '',
   initialEasiness: 2.5, intervalModifier: 1, masteryRepetitions: 5, masteryDays: 21
 }
 
