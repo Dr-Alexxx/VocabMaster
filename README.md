@@ -34,11 +34,12 @@ npm run dev
 npm test
 npm run build:web
 npm run build:win
+npm run pack:zip
 ```
 
 `npm test` 运行 9 个测试套件（SM-2 算法、本地日期与目标摊派、学习交互与测试评级、语音选择、备份合并策略、词库模板、内置词库与开放词库数据校验）。
 
-Windows 构建产物位于 `release/`：
+Windows 构建产物位于 `release/`（`npm run build:win` 生成安装包与程序目录，`npm run pack:zip` 将 `win-unpacked/` 打包为发布 zip）：
 
 - `VocabMaster-Setup-1.0.1-win-x64.exe`：可选择安装目录的 NSIS 安装程序
 - `VocabMaster-Portable-1.0.1-win-x64.exe`：无需安装的便携启动器

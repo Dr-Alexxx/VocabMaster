@@ -13,7 +13,8 @@
     "test:watch": "vitest",
     "build:web": "vite build",
     "build:win": "vite build && electron-builder --win --x64",
-    "pack:win": "vite build && electron-builder --win --x64 --dir"
+    "pack:win": "vite build && electron-builder --win --x64 --dir",
+    "pack:zip": "node scripts/pack-zip.cjs"
   },
   "dependencies": {
     "better-sqlite3": "^12.11.1",
