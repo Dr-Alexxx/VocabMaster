@@ -1,0 +1,1592 @@
+[
+  {
+    "word": "access token",
+    "phonetic": "",
+    "definition": [
+      "[网络] 访问令牌;访问标记;存取令牌",
+      "EN: In Microsoft Windows operating systems, an access token contains the security credentials for a login session and identifies the user, the user's groups, the user's privileges, and, in some cases, a particular application."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "binary semaphore",
+    "phonetic": "",
+    "definition": [
+      "二进制旗号",
+      "EN: See semaphore."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "booting",
+    "phonetic": "",
+    "definition": [
+      "[计] 引导, 引导装入",
+      "EN: In computing, booting (also known as booting up) is the initial set of operations that a computer performs after electrical power is switched on or when the computer is reset. This can take tens of seconds and typically involves performing a power-on self-test, locating and initializing peripheral devices, and then finding, loading and starting the operating system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cache",
+    "phonetic": "kæʃ",
+    "definition": [
+      "n. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器",
+      "vt. 隐藏, 窖藏",
+      "[计] 高速缓冲存储器, 高速缓冲",
+      "EN: In computer science, a cache is a component that transparently stores data so that future requests for that data can be served faster. The data that is stored within a cache might be values that have been computed earlier or duplicates of original values that are stored elsewhere."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cloud",
+    "phonetic": "klaud",
+    "definition": [
+      "n. 云, 阴暗, 烟雾, 疑团",
+      "vt. 以云遮敝, 笼罩, 使黯然",
+      "vi. 乌云密布, 阴沉",
+      "EN: Cloud computing operating systems are recent, and were not mentioned in Gagne's 8th Edition (2009). In contrast, by Gagne's 9th (2012), cloud o/s received 3 pages of coverage (41, 42, 716). Doeppner (2011) mentions them (p. 3), but only to prove that operating systems \"are not a solved problem\" and that even if the day of the dedicated PC is waning, cloud computing has created an entirely new opportunity for o/s development ala sharing, networks, memory, parallelism, etc. Gagne (2012) adds that in addition to numerous traditional o/s's at cloud warehouses, Virtual machine o/s (VMMs), Eucalyptus, Vware, vCloud Director and others are being developed specifically for cloud management with nume"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daemon",
+    "phonetic": "'di:mәn",
+    "definition": [
+      "[计] 无交互后台程序",
+      "EN: Operating systems often start daemons at boot time and serve the function of responding to network requests, hardware activity, or other programs by performing some task. Daemons can also configure hardware (like udevd on some Linux systems), run scheduled tasks (like cron), and perform a variety of other tasks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kernel",
+    "phonetic": "'kә:nl",
+    "definition": [
+      "n. 核心, 中心, 精髓, 内核",
+      "[计] 内核",
+      "EN: In computing, the kernel is a computer program that manages input/output requests from software and translates them into data processing instructions for the central processing unit and other electronic components of a computer. The kernel is a fundamental part of a modern computer's operating system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lock",
+    "phonetic": "lɒk",
+    "definition": [
+      "n. 锁, 刹车, 水闸, 一缕头发",
+      "vt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住",
+      "vi. 锁住, (齿轮等)啮合, (船)过闸",
+      "EN: In computer science, a lock or mutex (from mutual exclusion) is a synchronization mechanism for enforcing limits on access to a resource in an environment where there are many threads of execution. A lock is designed to enforce a mutual exclusion concurrency control policy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mutex",
+    "phonetic": "",
+    "definition": [
+      "n. 互斥量;互斥;互斥元, 互斥体",
+      "EN: See lock."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mutual exclusion",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)互斥现象",
+      "EN: Mutual exclusion is to allow only one process at a time to access the same critical section (a part of code which accesses the critical resource). This helps prevent race conditions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paging daemon",
+    "phonetic": "",
+    "definition": [
+      "EN: See daemon."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "semaphore",
+    "phonetic": "'semәfɒ:",
+    "definition": [
+      "n. 信号, 臂板信号, 旗语",
+      "vt. 用信号联络",
+      "vi. 打信号, 发旗语",
+      "[计] 信号; 号志; 信号灯",
+      "EN: In computer science, particularly in operating systems, a semaphore is a variable or abstract data type that is used for controlling access, by multiple processes, to a common resource in a parallel programming or a multi user environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "templating",
+    "phonetic": "",
+    "definition": [
+      "(template 的现在分词) n. 样板, 模板, 垫木",
+      "[计] 模板",
+      "EN: In an o/s context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines (Gagne, 2012, p. 716). The technique is used both in virtualization and cloud computing management, and is common in large server warehouses."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thread",
+    "phonetic": "θred",
+    "definition": [
+      "n. 线, 丝, 纤维, 线索",
+      "vt. 穿线于, 穿过, 通过, 用线穿成",
+      "vi. 穿过",
+      "[计] 线索, 线程",
+      "EN: In computer science, a thread of execution is the smallest sequence of programmed instructions that can be managed independently by an operating system scheduler. The scheduler itself is a light-weight process. The implementation of threads and processes differs from one operating system to another, but in most cases, a thread is contained inside a process."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accelerant",
+    "phonetic": "әk'selәrәnt",
+    "definition": [
+      "n. 促进剂, 加速进程的东西",
+      "a. 促进的, 加速的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AEOS",
+    "phonetic": "",
+    "definition": [
+      "Aft Engineering Operating System 后方工程操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-progressive",
+    "phonetic": "",
+    "definition": [
+      "[网络] 反进程;反进步"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "application-process",
+    "phonetic": "",
+    "definition": [
+      "应用进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BDOS",
+    "phonetic": "",
+    "definition": [
+      "n. 基本磁盘操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capitalization process",
+    "phonetic": "",
+    "definition": [
+      "货币化进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCOS",
+    "phonetic": "",
+    "definition": [
+      "汉字操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDRFS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文件系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "centos",
+    "phonetic": "",
+    "definition": [
+      "abbr. 社区企业操作系统(Community Enterprise Operating System)",
+      "EN: pl. of Cento"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chord progression",
+    "phonetic": "",
+    "definition": [
+      "[网络] 和弦进行;和弦进行法;和弦进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chord progressions",
+    "phonetic": "",
+    "definition": [
+      "[网络] 和弦进行;和弦进程;和弦的音阶进行升级"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIFS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文件系统;网络文件系统;文件共享"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "concurrent processes",
+    "phonetic": "",
+    "definition": [
+      "并行进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "core dumps",
+    "phonetic": "",
+    "definition": [
+      "[网络] 内核转储;核心转储;内核传储"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "core-shell model",
+    "phonetic": "",
+    "definition": [
+      "内核-外壳模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cored structure",
+    "phonetic": "",
+    "definition": [
+      "晶内核状偏析组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "course-of-study",
+    "phonetic": "",
+    "definition": [
+      "[网络] 学习过程;学习科目;学习的进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crash-tested",
+    "phonetic": "",
+    "definition": [
+      "un. 破坏试验",
+      "[网络] 撞击测试;让浏览器进程启动时就崩溃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crash-testing",
+    "phonetic": "",
+    "definition": [
+      "un. 破坏试验",
+      "[网络] 撞击测试;让浏览器进程启动时就崩溃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cross-process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程间;跨处理序;跨程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "d-fs",
+    "phonetic": "",
+    "definition": [
+      "abbr. 分布式文件系统(Distributed File System);免税消费(Duty Free Shopping);深度优先搜索(depth first search)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daemon process",
+    "phonetic": "",
+    "definition": [
+      "守护进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DCNOS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "detached process",
+    "phonetic": "",
+    "definition": [
+      "分离进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DNDO",
+    "phonetic": "",
+    "definition": [
+      "[网络] 办公室;国内核探测办公室;国内核检测办公室(Domestic Nuclear Detection Office)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dos booting",
+    "phonetic": "",
+    "definition": [
+      "磁碟操作系统基本功能馈入"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dosed",
+    "phonetic": "dɑs; dɔs",
+    "definition": [
+      "abbr. 磁盘操作系统(Disk Operating System)",
+      "EN: s. treated with some kind of application"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "down-escalator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 下行扶梯;向下上升进程;下楼的电梯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DRBD",
+    "phonetic": "",
+    "definition": [
+      "[网络] 分布式复制块设备(Distributed Replicated Block Device);分布式的复制块设备;在内核中基于块实现"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "erection schedule",
+    "phonetic": "",
+    "definition": [
+      "安装进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "finger daemon",
+    "phonetic": "",
+    "definition": [
+      "(因特网)指示服务守护进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "follower eccentric",
+    "phonetic": "",
+    "definition": [
+      "进程偏心轮;从动偏心轮"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "forward motions",
+    "phonetic": "",
+    "definition": [
+      "移动,前进运动;工作进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fuel-handling system",
+    "phonetic": "",
+    "definition": [
+      "燃料操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GECOS",
+    "phonetic": "",
+    "definition": [
+      "abbr. General Electric Comprehensive Operating System <美>通用电气公司综合操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "globalization process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 全球化过程;全球化进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HDFS",
+    "phonetic": "",
+    "definition": [
+      "分布式文件系统(Hadoop Distributed File System)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "horotely",
+    "phonetic": ",hɔrә'teli",
+    "definition": [
+      "其速度符合于某一类植物或动物的一般进化进程的生物进化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HP-UX",
+    "phonetic": "",
+    "definition": [
+      "[网络] 惠普;操作系统备份与恢复指南;系统安装和配置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "i-drive",
+    "phonetic": "",
+    "definition": [
+      "[网络] 智能集成化操作系统;网络硬盘驱动器;智能驾驶系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ifs",
+    "phonetic": "ifs",
+    "definition": [
+      "abbr. installable file system 可安装文件系统; integral flange and skirt 综合边缘和环绕",
+      "n. 不确定的事, 无把握的事( if的名词复数 )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "in-process",
+    "phonetic": ",in'prəuses, -'pɔ-",
+    "definition": [
+      "a. 进程内的;同进程的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "in-process component",
+    "phonetic": "",
+    "definition": [
+      "同进程元件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "in-process debugging",
+    "phonetic": "",
+    "definition": [
+      "同进程侦错"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "in-process server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 同进程服务器;进程内服务器;过程中的服务器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inner cores",
+    "phonetic": "",
+    "definition": [
+      "(地球的)内核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inner-core",
+    "phonetic": "",
+    "definition": [
+      "内核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet daemon",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络守护进程;网路守护进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ITLN",
+    "phonetic": "",
+    "definition": [
+      "[=intralaminar nuclei]髓板内核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JFS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 日志文件系统(Journaled File System)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jog trots",
+    "phonetic": "",
+    "definition": [
+      "(马)小跑;(人)慢步;缓行;按部就班;例行常规;单调的进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "joining-up process",
+    "phonetic": "",
+    "definition": [
+      "加入进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journaled",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文件系统;日志式;日志化的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KDOS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Key Display Operating System 键显示操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kernel panics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 内核恐慌状况;内核恐慌;内核崩溃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kinetic process",
+    "phonetic": "",
+    "definition": [
+      "动力进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KSOS",
+    "phonetic": "",
+    "definition": [
+      "核基安全操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "l-process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 操作系统进程号;行销流程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "localization process",
+    "phonetic": "",
+    "definition": [
+      "本土化进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "long-blocked",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程信号屏蔽码;信号掩码"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LWP",
+    "phonetic": "",
+    "definition": [
+      "abbr. 轻量级进程(Light Weight Process)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marginalize",
+    "phonetic": "'mɑ:dʒinəlaiz",
+    "definition": [
+      "vt.使处于社会边缘,使脱离社会发展进程, 忽视,排斥",
+      "EN: v. relegate to a lower or outer edge, as of specific groups of people"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MNTB",
+    "phonetic": "",
+    "definition": [
+      "[网络] 斜方体内侧核;体的内核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MULTOS",
+    "phonetic": "",
+    "definition": [
+      "Multi-application Operation System,多应用操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "N-TFS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Windows NT文件系统(NT File System);新策略预测系统(New Tactical Forecast System);海军训练反馈系统(Navy Training Feedback System)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NTVDM",
+    "phonetic": "",
+    "definition": [
+      "NT Virtual DOS Machine,Windows 16位虚拟机的一部分,该进程用于使16位的进程能够运行在32位的系统环境下"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NX-OS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 数据中心级操作系统;操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OOOS",
+    "phonetic": "",
+    "definition": [
+      "n.面向对象操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "operating-system",
+    "phonetic": "",
+    "definition": [
+      "n. 操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "operating-systems",
+    "phonetic": "",
+    "definition": [
+      "n. 操作系统",
+      "[网络] 作业系统;操作系统部分;操作系统专业组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OSCL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 操作系统兼容层(Operating System Compatibility Library);圣音曼特罗专业化学公司;振荡器(oscillator)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oses",
+    "phonetic": "",
+    "definition": [
+      "[网络] 操作系统;移动操作系统;系统环境"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "out-of-process",
+    "phonetic": "",
+    "definition": [
+      "跨进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "out-of-process server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程外服务器;本机的跨处理序伺服程式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "out-process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程外"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overindustrialized",
+    "phonetic": "",
+    "definition": [
+      "[网络] 城市化和完成了工业化进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pacos",
+    "phonetic": "",
+    "definition": [
+      "abbr. Package Operating System 组装操作系统",
+      "EN: n. Same as Alpaca. n. An earthy-looking ore, consisting of brown oxide of iron with minute particles of native silver."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peace-process",
+    "phonetic": "",
+    "definition": [
+      "n. 和平进程",
+      "[网络] 以巴和平进程;未來以巴和平进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "per-process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 每进程;每进程过程;处理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "primitive process",
+    "phonetic": "",
+    "definition": [
+      "原语进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pro-cess",
+    "phonetic": "",
+    "definition": [
+      "[网络] 过程;流程;进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process deadlock",
+    "phonetic": "",
+    "definition": [
+      "进程死锁"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process flowchart",
+    "phonetic": "",
+    "definition": [
+      "进程流图"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process initialization",
+    "phonetic": "",
+    "definition": [
+      "进程初置值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process leakage",
+    "phonetic": "",
+    "definition": [
+      "操作系统渗漏"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process-based",
+    "phonetic": "",
+    "definition": [
+      "[网络] 基于过程;基于进程;流程导向"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process-control",
+    "phonetic": "",
+    "definition": [
+      "un. 生产过程控制;工艺程序控制;工艺控制",
+      "[网络] 审计过程控制;进程控制功能;工艺管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process-theism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程神论;过程神论"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "process-type",
+    "phonetic": "",
+    "definition": [
+      "处理类型",
+      "加工类型",
+      "进程类型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "processal",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "progress-monitoring",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程监控;进度监察;进步检测"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "QEMU",
+    "phonetic": "",
+    "definition": [
+      "虚拟操作系统模拟器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "queuing process",
+    "phonetic": "",
+    "definition": [
+      "排队进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RDOS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Real-Time Disk Operating System 实时磁盘操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "real-time process",
+    "phonetic": "",
+    "definition": [
+      "实时进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RTEMS",
+    "phonetic": "",
+    "definition": [
+      "一种实时嵌入式操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RTOS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Real-Time Operating System 实时操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "secos",
+    "phonetic": "",
+    "definition": [
+      "[网络] 安全操作系统(secure operating system);喜可仕;喜可仕半导体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shared-file system",
+    "phonetic": "",
+    "definition": [
+      "共享文件系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "single-process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 单进程运行;单一程序;单线程模式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SIPROS",
+    "phonetic": "",
+    "definition": [
+      "abbr. simultaneous processing operating system【计算机】同时(或并行)处理操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "skew process",
+    "phonetic": "",
+    "definition": [
+      "挠进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SLCP",
+    "phonetic": "",
+    "definition": [
+      "Software Life Cycle Processes,软件生存周期进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stabilization-process",
+    "phonetic": "",
+    "definition": [
+      "un. 稳定进程",
+      "[网络] 稳定处理专利;稳定过程;稳定工艺"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stepping sequence",
+    "phonetic": "",
+    "definition": [
+      "进程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stimes",
+    "phonetic": "staim",
+    "definition": [
+      "n. 少量,少许;进程启动时间;置系统日期和时间"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "suspend process",
+    "phonetic": "",
+    "definition": [
+      "挂起进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tenor",
+    "phonetic": "'tenә",
+    "definition": [
+      "n. 稳定的进程, 思路, 要旨, 大意, 誊本, 票据的限期, 男高音",
+      "a. 男高音的",
+      "EN: n. the adult male singing voice above baritone n. the pitch range of the highest male voice n. an adult male with a tenor voice n. a settled or prevailing or habitual course of a person's life"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tenours",
+    "phonetic": "'tenə",
+    "definition": [
+      "n. 进程;要旨",
+      "adj. 男高音的(等于tenor)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thos",
+    "phonetic": "",
+    "definition": [
+      "abbr. 清华嵌入式操作系统;托马斯(人名, Thomas)",
+      "EN: n a branch of the Tai languages"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "time-course",
+    "phonetic": "",
+    "definition": [
+      "un. 时程",
+      "[网络] 时间过程;时间进程;时间效应"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TORTOS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Terminal Oriented Real Time Operating System 面向终端的实时操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tumor progression",
+    "phonetic": "",
+    "definition": [
+      "肿瘤进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uncore",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非核心;非计算内核;北桥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UNIX",
+    "phonetic": "",
+    "definition": [
+      "n. Unix 操作系统(可供多人同时使用)",
+      "[网络] 系统常用命令;一种计算机操作系统",
+      "EN: n. trademark for a powerful operating system"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "untrusted process",
+    "phonetic": "",
+    "definition": [
+      "非置信进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VEOS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 虚拟环境操作系统;交流电动机控制方案;虚羽环境操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VFAT",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文件系统;虚拟文件分配表(Virtual File Allocation Table);档案系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VMOS",
+    "phonetic": "",
+    "definition": [
+      "虚存操作系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wabi",
+    "phonetic": "",
+    "definition": [
+      "abbr. Windows application binary interface Windows (操作系统)应用程序二进制接口"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WAFL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 写任意文件布局(Write Anywhere File Layout);文件系统;进行磁盘"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "waxing kernel",
+    "phonetic": "",
+    "definition": [
+      "[网络] 打蜡内核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "weeded out",
+    "phonetic": "",
+    "definition": [
+      "na. 清除;〈美〉恣意多取(自己不该分取的利益等)",
+      "[网络] 制序会被社会进程所淘汰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "windows",
+    "phonetic": "'windәjz",
+    "definition": [
+      "n. 微软公司生产的“视窗”操作系统",
+      "EN: n. (trademark) an operating system with a graphical user interface"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "work-in-process queue",
+    "phonetic": "",
+    "definition": [
+      "进程工作队列"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zombie process",
+    "phonetic": "",
+    "definition": [
+      "[网络] 僵尸进程;僵尸过程;僵死进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

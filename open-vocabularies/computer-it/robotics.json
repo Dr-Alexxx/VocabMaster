@@ -1,0 +1,5797 @@
+[
+  {
+    "word": "Ornithopter",
+    "phonetic": ",ɔ:ni'θɔptә",
+    "definition": [
+      "n. 扑翼飞机",
+      "EN: An aerial robot or drone that achieves flight through a flapping-wing mechanism rather than rotating blades or fixed wings, often utilized for highly maneuverable flight."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Actuator",
+    "phonetic": "'æktʃueitә",
+    "definition": [
+      "n. 开动者, 激励者, 致动器",
+      "[计] 传动装置, 驱动器, 激励器",
+      "EN: a motor that translates control signals into mechanical movement. The control signals are usually electrical but may, more rarely, be pneumatic or hydraulic. The power supply may likewise be any of these. It is common for electrical control to be used to modulate a high-power pneumatic or hydraulic motor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aerobot",
+    "phonetic": "",
+    "definition": [
+      "[网络] 安铂",
+      "EN: a robot capable of independent flight on other planets. A type of aerial robot."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Arduino",
+    "phonetic": "",
+    "definition": [
+      "n. (Arduino)人名;(意)阿尔杜伊诺",
+      "EN: The current platform of choice for small-scale robotic experimentation and physical computing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Artificial intelligence",
+    "phonetic": "",
+    "definition": [
+      "[计] 人工智能",
+      "EN: is the intelligence of machines and the branch of computer science that aims to create it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aura (satellite)",
+    "phonetic": "",
+    "definition": [
+      "EN: a robotic spacecraft launched by NASA in 2004 which collects atmospheric data from Earth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Automaton",
+    "phonetic": "ɒ:'tɒmәtәn",
+    "definition": [
+      "n. 自动机, 机器人",
+      "[计] 自动机",
+      "EN: an early self-operating robot, performing exactly the same actions, over and over."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Autonomous vehicle",
+    "phonetic": "",
+    "definition": [
+      "EN: a vehicle equipped with an autopilot system, which is capable of driving from one point to another without input from a human operator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biomimetic",
+    "phonetic": "baɪɒmɪ'metɪk",
+    "definition": [
+      "n. 仿生的; [医]拟生态的",
+      "EN: See Bionics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bionics",
+    "phonetic": "bai'ɒniks",
+    "definition": [
+      "n. 仿生学",
+      "[计] 仿生学",
+      "EN: also known as biomimetics, biognosis, biomimicry, or bionical creativity engineering is the application of biological methods and systems found in nature to the study and design of engineering systems and modern technology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Chandra X-ray Observatory",
+    "phonetic": "",
+    "definition": [
+      "钱德拉X射线天文台",
+      "EN: a robotic spacecraft launched by NASA in 1999 to collect astronomical data."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cloud robotics",
+    "phonetic": "",
+    "definition": [
+      "EN: robots empowered with more capacity and intelligence from cloud."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Combat, robot",
+    "phonetic": "",
+    "definition": [
+      "EN: a hobby or sport event where two or more robots fight in an arena to disable each other. This has developed from a hobby in the 1990s to several TV series worldwide."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cruise missile",
+    "phonetic": "kru:z ˈmisail",
+    "definition": [
+      "n. 巡航导弹",
+      "EN: a robot-controlled guided missile that carries an explosive payload."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cyborg",
+    "phonetic": "'saibɔ:^",
+    "definition": [
+      "n. 靠机械装置维持生命的人, 宇航员",
+      "[计] 生物机器人",
+      "EN: also known as a cybernetic organism, a being with both biological and artificial (e.g. electronic, mechanical or robotic) parts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Degrees of freedom",
+    "phonetic": "",
+    "definition": [
+      "自由度",
+      "EN: the extent to which a robot can move itself; expressed in terms of Cartesian coordinates (x, y, and z) and angular movements (yaw, pitch, and roll)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Delta robot",
+    "phonetic": "",
+    "definition": [
+      "EN: a tripod linkage, used to construct fast-acting manipulators with a wide range of movement."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Forward chaining",
+    "phonetic": "",
+    "definition": [
+      "[计] 顺向链接",
+      "EN: a process in which events or received data are considered by an entity to intelligently adapt its behavior."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gynoid",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机娘;仿生人;性玩具",
+      "EN: A humanoid robot designed to look like a human female."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Haptic",
+    "phonetic": "'hæptik",
+    "definition": [
+      "a. 触觉的",
+      "[医] 触的, 触觉的",
+      "EN: tactile feedback technology using the operator's sense of touch. Also sometimes applied to robot manipulators with their own touch sensitivity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Humanoid",
+    "phonetic": "'hju:mәnɒid",
+    "definition": [
+      "a. 类人的",
+      "EN: A robotic entity designed to resemble a human being in form, function, or both."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hydraulics",
+    "phonetic": "hai'drɒ:liks",
+    "definition": [
+      "n. 水力学",
+      "[化] 水力学",
+      "EN: the control of mechanical force and movement, generated by the application of liquid under pressure. cf. pneumatics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Industrial robot",
+    "phonetic": "",
+    "definition": [
+      "[计] 工业机器人",
+      "EN: A reprogrammable, multifunctional manipulator designed to move material, parts, tools, or specialized devices through variable programmed motions for the performance of a variety of tasks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Insect robot",
+    "phonetic": "",
+    "definition": [
+      "[网络] 昆虫机器人;虫虫机器人",
+      "EN: A small robot designed to imitate insect behaviors rather than complex human behaviors."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Inverse Kinematics",
+    "phonetic": "",
+    "definition": [
+      "逆向运动学",
+      "EN: the process of determining joint angles required for a robot's end-effector to reach a desired position and orientation in space. Used in motion planning to calculate motor commands from target positions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kalman filter",
+    "phonetic": "",
+    "definition": [
+      "卡尔曼滤波器",
+      "EN: a mathematical technique to estimate the value of a sensor measurement, from a series of intermittent and noisy values."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kinematics",
+    "phonetic": ".kaini'mætiks",
+    "definition": [
+      "n. 运动学",
+      "[化] 运动学",
+      "EN: the study of motion, as applied to robots. This includes both the design of linkages to perform motion, their power, control and stability; also their planning, such as choosing a sequence of movements to achieve a broader task."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mecanum wheel",
+    "phonetic": "",
+    "definition": [
+      "EN: A wheel fitted with angled rollers that enables a robot vehicle to move in multiple directions, including sideways."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mobile robot",
+    "phonetic": "",
+    "definition": [
+      "[计] 移动式机器人",
+      "[化] 移动式机器人",
+      "EN: A self-propelled and self-contained robot that is capable of moving over a mechanically unconstrained course."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parallel manipulator",
+    "phonetic": "",
+    "definition": [
+      "EN: an articulated robot or manipulator based on a number of kinematic chains, actuators and joints, in parallel. cf. serial manipulator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pneumatics",
+    "phonetic": "nju:'mætiks",
+    "definition": [
+      "n. 气体力学",
+      "[医] 气体力学",
+      "EN: the control of mechanical force and movement, generated by the application of compressed gas. cf. hydraulics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Powered exoskeleton",
+    "phonetic": "",
+    "definition": [
+      "EN: is a wearable mobile machine that allow for limb movement with increased strength and endurance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Robonaut",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器宇航员;机器人宇航员;机械宇航员",
+      "EN: a development project conducted by NASA to create humanoid robots capable of using space tools and working in similar environments to suited astronauts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sensor fusion",
+    "phonetic": "",
+    "definition": [
+      "EN: The process of combining data from multiple sensors, such as LiDAR, cameras, global positioning systems (GPS), and inertial measurement units (IMUs), to produce a more accurate and reliable understanding of an environment than using a single sensor alone. It is widely used in robotics and autonomous systems to improve perception, localization, and decision-making."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Serial manipulator",
+    "phonetic": "",
+    "definition": [
+      "EN: an articulated robot or manipulator with a single series kinematic chain of actuators. cf. parallel manipulator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Čapek, Karel",
+    "phonetic": "",
+    "definition": [
+      "EN: Czech author who coined the term 'robot' in his 1921 play, Rossum's Universal Robots."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "abort branch",
+    "phonetic": "",
+    "definition": [
+      "【机器人】 异常结束分支"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "actuating motor",
+    "phonetic": "",
+    "definition": [
+      "驱动电动机;伺服马达[电动机]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "actuator pump",
+    "phonetic": "ˈæktjueitə pʌmp",
+    "definition": [
+      "n. 伺服泵"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adaptive servo",
+    "phonetic": "",
+    "definition": [
+      "自适应伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adaptive servo-system",
+    "phonetic": "",
+    "definition": [
+      "自适应伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adhesive gripper",
+    "phonetic": "",
+    "definition": [
+      "【机器人】粘着夹钳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adminstration",
+    "phonetic": "",
+    "definition": [
+      "[网络] 行政讯息;行政处室;伺服器管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "air servo-motor",
+    "phonetic": "",
+    "definition": [
+      "[网络] 气动伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "air-powered servo",
+    "phonetic": "",
+    "definition": [
+      "un. 气动伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "all-purpose robot",
+    "phonetic": "",
+    "definition": [
+      "多用途机器人,通用机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analogical control",
+    "phonetic": "",
+    "definition": [
+      "【机器人】模拟控制,相似控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "angular servo",
+    "phonetic": "",
+    "definition": [
+      "转角伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anima tron",
+    "phonetic": "'ænimətrɔn",
+    "definition": [
+      "n. 动物机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antenna servo",
+    "phonetic": "",
+    "definition": [
+      "天线伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "applied robotics",
+    "phonetic": "",
+    "definition": [
+      "[自] 应用机器人学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aqua-robot",
+    "phonetic": "æk'wɑːr'əʊbɒt",
+    "definition": [
+      "n. 水水机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arm-and-hand system",
+    "phonetic": "",
+    "definition": [
+      "机械手系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "attraction gripper",
+    "phonetic": "",
+    "definition": [
+      "【机器人】吸引夹,吸引式抓握器,吸引式抓手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "authentication servo",
+    "phonetic": "",
+    "definition": [
+      "[自] 认证伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "automatic servo-device",
+    "phonetic": "",
+    "definition": [
+      "[自] 自动伺服装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "automatons",
+    "phonetic": "ɔ:'tɒmətənz",
+    "definition": [
+      "n. 自动机, 机器人( automaton的名词复数 )",
+      "EN: pl. of Automaton"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "automatous",
+    "phonetic": "ɔ:'tɔmәtәs",
+    "definition": [
+      "a. 机器人(似)的, 自动的, 机械的",
+      "EN: a. Automatic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autonomous robot",
+    "phonetic": "",
+    "definition": [
+      "自主式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "auxiliary servo-motor",
+    "phonetic": "",
+    "definition": [
+      "[网络] 辅伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "auxiliary servomotor",
+    "phonetic": "",
+    "definition": [
+      "辅助伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "axis interchange",
+    "phonetic": "",
+    "definition": [
+      "【机器人】轴交换"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "axis inversion",
+    "phonetic": "",
+    "definition": [
+      "【机器人】轴反演,轴反转,轴变换"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "azimuth servomechanism",
+    "phonetic": "",
+    "definition": [
+      "方位伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ball manipulator",
+    "phonetic": "",
+    "definition": [
+      "球窝机械手;球状铰接机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ball-joint manipulator",
+    "phonetic": "",
+    "definition": [
+      "球承机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ball-type handler",
+    "phonetic": "",
+    "definition": [
+      "球状铰接机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bang-bang robot",
+    "phonetic": "",
+    "definition": [
+      "继电式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bang-bang serve",
+    "phonetic": "",
+    "definition": [
+      "起停式伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bang-zero-bang control",
+    "phonetic": "",
+    "definition": [
+      "【机器人】三位置继电控制[亦作 bang-bang-off control]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bara",
+    "phonetic": "",
+    "definition": [
+      "abbr. 机器人协会(British Automation and Robotics Association)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bearing servo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 方位伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bilateral manipulator",
+    "phonetic": "",
+    "definition": [
+      "【机器人】双向机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "biped robot",
+    "phonetic": "",
+    "definition": [
+      "两足机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "body popping",
+    "phonetic": "",
+    "definition": [
+      "n. 机械舞(动作如机器人般僵硬的舞蹈风格)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "body-popping",
+    "phonetic": "",
+    "definition": [
+      "机械舞(动作如机器人般僵硬的舞蹈风格)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bot herd",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bot herds",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "brake servo",
+    "phonetic": "breik ˈsə:vəu",
+    "definition": [
+      "制动伺服装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "breakaway action",
+    "phonetic": "",
+    "definition": [
+      "【机器人】断开动作,中断动作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bridgehead server",
+    "phonetic": "",
+    "definition": [
+      "桥头伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "buried servo",
+    "phonetic": "",
+    "definition": [
+      "埋层伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cantilever design",
+    "phonetic": "",
+    "definition": [
+      "【机器人】 悬臂式设计,悬臂梁式设计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capstan servo",
+    "phonetic": "",
+    "definition": [
+      "绞盘伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "castle manipulator",
+    "phonetic": "",
+    "definition": [
+      "“城堡”[高架]式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "central-server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 中央服务器;中央伺服器;中心服务器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CFML",
+    "phonetic": "",
+    "definition": [
+      "[网络] 冷合成标记语言(Cold Fusion Markup Language);可扩展的语言;语言标记开发的伺服器软体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chancel organ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chat bot",
+    "phonetic": "",
+    "definition": [
+      "[网络] 聊天机器人;聊天室程式;对话多国语机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIRT",
+    "phonetic": "",
+    "definition": [
+      "abbr. Conference on Industrial Robot Technology 工业机器人技术会议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clutch servo",
+    "phonetic": "klʌtʃ ˈsə:vəu",
+    "definition": [
+      "离合器操纵伺服机构,离合婆服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cognitive robotics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 认知机械人学;认知机器人学;机器人认知"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "combat drone",
+    "phonetic": "",
+    "definition": [
+      "[网络] 战斗机器人;战斗蜂;战斗小球"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "computed-path control",
+    "phonetic": "",
+    "definition": [
+      "【机器人】计算轨迹控制,计算行程控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "computer servo-system",
+    "phonetic": "kəmˈpjutɚ ˈsɚvo ˈsɪstəm",
+    "definition": [
+      "计算机伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "contact servomechanism",
+    "phonetic": "",
+    "definition": [
+      "继电器伺服机[构];接点式伺服机[构]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "continuous-path robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】连续路径型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "control servotab",
+    "phonetic": "",
+    "definition": [
+      "伺服调整片"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "controlled-path robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】路径受控型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "controlled-path system",
+    "phonetic": "",
+    "definition": [
+      "【机器人】路径受控系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COSIL",
+    "phonetic": "",
+    "definition": [
+      "【机器人】COSIL 语言(模拟制造系统的程序设计语言)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cut-out servomotor",
+    "phonetic": "",
+    "definition": [
+      "[网络] 断油伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cutter offset",
+    "phonetic": "",
+    "definition": [
+      "【机器人】刀具偏差调整,刀具补偿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cylindrical robot",
+    "phonetic": "",
+    "definition": [
+      "圆柱坐标机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "data servo",
+    "phonetic": "",
+    "definition": [
+      "数据伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "data-driven robot",
+    "phonetic": "",
+    "definition": [
+      "数据驱动机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "developmental robotics",
+    "phonetic": "",
+    "definition": [
+      "发育机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dexterity factor",
+    "phonetic": "",
+    "definition": [
+      "巧因子(在同一操作中用机械手与用手所需时间之比)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dialled",
+    "phonetic": "",
+    "definition": [
+      "【机器人】DIAL语言(美国斯坦福大学使用的一种机器人控制程序设计语言)",
+      "EN: of Dial"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dialup server",
+    "phonetic": "",
+    "definition": [
+      "拨号伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "diaphragm servomotor",
+    "phonetic": "",
+    "definition": [
+      "光阑驱动伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "differential servo",
+    "phonetic": "",
+    "definition": [
+      "差动伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "digital servo",
+    "phonetic": "",
+    "definition": [
+      "数字伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "digital servomechanism",
+    "phonetic": "",
+    "definition": [
+      "数字伺服机构[跟踪系统]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "direct-drive arm",
+    "phonetic": "",
+    "definition": [
+      "【机器人】直接驱动臂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "double-hinged arm",
+    "phonetic": "",
+    "definition": [
+      "双关节机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "drag-cap servomotor",
+    "phonetic": "",
+    "definition": [
+      "附盖伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "drum servo",
+    "phonetic": "",
+    "definition": [
+      "鼓形伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electric polarimeter",
+    "phonetic": "",
+    "definition": [
+      "电子伺服控制光电偏振计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electric servo",
+    "phonetic": "",
+    "definition": [
+      "电伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electro servo-control",
+    "phonetic": "",
+    "definition": [
+      "电气伺服控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electro-servo-control",
+    "phonetic": "",
+    "definition": [
+      "un. 电气随动控制",
+      "[网络] 电气伺服控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electronic postmaster",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子邮件伺服器联络人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "elevation servo",
+    "phonetic": "",
+    "definition": [
+      "俯仰伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "elevator servo",
+    "phonetic": "",
+    "definition": [
+      "升降舵伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "embedded servo",
+    "phonetic": "",
+    "definition": [
+      "嵌入伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "end-point rigidity",
+    "phonetic": "",
+    "definition": [
+      "【机器人】终点刚性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "evolutionary robotics",
+    "phonetic": "",
+    "definition": [
+      "进化机器人学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "finger gripper",
+    "phonetic": "",
+    "definition": [
+      "【机器人】指形抓手,手爪"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed-active tooling",
+    "phonetic": "",
+    "definition": [
+      "【机器人】固定—活动工具"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed-passive tooling",
+    "phonetic": "",
+    "definition": [
+      "【机器人】被动式固定加工设备"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed-sequence robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】固定程序机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed-stop robot",
+    "phonetic": "",
+    "definition": [
+      "定点机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flingy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 激动;机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "floor-to-floor time",
+    "phonetic": "",
+    "definition": [
+      "【机器人】批处理时间"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fluid servo-motor",
+    "phonetic": "",
+    "definition": [
+      "液压伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "focus servo",
+    "phonetic": "",
+    "definition": [
+      "聚焦伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "follow-up servo",
+    "phonetic": "",
+    "definition": [
+      "跟踪伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "force servo",
+    "phonetic": "",
+    "definition": [
+      "力伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "friction gripping",
+    "phonetic": "",
+    "definition": [
+      "【机器人】摩擦锚夹"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "full-server",
+    "phonetic": "",
+    "definition": [
+      "全伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "g-mate",
+    "phonetic": "",
+    "definition": [
+      "[网络] 单轴伺服控制器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gantry robot",
+    "phonetic": "",
+    "definition": [
+      "桁架式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gantry-type robot",
+    "phonetic": "ˈɡæntri taip ˈrəubɔt",
+    "definition": [
+      "桥式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "general-purpose robot",
+    "phonetic": "",
+    "definition": [
+      "通用机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gimbal servo",
+    "phonetic": "",
+    "definition": [
+      "常平架伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gnat robot",
+    "phonetic": "",
+    "definition": [
+      "胶合机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gnat- robot",
+    "phonetic": "'næt'rəubɔt",
+    "definition": [
+      "n. (用于体内手术或探查的)微型医疗(或医学用)机器人;蚋型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "golem",
+    "phonetic": "'^әulem",
+    "definition": [
+      "n. 机器人",
+      "EN: n. (Jewish folklore) an artificially created human being that is given life by supernatural means"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gripping zone",
+    "phonetic": "",
+    "definition": [
+      "【机器人】抓握区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "guider servo",
+    "phonetic": "",
+    "definition": [
+      "导杆伺服(机构)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "had-bot",
+    "phonetic": "",
+    "definition": [
+      "[网络] 有机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hard servo",
+    "phonetic": "",
+    "definition": [
+      "硬伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "head servo",
+    "phonetic": "",
+    "definition": [
+      "磁头伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "height servo",
+    "phonetic": "",
+    "definition": [
+      "高度伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "helix joint",
+    "phonetic": "",
+    "definition": [
+      "【机器人】螺旋接头,螺旋关节"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heuristics robot",
+    "phonetic": "",
+    "definition": [
+      "职能机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "high-technology robot",
+    "phonetic": "",
+    "definition": [
+      "高级技术机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HIVIP",
+    "phonetic": "",
+    "definition": [
+      "【机器人】 HIVIP 型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hot-gas servo",
+    "phonetic": "",
+    "definition": [
+      "热气伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanoid android",
+    "phonetic": "",
+    "definition": [
+      "类人机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanoid robot",
+    "phonetic": "",
+    "definition": [
+      "人型机器人;类人机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hybrid servo",
+    "phonetic": "",
+    "definition": [
+      "(数字和模拟)混合伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydraulic servo-motor",
+    "phonetic": "",
+    "definition": [
+      "液压伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydraulic servomotor",
+    "phonetic": "",
+    "definition": [
+      "液压伺服电动机[马达]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "implicit programming",
+    "phonetic": "",
+    "definition": [
+      "【机器人】隐程序设计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "index servo",
+    "phonetic": "",
+    "definition": [
+      "索引伺服装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "induction servomotor",
+    "phonetic": "",
+    "definition": [
+      "应伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "industrial-robot",
+    "phonetic": "",
+    "definition": [
+      "un. 工业机械手",
+      "[网络] 工业机器人;工业用机器人;工业机扑"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inspection manipulator",
+    "phonetic": "",
+    "definition": [
+      "查用操纵器,检查用机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "instrument servo",
+    "phonetic": "",
+    "definition": [
+      "仪表伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inverse task",
+    "phonetic": "",
+    "definition": [
+      "反向计算(机器人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IRDATA",
+    "phonetic": "",
+    "definition": [
+      "工业用机器人资料"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iris servo",
+    "phonetic": "",
+    "definition": [
+      "光阑[光圈]伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iron collars",
+    "phonetic": "",
+    "definition": [
+      "[网络] 铁领阶层;铁领,即机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iron-hand",
+    "phonetic": "",
+    "definition": [
+      "机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JIRA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 日本工业放射学仪器(japanese industry radiology Apparatus);吉拉;工业机器人协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "joint motions",
+    "phonetic": "",
+    "definition": [
+      "【机器人】关节运动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jointed-arm robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】摇杆机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JQRR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 易;机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kinematic errors",
+    "phonetic": "",
+    "definition": [
+      "【机器人】运动误差"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LAMPP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 教学伺服器;问题总结"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lawn-mowing",
+    "phonetic": "",
+    "definition": [
+      "[网络] 草皮修剪;割草;机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "linear servo-mechanism",
+    "phonetic": "",
+    "definition": [
+      "线性伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "linear servomechanism",
+    "phonetic": "",
+    "definition": [
+      "线性伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lock-servo system",
+    "phonetic": "",
+    "definition": [
+      "锁相伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "machine handing",
+    "phonetic": "",
+    "definition": [
+      "机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "machining robot",
+    "phonetic": "",
+    "definition": [
+      "机器加工机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "main servomotor",
+    "phonetic": "",
+    "definition": [
+      "主伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator arm",
+    "phonetic": "",
+    "definition": [
+      "操作器机械手;翻料挺杆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator cell",
+    "phonetic": "",
+    "definition": [
+      "操纵室,机械手操作室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator control",
+    "phonetic": "",
+    "definition": [
+      "un. 操纵性控制",
+      "[网络] 机械手控制;机械手臂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator finger",
+    "phonetic": "",
+    "definition": [
+      "机械手抓手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator joint",
+    "phonetic": "",
+    "definition": [
+      "机械手关节"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator operate",
+    "phonetic": "",
+    "definition": [
+      "n. 机械手控制的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator operated",
+    "phonetic": "",
+    "definition": [
+      "un. 机械手操纵的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulator-operated",
+    "phonetic": "mə'nɪpjʊleɪtə'ɒpəreɪtɪd",
+    "definition": [
+      "adj. 机械手控制的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "micro-robotics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 微机器人学;微型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "minor axes",
+    "phonetic": "",
+    "definition": [
+      "方位轴线(机器人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MOBT",
+    "phonetic": "",
+    "definition": [
+      "abbr. mobile robot (可移动)机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "modularized robot",
+    "phonetic": "",
+    "definition": [
+      "模块化机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "motion sensing",
+    "phonetic": "",
+    "definition": [
+      "【机器人】运动感知,运动探测"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "motograph",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MPRS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 多点响应谱(Multi-point Response Spectrum);Multiple packet routing system;机器人系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MRCAS",
+    "phonetic": "",
+    "definition": [
+      "[=Medical Robotics and Computer Assisted Surgery]医用机器人和计算机辅助外科手术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSMD",
+    "phonetic": "",
+    "definition": [
+      "[网络] 松下伺服马达;创业路某发廊;分枝杆菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-robot",
+    "phonetic": "",
+    "definition": [
+      "多机器人",
+      "多移动机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-robot system",
+    "phonetic": "",
+    "definition": [
+      "多机器人系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "needle servomotor",
+    "phonetic": "",
+    "definition": [
+      "针伺服电机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "net-load capacity",
+    "phonetic": "",
+    "definition": [
+      "【机器人】净负荷量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "network servicer",
+    "phonetic": "",
+    "definition": [
+      "网络伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-linear servomotor",
+    "phonetic": "",
+    "definition": [
+      "线性伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "o-man",
+    "phonetic": "əʊ mæn",
+    "definition": [
+      "大型万能机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oes'",
+    "phonetic": "",
+    "definition": [
+      "[网络] 开放式企业伺服器(Open Enterprise Server);发射光谱(optical emission spectroscopy);直读光谱"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oil servo-motor",
+    "phonetic": "",
+    "definition": [
+      "动机,油伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oil servomotor",
+    "phonetic": "",
+    "definition": [
+      "un. 伺服油马达",
+      "[网络] 油伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oil-relay system",
+    "phonetic": "",
+    "definition": [
+      "动伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-demand server",
+    "phonetic": "",
+    "definition": [
+      "随选伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-off servo",
+    "phonetic": "",
+    "definition": [
+      "电伺服系统,继电随动系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-off servomechanism",
+    "phonetic": "",
+    "definition": [
+      "-关伺服系统,开-关随动系统,继电伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open-loop robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】开环机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "operational servo",
+    "phonetic": "",
+    "definition": [
+      "操作伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orchanet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orientational axes",
+    "phonetic": "",
+    "definition": [
+      "方位轴线(机器人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OSRF",
+    "phonetic": "",
+    "definition": [
+      "[网络] 开放最短路径优先;开源机器人基金会;开放源码"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "out-of-process server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进程外服务器;本机的跨处理序伺服程式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "over-wall manipulator",
+    "phonetic": "",
+    "definition": [
+      "墙式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overhead manipulator",
+    "phonetic": "",
+    "definition": [
+      "大型万能机械手;架空式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parallel servo",
+    "phonetic": "",
+    "definition": [
+      "并联伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parallel servos",
+    "phonetic": "",
+    "definition": [
+      "并联伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pedestal robot",
+    "phonetic": "",
+    "definition": [
+      "台座式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pendular robot",
+    "phonetic": "",
+    "definition": [
+      "摆动式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phase servo",
+    "phonetic": "",
+    "definition": [
+      "相位伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phase servo-system",
+    "phonetic": "",
+    "definition": [
+      "[自] 相位伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pick-and-place robot",
+    "phonetic": "",
+    "definition": [
+      "抓放机器人,拾置机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pilot servomotor",
+    "phonetic": "",
+    "definition": [
+      "间接力器;引导伺服阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "piro",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人研究所;梨;梨子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "platform servo",
+    "phonetic": "",
+    "definition": [
+      "平台伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "plug-in manipulator",
+    "phonetic": "",
+    "definition": [
+      "合式机械手,插入式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pneumatic robot",
+    "phonetic": "",
+    "definition": [
+      "气动机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pneumatic servo",
+    "phonetic": "",
+    "definition": [
+      "气压伺服装置[系统]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pneumatic servomotor",
+    "phonetic": "",
+    "definition": [
+      "气压伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pony motor",
+    "phonetic": "",
+    "definition": [
+      "辅助电动机,起动机,起动[伺服]电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "position servo",
+    "phonetic": "",
+    "definition": [
+      "位置伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "positional axes",
+    "phonetic": "",
+    "definition": [
+      "位置轴线(机器人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "positioning servo",
+    "phonetic": "",
+    "definition": [
+      "定位伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "power servo",
+    "phonetic": "",
+    "definition": [
+      "动力伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "power-control servo",
+    "phonetic": "",
+    "definition": [
+      "功率控制伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "power-operated valve",
+    "phonetic": "",
+    "definition": [
+      "伺服电动机操纵阀;机械驱动阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "preprogrammed robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】预先编程的机器人,程序预定的机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "presses servo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服冲床"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "primary axes",
+    "phonetic": "",
+    "definition": [
+      "位置轴线(机器人),主轴线"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "propagation server",
+    "phonetic": "",
+    "definition": [
+      "传播伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosperity robot",
+    "phonetic": "",
+    "definition": [
+      "[网络] 关节式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosthetic robot",
+    "phonetic": "",
+    "definition": [
+      "关节式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pulse servo",
+    "phonetic": "",
+    "definition": [
+      "脉冲伺服机构;脉冲伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pulse servomechanism",
+    "phonetic": "",
+    "definition": [
+      "有脉动信号的伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puma manipulator",
+    "phonetic": "",
+    "definition": [
+      "智能机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puma robot",
+    "phonetic": "",
+    "definition": [
+      "智能机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rackers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radial servo",
+    "phonetic": "",
+    "definition": [
+      "径向伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "range-imaging sensor",
+    "phonetic": "",
+    "definition": [
+      "【机器人】区域成像传感器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rate servo",
+    "phonetic": "",
+    "definition": [
+      "速率伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rate servomechanism",
+    "phonetic": "",
+    "definition": [
+      "速率伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RCTA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 倒车侧方盲点监视器(Rear Cross Traffic Alert);机器人合作性技术联盟(Robotics Collaborative Technology Alliance);后方交通报警"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "record-playback robot",
+    "phonetic": "",
+    "definition": [
+      "记录回放机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rectangular robot",
+    "phonetic": "",
+    "definition": [
+      "直角坐标机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "redundant manipulator",
+    "phonetic": "",
+    "definition": [
+      "冗余机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "relay servo",
+    "phonetic": "",
+    "definition": [
+      "继电器式伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "relay servomechanism",
+    "phonetic": "",
+    "definition": [
+      "继电器式伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "repeatable robot",
+    "phonetic": "",
+    "definition": [
+      "重复型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reproducing servo",
+    "phonetic": "",
+    "definition": [
+      "重放伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reverse servo",
+    "phonetic": "",
+    "definition": [
+      "回动[反向]伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reversing servomotor",
+    "phonetic": "",
+    "definition": [
+      "换向伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "revolute robot",
+    "phonetic": "",
+    "definition": [
+      "关节型机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rober'",
+    "phonetic": "",
+    "definition": [
+      "[网络] 罗伯特;机器人;罗伯特·卡沃利(roberto-cavalli)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot chauffeur",
+    "phonetic": "",
+    "definition": [
+      "[自] 机器人司机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot kinematics",
+    "phonetic": "",
+    "definition": [
+      "机器人运动学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot manipulation",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人操作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot tutor",
+    "phonetic": "",
+    "definition": [
+      "[自] 机器人教师"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot-assisted",
+    "phonetic": "",
+    "definition": [
+      "机器人辅助的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot-machine system",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人机器系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robot-maker",
+    "phonetic": "",
+    "definition": [
+      "[网络] 个机器人制造中心;机器人制造厂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic",
+    "phonetic": "rәu'bɔtik",
+    "definition": [
+      "a. 自动的;机器人的, 像机器人的",
+      "EN: a. of or relating to mechanical robots"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic company",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人公司"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic hand",
+    "phonetic": "",
+    "definition": [
+      "[网络] 创意机械手;机器手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic manipulator",
+    "phonetic": "",
+    "definition": [
+      "机器人调处器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic surgery",
+    "phonetic": "",
+    "definition": [
+      "机器人手术(利用机器人实施手术)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic system",
+    "phonetic": "",
+    "definition": [
+      "机器人系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic vacuum",
+    "phonetic": "",
+    "definition": [
+      "[网络] 官翻;吸尘机器人;自动扫地机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotic vehicle",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人车"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotics equipment",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人设备"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotizes",
+    "phonetic": "",
+    "definition": [
+      "v. 使自动化;使像机器人一样地行事"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotizing",
+    "phonetic": "",
+    "definition": [
+      "v. 使自动化;使像机器人一样地行事"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "robotry",
+    "phonetic": "'rәjbәtri,'rɔ-",
+    "definition": [
+      "n. 机器人之状态, 机器人(总称)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rock-drilling robot",
+    "phonetic": "",
+    "definition": [
+      "钻岩机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "roll servo",
+    "phonetic": "",
+    "definition": [
+      "滚动伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rotary servomotor",
+    "phonetic": "",
+    "definition": [
+      "旋转伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RSAT",
+    "phonetic": "",
+    "definition": [
+      "[网络] 远程服务器管理工具(Remote Server Administration Tools);Remote Server Admin Tools;远端伺服器管理工具"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "run-time data",
+    "phonetic": "",
+    "definition": [
+      "【机械工程】运行时数据;【机器人】运转时间数据,运行时间数据"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "run-time server",
+    "phonetic": "",
+    "definition": [
+      "运行时间伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "runner servomotor",
+    "phonetic": "",
+    "definition": [
+      "转子伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "s-mp",
+    "phonetic": "",
+    "definition": [
+      "abbr. 自行迫击炮(Self Propelled Mortar);对称多处理;伺服仪表操纵台(Servo Meter Panel)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sampling servo",
+    "phonetic": "",
+    "definition": [
+      "拣选伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SCARA",
+    "phonetic": "",
+    "definition": [
+      "驯服的装配机器人臂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SCMPS",
+    "phonetic": "",
+    "definition": [
+      "[=servo-controlled micropipette system]伺服控制微吸管系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "second-order servo",
+    "phonetic": "",
+    "definition": [
+      "二阶伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "secondary axes",
+    "phonetic": "",
+    "definition": [
+      "方位轴线(机器人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sector servo",
+    "phonetic": "",
+    "definition": [
+      "扇区伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "seidels",
+    "phonetic": "",
+    "definition": [
+      "n. 大啤酒杯",
+      "[网络] 塞德尔;赛德尔;塞德尔伺服电机维修"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "semiconservatively",
+    "phonetic": "",
+    "definition": [
+      "[网络] 半可伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sensor-based robot",
+    "phonetic": "",
+    "definition": [
+      "基于传感器的机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "series-line servomotor",
+    "phonetic": "",
+    "definition": [
+      "串联伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servant brake",
+    "phonetic": "",
+    "definition": [
+      "伺服闸,随动闸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "server partitioning",
+    "phonetic": "",
+    "definition": [
+      "伺服器分割"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "server sprawl",
+    "phonetic": "",
+    "definition": [
+      "[网络] 服务器蔓延;服务蔓延;伺服器耗用过多资源"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "server-side",
+    "phonetic": "",
+    "definition": [
+      "[网络] 服务器端;伺服器端;伺服端"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "server-to-server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 服务器;服务器之间;伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "service-robotics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 服务型机器人;半自动之驾驶工具或代步机;用于服务行业的机器人技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servidor",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo accelerometer",
+    "phonetic": "",
+    "definition": [
+      "伺服[随动]加速度表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo actuator",
+    "phonetic": "ˈsə:vəu ˈæktjueitə",
+    "definition": [
+      "伺服传动机构,伺服执行机构; 助力器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo adjuster",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服调整器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo aeroelasticity",
+    "phonetic": "",
+    "definition": [
+      "伺服气动弹性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo altimeter",
+    "phonetic": "",
+    "definition": [
+      "伺服高度表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo analog",
+    "phonetic": "",
+    "definition": [
+      "n. 伺服模拟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo analyser",
+    "phonetic": "",
+    "definition": [
+      "伺服系统分析器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo analyzer",
+    "phonetic": "",
+    "definition": [
+      "伺服系统分析器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo assembly",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服机构总成"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo authority",
+    "phonetic": "",
+    "definition": [
+      "伺服传动装置工作范围"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo bandwidth",
+    "phonetic": "",
+    "definition": [
+      "伺服系统带宽"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo board",
+    "phonetic": "",
+    "definition": [
+      "伺服机构实验台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo brake",
+    "phonetic": "",
+    "definition": [
+      "【机械工程】加工制动器,伺服制动器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo brakes",
+    "phonetic": "",
+    "definition": [
+      "伺服制动器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo bridge",
+    "phonetic": "",
+    "definition": [
+      "伺服电桥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo burst",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服脉冲"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo card",
+    "phonetic": "",
+    "definition": [
+      "伺服卡"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo circuit",
+    "phonetic": "",
+    "definition": [
+      "伺服电路"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo clutch",
+    "phonetic": "",
+    "definition": [
+      "伺服离合器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo compensator",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服补偿器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo connection",
+    "phonetic": "",
+    "definition": [
+      "伺服连接"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo contact",
+    "phonetic": "",
+    "definition": [
+      "伺服触头"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo controlled",
+    "phonetic": "",
+    "definition": [
+      "伺服控制;[自] 随动控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo controller",
+    "phonetic": "",
+    "definition": [
+      "伺服控制器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo coupling",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服联接器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo cylinder",
+    "phonetic": "",
+    "definition": [
+      "伺服缸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo demodulator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服解调器;伺服解调变器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo design",
+    "phonetic": "",
+    "definition": [
+      "伺服设计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo device",
+    "phonetic": "",
+    "definition": [
+      "伺服系统驱动(装置)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo dynamics",
+    "phonetic": "",
+    "definition": [
+      "伺服机构动力学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo dyne",
+    "phonetic": "",
+    "definition": [
+      "伺服传动(装置)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo element",
+    "phonetic": "",
+    "definition": [
+      "伺服元件,跟踪系统的元件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo equipment",
+    "phonetic": "",
+    "definition": [
+      "伺服设备[装置]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo error",
+    "phonetic": "",
+    "definition": [
+      "伺服误差"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo field",
+    "phonetic": "",
+    "definition": [
+      "伺服栏"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo follower",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服跟随器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo generation",
+    "phonetic": "",
+    "definition": [
+      "伺服发电机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo generator",
+    "phonetic": "",
+    "definition": [
+      "伺服发电机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo governor",
+    "phonetic": "",
+    "definition": [
+      "伺服调速器;继动调速器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo instrument",
+    "phonetic": "",
+    "definition": [
+      "伺服仪表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo jack",
+    "phonetic": "",
+    "definition": [
+      "伺服千斤顶,随动千斤顶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo lever",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服杆;伺服机构杠杆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo lock",
+    "phonetic": "",
+    "definition": [
+      "伺服装置锁定"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo magnet",
+    "phonetic": "",
+    "definition": [
+      "伺服电磁铁"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo manipulator",
+    "phonetic": "",
+    "definition": [
+      "伺服机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo mark",
+    "phonetic": "",
+    "definition": [
+      "伺服标示"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo modulation",
+    "phonetic": "",
+    "definition": [
+      "伺服调制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo motion",
+    "phonetic": "",
+    "definition": [
+      "伺服运动[动作]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo offset",
+    "phonetic": "",
+    "definition": [
+      "伺服偏置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo operation",
+    "phonetic": "",
+    "definition": [
+      "伺服操作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo parameter",
+    "phonetic": "",
+    "definition": [
+      "随动[跟踪,伺服]系统参数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo parameters",
+    "phonetic": "",
+    "definition": [
+      "伺服参数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo piston",
+    "phonetic": "",
+    "definition": [
+      "动机活塞,伺服活塞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo plane",
+    "phonetic": "",
+    "definition": [
+      "伺服板"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo platform",
+    "phonetic": "",
+    "definition": [
+      "伺服平台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo plotter",
+    "phonetic": "",
+    "definition": [
+      "伺服绘图器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo positional",
+    "phonetic": "",
+    "definition": [
+      "伺服定位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo power",
+    "phonetic": "",
+    "definition": [
+      "伺服功率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo principle",
+    "phonetic": "",
+    "definition": [
+      "伺服原理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo profile",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服描述"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo repeater",
+    "phonetic": "",
+    "definition": [
+      "伺服中继器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo resolver",
+    "phonetic": "",
+    "definition": [
+      "伺服[随动]解算器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo rudder",
+    "phonetic": "",
+    "definition": [
+      "n. 伺服舵(随动舵)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo scope",
+    "phonetic": "",
+    "definition": [
+      "伺服显示器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo sector",
+    "phonetic": "",
+    "definition": [
+      "伺服扇区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo sensor",
+    "phonetic": "",
+    "definition": [
+      "伺服式传感器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo signal",
+    "phonetic": "",
+    "definition": [
+      "伺服信号"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo simulator",
+    "phonetic": "",
+    "definition": [
+      "伺服模拟装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo stabilization",
+    "phonetic": "",
+    "definition": [
+      "伺服稳定性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo surface",
+    "phonetic": "",
+    "definition": [
+      "伺服面"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo table",
+    "phonetic": "",
+    "definition": [
+      "伺服转台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo technology",
+    "phonetic": "",
+    "definition": [
+      "交流伺服技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo test",
+    "phonetic": "",
+    "definition": [
+      "伺服试验"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo track",
+    "phonetic": "",
+    "definition": [
+      "伺服(磁)道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo transducer",
+    "phonetic": "",
+    "definition": [
+      "伺服式传感器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo transmitter",
+    "phonetic": "",
+    "definition": [
+      "伺服发射机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo type",
+    "phonetic": "",
+    "definition": [
+      "伺服型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo typer",
+    "phonetic": "",
+    "definition": [
+      "电动打字机,伺服印字机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-actuated",
+    "phonetic": "'sɜːvəʊ'æktʃʊeɪtɪd",
+    "definition": [
+      "adj. 伺服的;随动的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-actuator",
+    "phonetic": "",
+    "definition": [
+      "伺服电机;伺服拖动装置;伺服执行机构;伺服作功器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-amplifier",
+    "phonetic": "",
+    "definition": [
+      "伺服增幅器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-analog",
+    "phonetic": "'sɜːvəʊ'ænəlɒɡ",
+    "definition": [
+      "n. 伺服模拟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-analog computer",
+    "phonetic": "",
+    "definition": [
+      "伺服模拟计算机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-arm attachment",
+    "phonetic": "",
+    "definition": [
+      "【机械工程】伺服臂附件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-assisted",
+    "phonetic": "'sɜ:vəʊəs'ɪstɪd",
+    "definition": [
+      "伺服助力"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-balancing type",
+    "phonetic": "",
+    "definition": [
+      "伺服平衡型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-control",
+    "phonetic": "'sɜ:vəʊkəntr'əʊl",
+    "definition": [
+      "伺服控制机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-control system",
+    "phonetic": "",
+    "definition": [
+      "伺服控制系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-control unit",
+    "phonetic": "",
+    "definition": [
+      "伺服控制系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-controlled",
+    "phonetic": "",
+    "definition": [
+      "un. 伺服控制的",
+      "[网络] 自动反馈控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-controlled robot",
+    "phonetic": "",
+    "definition": [
+      "伺服控制机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-controlled rod",
+    "phonetic": "",
+    "definition": [
+      "服传动控制棒,伺服棒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-cylinder",
+    "phonetic": "",
+    "definition": [
+      "伺服缸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-drive system",
+    "phonetic": "",
+    "definition": [
+      "伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-driven",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服驱动的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-driven bellows",
+    "phonetic": "",
+    "definition": [
+      "伺服驱动风箱"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-hydraulic",
+    "phonetic": ",sə:vəuhai:'drɔ:lik",
+    "definition": [
+      "adj. 伺服液压控制的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-loop",
+    "phonetic": "",
+    "definition": [
+      "伺服回路;伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-loop model",
+    "phonetic": "",
+    "definition": [
+      "伺服回路模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-mechanism",
+    "phonetic": "",
+    "definition": [
+      "n. 伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-operated control",
+    "phonetic": "",
+    "definition": [
+      "利用伺服机构控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-operated valve",
+    "phonetic": "",
+    "definition": [
+      "伺服操作阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-piston",
+    "phonetic": "",
+    "definition": [
+      "伺服活塞;活塞式随动传动装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-positioning",
+    "phonetic": "",
+    "definition": [
+      "伺服定位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-recorder",
+    "phonetic": "",
+    "definition": [
+      "伺服记录器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-stabilization",
+    "phonetic": "",
+    "definition": [
+      "伺服稳定"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-system",
+    "phonetic": "",
+    "definition": [
+      "n. 伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-tuning",
+    "phonetic": "",
+    "definition": [
+      "伺服调谐"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-type",
+    "phonetic": "ˈsə:vəu taip",
+    "definition": [
+      "伺服式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servo-valve",
+    "phonetic": "",
+    "definition": [
+      "伺服阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servocontrol",
+    "phonetic": "'sә:vәkәn'trәul",
+    "definition": [
+      "n. 伺服控制, 随动控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servocontrol equipment",
+    "phonetic": "",
+    "definition": [
+      "伺服控制设备"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servocontrol mirror",
+    "phonetic": "",
+    "definition": [
+      "伺服控制镜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servocontrol pipe",
+    "phonetic": "",
+    "definition": [
+      "伺服控制管"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servoed",
+    "phonetic": "'sɜːvəʊ",
+    "definition": [
+      "n. 伺服;伺服系统;随动系统",
+      "n. (Servo)人名;(意、芬、葡)塞尔沃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servoing",
+    "phonetic": "'sɜːvəʊ",
+    "definition": [
+      "n. 伺服;伺服系统;随动系统",
+      "n. (Servo)人名;(意、芬、葡)塞尔沃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanical",
+    "phonetic": "sɜ:vəmɪ'kænɪkl",
+    "definition": [
+      "a. [计算机、生物学、生理学]伺服系统的",
+      "EN: a of or involving servomechanisms"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism",
+    "phonetic": ".sә:vәu'mekәnizm",
+    "definition": [
+      "n. 伺服机构",
+      "EN: n control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism control",
+    "phonetic": "",
+    "definition": [
+      "un. 用伺服机构操纵台;伺服机构控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism system",
+    "phonetic": "",
+    "definition": [
+      "伺服机构系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism tester",
+    "phonetic": "",
+    "definition": [
+      "伺服机构试验器;随动系统的调谐操纵台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism type",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服机构类型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomechanism types",
+    "phonetic": "",
+    "definition": [
+      "伺服机构类型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomotor actuator",
+    "phonetic": "",
+    "definition": [
+      "伺服电机执行器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomotor control",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服电动机控制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servomotor controller",
+    "phonetic": "",
+    "definition": [
+      "[自] 伺服马达控制器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "servotab",
+    "phonetic": "",
+    "definition": [
+      "伺服补偿机; 伺服补偿机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shoulder pivot",
+    "phonetic": "",
+    "definition": [
+      "机械手的)肩关节"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shut-down servomotor",
+    "phonetic": "",
+    "definition": [
+      "停车伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sighted robot",
+    "phonetic": "",
+    "definition": [
+      "有视觉机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slab robot",
+    "phonetic": "",
+    "definition": [
+      "传动车式仿效机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slave compass",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服罗经;役使罗盘"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slave manipulator",
+    "phonetic": "",
+    "definition": [
+      "仿效机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slave-robot",
+    "phonetic": "",
+    "definition": [
+      "机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slaving transformer",
+    "phonetic": "",
+    "definition": [
+      "un. 伺服变压器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sniffing robot",
+    "phonetic": "",
+    "definition": [
+      "探测机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "snoop server",
+    "phonetic": "",
+    "definition": [
+      "[网络] 监听伺服器;服务器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "social robotics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 社会机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "special-purpose robot",
+    "phonetic": "",
+    "definition": [
+      "【机器人】专用机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "speed servo",
+    "phonetic": "",
+    "definition": [
+      "速度伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "speeder motor",
+    "phonetic": "",
+    "definition": [
+      "调节原动机速度的伺服电动机,同步器马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spitting-cobra",
+    "phonetic": "",
+    "definition": [
+      "[网络] 射毒眼镜蛇;喷毒眼镜蛇;唾液眼镜蛇助攻机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spraying robot",
+    "phonetic": "",
+    "definition": [
+      "喷漆机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "squeeze motion",
+    "phonetic": "",
+    "definition": [
+      "(机械手)夹取运动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stable servo",
+    "phonetic": "",
+    "definition": [
+      "稳定伺服系统;稳定随动系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "staging server",
+    "phonetic": "",
+    "definition": [
+      "开发用服务器",
+      "开发用伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "standard branching",
+    "phonetic": "",
+    "definition": [
+      "【机器人】标准转移"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "starting servo-motor",
+    "phonetic": "",
+    "definition": [
+      "起动伺服马达"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "starting servomotor",
+    "phonetic": "",
+    "definition": [
+      "un. 启动伺服电动机",
+      "[网络] 起动伺服电动机;起动伺服机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "step servomotor",
+    "phonetic": "step ˈsə:vəuˌməutə",
+    "definition": [
+      "n. 步进伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "step-servo system",
+    "phonetic": "",
+    "definition": [
+      "进伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stepless servo-motor",
+    "phonetic": "",
+    "definition": [
+      "无级调速伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "STW",
+    "phonetic": "",
+    "definition": [
+      "伺服道录写器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "submarine robot",
+    "phonetic": "",
+    "definition": [
+      "潜艇机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "support gripper",
+    "phonetic": "",
+    "definition": [
+      "【机器人】支持抓握器,支持夹持器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "surface servo",
+    "phonetic": "",
+    "definition": [
+      "面伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "synchronization server",
+    "phonetic": "",
+    "definition": [
+      "同步伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tangential servo",
+    "phonetic": "",
+    "definition": [
+      "切向伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "task-oriented language",
+    "phonetic": "",
+    "definition": [
+      "【机器人】面向任务语言"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tawers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 你的朋友有松下焊接机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "teach-by-doing",
+    "phonetic": "'ti:tʃbai'du:iŋ",
+    "definition": [
+      "n. 【机器人】示范教导法;以做代教法[亦作 teach through]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "teach-by-driving",
+    "phonetic": "'ti:tʃbai'draiviŋ",
+    "definition": [
+      "n. 【机器人】主动教导法;主动示教法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tele-robot",
+    "phonetic": "",
+    "definition": [
+      "[自] 遥控机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telescopic manipulator",
+    "phonetic": "",
+    "definition": [
+      "伸缩式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telescoping column",
+    "phonetic": "",
+    "definition": [
+      "机械手)套筒柱,套管柱"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "televox",
+    "phonetic": "'telivɒks",
+    "definition": [
+      "n. 声控机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tension servo",
+    "phonetic": "",
+    "definition": [
+      "张力伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "through-manipulator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 穿墙式机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thyratron servo",
+    "phonetic": "",
+    "definition": [
+      "闸流管伺服[随动]系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tilt servomotor",
+    "phonetic": "",
+    "definition": [
+      "倾斜继动器;倾斜伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "time-delay servo",
+    "phonetic": "",
+    "definition": [
+      "延伺服系统,时延随动系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tool dolly",
+    "phonetic": "",
+    "definition": [
+      "一种反应堆操作用的机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tool-center point",
+    "phonetic": "",
+    "definition": [
+      "【机器人】工具中心点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tool-coordinate system",
+    "phonetic": "",
+    "definition": [
+      "【机器人】工具坐标系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "topology server",
+    "phonetic": "",
+    "definition": [
+      "拓扑伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tracer valve",
+    "phonetic": "",
+    "definition": [
+      "仿形阀,随动阀,伺服阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tracing valve",
+    "phonetic": "",
+    "definition": [
+      "仿形阀,随动阀,伺服阀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "track-following servo",
+    "phonetic": "",
+    "definition": [
+      "磁道跟踪伺服(法)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tuning servomechanism",
+    "phonetic": "",
+    "definition": [
+      "调谐伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-handed robot",
+    "phonetic": "",
+    "definition": [
+      "两只手机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-input servo",
+    "phonetic": "",
+    "definition": [
+      "双输入伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-phase servomotor",
+    "phonetic": "",
+    "definition": [
+      "两相伺服电动机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-stage servo",
+    "phonetic": "",
+    "definition": [
+      "级伺服系统,两级随动系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "underwater manipulator",
+    "phonetic": "",
+    "definition": [
+      "水下机械手[控制器,操作器]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "underwater robot",
+    "phonetic": "",
+    "definition": [
+      "水下机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uni-servo brake",
+    "phonetic": "",
+    "definition": [
+      "单向伺服式制动器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "universal manipulator",
+    "phonetic": "",
+    "definition": [
+      "用机械手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unstable servo",
+    "phonetic": "",
+    "definition": [
+      "不稳定伺服系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "user-agent server",
+    "phonetic": "",
+    "definition": [
+      "使用者代理伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "v-axis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服电机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vacuum servo",
+    "phonetic": "",
+    "definition": [
+      "真空伺服装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "valve-controlled servo",
+    "phonetic": "",
+    "definition": [
+      "活门控制伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "visual servoing",
+    "phonetic": "",
+    "definition": [
+      "【机器人】图像伺服,视频伺服"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wall-e",
+    "phonetic": "",
+    "definition": [
+      "n. 机器人总动员(电影名)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "water manipulator",
+    "phonetic": "",
+    "definition": [
+      "机器人操作手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "water-injection servo",
+    "phonetic": "",
+    "definition": [
+      "喷水伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wearable robot",
+    "phonetic": "",
+    "definition": [
+      "穿戴式机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "web-servers",
+    "phonetic": "",
+    "definition": [
+      "n. Web服务器",
+      "[网络] 网路伺服器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "woodworking robot",
+    "phonetic": "",
+    "definition": [
+      "木工机器人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wrist-mounted",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机器人一或两个腕带式;手腕式;机器人一或两个手腕式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "x-servers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伺服器;伺服程序;伺服程式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zero-lag servo",
+    "phonetic": "",
+    "definition": [
+      "零时滞伺服机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,5403 @@
+[
+  {
+    "word": "Abundance",
+    "phonetic": "ә'bʌndәns",
+    "definition": [
+      "n. 丰富, 充足, 大量",
+      "[经] 丰富, 充裕",
+      "EN: is a measure of how many fish are in a population or a fishing ground. See relative abundance and absolute abundance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Acoustic survey",
+    "phonetic": "",
+    "definition": [
+      "声波测量",
+      "EN: a systematic gathering of information on fish availability and abundance using underwater sound."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Acoustical oceanography",
+    "phonetic": "",
+    "definition": [
+      "声学海洋学",
+      "EN: the use of underwater sound to map underwater topography and the contents of the sea."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aerial survey",
+    "phonetic": "",
+    "definition": [
+      "空中测量",
+      "EN: a method of gathering information on surface fish movement and density by visual observation and photography from low-flying aircraft."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aggregation",
+    "phonetic": "ægri'geiʃәn",
+    "definition": [
+      "n. 集合, 聚合, 集合体",
+      "[化] 聚集; 聚集作用",
+      "EN: any grouping of fish, for whatever reason (or unknown reason) they are concentrating. See shoaling."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Agricultural runoff",
+    "phonetic": "",
+    "definition": [
+      "EN: surplus water from agricultural land, often draining into rivers and then into the sea, and often enriched with nutrients, sediment, and agricultural chemicals."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Algal bloom",
+    "phonetic": "",
+    "definition": [
+      "藻花,藻华",
+      "EN: a rapid excessive growth of algae, generally caused by high nutrient levels, particularly phosphorus. When the algae die, algal blooms can deplete oxygen to the point where fish cannot survive."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Alginate production",
+    "phonetic": "",
+    "definition": [
+      "EN: a gel substance extracted from brown algae and used industrially as a thickening agent for food and paint."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anadromous",
+    "phonetic": "ә'nædrәmәs",
+    "definition": [
+      "a. 溯河产卵的",
+      "EN: fish that live their adult lives in the ocean but migrate up fresh water rivers to spawn. Examples are Pacific salmon. Fish that migrate in the opposite direction are called catadromous."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anoxic sea water",
+    "phonetic": "",
+    "definition": [
+      "EN: sea water depleted of oxygen. See hypoxia."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anoxic sediments",
+    "phonetic": "",
+    "definition": [
+      "EN: sediments depleted of oxygen."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Antarctic Convergence",
+    "phonetic": "",
+    "definition": [
+      "[地名] 南极辐合带 ( 南极洲 )",
+      "EN: a line encircling Antarctica where cold, northward-flowing Antarctic waters meet and sink beneath the sub-Antarctic waters, creating an upwelling zone which is very high in marine productivity, especially in Antarctic krill."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aquaculture",
+    "phonetic": "'ækwә.kʌltʃә",
+    "definition": [
+      "n. 水产养殖",
+      "EN: the farming of freshwater and saltwater organisms including molluscs, crustaceans and aquatic plants. See also fish farming and mariculture."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Artisan",
+    "phonetic": ".ɑ:ti'zæn",
+    "definition": [
+      "n. 工匠, 技工",
+      "[经] 熟练技术工, 匠人",
+      "EN: someone who practices a craft as a livelihood, as opposed to an artist, who practices an art for its own sake."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Artisan fishing",
+    "phonetic": "",
+    "definition": [
+      "EN: a term sometimes used to describe small scale commercial or subsistence fishing practices. The term particularly applies to coastal or island ethnic groups using traditional techniques and traditional fishing boats."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Availability",
+    "phonetic": "ә.veilә'biliti",
+    "definition": [
+      "n. 有效性, 可利用性, 可利用的人",
+      "[计] 有效性; 可用性",
+      "EN: (1) the proportion of a fish population living where it can be fished. (2) catch per unit effort. (3) a term sometimes used to describe whether a given fish of a given size can be caught by a given type of gear in a given fishing area."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bait fish",
+    "phonetic": "",
+    "definition": [
+      "EN: are small fish caught for use as bait to attract large predatory fish. See forage fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bathypelagic",
+    "phonetic": ",bæθipә'lædʒik",
+    "definition": [
+      "a. 深海区的, 居于深海区的",
+      "EN: the open ocean or pelagic zone that extends from a depth of 1000 to 4000 meters below the ocean surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Beach",
+    "phonetic": "bi:tʃ",
+    "definition": [
+      "n. 海滩",
+      "EN: a geological landform along the shoreline of a body of water, consisting of loose particles composed of rock, such as sand, gravel, shingle, pebbles, or cobble, or of shell fragments or coralline algae fragments."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Beam trawling",
+    "phonetic": "",
+    "definition": [
+      "EN: the simplest method of bottom trawling. The mouth of the trawl net is held open by a solid metal beam attached to two solid metal plates, welded to the ends of the beam, which slide over and disturb the seabed. This method is mainly used on smaller vessels, fishing for flatfish or prawns, relatively close inshore."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bed",
+    "phonetic": "bed",
+    "definition": [
+      "n. 床, 睡眠处, 河床, 底座, 路基, 一层",
+      "vt. 提供宿处, 栽种, 安装",
+      "vi. 睡, 形成坚实的一层",
+      "EN: the bottom of a river, or watercourse, or any body of water, such as the seabed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Benthic zone",
+    "phonetic": "",
+    "definition": [
+      "底栖生物带",
+      "EN: the ecological region at the lowest level of a body of water such as an ocean or a lake, including the sediment surface and some sub-surface layers. Organisms living in this zone are called benthos."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Benthos",
+    "phonetic": "'benθɒs",
+    "definition": [
+      "n. 海底, 海底生物, 海底的动植物群",
+      "[医] 海底生物",
+      "EN: aquatic organisms which live on or in the seabed, also known as the benthic zone. Included are both mobile animals, such as crabs and abalone, and non mobile animals, such as corals and sponges."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Billfish",
+    "phonetic": "'bilfiʃ",
+    "definition": [
+      "n. 长嘴鱼(颚狭长如喙的鱼,如雀鳝等),尖嘴鱼(具有剑状长嘴及上颚的鱼,如旗鱼、枪鱼等)",
+      "EN: large, predatory fish characterised by their long sword-like bill. Billfish include the sailfish, marlin and swordfish. They are important apex predators feeding on a wide variety of smaller fish and cephalopods."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bimodal",
+    "phonetic": "bai'mәudl",
+    "definition": [
+      "[计] 双模态的",
+      "[医] 双峰的",
+      "EN: a bimodal distribution is a distribution with two different modes which appear as distinct peaks. An example in fisheries is the length of fish in a fishery, which might show two or more modes or peaks reflecting fish of different ages or species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bioacoustics",
+    "phonetic": ",baiәuә'ku:stiks",
+    "definition": [
+      "[复]n.[用作单] [生]生物声学",
+      "EN: in underwater acoustics and fisheries acoustics this term is used to mean the effect of plants and animals on sound propagated underwater, usually in reference to the use of sonar technology for biomass estimation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biodiversity",
+    "phonetic": "",
+    "definition": [
+      "n. 生物多样性",
+      "EN: is the variation of life forms within an area. In the context of fisheries the number and variety of organisms found within a fishery."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biomass",
+    "phonetic": "'baiәumæs",
+    "definition": [
+      "n. 生物量",
+      "[化] 生物质; 生物量",
+      "EN: the total weight of a fish species in a given area. Can be measured as the total weight in tons of a stock in a fishery, or can be measured per square metre or square kilometre. The most successful species worldwide, in terms of biomass, may be the Antarctic krill, with about five times the total biomass of humans."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biotone",
+    "phonetic": "",
+    "definition": [
+      "EN: a region where a distinctive transition from one set of biota to another occurs. An example is the region where tropical and temperate waters mix."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biotoxins",
+    "phonetic": ",baiəu'tɔksin, 'baiətɔksin",
+    "definition": [
+      "n. 生物体毒素",
+      "EN: natural toxins produced by organisms, often for use as a defence mechanism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bony fish",
+    "phonetic": "ˈbəʊni: fiʃ",
+    "definition": [
+      "多骨[刺]鱼, 海鲢; 硬骨鱼",
+      "EN: fish that have a bony skeleton and belong to the class osteichthyes. Basically, this is all fish except for sharks, rays, skates, hagfish and lampreys."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bottom trawling",
+    "phonetic": "",
+    "definition": [
+      "[水产] 底拖作业",
+      "EN: a fishing method that involves towing trawl nets along the sea floor. Bottom trawling can cause serious damage to sea floor habitats."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brackish water",
+    "phonetic": "",
+    "definition": [
+      "半咸水;苦水;苦盐水;淡盐味水;微咸水",
+      "EN: water that has more salinity than fresh water, but not as much as seawater. It may result from mixing seawater with fresh water, as in estuaries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Breach",
+    "phonetic": "bri:tʃ",
+    "definition": [
+      "n. 裂口, 违背, 破坏, 违反, 突破, 破裂",
+      "vt. 攻破, 突破",
+      "vi. 跳出水面",
+      "EN: a whale's leap out of the water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Breaker zone",
+    "phonetic": "",
+    "definition": [
+      "破浪带;碎波区;拍岸浪带",
+      "EN: the zone where ocean surface waves approaching the shore commence breaking, typically in water depths between five and ten metres."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brood",
+    "phonetic": "bru:d",
+    "definition": [
+      "n. 一窝, 一伙",
+      "vt. 孵, 沉思",
+      "EN: the collective offspring of a species produced in a particular time span. See also cohort."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Buoy",
+    "phonetic": "bɒi. 'bu:i",
+    "definition": [
+      "n. 浮标, 航标, 救生圈",
+      "vt. 使浮起, 鼓励",
+      "EN: a floating object usually moored to the bottom. Buoys can be used as temporary markers, called dans, during Danish seine fishing to mark the anchor position of a net, or when fishing with lobster pots to mark the position of the pots."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bycatch",
+    "phonetic": "",
+    "definition": [
+      "误捕的鱼(捕捞其他种类的鱼时意外捕获)",
+      "EN: bycatch is the harvest of marine life and seabirds during fishing operations when other fish were the target. For example, bycatch might consist of a species which was not the targeted species, such as a shark caught on a tuna longline. Or it might consist of fish of the targeted species, but not of the targeted age or size. Some shrimp fisheries have a bycatch five times the weight of the caught shrimp. See also incidental catch."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Carapace",
+    "phonetic": "'kærәpeis",
+    "definition": [
+      "n. 甲壳, 壳",
+      "[医] 甲, 甲壳, 介",
+      "EN: a calcified protective cover on the upper frontal surface of crustaceans. It is particularly well developed in lobsters and crabs."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Carrying capacity",
+    "phonetic": "",
+    "definition": [
+      "承载能力, 载重量",
+      "[化] 允许载荷量; 允许载重量; 承压力",
+      "EN: the supportable population of a species, given the food, habitat conditions and other resources available within a fishery."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Casting",
+    "phonetic": "'kɑ:stiŋ",
+    "definition": [
+      "n. 投掷, 铸成品, 角色分配",
+      "[化] 浇铸; 铸品",
+      "EN: the act of throwing bait or a lure over the water, using a fishing rod."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Catadromous",
+    "phonetic": "kә'tædrәmәs",
+    "definition": [
+      "a. 下海产卵的",
+      "EN: fish that live their adult lives in fresh water lakes or rivers but migrate down rivers to spawn in the sea. An example are freshwater eels of genus Anguilla, whose larvae drift on the open ocean, sometimes for months or years, before travelling thousands of kilometres back to their original rivers (see eel life history). Fish that migrate in the opposite direction are called anadromous."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cephalopods",
+    "phonetic": "",
+    "definition": [
+      "(cephalopod 的复数) n. 头足动物",
+      "EN: (from the Greek for \"head-feet\") animals such as squid and octopus where tentacles converge at the head. Cephalopods are the most intelligent of the invertebrates with well-developed senses and large brains."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cetacean",
+    "phonetic": "si'teiʃjәn",
+    "definition": [
+      "a. 鲸目的, 鲸鱼的",
+      "n. 鲸目动物, 鲸鱼",
+      "EN: member of the group of marine mammals that includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life and are noted for their high intelligence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cetacean bycatch",
+    "phonetic": "",
+    "definition": [
+      "EN: the incidental capture of non-target cetacean species by fisheries. Bycatch can be caused by entanglement in fishing nets and lines, or direct capture by hooks or in trawl nets."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Climate change",
+    "phonetic": "ˈklaimit tʃeindʒ",
+    "definition": [
+      "气候变化",
+      "EN: variation in the Earth's global climate or in regional climates over time. Climate change involves changes in the variability or average state of the atmosphere over time periods ranging from decades to millions of years. These changes can be caused by natural processes on Earth, external factors including variations in sunlight intensity, and more recently by human activities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cohort",
+    "phonetic": "'kәuhɒ:t",
+    "definition": [
+      "n. 一群;步兵大队;支持者;共同特点的一群人",
+      "EN: those individuals of a stock born in the same spawning season. For annual spawners, a year's recruitment of new individuals to a stock is a single cohort or year-class. See brood."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Commercial fishery",
+    "phonetic": "",
+    "definition": [
+      "商品渔业",
+      "EN: An umbrella term covering fisheries resources and the whole process of catching and marketing fish, molluscs and crustaceans. It includes the fishermen and their boats, and all activities and resources involved in harvesting, processing, and selling."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Conspecific",
+    "phonetic": ",kɔnspi'sifik",
+    "definition": [
+      "a. 同种的",
+      "EN: organisms or populations that belong to the same species. Organisms that don't belong to the same species are heterospecific."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Continental margin",
+    "phonetic": "",
+    "definition": [
+      "[法] 大陆边缘",
+      "EN: the zone of the ocean floor that separates the thin oceanic crust from the thick continental crust. Continental margins constitute about 28% of the oceanic area."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Continental rise",
+    "phonetic": "",
+    "definition": [
+      "[法] 大陆隆起",
+      "EN: is below the slope, but landward of the abyssal plains. Extending as far as 500 kilometres from the slope, it consists of thick sediments which have cascaded down the slope and accumulated as a pile at the base of the slope."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Continental shelf",
+    "phonetic": "",
+    "definition": [
+      "[经] 大陆架",
+      "EN: the seabed from the shore to the edge of the continental slope, covered by relatively shallow seas (known as shelf seas) and gulfs."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Continental slope",
+    "phonetic": "",
+    "definition": [
+      "[经] 大陆架坡",
+      "EN: the slope which starts, usually abruptly at about a 200-metre depth, at the outer edge of the continent shelf and dips more steeply down to the deep-ocean floor (abyssal plain)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Coriolis effect",
+    "phonetic": "",
+    "definition": [
+      "科里奥利效应",
+      "EN: due to the Earth's rotation, freely moving objects on the surface of the Earth veer right in the northern hemisphere and left in the southern hemisphere. This effect is called the Coriolis effect, and works, in particular, on winds and ocean currents. The effect varies with latitude and is zero at the equator and increases towards the poles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cottage industry",
+    "phonetic": "",
+    "definition": [
+      "家庭手工业",
+      "EN: small, locally owned businesses usually associated in fishing with traditional methods and low relative yield."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Crab pot fishery",
+    "phonetic": "",
+    "definition": [
+      "EN: a fishing technique where crabs are lured by bait into portable traps, sometimes called pots."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Crustaceans",
+    "phonetic": "krʌs'teɪʃnz",
+    "definition": [
+      "n. 甲壳纲动物(如蟹、龙虾)( crustacean的复数形式 )",
+      "EN: A group of freshwater and saltwater animals having no backbone, with jointed legs and a hard shell made of chitin. Includes crabs, lobsters, crayfish, shrimp and krill."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Danish seine",
+    "phonetic": "",
+    "definition": [
+      "[网络] 底拖网;旋回式曳网;扒网渔业",
+      "EN: a widely used commercial fishing technique which uses a small trawl net with long wire warps. The seine boat drags the warps and the net in a circle around the fish. The motion of the warps herds the fish into the central net. Danish seining works best on demersal fish which are either scattered on or close to the bottom of the sea, or are aggregated (schooling). See also purse seine."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dead zone",
+    "phonetic": "",
+    "definition": [
+      "[计] 死区, 静区, 不工作区",
+      "[化] 盲区",
+      "EN: an area in an ocean or large lake where oxygen levels are extremely low, often due to eutrophication. Dead zones have been increasing since the 1970s."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Deep ocean currents",
+    "phonetic": "",
+    "definition": [
+      "EN: currents in the deep ocean, also known as thermohaline circulation or the \"conveyor belt\", are driven by density and temperature gradients. They can be contrasted with surface ocean currents, which are driven by the wind."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Delisted",
+    "phonetic": "di:ˈlistid",
+    "definition": [
+      "v. 把(证券等)从上场证券中除去, 把...从清单中划去( delist的过去式和过去分词 )",
+      "EN: a species which is no longer listed under the ESA. See also recovered species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Demersal fish",
+    "phonetic": "",
+    "definition": [
+      "底层鱼类",
+      "EN: fish that live in the demersal zone. Examples are cod, flounder and snapper. Compared to pelagic fish, demersal fish contain little oil. See also bottom feeder."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Demersal trawling",
+    "phonetic": "",
+    "definition": [
+      "EN: trawling on or near the bottom of a sea or lake. See also bottom trawling."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Demersal zone",
+    "phonetic": "",
+    "definition": [
+      "EN: the zone at or near the bottom of a sea or lake. Inhabitants of the demersal zone feed off the bottom or off other demersal fish. See also pelagic zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Depletion",
+    "phonetic": "di'pli:ʃәn",
+    "definition": [
+      "n. 消耗, 耗尽, 放血",
+      "[医] 排除, 缺失(液体), 衰竭[状态](由于缺液)",
+      "EN: reducing the abundance of a fish stock through fishing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Diatoms",
+    "phonetic": "",
+    "definition": [
+      "(diatom 的复数) n. 硅藻",
+      "[医] 硅藻, 矽藻",
+      "EN: minute planktonic unicellular or colonial algae."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dorsal",
+    "phonetic": "'dɒ:sәl",
+    "definition": [
+      "a. 背的, 背部的, 背侧的",
+      "[医] 背的, 背侧的",
+      "EN: relating to or situated near or on the back."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Downwelling",
+    "phonetic": "dajn'weliŋ",
+    "definition": [
+      "n. (海洋在地壳板块压力下的)下降",
+      "EN: A downward movement (sinking) of surface water caused by onshore Ekman transport, converging currents or when a water mass becomes more dense than the surrounding water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dredging",
+    "phonetic": "'dredʒiŋ",
+    "definition": [
+      "n. 挖泥, 捕捞",
+      "EN: dredge designed to catch scallops, oysters or sea cucumbers are towed along the bottom of the sea by specially designed dredge boats."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Driftnet",
+    "phonetic": "",
+    "definition": [
+      "流网",
+      "EN: a gillnet suspended by floats so that it fishes the top few metres of the water column. Drift nets can be many kilometres long. Because drift nets are not anchored to the sea bottom or connected to a boat, they are sometimes lost in storms and become ghost nets."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dropline",
+    "phonetic": "d'rɒplaɪn",
+    "definition": [
+      "(新闻)分成数行的横标题(其第一行左方的边线齐,每下一行空若干格,其最后一行与右方的边线齐)",
+      "EN: a fishing line with one or more hooks, held vertically in the water column with weights and generally used on the continental shelf and slope. Several droplines may be operated by a vessel, either on manually or mechanically operated reels."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Echinoderms",
+    "phonetic": "",
+    "definition": [
+      "(echinoderm 的复数) n. 棘皮动物",
+      "[医] 棘皮动物",
+      "EN: a group of marine animals that includes seastars, sea urchins and sea cucumbers, abundant on the floor of the deep sea, as well as in shallower seas."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ecologically sustainable development",
+    "phonetic": "",
+    "definition": [
+      "EN: in the context of fisheries, using, conserving and enhancing fishery resources so that the ecological processes, on which the fish depend, are not degraded."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Economic rent",
+    "phonetic": "ˌɪkəˈnɔmik rent",
+    "definition": [
+      "经济租金[地租]",
+      "EN: the profit that could be earned from a fishery owned by an individual. Individual ownership maximizes profit, but an open entry policy usually results in so many fishermen that profit barely matches opportunity cost. See maximum economic yield."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ectothermic",
+    "phonetic": "ek'təʊθɜ:mɪk",
+    "definition": [
+      "[医]变温的",
+      "EN: animals that control body temperature through external means, using the sun, or flowing air or water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ekman transport",
+    "phonetic": "",
+    "definition": [
+      "埃克曼输送",
+      "EN: resultant flow at right angles to and to the right of the wind direction in the northern hemisphere, to the left in the southern hemisphere."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "El Niño",
+    "phonetic": "",
+    "definition": [
+      "EN: large scale, cyclical (generally three to seven years), ocean warming and cooling episodes across the equatorial Pacific. Warm water pools in the east in El Niño conditions and in the west during La Niña conditions. It begins around Christmas (El Niño means Christ child). These changes disrupt weather patterns and the migration habits of fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Elasmobranch",
+    "phonetic": "i'læsmәubræŋk",
+    "definition": [
+      "n. 板鳃亚纲的鱼",
+      "EN: cartilaginous fish that includes sharks, skates and rays. Compare bony fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Electrophoresis",
+    "phonetic": "i,lektrәfә'ri:sis",
+    "definition": [
+      "n. 电泳",
+      "[化] 电泳",
+      "EN: A technique used by fisheries scientists. Tissue samples are taken from fish, and electrophoresis is used to separate proteins such as enzymes, based on their different mobilities in an electric field. This information is used to differentiate between morphologically similar species and to distinguish sub-populations or stocks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Endangered species",
+    "phonetic": "",
+    "definition": [
+      "[法] 会造成危害的物件",
+      "EN: An endangered species is a population of an organism which is at risk of becoming extinct. The IUCN has calculated the percentage of endangered species as 40 percent of all organisms based on the sample of species that have been evaluated through to 2006."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Endemic",
+    "phonetic": "en'demik",
+    "definition": [
+      "n. 地方病",
+      "a. 某地(或某些人中)流行的, 地方的",
+      "EN: native to a certain region, often a fairly small local area."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Endothermic",
+    "phonetic": ",endәj'θ\\\\:mik",
+    "definition": [
+      "a. 吸热(性)的,[动]温血的",
+      "EN: animals which maintain a body temperature which is above ambient temperature. See Ectothermic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epibenthos",
+    "phonetic": ",epi'benθɔs",
+    "definition": [
+      "n. 浅海底栖生物",
+      "EN: invertebrates that live on top of the seabed. Compare benthos."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epipelagic",
+    "phonetic": ",epipә'lædʒik",
+    "definition": [
+      "a. [海洋]光合作用带的,上层的",
+      "EN: The top layer of the ocean from the surface down to about 200 metres. This is the illuminated zone where there is enough light for photosynthesis. Nearly all primary production in the ocean occurs here. See photic zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Escapement",
+    "phonetic": "is'keipmәnt",
+    "definition": [
+      "n. 钟/表的司行轮, 棘轮装置, 摆轮",
+      "[计] 擒纵机构, 棘轮装置, 走格, 跳行, 移动",
+      "EN: the percentage of a spawning anadromous fish population that survives all obstacles during their migration, including fishing pressure and predation, and successfully reach their spawning grounds."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Estuary",
+    "phonetic": "'estjuәri",
+    "definition": [
+      "n. 河口, 港湾",
+      "EN: a semi-enclosed coastal body of water with one or more rivers or streams flowing into it, and with a free connection to the open sea. Healthy estuaries can have high rates of biological productivity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Eulittoral zone",
+    "phonetic": "",
+    "definition": [
+      "近岸浅海底带",
+      "EN: another name for the intertidal zone or foreshore, extending from the spring high tide line to the neap low tide line."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Euryhaline",
+    "phonetic": ",juәri'heilain, -'hælain",
+    "definition": [
+      "a. 能在不同盐分之环境中存活的, 广盐性的",
+      "EN: fish that are tolerant to a wide range of salinities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Eutrophication",
+    "phonetic": "ju:,trɔfi'keiʃən",
+    "definition": [
+      "[化] 富营养化",
+      "EN: an increase in chemical nutrients – typically compounds containing nitrogen or phosphorus – in an ecosystem. Eutrophication in water often results in an increase in algae growth and decay, which can lead to decreased levels of oxygen and fish populations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Exclusive Economic Zone (EEZ)",
+    "phonetic": "",
+    "definition": [
+      "EN: a seazone under the law of the sea over which a state has special rights to the exploration and use of marine resources. Generally a state's EEZ extends to a distance of 200 nautical miles (370 km) out from its coast."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Farmed fisheries",
+    "phonetic": "",
+    "definition": [
+      "EN: are fisheries where the fish are farmed using aquaculture techniques. They can be contrasted with wild fisheries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fecundity",
+    "phonetic": "fi'kʌnditi",
+    "definition": [
+      "n. 多产, 丰饶, 肥沃, 繁殖力",
+      "[医] 生殖能, 生殖力",
+      "EN: the number of eggs a fish produces each reproductive cycle; the potential reproductive capacity of an organism or population. Fecundity changes with the age and size of the fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fish",
+    "phonetic": "fiʃ",
+    "definition": [
+      "n. 鱼, 鱼肉, 鱼类, 接合板",
+      "vt. 钓, 钓鱼, 查出, 用接合板连接",
+      "vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找",
+      "EN: a true fish is a vertebrate with gills that lives in water. However, in the context of fisheries, the term \"fish\" is generally used more broadly to include any harvestable animal living in water, including molluscs, crustaceans and echinoderms."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fisherman",
+    "phonetic": "'fiʃәmәn",
+    "definition": [
+      "n. 渔夫, 钓鱼者, 渔船",
+      "EN: or fisher – someone who captures fish and other animals from a body of water, or gathers shellfish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishery",
+    "phonetic": "'fiʃәri",
+    "definition": [
+      "n. 渔业",
+      "[法] 捕鱼, 捕鱼权",
+      "EN: the activities leading to and resulting in the harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture. A fishery is characterised by the species caught, the fishing gear used, and the area of operation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishing",
+    "phonetic": "'fiʃiŋ",
+    "definition": [
+      "n. 钓鱼, 鱼业",
+      "a. 钓鱼的",
+      "EN: the activity of trying to catch fish"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishing effort",
+    "phonetic": "",
+    "definition": [
+      "捕捞能力",
+      "EN: a measure of how much work is needed by fishermen to catch fish. Different measures are appropriate for different kinds of fisheries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishing fleet",
+    "phonetic": "",
+    "definition": [
+      "渔船队",
+      "EN: an aggregation of fishing vessels of a particular country, such as the Russian fishing fleet, or using a particular gear, such as purse seine fleet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishing vessel",
+    "phonetic": "ˈfɪʃɪŋ ˈvesəl",
+    "definition": [
+      "渔船",
+      "EN: any vessel normally used for the harvesting of living aquatic resources or in support of such activity. This includes vessels which provide assistance to other fishing vessels such as supply, storage, refrigeration, transportation or processing (mother ships)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fishmeal",
+    "phonetic": "'fɪʃmi:l",
+    "definition": [
+      "n. 鱼粉",
+      "EN: protein-rich animal feed product based on fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Flushing time",
+    "phonetic": "",
+    "definition": [
+      "流过时间",
+      "EN: the time required to replace all the water in an estuary or harbour by the actions of currents and tides."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Forage fish",
+    "phonetic": "",
+    "definition": [
+      "饵料鱼",
+      "EN: are small fish which are preyed on by larger predators. Typical ocean forage fish are small, filter-feeding fish such as herring, anchovies and menhaden. They compensate for their small size by forming schools. See bait fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Foreshore",
+    "phonetic": "'fɒ:ʃɒ:",
+    "definition": [
+      "n. 前滩, 海滩",
+      "EN: intertidal area between the highest and lowest tide levels"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fork length",
+    "phonetic": "",
+    "definition": [
+      "尾叉体长",
+      "EN: in fishes with forked tails, this measures from the tip of the snout to the fork of the tail. It is used in fishes when is difficult to tell where the vertebral column ends."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Founder effect",
+    "phonetic": "ˈfaʊndə iˈfekt",
+    "definition": [
+      "创建者效应",
+      "EN: the loss of genetic variation when a new colony is established by some individuals moving to a new area that is unoccupied. As a result, the new population may be distinctively different from its parent population."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Free-diving",
+    "phonetic": "",
+    "definition": [
+      "un. 自由潜",
+      "[网络] 自由潜水",
+      "EN: diving under water without the assistance of breathing apparatus to collect oysters, abalone, corals, sponges, crayfish etc. The gear usually includes a snorkel, face mask, flippers, weight belt and wet suit."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Front",
+    "phonetic": "frʌnt",
+    "definition": [
+      "n. 前面, 开头, 前线, 阵线, 态度",
+      "vt. 面对, 朝向, 对抗",
+      "vi. 朝向",
+      "EN: region of sharp gradient in temperature or salinity, indicating a transition between two current systems or water masses. Fronts are usually associated with high biological activity and high abundance of highly migratory resources such as tuna. They are actively sought as fishing areas and can be monitored by satellite remote sensing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fry",
+    "phonetic": "frai",
+    "definition": [
+      "n. 油炸食物, 鱼苗",
+      "v. 油炸, 煎",
+      "EN: Development stage of fish immediately after the larvae stage at an age of less than a week."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gametes",
+    "phonetic": "",
+    "definition": [
+      "(gamete 的复数) n. 配子",
+      "[医] 配子",
+      "EN: eggs and sperm."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gear",
+    "phonetic": "giә",
+    "definition": [
+      "n. 齿轮, 工具",
+      "vt. 以齿轮连起, 开动, 使适应, 安排",
+      "vi. 连接上, 适合",
+      "EN: the equipment used by fishermen when fishing. Some examples are hooks, lines, sinkers, floats, rods, reels, baits, lures, spears, nets, gaffs, traps, waders and tackle boxes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gene flow",
+    "phonetic": "dʒi:n fləu",
+    "definition": [
+      "基因流动",
+      "EN: The movement of genes from one population to another by individuals moving between the populations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ghost nets",
+    "phonetic": "",
+    "definition": [
+      "[网络] 鬼网",
+      "EN: fishing nets and other gear that has been left or lost in the ocean and continues to capture and kill fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gillnet",
+    "phonetic": "'^ilnet",
+    "definition": [
+      "v. 以刺网捕鱼",
+      "EN: fishing nets constructed so that fish are entangled or enmeshed, usually in the gills, by the netting. According to their design, ballasting and buoyancy, these nets can be used to fish on the surface, in midwater or on the bottom. The mesh size of the net determines the size of fish caught, since smaller fish can swim through the mesh. See also drift net."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Global positioning system",
+    "phonetic": "",
+    "definition": [
+      "全球位置测定系统",
+      "EN: a device which uses satellite signals to accurately determine a fishing vessel's position and course."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Global warming",
+    "phonetic": "ˈɡləubəl ˈwɔ:miŋ",
+    "definition": [
+      "n. 全球变暖",
+      "EN: the increase in the average temperature of the Earth's near-surface air and oceans in recent decades, as well as the projected continuation of this trend."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "glossary",
+    "phonetic": "'glɒsәri",
+    "definition": [
+      "n. 专业词典, 术语集, 词表",
+      "[计] 图文集",
+      "EN: This is a glossary of terms used in fisheries, fisheries management and fisheries science."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Groundfish",
+    "phonetic": "'^rajndfiʃ",
+    "definition": [
+      "n. 底栖鱼,底层鱼(指生活于海底的鱼,如鳕等)",
+      "EN: fish that lives most of its life on or near the sea bottom, such as cod, haddock, or flounder."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gulf",
+    "phonetic": "gʌlf",
+    "definition": [
+      "n. 海湾, 深渊, 漩涡, 隔阂",
+      "vt. 吞没",
+      "EN: a large area of water bordered by land on three sides."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Habitat",
+    "phonetic": "'hæbitæt",
+    "definition": [
+      "n. 栖息地, 居留地, 自生地, 聚集处",
+      "[医] 习生地, 产地, 生境, 栖所",
+      "EN: the place where an organism lives."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Halocline",
+    "phonetic": "'hælәklain",
+    "definition": [
+      "n. (海洋的)盐(度)跃层",
+      "EN: a zone in which salinity changes rapidly."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Harmful algal bloom (HAB)",
+    "phonetic": "",
+    "definition": [
+      "EN: an algal bloom that produces toxins detrimental to plants and animals. Scientists prefer this term to red tide, since not all algal blooms are harmful, nor do all algal blooms cause discoloration, and the blooms are not associated with tides."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Harvest",
+    "phonetic": "'hɑ:vist",
+    "definition": [
+      "n. 收获, 成果, 收获物, 收获期",
+      "v. 收割, 收获",
+      "EN: the number or weight of fish caught and retained from a given area over a given period of time. Note that landings, catch, and harvest are different."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hatchery",
+    "phonetic": "'hætʃәri",
+    "definition": [
+      "n. 孵卵处",
+      "EN: the process of cultivating and breeding a large number of juveniles in an enclosed environment. The juveniles are then released into lakes, rivers or fish farm enclosures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "High seas",
+    "phonetic": "",
+    "definition": [
+      "公海",
+      "[法] 公海, 外海, 外洋",
+      "EN: waters outside national jurisdictions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Highly migratory species",
+    "phonetic": "",
+    "definition": [
+      "EN: a term which has its origins in the United Nations Convention on the Law of the Sea. It refers to fish species which undertake ocean migrations and also have wide geographic distributions. It usually denotes tuna and tuna-like species, shark, marlins and swordfish. See also transboundary stocks and straddling stocks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Husbandry",
+    "phonetic": "'hʌzbәndri",
+    "definition": [
+      "n. 农事, 饲养业, 家政",
+      "EN: the farming practice of breeding and raising fish stock."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hypoxia",
+    "phonetic": "hai'pɔksiә",
+    "definition": [
+      "n. 低氧症",
+      "[医] 氧过少, 氧不足, 低氧",
+      "EN: occurs in aquatic environments when dissolved oxygen becomes depletion to a level which is harmful to aquatic organisms."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Incidental catch",
+    "phonetic": "",
+    "definition": [
+      "EN: the catch of non-fish species, caught in the course of commercial fishing practices. Examples of non-fish species are seabirds, and marine mammals and reptiles, such as dolphins, seals and sea turtles. Incidental mortality can be contrasted with bycatch, which is a general term for the catch of all fish and non-fish species other than the targeted species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Individual transferable quota (ITQ)",
+    "phonetic": "",
+    "definition": [
+      "EN: a management tool by which the total allowable catch quota is allocated to individual fishers or companies who have long-term rights over the quota or can transfer it to others by sale, lease, or will. See also quota."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Intertidal",
+    "phonetic": ",intә(:)'taidl",
+    "definition": [
+      "a. 高潮线与低潮线之间的",
+      "EN: The intertidal zone is the region of land which is submerged during high tide and exposed during low tide."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Introduced species",
+    "phonetic": "",
+    "definition": [
+      "外来种",
+      "EN: Species brought into an area where it does not naturally occur, but is able to survive and reproduce there."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Invertebrates",
+    "phonetic": "ɪn'vɜ:təbreɪts",
+    "definition": [
+      "n. 无脊椎动物( invertebrate的复数形式 )",
+      "EN: animals without a backbone, such as octopus, shellfish, jellyfish and corals. See also vertebrates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Isobath",
+    "phonetic": "'aisәu,bɑ:θ",
+    "definition": [
+      "n. 等深线",
+      "[化] 等深线",
+      "EN: a contour line linking regions of the same depth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Isopleth",
+    "phonetic": "'aisәupleθ",
+    "definition": [
+      "[计] 等值线",
+      "EN: contour line joining points corresponding to similar values. Often used to plot yield-per-recruit values on a graph showing the changes as a function of size-at-first-capture and fishing mortality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Isopods",
+    "phonetic": "",
+    "definition": [
+      "(isopod 的复数) n. 等足类动物",
+      "a. 等足类动物的",
+      "EN: group of small crustaceans that includes fish lice."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "isotherm",
+    "phonetic": "'aisәuθә:m",
+    "definition": [
+      "n. 等温线",
+      "[化] 等温线",
+      "EN: contour line connecting points with the same temperature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IUCN",
+    "phonetic": "",
+    "definition": [
+      "国际自然保护联盟",
+      "EN: the International Union for the Conservation of Nature and Natural Resources is the world's main authority on the conservation status of species. Their system divides threatened species into three categories: critically endangered (CR), endangered (EN), and vulnerable (VU). They also list extinctions that have occurred since 1500 AD and taxa that are extinct in the wild."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IUCN Red List",
+    "phonetic": "",
+    "definition": [
+      "世界自然保护联盟红色名录",
+      "EN: the IUCN Red List of Threatened Species (also known as the IUCN Red List or Red Data List), created in 1963, is the world's most comprehensive inventory of the global conservation status of plant and animal species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jigging",
+    "phonetic": "['dʒi^iŋ",
+    "definition": [
+      "n. 跳汰选, 簸选",
+      "EN: a method of fishing which uses lures on a vertical line that is moved up and down, or jigged. Jigging can be done manually with hand-operated spools. It is also done automatically using machines when fishing for arrow squid."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jukung",
+    "phonetic": "",
+    "definition": [
+      "EN: a traditional fishing boat used in Indonesia."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Juvenile",
+    "phonetic": "'dʒu:vinail",
+    "definition": [
+      "n. 少年, 少年读物",
+      "a. 少年的, 不成熟的, 适于少年的",
+      "EN: a young fish or animal that has not reached sexual maturity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "La Niña",
+    "phonetic": "",
+    "definition": [
+      "EN: a condition involving an excessive pooling of cool water which occurs in the equatorial Eastern Pacific Ocean. See El Niño."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lagoon",
+    "phonetic": "lә'^u:n",
+    "definition": [
+      "n. 环礁湖, 近海岸的浅水区, 泻湖, 咸水湖",
+      "EN: a body of shallow salt or brackish water separated from the deeper sea by a shallow or exposed sandbank, coral reef, or similar feature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Land runoff",
+    "phonetic": "",
+    "definition": [
+      "EN: rainfall, snow melt or irrigation water that runs off the land into streams and other surface water, and ultimately into the ocean. Land runoff can carry pollutants, such as petroleum, pesticides, and fertilizers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Landing",
+    "phonetic": "'lændiŋ",
+    "definition": [
+      "n. 登陆, 码头, 降落",
+      "[经] 上岸, 登陆, 降落",
+      "EN: the amount of fish (usually in tons) harvested from the sea and brought to the land. May be different from the catch, which includes the discards. Landings are reported at the points at which fish are brought to shore. Most often, landings provide the only record of total catch, i.e. landings plus discards. Note landings, catch, and harvest define different things."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Line fishing",
+    "phonetic": "",
+    "definition": [
+      "手钓[渔法]",
+      "EN: a general term for fishing methods which use fishing lines. It includes handlines, hand reels, powered reels, pole-and-line, droplines, longlines, trotlines and troll lines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Littoral",
+    "phonetic": "'litәrәl",
+    "definition": [
+      "a. 海滨的, 湖岸的, 沿海的",
+      "n. 沿海地, 沿海地区",
+      "EN: the shallow water region around lake or sea shores where significant light penetrates to the bottom. Typically occupied by rooted plants. On sea shores it includes the intertidal zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Logbook",
+    "phonetic": "'lɒgbuk",
+    "definition": [
+      "n. 航海日志, 航空日志, 飞机航程表",
+      "[电] 记录册",
+      "EN: an official record of catch and its species composition, fishing effort and location, recorded on board the fishing vessel. In many fisheries, logbooks are a compulsory condition of licensing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Longlines",
+    "phonetic": "",
+    "definition": [
+      "(longline 的复数) n. 延绳钓",
+      "EN: a long fishing line with many short lines, called snoods and carrying hooks, attached at regular intervals. Pelagic longlines are suspended horizontally at a fixed depth using surface floats. Demersal longlines are weighted at the seabed and have closer-spaced hooks. A longline can be miles long with several thousand hooks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mariculture",
+    "phonetic": "'mærikʌltʃә",
+    "definition": [
+      "n. 海上养殖",
+      "EN: a particular branch of aquaculture where marine organisms are cultivated in the open ocean, or an enclosure of the ocean, or in tanks, ponds or raceways filled with seawater. Examples are the farming of marine fish, prawns, oysters and seaweed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Marine mammal",
+    "phonetic": "",
+    "definition": [
+      "海洋哺乳动物",
+      "EN: mammals that are primarily ocean-dwelling or depend on the ocean for food, such as porpoises, whales, seals, walrus and polar bears."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Marine protected area (MPA)",
+    "phonetic": "",
+    "definition": [
+      "EN: marine area with some level of legal restriction to protect living, non-living, cultural, and/or historic resources."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maximum economic yield (MEY)",
+    "phonetic": "",
+    "definition": [
+      "EN: the total amount of profit that could be earned from a fishery if it were owned by one individual. An open entry policy usually results in too many fishermen so profits are barely higher than opportunity costs. See economic rent."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maximum sustainable yield (MSY)",
+    "phonetic": "",
+    "definition": [
+      "EN: the maximum catch that can be taken from a species' stock over an indefinite period. Under the assumption of logistic growth, the MSY will be exactly at half the carrying capacity of a species, as this is the stage at when population growth is highest. The maximum sustainable yield is usually higher than the optimum sustainable yield. Studies have shown that fishing at the level of MSY is often not sustainable. See also long-term potential yield."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Meristics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 形质",
+      "EN: A series of measurements on a fish, such as scale counts, which are used to separate different populations or races of fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mesopelagic",
+    "phonetic": ",mesәupә'lædʒik",
+    "definition": [
+      "a. (海洋)中层的",
+      "EN: ocean depths extending from 200 to 1000 metres (650 to 3280 feet) below sea level"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Migration",
+    "phonetic": "mai'greiʃәn",
+    "definition": [
+      "n. 移民, 移往, 移动",
+      "[计] 迁移",
+      "EN: a systematic (as opposed to random) movement of individuals in a fish stock from one place to another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Minimum landing size",
+    "phonetic": "",
+    "definition": [
+      "EN: the smallest length at which it is legal to keep or sell a fish. Sizes vary with the species of fish and also vary in different places around the world."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mollusc",
+    "phonetic": "'mɔlәsk",
+    "definition": [
+      "n. 软体动物",
+      "[医] 软体动物",
+      "EN: A group of freshwater and saltwater animals with no skeleton and usually one or two hard shells made of calcium carbonate. Includes oysters, clams, mussels, snails, conches, scallops, squid and octopus."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Morphometrics",
+    "phonetic": ",mɔ:fәj'metriks",
+    "definition": [
+      "[复]n.[用作单或复](尤指生物体的) 形态测定,形态特征",
+      "EN: Measurements which characterise the form, shape and appearance of an animal or plant. Difference in morphometrics, such as colouration, can be used to distinguish different stocks of the same species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mortality",
+    "phonetic": "mɒ:'tælәti",
+    "definition": [
+      "n. 必死的命运, 死亡数目, 死亡率",
+      "[医] 必死性, 死亡率",
+      "EN: Mortality is a death rate from various causes, such as the proportion of a fish stock dying annually. See also natural mortality and fishing mortality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mud flat",
+    "phonetic": "mʌd flæt",
+    "definition": [
+      "淤泥滩,海滨泥地",
+      "EN: are coastal wetlands that form when mud is deposited by the tides or rivers, sea and oceans. They are found in sheltered areas such as bays, bayous, lagoons, and estuaries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Natal",
+    "phonetic": "'neitl",
+    "definition": [
+      "a. 出生的, 诞生的",
+      "[医] 分娩的, 生产的; 臀的",
+      "EN: relating to birth, such as many salmon that return to their place of birth to spawn."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nearshore waters",
+    "phonetic": "",
+    "definition": [
+      "[网络] 近岸水域;近海水域",
+      "EN: relatively shallow inshore waters that do not extend beyond the continental shelf. See also sublittoral zone"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Neritic zone",
+    "phonetic": "niˈritik zəun",
+    "definition": [
+      "浅海带",
+      "EN: the shallow pelagic zone over the continental shelf. See also nearshore waters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nitrate",
+    "phonetic": "'naitreit",
+    "definition": [
+      "n. 硝酸盐",
+      "[化] 硝酸盐(或酯)",
+      "EN: a water-soluble molecule made up of nitrogen and oxygen, commonly found in agricultural fertilizers, and therefore in land runoff. Too much nitrate concentration is can be toxic to marine life."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nursery",
+    "phonetic": "'nә:sәri",
+    "definition": [
+      "n. 托儿所, 苗圃, 温床",
+      "[医] 婴儿室, 托儿所",
+      "EN: The part of a fish or animal habitat where the young grow up."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nutrient upwelling",
+    "phonetic": "",
+    "definition": [
+      "EN: Nutrient upwelling is the 'welling-up' of deeper water that is usually richer in nutrients than surface water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ocean basin",
+    "phonetic": "",
+    "definition": [
+      "洋盆",
+      "EN: geologically an ocean basin is a large geologic basin which is below sea level."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ocean currents",
+    "phonetic": "",
+    "definition": [
+      "洋流, 洋流能",
+      "EN: Oceanic currents can be divided into surface and deep ocean currents. Surface currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise spirals in the southern hemisphere. Surface currents can operate to a depth of 400 meters and apply to about ten percent of water in the ocean. Deep ocean currents are driven by density gradients in water due to temperature (thermo) and salinity (haline) differences. This thermohaline circulation, occurs at both deep and shallow ocean levels and moves much slower than tidal or surface currents. Upwelling and downwelling areas in the oceans are areas where significant vertical currents of water a"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ocean surface waves",
+    "phonetic": "",
+    "definition": [
+      "EN: are surface waves that occur on the free surface of the ocean. They usually result from wind, and are also referred to as wind waves. Some waves can travel thousands of miles before reaching land."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ocean Tracking Network",
+    "phonetic": "",
+    "definition": [
+      "EN: a research effort using implanted acoustic transmitters to study fish migration patterns."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oceanodromous",
+    "phonetic": "",
+    "definition": [
+      "远洋回游",
+      "EN: fish that migrate only within salt (ocean) waters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oceanography",
+    "phonetic": ".әuʃiә'nɒgrәfi",
+    "definition": [
+      "n. 海洋学",
+      "EN: the branch of Earth sciences that studies the ocean, including marine organisms and ecosystem dynamics; ocean currents and waves; plate tectonics and the formation of underwater topography; and movements of various chemical substances and physical properties within the ocean and across its boundaries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Otoliths",
+    "phonetic": "",
+    "definition": [
+      "耳石",
+      "EN: calcareous deposits or bones found in chambers at the base of the skull in fish. Sectioned, these bones often show rings or layers which can be used to determine age."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Otter trawl",
+    "phonetic": "",
+    "definition": [
+      "网板拖网",
+      "EN: An otter trawl is a demersal trawl which uses large rectangular otter boards to keep the opening of the trawl net from closing. Otter trawls are towed by a single trawler."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Overfishing",
+    "phonetic": "ˌəʊvəˈfɪʃɪŋ",
+    "definition": [
+      "v. 对(鱼、渔场)捕捞过度( overfish的现在分词 ); 渔捞过度",
+      "EN: occurs when fishing activities reduce fish stocks below an acceptable level. This can occur in any body of water from a pond to the oceans."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oxytetracycline",
+    "phonetic": ",ɔksi,tetrә'saiklin, -klain",
+    "definition": [
+      "n. 土霉素",
+      "[化] 土霉素; 氧四环素; 地霉素",
+      "EN: an antibiotic which is injected in a fish to leave a mark on its skeletal structures such as otoliths. When the fish is later recaptured, the mark left can be used to validate age estimates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pair trawling",
+    "phonetic": "",
+    "definition": [
+      "对拖; 对拖作业",
+      "EN: occurs when two trawlers tow the same net. Otter boards are not needed and very large nets can be held open and towed in this manner."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Panmictic",
+    "phonetic": "pæn'miktik",
+    "definition": [
+      "a. [生]随机交配的,随机交配群体的",
+      "EN: refers to random mating where all individuals within a population are potential partners."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parameter",
+    "phonetic": "pә'ræmitә",
+    "definition": [
+      "n. 参变数, 参变量, 参数, 参量",
+      "[计] 参量; 参数",
+      "EN: parameter in fisheries is a characteristic measure of some aspect of a fish stock. it is usually expressed as a numerical value, such as the \"natural mortality rate\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pelagic fish",
+    "phonetic": "",
+    "definition": [
+      "远洋鱼",
+      "EN: fish that spend most of their life swimming and feeding in the pelagic zone, as opposed to resting on or feeding off the bottom. Examples are tuna and most sharks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pelagic zone",
+    "phonetic": "",
+    "definition": [
+      "浮游带;远洋带",
+      "EN: any water in the sea that is not close to the bottom."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Phosphate",
+    "phonetic": "'fɔsfeit",
+    "definition": [
+      "n. 磷酸盐, 磷酸酯",
+      "[化] 磷酸盐; 磷酸酯",
+      "EN: a chemical compound containing phosphorus and oxygen, commonly found in agricultural fertilizers and land runoff."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Photic zone",
+    "phonetic": "",
+    "definition": [
+      "透光层",
+      "EN: \"sun lit\" zone extending downward from a lake or ocean surface to the euphotic depth where the light intensity falls to one percent of that at the surface. The photic zone exposed to sufficient sunlight for photosynthesis to occur. The depth of the photic zone can be greatly affected by seasonal turbidity. Typical euphotic depths vary from only a few centimetres in highly turbid eutrophic lakes, to around 200 metres in the open ocean. About 90% of all marine life lives in this region."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Phytoplankton",
+    "phonetic": ",faitәu'plæŋktәn",
+    "definition": [
+      "n. 浮游植物",
+      "[医] 浮游植物",
+      "EN: tiny, free-floating, photosynthetic organisms in aquatic systems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Plankton",
+    "phonetic": "'plæŋktәn",
+    "definition": [
+      "n. (总称)浮游生物",
+      "[医] 浮游生物",
+      "EN: consist of any drifting organisms (animals, plants, archaea or bacteria) that inhabit the pelagic zones, particularly the surface areas, of oceans or bodies of fresh water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Population",
+    "phonetic": ".pɒpju'leiʃәn",
+    "definition": [
+      "n. 人口, 人口数",
+      "[化] 群体; 总体",
+      "EN: See stock."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Population dynamics",
+    "phonetic": "",
+    "definition": [
+      "[计] 人口动力学",
+      "EN: The study of fish populations and how fishing mortality, growth, recruitment, and natural morality affect them."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Population model",
+    "phonetic": "",
+    "definition": [
+      "族群模式",
+      "EN: a hypothesis of how a population functions. It often uses mathematical descriptions of growth, recruitment and mortality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Precautionary principle",
+    "phonetic": "",
+    "definition": [
+      "[网络] 预防原则;预警原则;风险预防原则",
+      "EN: a moral and political principle which states that if an action or policy might cause severe or irreversible harm to the public or to the environment, in the absence of a scientific consensus that harm would not ensue, the burden of proof falls on those who would advocate taking the action"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Predator-Prey",
+    "phonetic": "",
+    "definition": [
+      "[网络] 捕食;猎物;捕食者的关系",
+      "EN: A predator is a species that feeds on other species. A prey is a species that is being eaten by a predator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Primary Productivity",
+    "phonetic": "",
+    "definition": [
+      "初级生产力,第一性生产力",
+      "EN: A measurement of plant production that is the start of the food chain. Much primary productivity in marine or aquatic systems is made up of phytoplankton, which are tiny one-celled algae that float freely in the water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Projection",
+    "phonetic": "prә'dʒekʃәn",
+    "definition": [
+      "n. 发射, 计划, 突出部分, 设计, 推测",
+      "[计] 投影",
+      "EN: With the help of a mathematical model as a numerical representation of the population, a projection is a prediction of what may happen in the future under a variety of conditions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "purse seine",
+    "phonetic": "pə:s seɪn",
+    "definition": [
+      "大型围网",
+      "EN: a fishing technique capable of harvesting large quantities of surface-schooling pelagic fish by surrounding the school with a net. A line which passes through rings on the bottom of the net can be tightened to close the net so that the fish are unable to escape. See also Danish seine."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quota",
+    "phonetic": "'kwәutә",
+    "definition": [
+      "n. 配额, 限额",
+      "[化] 定额",
+      "EN: Quota is the amount of catch that can be legally landed in a time period. It could refer to a fishery as a whole (total allowable catch) or to an amount allocated to an individual or company. See also individual transferable quota."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quota management system (QMS)",
+    "phonetic": "",
+    "definition": [
+      "EN: a system that limits the amount of fish that can be taken by commercial fishers. The QMS sets a quota that can be taken by each commercial fisher."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Recruitment",
+    "phonetic": "ri'kru:tmәnt",
+    "definition": [
+      "n. 新兵征召",
+      "[医] 募集[反应], 募集[现象](生理), 复聪(耳科)",
+      "EN: the number of new young fish that enter a population in a given year. More pragmatically, it can be defined as the number of young fish that attain a size where they can be legally caught, or become susceptible to being caught by a given fishing gear."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Red tide",
+    "phonetic": "",
+    "definition": [
+      "[化] 赤潮",
+      "EN: discolouration of surface waters, most frequently in coastal zones, caused by large concentrations of micro-organisms. See harmful algal bloom."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Risk analysis",
+    "phonetic": "",
+    "definition": [
+      "[化] 风险分析",
+      "[经] 风险分析",
+      "EN: evaluates the possible outcomes of various harvesting strategies or management options."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Salinity gradient",
+    "phonetic": "",
+    "definition": [
+      "含盐量梯度",
+      "EN: Salinity gradient: Change in salinity with depth, expressed in parts per thousand per metre. See halocline."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sample",
+    "phonetic": "'sæmpl",
+    "definition": [
+      "n. 样品, 范例, 样本",
+      "vt. 抽样, 尝试",
+      "[计] 示例, 字样",
+      "EN: A relatively small part of a fish stock which is removed for study, and which ideally is representative of the whole. The greater the number and size of the samples, the greater the confidence that the information obtained accurately reflects the status (such as abundance by number or weight, or age composition) of the stock."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sea grass",
+    "phonetic": "si: ɡrɑ:s",
+    "definition": [
+      "海草; 海韭菜",
+      "EN: members of marine seed plants that grow chiefly on sand or sand-mud bottom. They are most abundant in water less than 10 metres deep. Common types are eel grass, turtle grass and manatee grass."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Seamounts",
+    "phonetic": "",
+    "definition": [
+      "(seamount 的第三人称 -s形式) n. 海山",
+      "EN: underwater mountains rising at least 1000 metres above the sea floor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Seashore",
+    "phonetic": "'siʃɒ:",
+    "definition": [
+      "n. 海岸, 海滨",
+      "EN: the coast or that part of the land adjoining or near the ocean. See intertidal zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Selectivity",
+    "phonetic": ".silek'tiviti",
+    "definition": [
+      "n. 选择性, 选择度",
+      "[化] 选择性",
+      "EN: ability of a type of fishing tackle or gear to catch a certain size or kind of fish, compared with its ability to catch other sizes or kinds."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shelf break",
+    "phonetic": "",
+    "definition": [
+      "陆架坡折",
+      "EN: where the continental shelf and continental slope meet. At the shelf break, the more gently sloping region of the seabed adjacent to a landmass rather abruptly slopes moresteeply down towards the ocean depths, commonly around depths of 200 metres."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shellfish",
+    "phonetic": "'ʃelfiʃ",
+    "definition": [
+      "n. 贝, 甲壳类水生物",
+      "[医] 牡蛎",
+      "EN: general term for aquatic invertebrates (molluscs, crustaceans and echinoderms)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shoal",
+    "phonetic": "ʃәul",
+    "definition": [
+      "n. 浅水, 浅滩, 沙洲, 鱼群, 暗礁, 潜在危险",
+      "a. 浅的",
+      "vi. 鱼成群而游, 变浅",
+      "vt. 使变浅",
+      "EN: or sandbar is a somewhat linear landform within or extending into a body of water, typically composed of sand, silt or small pebbles. Bars can appear in the sea, in a lake, or in a river."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shoaling",
+    "phonetic": "'ʃəʊlɪŋ",
+    "definition": [
+      "浅水作用",
+      "EN: describes the behaviour of fish which aggregate together, including mixed species groups. Fish derive many benefits from shoaling behaviour including defence against predators through better predator detection and by diluting the chance of capture, enhanced foraging success, and higher success in finding a mate. It is also likely that fish benefit from shoal membership through increased hydrodynamic efficiency."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shore",
+    "phonetic": "ʃɒ:",
+    "definition": [
+      "n. 海岸, 海滨, 斜撑柱",
+      "vt. 把...送上岸, 支撑, 支持",
+      "EN: A shore or shoreline is the fringe of land at the edge of a large body of water, such as an ocean, sea, or lake. A shore of unconsolidated material is usually called a beach. See intertidal zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Simulation",
+    "phonetic": ".simju'leiʃәn",
+    "definition": [
+      "n. 模拟, 假冒物, 模仿",
+      "[计] 模拟",
+      "EN: An analysis that shows the production and harvest of fish using a group of equations to represent the fishery. It can be used to predict events in the fishery if certain factors change. See population dynamics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Socioeconomics",
+    "phonetic": "",
+    "definition": [
+      "[经] 社会经济学",
+      "EN: A word used to identify the importance of factors other than biology in fishery management decisions. For example, if management results in more fishing income, it is important to know how the income is distributed between small and large boats or part-time and full-time fishermen."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Spawning",
+    "phonetic": "'spɔ:niŋ",
+    "definition": [
+      "v. 播种, 产卵;大量生成(spawn的现在分词)",
+      "EN: the production or depositing of large quantities of eggs in water."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Species",
+    "phonetic": "'spi:ʃiz",
+    "definition": [
+      "n. 种, 类, 外形",
+      "[医] 茶剂; 种",
+      "EN: a group of organisms capable of interbreeding and producing fertile offspring."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Species density",
+    "phonetic": "",
+    "definition": [
+      "物种密度",
+      "EN: the number of species in a sampled area."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Species group",
+    "phonetic": "",
+    "definition": [
+      "物种群",
+      "EN: a group of similar species. Similar species are often difficult to differentiate without detailed examination."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sport fishery",
+    "phonetic": "",
+    "definition": [
+      "EN: See recreational fishery."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Stakeholder",
+    "phonetic": "'steikhәuldә",
+    "definition": [
+      "n. 赌金保管者",
+      "[法] 赌款保存人, 保存保证金的人",
+      "EN: anyone who has a stake or interest in the outcome of the project, as well as anyone one who is affected by the project."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Standardization",
+    "phonetic": ",stændәdai'zeiʃәn",
+    "definition": [
+      "[计] 标准化, 规格化",
+      "[化] 标准化; 标定",
+      "EN: procedures which maintain methods and equipment as constant as possible. Without standardization one cannot determine whether measurements of yearly differences in relative abundance are caused by actual fluctuations in stock abundance or by differences in the measurement procedure used. Lack of standardization is one reason why surveys using different commercial fishing vessels in different years do not produce comparable information. For example, if two vessels of different horsepower are used in separate years, the results can't be compared unless vessel mensuration experiments are performed. This would involve comparing the two vessels' catches to determine the influence of their fishing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Stock",
+    "phonetic": "stɒk",
+    "definition": [
+      "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目",
+      "a. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的",
+      "vt. 装把手于, 进货, 备有, 放牧",
+      "vi. 出新芽, 备货, 囤积",
+      "EN: group of fish of the same species (for example, snapper) that occupy a defined area of the ocean. Fish stocks are the basis of fisheries’ management. Not to be confused with stockfish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Straddling stocks",
+    "phonetic": "",
+    "definition": [
+      "跨海域资源",
+      "EN: A term defined by the United Nations as \"stocks of fish such as pollock, which migrate between, or occur in both, the economic exclusion zone of one or more states and the high seas\". They can contrasted with transboundary stocks. A stock can be both transboundary and straddling."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Subantarctic waters",
+    "phonetic": "",
+    "definition": [
+      "EN: waters adjacent to, but not within, the Antarctic Circle (about 66030'S)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Subtropical waters",
+    "phonetic": "",
+    "definition": [
+      "EN: waters adjacent to, but not within, the tropics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Super seiner",
+    "phonetic": "",
+    "definition": [
+      "EN: a large purse seiner, usually over 70 metres long, with freezing and storage facilities, and capable of fishing for an extended period in open oceans."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Surf",
+    "phonetic": "sә:f",
+    "definition": [
+      "n. 海浪, 拍岸浪",
+      "vi. 作冲浪运动",
+      "EN: collective term for breakers. Also the wave activity in the area between the shoreline and the outermost limit of breakers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Surf zone",
+    "phonetic": "",
+    "definition": [
+      "碎浪带",
+      "EN: As ocean surface waves come closer to shore they break, forming the foamy, bubbly surface called surf. The region of breaking waves defines the surf zone."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Surface ocean currents",
+    "phonetic": "",
+    "definition": [
+      "EN: surface currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise rotation in the southern hemisphere. In wind driven currents, the Ekman spiral effect results in the currents flowing at an angle to the driving winds. Surface currents make up about ten percent of the water in the ocean, and are generally restricted to the upper 400 meters. They can be contrasted with deep ocean currents, which are driven by density and temperature gradients."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Surplus production",
+    "phonetic": "",
+    "definition": [
+      "生产过剩",
+      "EN: Surplus production is the inherent productivity of a fish stock that can be harvested on a sustainable basis. Based on the theory that, at large stock size, reproductive rates and rate of stock growth are slowed by self-regulating mechanisms, and that stock growth rates are faster after removals, as the stock attempts to rebuild. In theory, fishing can be moderated to take advantage of the more productive stock growth rates, provided that it does not exceed the stock recovery capacity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sustainable fishing",
+    "phonetic": "",
+    "definition": [
+      "EN: fishing activities that do not cause or lead to undesirable changes in biological and economic productivity, biological diversity, or ecosystem structure and functioning, from one human generation to the next."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sustainable yield",
+    "phonetic": "",
+    "definition": [
+      "可维持产量",
+      "EN: Sustainable yield is the catch that can be removed over an indefinite period without causing the stock to be depleted. This could be either a constant yield from year to year, or a yield which is allowed to fluctuate in response to changes in abundance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tag and release",
+    "phonetic": "",
+    "definition": [
+      "EN: marking or attaching a tag to a fish so that it can be identified on recapture. Used for the study of fish growth, movement, migration, and stock structure and size."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Threatened species",
+    "phonetic": "",
+    "definition": [
+      "受胁[物]种",
+      "EN: Threatened species are species which are vulnerable to extinction in the near future. The IUCN further divides them into three categories: vulnerable, endangered, and critically endangered."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tidal current",
+    "phonetic": "",
+    "definition": [
+      "潮流",
+      "EN: alternating horizontal movement of water in coastal areas, associated with the rise and fall of the tide as the Earth rotates. The rise and fall is caused by gravitational forces exerted by the Moon and the Sun. Unlike ocean currents, tidal currents change in regular patterns that can be predicted for future dates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tidal flats",
+    "phonetic": "",
+    "definition": [
+      "潮浸区;海浦地",
+      "EN: are coastal wetlands that form when mud is deposited by tides or rivers. Also called mudflats."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Transboundary stocks",
+    "phonetic": "",
+    "definition": [
+      "EN: are fish stocks which range across the EEZs of two or more countries. They can be contrasted with straddling stocks. A stock can be both transboundary and straddling."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trap fishing",
+    "phonetic": "",
+    "definition": [
+      "用排钩钓鱼;用网捕捞",
+      "EN: fishing by means of traps, often designed to catch a particular species, such with lobster pots."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trash fish",
+    "phonetic": "træʃ fiʃ",
+    "definition": [
+      "杂鱼",
+      "EN: catch with no commercial value which is discarded, especially when trawling. Also called rough fish. See also coarse fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trawling",
+    "phonetic": "trɔ:lɪŋ",
+    "definition": [
+      "v. (在...)以拖网捕鱼( trawl的现在分词 ); 查阅(档案等)",
+      "EN: is fishing with a large bag-like net, called a trawl, which is drawn along behind a boat called a trawler. The net can be dragged along the sea bottom in order to target demersal fish, or pulled through clear water in order to target pelagic fish. Trawling along the sea bottom can result in significant bycatch and habitat destruction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trolling",
+    "phonetic": "'trәuliŋ",
+    "definition": [
+      "[计] 垂钓",
+      "EN: a method of fishing where one or more fishing lines, baited with lures or bait fish, are drawn slowly through the water behind a boat. Trolling is used to catch pelagic fish such as mackerel and tuna species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trophic level",
+    "phonetic": "",
+    "definition": [
+      "[生态]食性层次, 营养水平",
+      "EN: The position that a species occupies in a food chain. The species it eats are at a lower trophic level, and the species that eats it are at a higher trophic level."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Turbidity current",
+    "phonetic": "",
+    "definition": [
+      "混浊流",
+      "EN: a current of rapidly moving, sediment-laden water that is heavier than clear water and therefore flows downslope along the bottom of the sea or a lake. The term is most commonly used to describe underwater currents in lakes and oceans, which are usually triggered by earthquakes or slumping."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Turtle excluder device (TED)",
+    "phonetic": "",
+    "definition": [
+      "EN: a specialized device that allows a captured sea turtle to escape when caught in a trawl net."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Underwater acoustics",
+    "phonetic": "",
+    "definition": [
+      "水声学",
+      "EN: due to its excellent propagation properties, underwater sound is used as a tool to aid the study of marine life, from microplankton to the blue whale. See also Ocean Tracking Network."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Upwelling",
+    "phonetic": "ʌp'weliŋ",
+    "definition": [
+      "n. 上涌, 上升流(指海水由较深层上升到较浅层的过程)",
+      "EN: the process by which water, usually cold and nutrient-rich, rises from a deeper to a shallower depth. This is often a result of offshore surface water flow, particularly when persistent wind blows parallel to a coastland and the resultant Ekman transport moves surface water away from the coast."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vertebrates",
+    "phonetic": "",
+    "definition": [
+      "n. 脊椎动物(vertebrate的复数)",
+      "EN: animals with a backbone, including fish (sharks, rays and bony fish), amphibians, reptiles and mammals. See also invertebrates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vessel monitoring system (VMS)",
+    "phonetic": "",
+    "definition": [
+      "EN: technology used in commercial fishing to allow environmental and fisheries regulatory organizations to track the location of vessels."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Virtual population analysis (VPA)",
+    "phonetic": "",
+    "definition": [
+      "EN: an analysis of fish population numbers that uses the number of fish caught at various ages or lengths and an estimate of natural mortality to estimate fishing mortality in a cohort. It also provides a back estimate of the number of fish in a cohort at various ages."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vulnerable species",
+    "phonetic": "",
+    "definition": [
+      "渐危种",
+      "EN: a species which is likely to become an endangered species unless the circumstances threatening its survival and reproduction improve."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wetlands",
+    "phonetic": "'wetlændz",
+    "definition": [
+      "n. 潮湿的土壤, 沼泽地( wetland的复数形式 )",
+      "EN: areas of land where the soil is saturated with moisture, such as swamps and mangrove forests."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wild fish",
+    "phonetic": "",
+    "definition": [
+      "野生鱼",
+      "EN: are fish which live free, not penned in, in lakes, rivers or the sea. They can be contrasted with farmed fish."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wild fisheries",
+    "phonetic": "",
+    "definition": [
+      "EN: also called \"capture fisheries\", are fisheries which target wild fish. They can be contrasted with farmed fisheries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wind currents",
+    "phonetic": "",
+    "definition": [
+      "EN: currents created by the action of the wind. Surface ocean currents are generally wind driven and develop typical clockwise spirals in the northern hemisphere and counter-clockwise rotation in the southern hemisphere. In wind driven currents, the Ekman spiral effect results in the currents flowing at an angle to the driving winds. Surface currents make up about ten percent of the water in the ocean, and are generally restricted to the upper 400 meters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Zooplankton",
+    "phonetic": ",zәuә'plæŋktәn",
+    "definition": [
+      "[医] 浮游动物",
+      "EN: These are animal component of plankton."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FAO",
+    "phonetic": "faj",
+    "definition": [
+      "(联合国)粮食及农业组织",
+      "EN: Aquaculture glossary Archived 2012-04-22 at the Wayback Machine"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NOAA",
+    "phonetic": "'nәjә",
+    "definition": [
+      "[经] 美国国家气象局",
+      "EN: Fisheries glossary"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OECD",
+    "phonetic": "",
+    "definition": [
+      "[经] 已开发国家组织",
+      "EN: Glossary of statistical terms Archived 2018-11-19 at the Wayback Machine"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "abalone culture",
+    "phonetic": "",
+    "definition": [
+      "鲍鱼养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accident polluting",
+    "phonetic": "",
+    "definition": [
+      "渔业污染事故"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acoustic fishery",
+    "phonetic": "",
+    "definition": [
+      "音响渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aimed trawling",
+    "phonetic": "",
+    "definition": [
+      "瞄准拖网捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "algae culture",
+    "phonetic": "",
+    "definition": [
+      "藻类养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "algal cultivation",
+    "phonetic": "",
+    "definition": [
+      "藻类养殖法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "algal culture",
+    "phonetic": "",
+    "definition": [
+      "藻类养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "angling fishery",
+    "phonetic": "",
+    "definition": [
+      "钓渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquacultural",
+    "phonetic": "",
+    "definition": [
+      "水产养殖的",
+      "EN: a of or relating to aquiculture"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquacultural machinery",
+    "phonetic": "",
+    "definition": [
+      "养殖机械"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture base",
+    "phonetic": "",
+    "definition": [
+      "水产养殖基地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture fishery",
+    "phonetic": "",
+    "definition": [
+      "水产养殖业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture industry",
+    "phonetic": "",
+    "definition": [
+      "水产养殖业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture model",
+    "phonetic": "",
+    "definition": [
+      "养殖模式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture regulation",
+    "phonetic": "",
+    "definition": [
+      "养殖规程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquaculture statistics",
+    "phonetic": "",
+    "definition": [
+      "水产养殖统计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquarist",
+    "phonetic": "ә'kweәrist",
+    "definition": [
+      "n. 水族馆管理人, 水族养殖业余爱好者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aquiculture",
+    "phonetic": "'ækwi.kʌltʃә",
+    "definition": [
+      "n. 水产养殖",
+      "EN: n a technique of growing plants (without soil) in water containing dissolved nutrients"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASFIS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Aquatic Sciences and Fisheries Information System (联合国, FAO与IOC)水产科学与渔业情报系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "baconize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bay fishery",
+    "phonetic": "",
+    "definition": [
+      "圣劳伦斯的渔业;(海湾)渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beef-rearing",
+    "phonetic": "",
+    "definition": [
+      "[网络] 肉牛养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "by-catches",
+    "phonetic": "",
+    "definition": [
+      "na. 时(断)时(续)",
+      "[网络] 混获;副渔获物;混获捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "captive breeding",
+    "phonetic": "",
+    "definition": [
+      "人工养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "captive propagation",
+    "phonetic": "",
+    "definition": [
+      "圈饲养殖;繁殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catch prawns",
+    "phonetic": "",
+    "definition": [
+      "[网络] 捕捞对虾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catching intensity",
+    "phonetic": "",
+    "definition": [
+      "[水产] 捕捞强度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catching method",
+    "phonetic": "",
+    "definition": [
+      "[水产] 捕捞方法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catching rate",
+    "phonetic": "",
+    "definition": [
+      "[水产] 捕捞效率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coast fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 沿海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coastal fishery",
+    "phonetic": "",
+    "definition": [
+      "沿海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cod-line fishery",
+    "phonetic": "",
+    "definition": [
+      "鳕延缆钓渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "combined mariculture",
+    "phonetic": "",
+    "definition": [
+      "综合性海水养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crayfish culture",
+    "phonetic": "",
+    "definition": [
+      "[水产] 蟹类养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crustacean aquaculture",
+    "phonetic": "",
+    "definition": [
+      "[水产] 甲壳动物养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culches",
+    "phonetic": "",
+    "definition": [
+      "n. (铺垫牡蛎养殖场水底的)贝壳屑;牡蛎卵;碎屑",
+      "[网络] 废物;砂砾;垃圾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cultivated shellfish",
+    "phonetic": "",
+    "definition": [
+      "养殖贝类"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cultivating fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 栽培渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cultured fishes",
+    "phonetic": "",
+    "definition": [
+      "[水产] 养殖鱼类"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cultured pearl",
+    "phonetic": "",
+    "definition": [
+      "人工养殖的珍珠"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cultured pearls",
+    "phonetic": "",
+    "definition": [
+      "人工养殖的珍珠"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culturing raft",
+    "phonetic": "",
+    "definition": [
+      "养殖筏"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culturist",
+    "phonetic": "'kʌltʃәrist",
+    "definition": [
+      "n. 培养者, 养殖者",
+      "EN: n. A cultivator. n. One who is an advocate of culture."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "data dredging",
+    "phonetic": "",
+    "definition": [
+      "[网络] 数据捕捞;数据疏浚;资料打捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deep-sea fishery",
+    "phonetic": "",
+    "definition": [
+      "深海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "demarcated fishery",
+    "phonetic": "",
+    "definition": [
+      "区划渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "demersal fishery",
+    "phonetic": "",
+    "definition": [
+      "底栖渔业;远洋渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "designated fishery",
+    "phonetic": "",
+    "definition": [
+      "特许渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "distant fishery",
+    "phonetic": "",
+    "definition": [
+      "远洋渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dolphin friendly",
+    "phonetic": "",
+    "definition": [
+      "(金枪鱼罐头上常写有的)捕捞未危及海豚的海产品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "domestic fishery",
+    "phonetic": "",
+    "definition": [
+      "国内渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "domiculture",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "drift-netter",
+    "phonetic": "'driftnet",
+    "definition": [
+      "n. 【渔业】(尤指用来捕大西洋鲱鱼的)漂网, 流网[亦作drift net]",
+      "vi. 用漂网(或流网)捕鱼:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ecosystem culture",
+    "phonetic": "",
+    "definition": [
+      "生态系养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "egg-producer",
+    "phonetic": "",
+    "definition": [
+      "[网络] 鸡蛋养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "embryo fisheries",
+    "phonetic": "",
+    "definition": [
+      "初始渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "escallop fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 扇贝渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "estuarine fishery",
+    "phonetic": "",
+    "definition": [
+      "河口渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "factory-farmed",
+    "phonetic": "",
+    "definition": [
+      "[网络] 工厂化养殖的鸡"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "farm-raised",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖;人工饲养;圈养"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "farmed salmon",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖鲑鱼;三文鱼;土养鲑鱼"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "farming-fishery",
+    "phonetic": "",
+    "definition": [
+      "裁培渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FEAP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 有限元分析程序(Finite Element Analysis Program);欧洲水产养殖生产者联盟;欧洲水产养殖者联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fish warden",
+    "phonetic": "",
+    "definition": [
+      "[美国英语]渔业监督官,渔官,执行捕鱼法的官员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fish-factory vessel",
+    "phonetic": "",
+    "definition": [
+      "渔业加工船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fished for",
+    "phonetic": "",
+    "definition": [
+      "捕捞某种特定的鱼",
+      "搜寻获取(信息)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fisheries",
+    "phonetic": "ˈfɪʃəri:z",
+    "definition": [
+      "n. 渔场( fishery的名词复数 ); 渔业; 养鱼场",
+      "EN: pl. of Fishery"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fisheries oceanography",
+    "phonetic": "",
+    "definition": [
+      "渔业海洋学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery agreement",
+    "phonetic": "",
+    "definition": [
+      "渔业协定"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery biology",
+    "phonetic": "",
+    "definition": [
+      "渔业生物学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery census",
+    "phonetic": "",
+    "definition": [
+      "渔业普查"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery economics",
+    "phonetic": "",
+    "definition": [
+      "渔业经济学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery hazard",
+    "phonetic": "",
+    "definition": [
+      "[环境 水产] 渔业公害"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery hydrography",
+    "phonetic": "",
+    "definition": [
+      "渔业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水产] 渔业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery industry",
+    "phonetic": "",
+    "definition": [
+      "渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery loss",
+    "phonetic": "",
+    "definition": [
+      "[水产] 渔业损失"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery management",
+    "phonetic": "",
+    "definition": [
+      "渔业管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery mathematics",
+    "phonetic": "",
+    "definition": [
+      "[水产] 渔业数学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery meteorology",
+    "phonetic": "",
+    "definition": [
+      "渔业气象学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery mothership",
+    "phonetic": "",
+    "definition": [
+      "渔业母船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery production",
+    "phonetic": "",
+    "definition": [
+      "渔业产量,渔业生产"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery products",
+    "phonetic": "",
+    "definition": [
+      "[网络] 渔业产品;水产品;水产品类"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery protection",
+    "phonetic": "",
+    "definition": [
+      "渔业保护,水产资源保护"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery regulation",
+    "phonetic": "",
+    "definition": [
+      "渔业条例,渔业法规"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery resource",
+    "phonetic": "",
+    "definition": [
+      "渔业资源,水产资源"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery resources",
+    "phonetic": "",
+    "definition": [
+      "渔业资源,水产资源"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery right",
+    "phonetic": "",
+    "definition": [
+      "渔业权"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery science",
+    "phonetic": "",
+    "definition": [
+      "渔业科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery sciences",
+    "phonetic": "",
+    "definition": [
+      "渔业科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery statistics",
+    "phonetic": "",
+    "definition": [
+      "渔业统计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery tender",
+    "phonetic": "",
+    "definition": [
+      "un. 渔业补给船",
+      "[网络] 渔业供应船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery vessel",
+    "phonetic": "ˈfɪʃəri: ˈvesəl",
+    "definition": [
+      "[水产]渔业船舶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery water",
+    "phonetic": "",
+    "definition": [
+      "渔业用水"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery wharf",
+    "phonetic": "",
+    "definition": [
+      "渔业码头"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery zone",
+    "phonetic": "",
+    "definition": [
+      "渔业控制水域,水产管区(只有沿岸国有捕鱼权的水域)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery-independent",
+    "phonetic": "",
+    "definition": [
+      "[网络] 渔业性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishing cannery",
+    "phonetic": "",
+    "definition": [
+      "水上渔业罐头工厂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishing licences",
+    "phonetic": "",
+    "definition": [
+      "捕捞许可证"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freshwater aquaculture",
+    "phonetic": "",
+    "definition": [
+      "淡水养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fruticulture",
+    "phonetic": "",
+    "definition": [
+      "[网络] 水产养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-farm",
+    "phonetic": "",
+    "definition": [
+      "[网络] 农场;野生动物养殖场;庄园"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GCFRC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Gulf Coastal Fisheries Research Center 〈美〉(NMFS)海湾海岸渔业研究中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gelidium culture",
+    "phonetic": "",
+    "definition": [
+      "石花菜养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "grow-out",
+    "phonetic": "",
+    "definition": [
+      "na. 发芽",
+      "[网络] 养殖出来"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "growth overfishing",
+    "phonetic": "",
+    "definition": [
+      "生长型捕捞过度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "habitator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "haliotis culture",
+    "phonetic": "",
+    "definition": [
+      "[水产] 鲍养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "harvestable fish",
+    "phonetic": "",
+    "definition": [
+      "可捕捞鱼"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "healthy aquaculture",
+    "phonetic": "",
+    "definition": [
+      "健康养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "healthy mariculture",
+    "phonetic": "",
+    "definition": [
+      "健康海水养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hell-bred",
+    "phonetic": "",
+    "definition": [
+      "[网络] 地狱养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "high-sea fishery",
+    "phonetic": "",
+    "definition": [
+      "深海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hirudiniculture",
+    "phonetic": "hirudini'kʌltʃә",
+    "definition": [
+      "水蛭养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "holothurian culture",
+    "phonetic": "",
+    "definition": [
+      "[水产] 海参养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "home-breeding",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IBSFC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际波罗的海渔业委员会(International Baltic Sea Fisheries Commission);波罗的海渔委会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ICSEAF",
+    "phonetic": "1",
+    "definition": [
+      "International Commission for the Southeast Atlantic Fisheries 国际东南大西洋渔业委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "industrial aquaculture",
+    "phonetic": "",
+    "definition": [
+      "工厂化养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inland aquiculture",
+    "phonetic": "",
+    "definition": [
+      "内水面养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inland fishery",
+    "phonetic": "",
+    "definition": [
+      "内陆渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "INPFC",
+    "phonetic": "",
+    "definition": [
+      "abbr. International North Pacific Fisheries Commission 国际北太平洋渔业委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inshore fisheries",
+    "phonetic": "",
+    "definition": [
+      "[网络] 沿海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inshore fishery",
+    "phonetic": "",
+    "definition": [
+      "沿海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inshore fishing",
+    "phonetic": "",
+    "definition": [
+      "近海捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IPFC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Indo-Pacific Council 联合国(FAO)印度-太平洋渔业委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kellet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 捕捞凯勒特;启历"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lagoon-fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 泻湖渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lake fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 湖泊渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "laminaria culture",
+    "phonetic": "",
+    "definition": [
+      "海带养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "laver culture",
+    "phonetic": "",
+    "definition": [
+      "紫菜养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "line fishery",
+    "phonetic": "",
+    "definition": [
+      "钓具渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "long-distant fishery",
+    "phonetic": "",
+    "definition": [
+      "远洋渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "long-liner",
+    "phonetic": "'lɔŋ,lainə; 'lɔ:ŋ-",
+    "definition": [
+      "n. 【渔业】;延绳钓的人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "long-liners",
+    "phonetic": "'lɔŋ,laɪnɚ",
+    "definition": [
+      "【渔业】",
+      "延绳钓的人",
+      "延绳钓船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "long-lining",
+    "phonetic": "'lɔŋ,laɪnɪŋ",
+    "definition": [
+      "n. [渔业]延绳钓法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "longliner",
+    "phonetic": "'lɔŋlain; 'lɔ:ŋ-",
+    "definition": [
+      "n. 【渔业】;(长线多钩的)延绳钓"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "longshore fishery",
+    "phonetic": "",
+    "definition": [
+      "沿岸渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MABE",
+    "phonetic": "meib",
+    "definition": [
+      "abbr.Master of Agricultural Business and Economics农业经营和经济学硕士",
+      "n. 人工养殖的珍珠(亦作mabe pearl)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mariculture industry",
+    "phonetic": "",
+    "definition": [
+      "海水养殖业;浅海养殖业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mariculture technique",
+    "phonetic": "",
+    "definition": [
+      "海水养殖技术;浅海养殖技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "menticulture",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mother-ship fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 母船式渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mother-type fishery",
+    "phonetic": "",
+    "definition": [
+      "母船式渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-class culture",
+    "phonetic": "",
+    "definition": [
+      "多级养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multispecies fishery",
+    "phonetic": "",
+    "definition": [
+      "[水产] 多鱼种渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mussel culture",
+    "phonetic": "",
+    "definition": [
+      "[水产] 贻贝养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NAFO",
+    "phonetic": "7",
+    "definition": [
+      "n.西北大西洋渔业组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NEAFC",
+    "phonetic": "2",
+    "definition": [
+      "Northeast Atlantic Fisheries Commission 东北太平洋渔业委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nereis culture",
+    "phonetic": "",
+    "definition": [
+      "[蚕] 沙蚕养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nominal pull",
+    "phonetic": "",
+    "definition": [
+      "[捕捞机械]公称拉力"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NPFRC",
+    "phonetic": "",
+    "definition": [
+      "abbr. North Pacific Fisheries Research Center <美>(NMFS)北太平洋渔业研究中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oceanographic catching",
+    "phonetic": "",
+    "definition": [
+      "[水产] 海洋捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "off-sea fishery",
+    "phonetic": "",
+    "definition": [
+      "外海渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "offshore fishery",
+    "phonetic": "",
+    "definition": [
+      "海洋渔业[捕捞]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-bottom culture",
+    "phonetic": "",
+    "definition": [
+      "岩礁养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ostrich farm",
+    "phonetic": "",
+    "definition": [
+      "n. 鸵鸟养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ostrich-farm",
+    "phonetic": "'ɔ:stritʃfɑ:m; 'ɔ-",
+    "definition": [
+      "n. 鸵鸟养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "otter trawler",
+    "phonetic": "",
+    "definition": [
+      "【渔业】网板拖网[参较beam trawl]",
+      "【军事】(水雷战用的)网板拖网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "over-fish",
+    "phonetic": ",əuvə'fiʃ",
+    "definition": [
+      "vt. 对...进行过度捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overexploited",
+    "phonetic": "",
+    "definition": [
+      "[网络] 过度捕捞;为资源过度开发;过度开发的狀态"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overfish",
+    "phonetic": "'әuvәfiʃ",
+    "definition": [
+      "vt. 对(鱼)进行过度捕捞",
+      "EN: v. t. To fish to excess."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster bed",
+    "phonetic": "",
+    "definition": [
+      "牡蛎养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster cloister",
+    "phonetic": "",
+    "definition": [
+      "牡蛎养殖架"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster cultivation",
+    "phonetic": "",
+    "definition": [
+      "牡蛎养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster culture",
+    "phonetic": "",
+    "definition": [
+      "n. 牡蛎养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster farms",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牡蛎养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster planting",
+    "phonetic": "",
+    "definition": [
+      "牡蛎养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oyster sloop",
+    "phonetic": "",
+    "definition": [
+      "un. 采牡蛎小船",
+      "[网络] 牡蛎捕捞船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oysterage",
+    "phonetic": "'ɔistәridʒ",
+    "definition": [
+      "n. 牡蛎养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oystering",
+    "phonetic": "'ɔistəriŋ",
+    "definition": [
+      "n. 采牡蛎, 牡蛎采集业; (家具的)拼花贴面",
+      "a. 采牡蛎的; 牡蛎养殖的",
+      "EN: n. Gathering, or dredging for, oysters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oysterwoman",
+    "phonetic": "'ɔistә,wjmәn",
+    "definition": [
+      "n. <主美>采[养殖]牡蛎的妇女"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pearlers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 采真珠船;珍珠养殖者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pelagic fishing",
+    "phonetic": "",
+    "definition": [
+      "远洋渔业[捕鱼]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "piscatorial",
+    "phonetic": ".piskә'tɒ:riәl",
+    "definition": [
+      "a. 渔业的, 渔民的",
+      "EN: a. relating to or characteristic of the activity of fishing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "piscatorially",
+    "phonetic": "ˌpɪskə'tɔːriəl",
+    "definition": [
+      "adj. 渔业的;渔民的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "piscatory",
+    "phonetic": "'piskәtәri",
+    "definition": [
+      "a. 渔民的, 渔业的, 从事渔业的, 以渔业为生的",
+      "EN: a relating to or characteristic of the activity of fishing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "raft culture",
+    "phonetic": "",
+    "definition": [
+      "筏式养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rearing pond",
+    "phonetic": "",
+    "definition": [
+      "n. 鱼池,鱼苗养殖池"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recuperate site",
+    "phonetic": "",
+    "definition": [
+      "桥石养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "river crab",
+    "phonetic": "",
+    "definition": [
+      "un. 河蟹",
+      "[网络] 河蟹养殖;螃蟹;活毛蟹"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "river fishery",
+    "phonetic": "",
+    "definition": [
+      "河川渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "salmon-farming",
+    "phonetic": "",
+    "definition": [
+      "鲑鱼养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sea fishery",
+    "phonetic": "",
+    "definition": [
+      "海洋渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sealine",
+    "phonetic": "",
+    "definition": [
+      "na. 海岸线;水平线;深海渔业用钓绳",
+      "[网络] 海岸线地带;西莱"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "seed catching",
+    "phonetic": "",
+    "definition": [
+      "苗种捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shark-fishing",
+    "phonetic": "",
+    "definition": [
+      "[网络] 捕捞鲨鱼"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shellfish beds",
+    "phonetic": "",
+    "definition": [
+      "[网络] 贝类养殖区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shellfish culture",
+    "phonetic": "",
+    "definition": [
+      "贝类养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shellfishery",
+    "phonetic": "'ʃel,fiʃәri",
+    "definition": [
+      "n. 贝类渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shore fishery",
+    "phonetic": "",
+    "definition": [
+      "沿岸渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shrimp culture",
+    "phonetic": "",
+    "definition": [
+      "虾类养殖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "snail park",
+    "phonetic": "",
+    "definition": [
+      "(食用)蜗牛养殖场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spear-fishing",
+    "phonetic": "",
+    "definition": [
+      "un. 犰鱼",
+      "[网络] 禁止射鱼;镖渔业;镖旗鱼"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sport-fishing",
+    "phonetic": "",
+    "definition": [
+      "un. 游钓",
+      "[网络] 娱乐渔业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stake-net",
+    "phonetic": "'steiknet",
+    "definition": [
+      "n. 【渔业】定桩制网,定置刺网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "straddling fisheries",
+    "phonetic": "",
+    "definition": [
+      "跨界渔业资源"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "throw-net",
+    "phonetic": "'θrəunet",
+    "definition": [
+      "n. 【渔业】抛网,撒网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tiger shrimp",
+    "phonetic": "",
+    "definition": [
+      "养殖型斑节对虾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "trawl line",
+    "phonetic": "trɔ:l lain",
+    "definition": [
+      "[渔业]排钩; 曳钓绳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tunnel-net",
+    "phonetic": "'tʌnəlnet",
+    "definition": [
+      "n. 【渔业】长袋网;定置网狭部"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "well-farmed",
+    "phonetic": "",
+    "definition": [
+      "[网络] 养殖良好"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wild-caught",
+    "phonetic": "",
+    "definition": [
+      "[网络] 野外捕获个体;野外捕获的个体;野生捕捞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WODA",
+    "phonetic": "",
+    "definition": [
+      "World Organization of Dredging Associations 世界捕捞联合会组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zarzuela",
+    "phonetic": "zɑ:'zweilә",
+    "definition": [
+      "n. <西>说唱剧(有对话和音乐的西班牙传统小歌剧)",
+      "n. 人工养殖海味场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

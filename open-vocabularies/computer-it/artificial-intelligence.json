@@ -4501,5 +4501,27 @@
     "etymology": "",
     "synonyms": [],
     "antonyms": []
+  },
+  {
+    "word": "generative AI",
+    "phonetic": "",
+    "definition": [
+      "EN: Generative artificial intelligence is artificial intelligence capable of generating text, images, or other media in response to prompts. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics, typically using transformer-based deep neural networks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ambient intelligence",
+    "phonetic": "",
+    "definition": [
+      "EN: Electronic environments that are sensitive and responsive to the presence of people. The concept was pioneered by Philips Research in the early 2000s as a vision for a post-PC era in which computing power would be embedded invisibly into everyday objects and spaces. An AmI environment continuously senses its surroundings, recognises the individuals within it, and adapts its behaviour to their needs, habits, and preferences – without requiring explicit interaction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
   }
 ]

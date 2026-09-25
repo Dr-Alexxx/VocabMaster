@@ -1,0 +1,3459 @@
+[
+  {
+    "word": "(prime)",
+    "phonetic": "praim",
+    "definition": [
+      "n. 最佳部分, 初期, 全盛期",
+      "a. 主要的, 最初的, 根本的",
+      "v. 加油启动, 灌注, 填装",
+      "EN: X′ means ∂X/∂σ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "action",
+    "phonetic": "'ækʃәn",
+    "definition": [
+      "n. 行动, 活动, 动作, 作用, 战斗, 行为, 诉讼",
+      "vt. 对...起诉",
+      "[计] 方式",
+      "EN: A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADE",
+    "phonetic": "eid",
+    "definition": [
+      "[计] 先行数据输入, 自动调试环境, 自动设计工程",
+      "EN: Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADHM",
+    "phonetic": "",
+    "definition": [
+      "EN: Initials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADM",
+    "phonetic": "",
+    "definition": [
+      "[计] After Dark多模块屏幕保护;Windows NT策略模板",
+      "EN: Initials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AdS",
+    "phonetic": "",
+    "definition": [
+      "[计] Ada源文件说明书(GNAT)",
+      "EN: Anti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic space."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AdS/CFT",
+    "phonetic": "",
+    "definition": [
+      "EN: Anti-de Sitter/conformal field theory, especially the AdS/CFT correspondence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ALE",
+    "phonetic": "eil",
+    "definition": [
+      "n. 麦芽酒",
+      "[医] 麦芽酒",
+      "EN: Asymptotically locally Euclidean"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ALEPH",
+    "phonetic": "'ɑ:lif",
+    "definition": [
+      "n. 希伯来文的第一个字母",
+      "EN: experiment at LEP"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AMSB",
+    "phonetic": "",
+    "definition": [
+      "EN: Anomaly mediation supersymmetry breaking"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASD",
+    "phonetic": "",
+    "definition": [
+      "[计] Microsoft Word的自动保存文件;Microsoft高级流媒体格式(microsoft advanced streaming format,ASF)的描述文件;可用NSREX打开 Velvet Studio例子文件",
+      "EN: Anti self-dual (connection)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ATLAS",
+    "phonetic": "'ætlәs",
+    "definition": [
+      "n. 地图集, 图表集",
+      "[计] 自动测试和负载分析系统",
+      "EN: The ATLAS experiment at CERN, a particle detector."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "axino",
+    "phonetic": "",
+    "definition": [
+      "[网络] 超轴子;轴微子;超对称伙伴轴微子",
+      "EN: A hypothetical supersymmetric partner of an axion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "axion",
+    "phonetic": "",
+    "definition": [
+      "[医] 脑脊髓, 脑脊髓轴",
+      "EN: A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BAO",
+    "phonetic": "bau",
+    "definition": [
+      "n. 非洲石子游戏棋",
+      "EN: Baryon acoustic oscillation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BB",
+    "phonetic": "ˈbi:bi:",
+    "definition": [
+      "abbr. (=Bachelor of Business)商学士",
+      "[网络] 霜;兵营;黑带(Black Belt)",
+      "EN: Big Bang"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BBN",
+    "phonetic": "",
+    "definition": [
+      "宽频带噪声(broad band noise)",
+      "EN: Big Bang nucleosynthesis"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bein",
+    "phonetic": "",
+    "definition": [
+      "n. 拜因(姓氏)",
+      "EN: A suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bino",
+    "phonetic": "'binәu",
+    "definition": [
+      "[西](=beno)(菲律宾的)棕榈烧酒",
+      "EN: A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BIon",
+    "phonetic": "'baiɔn",
+    "definition": [
+      "[医] 生物个体",
+      "EN: A BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BPS",
+    "phonetic": "",
+    "definition": [
+      "[计] 每秒位数, 每秒比特数",
+      "EN: A state related to the Bogomol'nyi–Prasad–Sommerfield bound."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BR",
+    "phonetic": "",
+    "definition": [
+      "abbr. (=bromine)",
+      "[网络] 溴(Bromine);顺丁橡胶(Butadiene Rubber);长荣航空",
+      "EN: anching ratio"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "brane",
+    "phonetic": "",
+    "definition": [
+      "abbr. bombing radar and navigation equipment 轰炸雷达及领航设备",
+      "EN: Short for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BRST quantization",
+    "phonetic": "",
+    "definition": [
+      "EN: Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BTZ",
+    "phonetic": "",
+    "definition": [
+      "[=bromethiazole]溴代噻唑",
+      "EN: Initials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BV",
+    "phonetic": "'bi:v'i:",
+    "definition": [
+      "n. 法国船级社;击穿电压;破坏电压;生物价值",
+      "[网络] 细菌性阴道病(bacterial vaginosis);法国船级社(Bureau Veritas);细菌性阴道炎",
+      "EN: Batalin–Vilkovisky, as in Batalin–Vilkovisky formalism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Calabi–Yau",
+    "phonetic": "",
+    "definition": [
+      "[网络] 丘;流形",
+      "EN: A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CAR",
+    "phonetic": "kɑ:",
+    "definition": [
+      "n. 汽车, 客车",
+      "[机] 车",
+      "EN: Canonical anticommutation relations"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBR",
+    "phonetic": "",
+    "definition": [
+      "[计] 恒定位率",
+      "EN: Cosmic background radiation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CC",
+    "phonetic": "",
+    "definition": [
+      "abbr. 抄送(用于商务书信和电子邮件,表示副本同时发送给另一人)",
+      "v. 抄送(将信函或电邮同时发送给收信人以外的人)",
+      "[计] C++ 源代码文件",
+      "EN: 1. Charged current (weak interaction)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCR",
+    "phonetic": "",
+    "definition": [
+      "[医] 肌酸酐廓清率",
+      "EN: Canonical commutation relation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDF",
+    "phonetic": "",
+    "definition": [
+      "[计] Microsoft频道定义格式文件",
+      "EN: Collider Detector at Fermilab"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDM",
+    "phonetic": "",
+    "definition": [
+      "[计] Visual dBASE自定义数据模块文件",
+      "EN: Cold dark matter"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CERN",
+    "phonetic": "s\\\\:n",
+    "definition": [
+      "欧洲原子核研究委员会",
+      "[计] 欧州粒子物理实验室",
+      "EN: Conseil Européen pour la Recherche Nucléaire"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CFT",
+    "phonetic": "'si:'eft'i:",
+    "definition": [
+      "cubic foot 立方英尺",
+      "EN: Conformal field theory"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Chan–Paton",
+    "phonetic": "",
+    "definition": [
+      "EN: A Chan–Paton charge is a degree of freedom carried by an open string on its endpoints."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chargino",
+    "phonetic": "",
+    "definition": [
+      "带电微子",
+      "EN: A hypothetical charged supersymmetric partner of a gauge boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Chern–Simons",
+    "phonetic": "",
+    "definition": [
+      "EN: 1. Chern–Simons theory"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chiral",
+    "phonetic": "'tʃirәl",
+    "definition": [
+      "[化] 手性; 手性的",
+      "EN: 1. Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning \"hand\"; the terms \"left-handed\" and \"right-handed\" are often used to describe chiral objects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIPT",
+    "phonetic": "",
+    "definition": [
+      "EN: Contour improved perturbation theory"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CKG",
+    "phonetic": "",
+    "definition": [
+      "abbr. 心动描记法(cardiokymography);心动描记器(cardiokymograph)",
+      "EN: Short for conformal Killing group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CKM",
+    "phonetic": "'si:k'eɪ'em",
+    "definition": [
+      "abbr. cents per kilometer 分/千米",
+      "EN: The Cabibbo–Kobayashi–Maskawa matrix."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CKS",
+    "phonetic": "",
+    "definition": [
+      "abbr. casks (复数)桶; checks (复数)<美国>账单; 支票; cyclin-dependent kinase 独立性细胞周期蛋白激酶",
+      "EN: Short for conformal Killing spinor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CKV",
+    "phonetic": "",
+    "definition": [
+      "EN: Short for conformal Killing vector."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cl",
+    "phonetic": "",
+    "definition": [
+      "abbr. (=chlorine)【化】氯",
+      "[网络] 氯离子;氯化物;列地址选通脉冲潜伏期(CAS Latency)",
+      "EN: 1. Short for classical (for example, Scl is the classical action)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "closed",
+    "phonetic": "klәuzd",
+    "definition": [
+      "a. 关闭的, 限于少数人的",
+      "[计] 关闭指令",
+      "EN: A closed string is one with no ends."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CM",
+    "phonetic": "",
+    "definition": [
+      "abbr. (=curium)【化】锔",
+      "[网络] 公分;厘米;长",
+      "EN: Center of mass (frame)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CMBR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 宇宙微波背景辐射(cosmic microwave background radiation);膜生物反应器;宇宙微波背景观测实验",
+      "EN: Cosmic microwave background radiation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CMS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 教会传教士协会(Church Missionary Society)",
+      "EN: 1. The Compact Muon Solenoid at CERN, a particle detector."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "compactification",
+    "phonetic": "kəm,pæktifi'keiʃən",
+    "definition": [
+      "n. [数] 紧化, 紧致化",
+      "EN: A method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cosmological constant",
+    "phonetic": "ˌkɔzməˈlɔdʒikəl ˈkɔnstənt",
+    "definition": [
+      "宇宙学常数, 宇宙学恒量",
+      "EN: The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetime"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CP",
+    "phonetic": "",
+    "definition": [
+      "[计] 调用处理程序, 字符打印机, 通信处理器, 编译程序包, 控制部件",
+      "[经] 商业本票",
+      "EN: Short for Charge–Parity, as in CP symmetry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPC",
+    "phonetic": "",
+    "definition": [
+      "abbr. 卡片编程计算器(Card Programmed Calculator);中国共产党(Communist Party of China)",
+      "EN: Short for Charge–Parity conservation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPT",
+    "phonetic": "",
+    "definition": [
+      "[计] Corel 照片-绘画图像",
+      "EN: Short for Charge–Parity–Time, as in CPT symmetry or CPT theorem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 每个访问成本 (cost per visit)",
+      "EN: Short for Charge–Parity violation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "critical",
+    "phonetic": "'kritikәl",
+    "definition": [
+      "a. 批评的, 决定性的, 危险的, 临界的",
+      "[医] 危象的; 临界的, 极期的",
+      "EN: The critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CVC",
+    "phonetic": "",
+    "definition": [
+      "abbr. 电流-电压特性(Current -Voltage Characteristic);棉纺织品(chief value of cotton)",
+      "EN: Conserved vector current."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CY",
+    "phonetic": "",
+    "definition": [
+      "n. 氰;集装箱堆场;今年;多果定",
+      "[网络] 环磷酰胺(cyclophosphamide);集装箱堆场(Container Yard);塞浦路斯(Cyprus)",
+      "EN: Short for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "D-string",
+    "phonetic": "",
+    "definition": [
+      "[网络] D弦;D旋线",
+      "EN: A D1-brane"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DBI",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据库接口, 双字节交叉",
+      "[医] 苯乙双胍",
+      "EN: Short for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DDF",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据库描述文件, 开发论证设施",
+      "EN: Initials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DELPHI",
+    "phonetic": "'delfai",
+    "definition": [
+      "n. 特尔斐(希腊古都)",
+      "[计] Delphi 程序设计语言(Borland 公司设计)",
+      "EN: experiment at LEP."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DESY",
+    "phonetic": "",
+    "definition": [
+      "abbr. Deutsches Elektronen Synchrotron (German=German Electronic Synchrotron) (德语)德国电子同步加速器",
+      "EN: Deutsches Elektronen-Synchrotron"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DGLAP",
+    "phonetic": "",
+    "definition": [
+      "EN: Initials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Diff",
+    "phonetic": "dif",
+    "definition": [
+      "abbr. 扩散器(diffuser);[数]微分;差速器(differential)",
+      "EN: eomorphism or diffeomorphism group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dilatino",
+    "phonetic": "",
+    "definition": [
+      "[网络] 胀微子",
+      "EN: A supersymmetric partner of the dilaton."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dilaton",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伸缩子;缩放子;胀子",
+      "EN: A massless scalar particle, related to dilations of spacetime."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dirichlet",
+    "phonetic": "",
+    "definition": [
+      "[计] 狄利克雷的",
+      "EN: boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DIS",
+    "phonetic": "dis",
+    "definition": [
+      "n. 狄斯(阴间的神), 阴间, 冥府",
+      "EN: Deep inelastic scattering"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DLCQ",
+    "phonetic": "",
+    "definition": [
+      "EN: Discrete light-cone quantization"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DM",
+    "phonetic": "di:em",
+    "definition": [
+      "na. “D.M.”的变体",
+      "[网络] 糖尿病(diabetes mellitus);分米;数据挖掘(Data Mining)",
+      "EN: Dark matter"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dot above letter",
+    "phonetic": "",
+    "definition": [
+      "EN: Ẋ means ∂X/∂τ"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dp-brane",
+    "phonetic": "",
+    "definition": [
+      "EN: Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DR",
+    "phonetic": "",
+    "definition": [
+      "abbr. (书写形式)医生;(用于街道名)路",
+      "n. 【摄】动态范围",
+      "[网络] 博士;糖尿病视网膜病变(diabetic retinopathy);指定路由器(Designated Router)",
+      "EN: 1. Short for dimensional regularization."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dS",
+    "phonetic": "",
+    "definition": [
+      "[计] 数据系列, 数据集, 数据同步, 调试系统, 定义符号, 开发系统",
+      "磁盘存储器, 磁盘系统, 分布式系统",
+      "EN: de Sitter, as in de Sitter space, a Lorentzian analogue of a sphere"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dS/CFT",
+    "phonetic": "",
+    "definition": [
+      "EN: de Sitter/conformal field theory, especially the dS/CFT correspondence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dual resonance model",
+    "phonetic": "'duəl ˈrɛzənəns ˈmɑdl",
+    "definition": [
+      "双关共振模型",
+      "EN: An early precursor of string theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "duality",
+    "phonetic": "dju:'æliti",
+    "definition": [
+      "n. 二元性",
+      "[化] 二象性; 双偶性",
+      "EN: A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DY",
+    "phonetic": "dai",
+    "definition": [
+      "[医] 镝(656号元素)",
+      "EN: Initials of Drell–Yan, as in DY process."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dyon",
+    "phonetic": "'daiɔn",
+    "definition": [
+      "n. [物]双荷子",
+      "EN: A hypothetical particle with both electrical and magnetic charge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "E6",
+    "phonetic": "",
+    "definition": [
+      "EN: is the exceptional Lie algebra of rank 6 and dimension 78."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "E7",
+    "phonetic": "",
+    "definition": [
+      "EN: the exceptional Lie algebra of rank 7 and dimension 133."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "E8",
+    "phonetic": "",
+    "definition": [
+      "EN: the exceptional Lie algebra of rank 8 and dimension 248."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eff",
+    "phonetic": "ef",
+    "definition": [
+      "vt. [俚]弄糟",
+      "EN: Short for effective (field theory)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EFT",
+    "phonetic": "eft",
+    "definition": [
+      "n. 水蜥, 小蜥蜴",
+      "EN: Effective field theory, a low-energy approximation to a theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "einbein",
+    "phonetic": "",
+    "definition": [
+      "EN: A frame in 1 dimension"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "elfbein",
+    "phonetic": "",
+    "definition": [
+      "EN: A frame in 11 dimensions"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "energy–momentum tensor",
+    "phonetic": "",
+    "definition": [
+      "[化] 能量动量张量; 能动张量",
+      "EN: A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EWSB",
+    "phonetic": "",
+    "definition": [
+      "EN: Electro-weak symmetry breaking."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "F-string",
+    "phonetic": "",
+    "definition": [
+      "EN: Fundamental string"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "F-theory",
+    "phonetic": "",
+    "definition": [
+      "EN: Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "F4",
+    "phonetic": "",
+    "definition": [
+      "n. 中国台湾的一个男子组合",
+      "EN: is the exceptional Lie algebra of rank 4 and dimension 52."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FCNC",
+    "phonetic": "",
+    "definition": [
+      "EN: Flavor-changing neutral current."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "field",
+    "phonetic": "fi:ld",
+    "definition": [
+      "n. 领域, 田地, 场地, 战场, 场, 域",
+      "vt. 使...晒在场上, 使上场",
+      "a. 田间的, 野生的, 野外的, 田赛的",
+      "[计] 域, 字段",
+      "EN: A section of a fiber bundle"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FOPT",
+    "phonetic": "",
+    "definition": [
+      "EN: Fixed-order perturbation theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FRW",
+    "phonetic": "",
+    "definition": [
+      "n. [暗黑破坏神]Faster Run/Walk 加快行走/奔跑速度",
+      "EN: Friedman–Robertson–Walker metric on spacetime"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "G2",
+    "phonetic": "",
+    "definition": [
+      "G2 即时专家系统, (细胞分裂间期)后间期",
+      "EN: The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G2 holonomy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gaugino",
+    "phonetic": "",
+    "definition": [
+      "超规范子",
+      "EN: A spin 1/2 supersymmetric partner of a gauge boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gh",
+    "phonetic": "",
+    "definition": [
+      "n. 生长激素",
+      "[网络] 生长激素(growth hormone);生殖器疱疹(genital herpes);生长素",
+      "EN: Abbreviation for ghost; for example, Sgh is the ghost action."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ghost",
+    "phonetic": "gәust",
+    "definition": [
+      "n. 鬼, 灵魂, 幻影, 一丝, 一点",
+      "v. 鬼似地游荡",
+      "EN: A vector of negative norm."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GKO",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国防委员会;俄罗斯国库券;掊",
+      "EN: Short for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GL",
+    "phonetic": "",
+    "definition": [
+      "abbr. (=glucinum)【化】元素铍之符号",
+      "[网络] 德国劳氏船级社(Germanischer Lloyd);总帐(general ledger)",
+      "EN: A general linear group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gluino",
+    "phonetic": "",
+    "definition": [
+      "超胶子",
+      "EN: A hypothetical supersymmetric partner of a gluon."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gluon",
+    "phonetic": "'^lu:ɔn",
+    "definition": [
+      "n. [核]胶子(一种理论上假设的无质量的粒子)",
+      "EN: A gauge boson associated with the strong force."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GMSB",
+    "phonetic": "",
+    "definition": [
+      "EN: Gauge mediated supersymmetry breaking."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "goldstino",
+    "phonetic": "",
+    "definition": [
+      "EN: A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 糖皮质激素受体(glucocorticoid receptor);优级纯(Guaranteed reagent);谷胱甘肽还原酶(glutathione reductase)",
+      "EN: General relativity"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gravitino",
+    "phonetic": ",^rævi'ti:nәj",
+    "definition": [
+      "n. [核]引力微子(一种假设的基本粒子)",
+      "EN: A supersymmetric partner of the graviton."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "graviton",
+    "phonetic": "'^rævitɔn",
+    "definition": [
+      "n. [核]引力子",
+      "EN: A conjectural spin 2 massless particle responsible for gravity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Green",
+    "phonetic": "ɡriːn",
+    "definition": [
+      "n. 绿色;草坪;绿色蔬菜;草绿色",
+      "v. 绿化;使增强环境保护意识;使善待环境",
+      "adj. 绿色的;草绿色的;长满青草的;绿油油的",
+      "[网络] 格林;果岭;绿的",
+      "EN: Named for Michael Green."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GS",
+    "phonetic": "",
+    "definition": [
+      "总书记, 秘书长, 一般参谋, 参谋部",
+      "[计] 组分隔",
+      "EN: Green–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GSO",
+    "phonetic": "",
+    "definition": [
+      "一般参谋",
+      "EN: Short for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GSW",
+    "phonetic": "",
+    "definition": [
+      "abbr. gross shipping weight 装船毛重; 装运毛重; 装运总重量; 装船总重量",
+      "EN: The 2-volume work on superstring theory by Green, Schwarz, and Witten."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GUT",
+    "phonetic": "gʌt",
+    "definition": [
+      "n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气",
+      "vt. 取出内脏, 毁坏...的内部",
+      "EN: Grand Unified Theory, a hypothetical theory unifying the strong and electroweak forces."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GWS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 成衣洗水样板(Garment Wash Sample);图形气象服务(Graphic Weather Service)",
+      "EN: Glashow–Weinberg–Salem theory of the electroweak force."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GZK",
+    "phonetic": "",
+    "definition": [
+      "[网络] 芬龄;选法",
+      "EN: The Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Haag–Łopuszański–Sohnius theorem",
+    "phonetic": "",
+    "definition": [
+      "EN: A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hagedorn temperature",
+    "phonetic": "",
+    "definition": [
+      "[网络] 哈格多恩温度",
+      "EN: The temperature above which the partition function diverges due to the exponentially increasing number of string states."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hc",
+    "phonetic": "",
+    "definition": [
+      "[计] 处理能力, 大容量, 主机",
+      "EN: Hermitian conjugate"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HCMS",
+    "phonetic": "",
+    "definition": [
+      "EN: Hadronic center of mass (frame)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HDM",
+    "phonetic": "",
+    "definition": [
+      "分层开发方法论",
+      "EN: Higgs doublet model"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HE",
+    "phonetic": "i",
+    "definition": [
+      "abbr. 阁下;高等教育",
+      "[网络] 他;氦(helium);贺",
+      "EN: Short for heterotic-E8, a heterotic string theory based on the group E8."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "helicity",
+    "phonetic": "he'lisiti",
+    "definition": [
+      "n. [物]螺旋性",
+      "EN: The projection of the spin of a massless particle in the direction of its momentum."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HERA",
+    "phonetic": "'hiәrә",
+    "definition": [
+      "n. 赫拉(<<宙斯神之妻)",
+      "EN: Hadron Elektron Ring Anlage"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heterotic",
+    "phonetic": "",
+    "definition": [
+      "[医] 杂种优势的",
+      "EN: Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Higgs boson",
+    "phonetic": "",
+    "definition": [
+      "n. 希格斯玻色子",
+      "EN: A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Higgsino",
+    "phonetic": "",
+    "definition": [
+      "[网络] 超希格斯粒子;希格斯微子;轻轻",
+      "EN: A hypothetical supersymmetric partner of a Higgs boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HO",
+    "phonetic": "həʊ",
+    "definition": [
+      "int. 嗬;站住",
+      "abbr. (=holmium)【化】钬;“hoa”的变体",
+      "n. 娼妓;妓女;破鞋",
+      "[网络] 钬(holmium);何;血红素加氧酶(heme oxygenase)",
+      "EN: Short for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hyperkaehler",
+    "phonetic": "",
+    "definition": [
+      "EN: A Riemannian manifold with holonomy contained in the compact form of the symplectic group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hypermultiplet",
+    "phonetic": ",haipә'mʌlti,plet",
+    "definition": [
+      "超多重(谱)线, 超多重态",
+      "EN: A type of supermultiplet (representation) of an extended supersymmetry algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IGM",
+    "phonetic": "",
+    "definition": [
+      "abbr. instantaneous gain modulation 瞬时增益调制; intelligent guided munition 智能制导弹药; interactive guidance mode 交互制导模式",
+      "EN: Intergalactic medium"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inflation",
+    "phonetic": "in'fleiʃәn",
+    "definition": [
+      "n. 胀大, 夸张, 通货膨胀",
+      "[化] 充气吹胀; 膨胀",
+      "EN: A hypothetical very rapid increase in the size of the very early universe."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ino",
+    "phonetic": "",
+    "definition": [
+      "n. 进气阀打开",
+      "EN: The superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "instanton",
+    "phonetic": "'instәntɔn",
+    "definition": [
+      "n. [核]瞬子",
+      "EN: A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "int",
+    "phonetic": "",
+    "definition": [
+      "[计] 中间代码,当一个源程序经过语法检查后编译产生一个可执行代码",
+      "EN: Short for interaction; for example, Hint might be an interaction Hamiltonian."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inv",
+    "phonetic": "",
+    "definition": [
+      "n. INV=invoice (外贸); [医][=inferior nasal vein]下鼻静脉",
+      "EN: Short for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "K-theory",
+    "phonetic": "",
+    "definition": [
+      "纽结理论",
+      "EN: A cohomology theory based on vector bundles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "K3",
+    "phonetic": "",
+    "definition": [
+      "EN: A simply connected compact complex surface of Kodaira dimension 0"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kac–Moody algebra",
+    "phonetic": "",
+    "definition": [
+      "卡茨-穆迪代数",
+      "EN: A central extension of a loop algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kaehler",
+    "phonetic": "",
+    "definition": [
+      "[网络] 克勒",
+      "EN: Named after Erich Kähler"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KK",
+    "phonetic": "",
+    "definition": [
+      "abbr. 千开(kilokelvin )",
+      "EN: Kaluza–Klein"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KM",
+    "phonetic": "",
+    "definition": [
+      "n. 公里;千米;米氏常数",
+      "abbr. 公里",
+      "[网络] 知识管理(Knowledge Management);面积;平方公里",
+      "EN: 1. The Kobayashi–Maskawa mechanism for CP violation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KZ",
+    "phonetic": "'keɪz'i:",
+    "definition": [
+      "[网络] 哈萨克斯坦(Kazakhstan);框架柱;新生界",
+      "EN: Initials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "L3",
+    "phonetic": "",
+    "definition": [
+      "EN: experiment at LEP."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lagrangian (field theory)",
+    "phonetic": "",
+    "definition": [
+      "EN: A function on the jet space of a fiber bundle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "landscape",
+    "phonetic": "'lændskeip",
+    "definition": [
+      "n. 风景, 山水, 风景画",
+      "vi. 从事景观美化",
+      "vt. 美化...景观",
+      "[计] 横向",
+      "EN: The (conjectural) moduli space of all (vacuums of) string theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LEP",
+    "phonetic": "",
+    "definition": [
+      "abbr. lepton 轻子; lepton (collective terra embracing anti-neutrino, electron, neutrino, photon, positron) 轻子(包括反微中子, 电子, 微中子, 光子, 正电子的集合名词); lowest effective power 最低有效功率",
+      "EN: The Large Electron–Positron Collider at CERN."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lepton",
+    "phonetic": "'leptɒn",
+    "definition": [
+      "n. 轻子, 雷普顿(希腊货币单位)",
+      "[化] 轻子",
+      "EN: An elementary particle of spin 1/2 that is unaffected by the strong force."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LH",
+    "phonetic": "",
+    "definition": [
+      "[计] DOS内部命令:将常驻程序装入上层内存区",
+      "[化] 促黄体素",
+      "EN: Left-handed"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LHC",
+    "phonetic": "",
+    "definition": [
+      "abbr. 液氢容器(Liquid Hydrogen Container )",
+      "EN: The Large Hadron Collider at CERN."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LL",
+    "phonetic": "",
+    "definition": [
+      "na. shall (如 she'll, I'll 等)",
+      "EN: Double logarithmic"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LO",
+    "phonetic": "ləʊ",
+    "definition": [
+      "int. (引起对令人惊讶的事的注意)瞧",
+      "[网络] 本振(Local oscillator);本机振荡器;卢",
+      "EN: Leading order (term)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LQC",
+    "phonetic": "",
+    "definition": [
+      "EN: Loop quantum cosmology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LQG",
+    "phonetic": "",
+    "definition": [
+      "线性二次型高斯问题",
+      "EN: Loop quantum gravity"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LSP",
+    "phonetic": "",
+    "definition": [
+      "abbr. 逻辑信号处理程式(Logical Signal Processor);行同步脉冲(Line Synchronizing Pulse);低速印字机(Low Speed Printer);线性硒光电池(Linear Selenium Pho-tocell)",
+      "EN: Abbreviation for lightest supersymmetric particle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LSS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 光点扫描仪(Light Spot Scanner)",
+      "EN: Large scale structure (of the universe)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "M(atrix) theory",
+    "phonetic": "",
+    "definition": [
+      "EN: One of several non-perturbative formulations of string theory or M-theory using infinite matrices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "M-theory",
+    "phonetic": "",
+    "definition": [
+      "n. M理论",
+      "[网络] 膜理论;大统一理论;说的膜理论",
+      "EN: An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Majorana spinor",
+    "phonetic": "",
+    "definition": [
+      "马约喇纳旋量",
+      "EN: A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Majorana–Weyl spinor",
+    "phonetic": "",
+    "definition": [
+      "EN: A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mandelstam variable",
+    "phonetic": "",
+    "definition": [
+      "EN: A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MC",
+    "phonetic": ".em 'siː",
+    "definition": [
+      "abbr. (=machine)(=megacycle)",
+      "n. 司仪;议会议员;说唱歌手",
+      "[网络] 甲基纤维素(Methyl cellulose);主持人;熔火之心(Molten Core)",
+      "EN: Monte Carlo integration"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "membrane",
+    "phonetic": "'membrein",
+    "definition": [
+      "n. 薄膜, 膜, 羊皮纸",
+      "[化] 膜; 隔膜",
+      "EN: A higher dimensional analogue of a string."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "minimal model",
+    "phonetic": "",
+    "definition": [
+      "极小模型",
+      "EN: Certain solvable conformal field theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mirror symmetry (string theory)",
+    "phonetic": "",
+    "definition": [
+      "EN: A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different \"mirror\" Calabi–Yau manifold."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MLLA",
+    "phonetic": "",
+    "definition": [
+      "EN: Modified leading logarithm approximation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MNS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Master of Nutritional Science 营养学硕士",
+      "EN: Maki–Nakagawa–Sakata matrix for neutrino mixing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "monopole",
+    "phonetic": "'mɔnәpәul",
+    "definition": [
+      "[计] 单级",
+      "EN: A hypothetical particle similar to a \"magnet with only one pole\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Montonen–Olive duality",
+    "phonetic": "",
+    "definition": [
+      "EN: An early case of S-duality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MS",
+    "phonetic": "mɪz",
+    "definition": [
+      "abbr. 多发性硬化",
+      "n. “M”的复数",
+      "[网络] 质谱(mass spectrum);时间;毫秒",
+      "EN: minimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSM",
+    "phonetic": "",
+    "definition": [
+      "abbr. Manufacturing Standards Manual 制造标准手册;Missile Standards Manual 导弹标准手册;Multilayer switch module 多层交换模块;Maastricht School of Management 马斯特里赫特管理学院",
+      "EN: Abbreviation for minimal standard model."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSSM",
+    "phonetic": "",
+    "definition": [
+      "EN: Abbreviation for minimal supersymmetric standard model."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mSUGRA",
+    "phonetic": "",
+    "definition": [
+      "EN: Minimal model of supergravity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSW",
+    "phonetic": "",
+    "definition": [
+      "abbr. 社会工作硕士(master of social work);机器状态学(Machine Status Word);城市固态废物(Municiple Solid Waste)",
+      "EN: Mikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multiplet",
+    "phonetic": "'mʌltiplet",
+    "definition": [
+      "[物]多重谱线, 多重态",
+      "EN: A linear representation of a Lie algebra or group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nambu–Goto action",
+    "phonetic": "",
+    "definition": [
+      "EN: An action for strings, proportional to the area of the worldsheet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NC",
+    "phonetic": "",
+    "definition": [
+      "n. 数控;数字控制;北卡罗来纳州;肾钙质沉着",
+      "[网络] 网络计算机(Network Computer);数控(Numerical Control);常闭(normally closed)",
+      "EN: Neutral current (weak interaction)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Neumann",
+    "phonetic": "",
+    "definition": [
+      "[计] 诺伊曼",
+      "EN: boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neutralino",
+    "phonetic": "",
+    "definition": [
+      "中轻微子",
+      "EN: A hypothetical supersymmetric partner of a gauge boson with zero charge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Neveu",
+    "phonetic": "",
+    "definition": [
+      "[人名] 内维尤",
+      "EN: Named for André Neveu."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Neveu–Schwarz algebra",
+    "phonetic": "",
+    "definition": [
+      "EN: A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NG",
+    "phonetic": "",
+    "definition": [
+      "abbr. 〈美(=National Guard)国民警卫队",
+      "[网络] 淋球菌(Neisseria gonorrhoeae);吴;未提及(Not Given)",
+      "EN: 1. Short for Nambu–Goto, as in Nambu–Goto action."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NLL",
+    "phonetic": "'en'el'el",
+    "definition": [
+      "[医][=nodular lepromatous leprosy]结节性瘤型麻风",
+      "EN: Next to leading logarithmic (term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NLO",
+    "phonetic": "",
+    "definition": [
+      "Nonlinear Optimizer 非线性最佳化器",
+      "EN: Next to leading order (term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NLSP",
+    "phonetic": "",
+    "definition": [
+      "[计] NetWare链路服务协议",
+      "EN: next-to-lightest sypersymmetric particle"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NMSSM",
+    "phonetic": "",
+    "definition": [
+      "EN: Next-to-Minimal Supersymmetric Standard Model."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NNLL",
+    "phonetic": "",
+    "definition": [
+      "EN: Next to next to leading logarithmic (term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NNLO",
+    "phonetic": "",
+    "definition": [
+      "EN: Next to next to leading order (term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NNNLL",
+    "phonetic": "",
+    "definition": [
+      "EN: Next to next to next to leading logarithmic (term)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "no-ghost theorem",
+    "phonetic": "",
+    "definition": [
+      "[网络] 无幻定理",
+      "EN: A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NR",
+    "phonetic": "",
+    "definition": [
+      "n. 不返情;营养比;近;第...",
+      "abbr. 靠近(用于小村庄等的地址中)",
+      "[网络] 天然橡胶(natural rubber);硝酸还原酶(nitrate reductase);尚未评级(not rated)",
+      "EN: Non-relativistic"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NRQCD",
+    "phonetic": "",
+    "definition": [
+      "EN: Non-relativistic quantum chromodynamics"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NS",
+    "phonetic": "",
+    "definition": [
+      "[计] 毫微秒, 纳秒",
+      "EN: Neveu–Schwarz, especially the Neveu–Schwarz algebra"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NS–NS",
+    "phonetic": "",
+    "definition": [
+      "EN: A sector with Neveu–Schwarz conditions on left and right moving modes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NS–R",
+    "phonetic": "",
+    "definition": [
+      "EN: A sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NUT",
+    "phonetic": "nʌt",
+    "definition": [
+      "n. 坚果, 核心, 螺帽",
+      "[计] Novell NetWare服务器实用程序",
+      "EN: The initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OCQ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 组织承诺量表(Organizational Commitment Questionnaire);组织承诺问卷;组织承諾量表",
+      "EN: Short for old covariant quantization"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OPAL",
+    "phonetic": "'әupәl",
+    "definition": [
+      "n. 蛋白石, 猫眼石",
+      "[化] 蛋白石",
+      "EN: The OPAL detector at LEP."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open",
+    "phonetic": "'әupәn",
+    "definition": [
+      "n. 公开, 户外, 空旷",
+      "a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的",
+      "vt. 打开, 公开, 开放",
+      "vi. 展开, 开始, 展现",
+      "[计] 打开指令; 打开语句",
+      "EN: An open string is one with two ends."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "operator product expansion",
+    "phonetic": "",
+    "definition": [
+      "算符乘积展开",
+      "EN: A description of short-distance singularities of fields."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orbifold",
+    "phonetic": "",
+    "definition": [
+      "轨形",
+      "EN: Something that looks locally like a manifold quotiented by the action of a finite group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OSp",
+    "phonetic": "",
+    "definition": [
+      "光信号处理器",
+      "EN: A Lie superalgebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "p-brane",
+    "phonetic": "",
+    "definition": [
+      "p维膜",
+      "EN: A p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PCAC",
+    "phonetic": "",
+    "definition": [
+      "部分守恒轴矢流",
+      "EN: partially conserved axial vector current"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PDF",
+    "phonetic": "",
+    "definition": [
+      ".PDF 格式档案",
+      "EN: Parton distribution function."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PDG",
+    "phonetic": "",
+    "definition": [
+      "abbr. 超星阅读器文件",
+      "EN: Particle Data Group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photino",
+    "phonetic": "",
+    "definition": [
+      "光微子",
+      "EN: A hypothetical supersymmetric partner of the photon."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photon",
+    "phonetic": "'fәutɒn",
+    "definition": [
+      "n. 光子, 光量子, 光度",
+      "[化] 光量子; 光子",
+      "EN: The neutral spin 1 gauge boson of the electromagnetic field."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PMNS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 中性粒细胞;多形核粒细胞;多形核中性粒细胞",
+      "EN: Pontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Polyakov action",
+    "phonetic": "",
+    "definition": [
+      "EN: A modification of the Nambu–Goto action for strings that eliminates the square root."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PQ",
+    "phonetic": "",
+    "definition": [
+      "abbr. 魁北克省(Province of Quebec);渗透系数(Permeability Quotient)",
+      "EN: Peccei–Quinn, as in Peccei–Quinn theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PQCD",
+    "phonetic": "",
+    "definition": [
+      "EN: Perturbative quantum chromodynamics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prepotential",
+    "phonetic": "'pri:pә'tenʃәl",
+    "definition": [
+      "前电势, 前电位",
+      "EN: A function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "primary field",
+    "phonetic": "",
+    "definition": [
+      "一次场",
+      "EN: A field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Princeton string quartet",
+    "phonetic": "",
+    "definition": [
+      "EN: David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PSL",
+    "phonetic": "",
+    "definition": [
+      "[计] 问题语句语言, 程序支撑库",
+      "EN: Projective special linear group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quark",
+    "phonetic": "kwɑ:k",
+    "definition": [
+      "n. 夸克",
+      "[化] 夸克",
+      "EN: A strongly interacting elementary particle of spin 1/2."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "R-parity",
+    "phonetic": "",
+    "definition": [
+      "EN: A Z2 symmetry of supersymmetric models."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "R-R",
+    "phonetic": "",
+    "definition": [
+      "[医][=Rinne's test negative]林尼(氏)(音叉)试验:检音传导障碍,阴性(骨导音长于气导音)",
+      "EN: Short for Ramond–Ramond sector"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ramond",
+    "phonetic": "",
+    "definition": [
+      "[人名] 雷蒙德",
+      "EN: Named for Pierre Ramond."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ramond algebra",
+    "phonetic": "",
+    "definition": [
+      "EN: A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rarita–Schwinger",
+    "phonetic": "",
+    "definition": [
+      "EN: Refers to spin 3/2 fermions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Regge",
+    "phonetic": "'redʒi",
+    "definition": [
+      "a. [核]雷琪理论的",
+      "EN: 1. Physicist Tullio Regge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "revolution",
+    "phonetic": ".revә'lu:ʃәn",
+    "definition": [
+      "n. 革命, 大变革, 旋转, 转数, 循环",
+      "[化] 回转",
+      "EN: Any new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RG",
+    "phonetic": "",
+    "definition": [
+      "abbr. 角速度陀螺仪(Rate Gyroscope);巴西航空(Brazilian Airlines)",
+      "EN: Renormalization group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RGE",
+    "phonetic": "rd'ʒe",
+    "definition": [
+      "[医][=relative gas expansion]相对气体膨胀",
+      "EN: Renormalization group equation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RH",
+    "phonetic": "",
+    "definition": [
+      "[计] 报表头",
+      "EN: Right-handed"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RNS",
+    "phonetic": "'ɑ:r'en'es",
+    "definition": [
+      "[医][=reference normal serum]参考正常血清",
+      "EN: Ramond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "R–NS",
+    "phonetic": "",
+    "definition": [
+      "EN: A sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "S-brane",
+    "phonetic": "",
+    "definition": [
+      "EN: A brane similar to a D-brane, with Dirichlet boundary conditions in the time direction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "S-duality",
+    "phonetic": "",
+    "definition": [
+      "EN: Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constant"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SBB",
+    "phonetic": "",
+    "definition": [
+      "双耳同时冷热试验",
+      "EN: Standard Big Bang model of the universe"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SCFT",
+    "phonetic": "",
+    "definition": [
+      "EN: Superconformal field theory, a supersymmetric extension of conformal field theory"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schwarz",
+    "phonetic": "ʃwɑ:z",
+    "definition": [
+      "a. [数]施瓦兹的",
+      "EN: Named for John Henry Schwarz"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SGA",
+    "phonetic": "",
+    "definition": [
+      "abbr. substantial gainful activity 执著的惟利是图的行为",
+      "EN: Abbreviation for Spectrum-generating algebra"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "short supermultiplet",
+    "phonetic": "",
+    "definition": [
+      "EN: A supermultiplet (representation) related to BPS states"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sigma model",
+    "phonetic": "",
+    "definition": [
+      "σ模型",
+      "EN: A classical or quantum model based on the maps from a base manifold to a target manifold."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SL",
+    "phonetic": "",
+    "definition": [
+      "abbr. (=slightly)(=slow)",
+      "[网络] 源语言(source language);溶液剂(solution);色狼",
+      "EN: Special linear group"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SLAC",
+    "phonetic": "",
+    "definition": [
+      "[医][=Stanford Linear Accelerator Center]斯坦福直线性加速器中心",
+      "EN: Stanford Linear Accelerator Center"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SLC",
+    "phonetic": "",
+    "definition": [
+      "[计] 选择通道, 系统生命周期",
+      "EN: Stanford Linear Collider"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slepton",
+    "phonetic": "",
+    "definition": [
+      "标量轻子",
+      "EN: Hypothetical supersymmetric partner of a lepton"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sneutrino",
+    "phonetic": "",
+    "definition": [
+      "标量中微子",
+      "EN: Hypothetical supersymmetric partner of a neutrino"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SO",
+    "phonetic": "səʊ",
+    "definition": [
+      "conj. 所以;以便;(引出结果)因此;引出下文",
+      "adv. 那么;如此;很;就",
+      "int. 好;别动;别吵;停住",
+      "pron. 左右;imagine",
+      "n. 【乐】同“sol”;【女名】女子名",
+      "EN: Special orthogonal group"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sp",
+    "phonetic": "",
+    "definition": [
+      "岸上宪兵, 基地宪兵",
+      "[计] 结构程序设计, 用户过程处理",
+      "EN: Symplectic group"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sphaleron",
+    "phonetic": "",
+    "definition": [
+      "[网络] 量子反常过程",
+      "EN: Static solution to the electroweak field equations"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "squark",
+    "phonetic": "sk'wɔ:k",
+    "definition": [
+      "n. 超对称性夸克",
+      "EN: Supersymmetric partner of a quark."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SSB",
+    "phonetic": "",
+    "definition": [
+      "abbr. 太空科学委员会(Space Science Board);选征兵役局(Selective Service Board)",
+      "EN: Spontaneous symmetry breaking"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SSM",
+    "phonetic": "",
+    "definition": [
+      "abbr. 地对地导弹(Surface-to-Surface Missile)",
+      "EN: Standard solar model"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stress–energy tensor",
+    "phonetic": "",
+    "definition": [
+      "EN: Alternative name for the #energy–momentum tensor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SU",
+    "phonetic": "",
+    "definition": [
+      "[计] 可选部件",
+      "EN: Special unitary group"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SUGRA",
+    "phonetic": "",
+    "definition": [
+      "EN: Short for supergravity"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superconformal algebra",
+    "phonetic": "",
+    "definition": [
+      "EN: A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensions"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superfield",
+    "phonetic": "'sju:pә,fi:ld",
+    "definition": [
+      "扩张域",
+      "EN: A supersymmetric analogue of a quantum or classical field"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "supergravity",
+    "phonetic": "'sju:pə,ɡrævəti",
+    "definition": [
+      "n. [物] 超引力",
+      "EN: A supersymmetric extension of general relativity"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "supermultiplet",
+    "phonetic": "sju:pә'mʌltiplet",
+    "definition": [
+      "n. [核]超多重态",
+      "EN: A representation of a supersymmetry algebra"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superpotential",
+    "phonetic": ",sju:pәpә'tenʃәl",
+    "definition": [
+      "超电势(的), 过电压(的)",
+      "EN: A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superspace",
+    "phonetic": "'suːpəspeɪs; 'sjuː-",
+    "definition": [
+      "n. (理论上的)[数][天] 超空间",
+      "EN: A supersymmetric analogue of spacetime"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superstring",
+    "phonetic": "'su:pəstrɪŋ",
+    "definition": [
+      "n. 超弦",
+      "EN: A supersymmetric analogue of a string"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "supersymmetry",
+    "phonetic": ",sju:pә'simitri",
+    "definition": [
+      "n. [物]超对称性",
+      "EN: A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SUSY",
+    "phonetic": "'su:zi",
+    "definition": [
+      "abbr. 超对称(supersymmetry)",
+      "EN: An abbreviation for supersymmetry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SYM",
+    "phonetic": "",
+    "definition": [
+      "[计] 符号, 系统, 制",
+      "EN: Supersymmetric Yang–Mills"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "T-duality",
+    "phonetic": "",
+    "definition": [
+      "EN: A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tachyon",
+    "phonetic": "'tæki:ɔn",
+    "definition": [
+      "n. [核]超光速粒子",
+      "EN: A particle of imaginary mass moving faster than light."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TOE",
+    "phonetic": "tәu",
+    "definition": [
+      "n. 足趾, 趾部, 脚趾",
+      "vt. 以趾踏触, 用脚尖走",
+      "vi. 动脚尖",
+      "EN: Theory of everything"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "type IIB",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "U-duality",
+    "phonetic": "",
+    "definition": [
+      "EN: Short for \"unified duality\". A string duality relating two different string theories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UED",
+    "phonetic": "",
+    "definition": [
+      "abbr. United Electrodynamics; Inc 美国电动力学公司",
+      "EN: Universal extra dimensions"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 紫外的(ultraviolet)",
+      "EN: Short for ultra-violet, often referring to short-distance singularities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "V-A",
+    "phonetic": "",
+    "definition": [
+      "EN: Vector-Axial vector"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vector superfield",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of superfield related to vector supermultiplets."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Veneziano amplitude",
+    "phonetic": "",
+    "definition": [
+      "EN: The Euler beta function interpreted as a scattering amplitude."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VEV",
+    "phonetic": "",
+    "definition": [
+      "abbr. voice-excited vocoder 声激励音码器",
+      "EN: Vacuum expectation value of an operator."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vielbein",
+    "phonetic": "",
+    "definition": [
+      "EN: A frame"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vierbein",
+    "phonetic": "",
+    "definition": [
+      "EN: A frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that \"vier\" means four in German."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Virasoro algebra",
+    "phonetic": "",
+    "definition": [
+      "维拉宿代数",
+      "EN: A central extension of the Witt algebra of polynomial vector fields on a circle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "W-algebra",
+    "phonetic": "",
+    "definition": [
+      "EN: A sort of generalization of the Virasoro algebra"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Weyl",
+    "phonetic": "",
+    "definition": [
+      "[人名] 韦尔",
+      "EN: 1. Named after Hermann Weyl"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WIMP",
+    "phonetic": "wimp",
+    "definition": [
+      "n. 懦弱的人;无能的人",
+      "EN: Weakly interacting massive particle"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wino",
+    "phonetic": "'wainәu",
+    "definition": [
+      "n. 醉鬼, 酒鬼",
+      "EN: A hypothetical supersymmetric partner of the W-boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Witten",
+    "phonetic": "",
+    "definition": [
+      "n. 威腾(美国著名的数学家);威滕(德国中西部一个城市名)",
+      "EN: Named for Edward Witten."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WMAP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 异性探测器(Wilkinson Microwave Anisotropy Probe);微波异向性侦测器;威金森微波异向性探测器",
+      "EN: Wilkinson Microwave Anisotropy Probe"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "world sheet",
+    "phonetic": "",
+    "definition": [
+      "EN: The 2-dimensional subset of spacetime swept out by a moving string."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "world-volume",
+    "phonetic": "",
+    "definition": [
+      "EN: The p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WZW",
+    "phonetic": "",
+    "definition": [
+      "EN: Initials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YBE",
+    "phonetic": "",
+    "definition": [
+      "[网络] 流程图软件(Yaoqiang BPMN Editor);铀城;亿帮快递",
+      "EN: Yang–Baxter equation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YM",
+    "phonetic": "",
+    "definition": [
+      "abbr. 基督教青年会(Young Men's Christian Association)",
+      "EN: Yang–Mills"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zino",
+    "phonetic": "",
+    "definition": [
+      "n. (Zino)人名;(意)齐诺",
+      "EN: A hypothetical supersymmetric partner of the Z-boson."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zweibein",
+    "phonetic": "",
+    "definition": [
+      "EN: A frame in 2 dimensions"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

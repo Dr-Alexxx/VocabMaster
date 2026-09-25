@@ -1,0 +1,8090 @@
+[
+  {
+    "word": "abecedarius",
+    "phonetic": "",
+    "definition": [
+      "[网络] 字母离合体诗;系字母者;多篇用上离合诗",
+      "EN: A special type of acrostic in which the first letter of every word, strophe or verse follows the order of the alphabet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acatalexis",
+    "phonetic": "",
+    "definition": [
+      "EN: An acatalectic line of verse is one having the metrically complete number of syllables in the final foot."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accent",
+    "phonetic": "'æksәnt",
+    "definition": [
+      "n. 重音, 口音, 特点, 注重点",
+      "vt. 重读, 加重音号于, 强调",
+      "EN: Any noun used to describe the stress put on a certain syllable while speaking a word. For example, there has been disagreement over the pronunciation of \"Abora\" in line 41 of \"Kubla Khan\" by Samuel Taylor Coleridge. According to Herbert Tucker of the website \"For Better For Verse\", the accent is on the first and last syllable of the word, making its pronunciation: AborA."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accentual verse",
+    "phonetic": "",
+    "definition": [
+      "强音诗;以音的抑扬而定韵律的诗",
+      "EN: is common in children's poetry. Nursery rhymes and the less well-known skipping-rope rhymes are the most common form of accentual verse in the English language."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acrostic",
+    "phonetic": "ә'krɒstik",
+    "definition": [
+      "n. 离合诗",
+      "a. 离合诗的",
+      "EN: A poem or other form of writing in which the first letter, syllable, or word of each line, paragraph, or other recurring feature in the text spells out a word or a message. Example: An Acrostic (1829) by Edgar Allan Poe."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "act",
+    "phonetic": "",
+    "definition": [
+      "[计] Microsoft office助手文件",
+      "EN: An act is a major division of a theatre work, including a play, film, opera, or musical theatre, consisting of one or more scenes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adage",
+    "phonetic": "'ædidʒ",
+    "definition": [
+      "n. 格言, 谚语",
+      "EN: An adage expresses a well-known and simple truth in a few words. (Similar to aphorism and proverb.)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adjective",
+    "phonetic": "'ædʒiktiv",
+    "definition": [
+      "n. 形容词",
+      "a. 形容词的, 从属的",
+      "EN: Any word or phrase which modifies a noun or pronoun, grammatically added to describe, identify, or quantify the related noun or pronoun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adverb",
+    "phonetic": "'ædvә:b",
+    "definition": [
+      "n. 副词",
+      "EN: A descriptive word used to modify a verb, adjective, or another adverb. Typically ending in -ly, adverbs answer the questions when, how, and how many times."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aisling",
+    "phonetic": "",
+    "definition": [
+      "n. 爱丝琳(女子名)",
+      "EN: A poetic genre based on dreams and visions that developed during the 17th and 18th centuries in Irish-language poetry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "allegory",
+    "phonetic": "'æligәri",
+    "definition": [
+      "n. 寓言",
+      "EN: A type of writing in which the settings, characters, and events stand for other specific people, events, or ideas."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alliteration",
+    "phonetic": "ә.litә'reiʃәn",
+    "definition": [
+      "n. 头韵",
+      "[医] 同音韵错误症",
+      "EN: Repetition of the initial sounds of words, as in \"Peter Piper picked a peck of pickled peppers\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "allusion",
+    "phonetic": "ә'lu:ʒәn",
+    "definition": [
+      "n. 提及, 暗指",
+      "EN: A figure of speech that makes a reference to or a representation of people, places, events, literary works, myths, or works of art, either directly or by implication."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anachronism",
+    "phonetic": "ә'nækrәnizәm",
+    "definition": [
+      "n. 时代错误, 不合潮流的人(物)",
+      "[法] 时代错误, 落伍的事物",
+      "EN: The erroneous use of an object, event, idea, or word that does not belong to the same time period as its context."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anacrusis",
+    "phonetic": ",ænә'kru:sis",
+    "definition": [
+      "n. 诗句开头的非重读音节",
+      "EN: In poetry, a set of non-metrical syllables at the beginning of a verse used as a prelude to the metrical line."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anadiplosis",
+    "phonetic": ",ænәdi'plәusis",
+    "definition": [
+      "n. [修辞]联珠法",
+      "EN: The repetition of the last word of one clause at the beginning of the following clause to gain a special effect; e.g. \"Labour and care are rewarded with success, success produces confidence, confidence relaxes industry, and negligence ruins the reputation which diligence had raised.\" (The Rambler No. 21, Samuel Johnson)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anagnorisis",
+    "phonetic": ",ænә^'nɔrisis",
+    "definition": [
+      "n. [戏]发现( 亚里斯多德《诗学》中用语,\"发现\"与\"突转\"被视作悲剧情节的主要成分)",
+      "EN: The point in a plot at which a character recognizes the true state of affairs."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analepsis",
+    "phonetic": "",
+    "definition": [
+      "复原",
+      "EN: An interjected scene that takes the narrative back in time from the current point the story has reached."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analogy",
+    "phonetic": "ә'nælәdʒi",
+    "definition": [
+      "n. 相似, 类似",
+      "[计] 模拟",
+      "EN: A comparison between two things that are otherwise unlike."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anapest",
+    "phonetic": "'ænәpi:st",
+    "definition": [
+      "n. <美>抑抑扬格, 短短长格",
+      "EN: A version of the foot in poetry in which the first two syllables of a line are unstressed, followed by a stressed syllable; e.g. intercept (the syllables in and ter are unstressed and followed by cept, which is stressed)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anecdote",
+    "phonetic": "'ænikdәut",
+    "definition": [
+      "n. 轶事, 奇闻",
+      "EN: A short account of a particular incident or event, especially of an interesting or amusing nature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "annotation",
+    "phonetic": "ænәu'teiʃәn",
+    "definition": [
+      "n. 注解, 评注",
+      "EN: A textual comment in a book or other piece of writing. Annotations often take the form of a reader's comments handwritten in the margin, hence the term marginalia, or of printed explanatory notes provided by an editor. See also adversaria."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antagonist",
+    "phonetic": "æn'tægәnist",
+    "definition": [
+      "n. 敌手, 对手",
+      "[化] 对抗物; 拮抗物; 反协同剂; 反协同试剂",
+      "EN: The adversary of the hero or protagonist of a drama or other literary work; e.g. Iago is the antagonist in William Shakespeare's Othello."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antecedent",
+    "phonetic": ".ænti'si:dnt",
+    "definition": [
+      "n. 前情, 先行词",
+      "a. 先前的, 先行的",
+      "EN: A word or phrase referred to by any relative pronoun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aposiopesis",
+    "phonetic": ".æpәsaiәu'pi:sis",
+    "definition": [
+      "n. 顿绝, 话语中断",
+      "EN: A rhetorical device in which speech is broken off abruptly and the sentence is left unfinished."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apostrophe",
+    "phonetic": "ә'pɒstrәfi",
+    "definition": [
+      "n. 撇号, 呼语法",
+      "EN: A figure of speech in which a speaker breaks off from addressing the audience (e.g., in a play) and directs speech to a third party such as an opposing litigant or some other individual, sometimes absent from the scene."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "archetype",
+    "phonetic": "'ɑ:tʃtaip",
+    "definition": [
+      "n. 原型",
+      "EN: Any story element (e.g. idea, symbol, pattern, or character-type) that appears repeatedly in stories across time and space."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrophic",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天生的",
+      "EN: (of one or more stanzas) Having no particular pattern."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "asyndeton",
+    "phonetic": "æ'sinditәn",
+    "definition": [
+      "n. 连接词省略",
+      "EN: The omission of conjunctions between successive clauses. An example is when John F. Kennedy said on January 20, 1961, \"...that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aubade",
+    "phonetic": "әu'bɑ:d",
+    "definition": [
+      "n. <法>(短小的)抒情器乐曲,晨歌,黎明曲",
+      "EN: (French: \"dawn song\") A monologue which dramatically expresses the regret of parting lovers at daybreak."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autoclesis",
+    "phonetic": "",
+    "definition": [
+      "EN: A rhetorical device by which an idea is introduced in negative terms in order to call attention to it and arouse curiosity."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bard",
+    "phonetic": "bɑ:d",
+    "definition": [
+      "n. 吟游诗人, 诗人",
+      "EN: A distinguished poet, especially one serving in an official capacity whose task it was, in many cultures of Celtic origin, to celebrate national events, particularly heroic actions and military victories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bathos",
+    "phonetic": "'beiθɒs",
+    "definition": [
+      "n. 突降法, 陈腐, 虚伪",
+      "EN: refers to rhetorical anticlimax—an abrupt transition from a lofty style or grand topic to a common or vulgar one—occurring either accidentally (through artistic ineptitude) or intentionally (for comic effect)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beast fable",
+    "phonetic": "",
+    "definition": [
+      "动物寓言故事",
+      "EN: An \"animal tale\" or \"beast fable\" generally consists of a short story or poem in which animals talk. It is a traditional form of allegorical writing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bestiary",
+    "phonetic": "'bestiәri",
+    "definition": [
+      "n. 动物寓言集",
+      "EN: A medieval didactic genre in prose or verse in which the behavior of animals (used as symbolic types) points a moral."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bildungsroman",
+    "phonetic": "'bildjŋzrәj,mɑ:n",
+    "definition": [
+      "<德> n.教育小说(源于德国文学中一种传统的小说类型, 以描述主人公成长过程为主题)",
+      "EN: A story that follows the psychological and moral maturation of the protagonist or main character from childhood to adulthood. It is a type of coming-of-age story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blank verse",
+    "phonetic": "",
+    "definition": [
+      "无韵诗,自由诗",
+      "EN: Verse written in iambic pentameter without rhyme."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bouts-rimés",
+    "phonetic": "",
+    "definition": [
+      "EN: A versifying game originating in 17th-century France in which the idea was, given certain rhymes, to compose lines for them and make up a poem which sounded natural."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "brachiology",
+    "phonetic": "",
+    "definition": [
+      "EN: Terse and condensed expression, characteristic of the heroic couplet. See also asyndeton."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Byronic hero",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of character in a dramatic work whose defining features derive largely from characters in the writings of English Romantic poet Lord Byron as well as from Byron himself. It is a variant of the archetypal Romantic hero."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cadence",
+    "phonetic": "'keidns",
+    "definition": [
+      "n. 韵律, 抑扬, 调子, 节奏",
+      "[电] 步调",
+      "EN: In poetry, the rise or fall in pitch of the intonation of the voice, and its modulated inflection with the rise and fall of its sound."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "caesura",
+    "phonetic": "si:'zjuәrә",
+    "definition": [
+      "n. 中止",
+      "EN: A break or pause in a line of poetry, dictated by the natural rhythm of the language and/or enforced by punctuation. A line may have more than one caesura, or none at all. If near the beginning of the line, it is called the initial caesura; near the middle, medial; near the end, terminal. An accented or masculine caesura follows an accented syllable, an unaccented or feminine caesura an unaccented syllable. The caesura is used in two essentially contrary ways: to emphasize formality and to stylize; and to slacken the stiffness and tension of formal metrical patterns."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "canon",
+    "phonetic": "'kænәn",
+    "definition": [
+      "n. 教会法规, 圣典, 准则, 标准, 教士",
+      "[医] 规范, [加农]炮",
+      "EN: A body of writings established as authentic. The term often refers to biblical writings which have been accepted as authorized, as opposed to the Apocrypha."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "canto",
+    "phonetic": "'kæntәu",
+    "definition": [
+      "n. 长诗的篇章, 曲调",
+      "EN: A subdivision of an epic or narrative poem, comparable to a chapter in a novel."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "canzone",
+    "phonetic": "kæn'tsәuni",
+    "definition": [
+      "n. 合组歌",
+      "EN: An Italian or Provençal form of lyric, consisting of a series of verses in stanza form but without a refrain, and usually written in hendecasyllabic lines with end-rhyme; or more generally, any simple and song-like composition such as a ballad. See also chanson and madrigal."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "caricature",
+    "phonetic": "'kærikәtʃә",
+    "definition": [
+      "n. 讽刺画, 漫画, 漫画手法",
+      "vt. 画成漫画讽刺",
+      "EN: A portrait in literature (as in art) which ridicules a person by exaggerating and distorting their most prominent features and characteristics. Caricatures often evoke genial rather than derisive laughter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachresis",
+    "phonetic": ",kætә'kri:sis",
+    "definition": [
+      "n. 在特定上下文中词的误用, 修辞手法生硬而自相矛盾的误用",
+      "EN: The misapplication of a word, especially in a mixed metaphor."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalect",
+    "phonetic": "",
+    "definition": [
+      "EN: A literary work which is detached (or detachable) from the main body of a writer's work. Compare analect."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalexis",
+    "phonetic": "'kætəleksɪs",
+    "definition": [
+      "n. 欠音节的诗",
+      "EN: The omission of the last syllable or syllables in a regular metrical line; often done in trochaic and dactylic verse to avoid monotony."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chanson de geste",
+    "phonetic": "",
+    "definition": [
+      "武功歌(11-13世纪的古法语史诗)",
+      "EN: A type of Old French epic poem popular between the 11th and 14th centuries which relates the heroic deeds of Carolingian noblemen and other feudal lords. Such works exhibit a combination of history and legend, and also reflect a definite conception of religious chivalry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chansonnier",
+    "phonetic": "ʃɔŋsɔ'njei",
+    "definition": [
+      "n. 歌手",
+      "EN: A collection of Provençal troubadour poems in manuscript form."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chant royal",
+    "phonetic": "",
+    "definition": [
+      "[网络] 皇家圣歌",
+      "EN: A metrical and rhyming scheme dating to the Middle Ages and related to ballade forms. It consists of five eleven-line stanzas rhyming in the pattern ababccddedE, followed by an envoi rhyming in the pattern ddedE. There is also a refrain (as indicated by the capital letters) at the end of each stanza and including the last line of the envoi. Typically, no rhyme word may be used twice except in the envoi."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chapbook",
+    "phonetic": "'tʃæpbuk",
+    "definition": [
+      "n. 小本故事书, 宗教小册子",
+      "EN: A form of popular literature sold by pedlars or chapmen, mostly from the 16th to the 18th centuries. Chapbooks consisted of ballads, pamphlets, tracts, nursery rhymes, and fairy stories, and were often illustrated with wood-blocks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chiasmus",
+    "phonetic": "kai'æzmәs",
+    "definition": [
+      "n. 交错配列",
+      "EN: A reversal of grammatical structures in successive phrases or clauses; e.g. \"His time a moment, and a point his space.\" (An Essay on Man, Epistle I, Alexander Pope) The device is related to antithesis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cinquain",
+    "phonetic": "siŋ'kwein",
+    "definition": [
+      "n. 五个的一组, 五行诗",
+      "EN: A five-line stanza with a variable meter and rhyme scheme, possibly of medieval origin."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cliché",
+    "phonetic": "",
+    "definition": [
+      "EN: An element of an artistic work, saying, or idea that has become overused to the point of losing its original meaning or effect, even to the point of being trite or irritating, especially when at some earlier time it was considered meaningful or novel."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "close reading",
+    "phonetic": "kləuz ˈri:diŋ",
+    "definition": [
+      "n. 仔细阅读",
+      "EN: A technique of literary analysis that relies upon detailed, balanced, and rigorous critical examination of a text in order to discover its meanings and to assess its effects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "commonplace book",
+    "phonetic": "ˈkɔmənpleis buk",
+    "definition": [
+      "n. 摘录簿",
+      "EN: A notebook or journal in which a writer records ideas, themes, quotations, words, and phrases as they occur to them."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "consonance",
+    "phonetic": "'kɒnsәnәns",
+    "definition": [
+      "n. 一致, 调和, 辅音韵",
+      "[医] 谐和",
+      "EN: The close repetition of identical consonant sounds before and after different vowels, e.g. \"slip, slop\"; \"creak, croak\"; \"black, block\". Compare assonance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "couplet",
+    "phonetic": "'kʌplit",
+    "definition": [
+      "n. 对句, 对联",
+      "EN: Two lines with rhyming ends. Shakespeare often used a couplet to end a sonnet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cradle book",
+    "phonetic": "",
+    "definition": [
+      "[印刷] 初期刊本",
+      "EN: See incunabulum."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crisis",
+    "phonetic": "'kraisis",
+    "definition": [
+      "n. 危机, 危险期, 紧要关头",
+      "[医] 危象; 骤退, 临界, 极期",
+      "EN: That point in a story or play at which tension reaches a maximum and a resolution is imminent. There may be several crises, each preceding a climax."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denotation",
+    "phonetic": ".di:nәu'teiʃәn",
+    "definition": [
+      "n. 指示, 表示, 符号",
+      "EN: The most literal and limited meaning of a word, regardless of what one may feel about it or the suggestions and ideas it connotes (which may be much more affecting than or very different from its literal meaning)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deus ex machina",
+    "phonetic": "'di:әs eks 'meikinei",
+    "definition": [
+      "n. 解围的人或事件",
+      "EN: A plot device whereby a seemingly unsolvable problem in a story is suddenly resolved by an unexpected and seemingly unlikely occurrence, typically so much as to seem contrived."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dialogic",
+    "phonetic": ",daiә'lɔdʒik",
+    "definition": [
+      "a. 对话的, 问答体的",
+      "EN: A work primarily featuring dialogue; a piece of, relating to, or written in dialogue."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "didactic",
+    "phonetic": "di'dæktik(әl), dai-",
+    "definition": [
+      "a. 教训的, 说教的, 教导的, 教诲的",
+      "[医] 教导的",
+      "EN: Intended to teach, instruct, or have a moral lesson for the reader."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dimeter",
+    "phonetic": "'dimәtә",
+    "definition": [
+      "n. 二韵脚, 二步格诗行",
+      "EN: A line of verse made up of two feet (two stresses)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dipody",
+    "phonetic": "'dipәdi",
+    "definition": [
+      "n. (韵律学中的)二音步, 二音步诗行",
+      "EN: A pair of metrical feet considered as a single unit. Dipodic verse, commonly found in ballads and nursery rhymes, is characterized by the pairing together of feet in which one usually has a stronger stress."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "diverbium",
+    "phonetic": "dai'və:biəm",
+    "definition": [
+      "n. (古罗马戏剧)台词部分",
+      "EN: The spoken dialogue in Roman drama, as distinguished from the canticum, the sung part."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "donnée",
+    "phonetic": "",
+    "definition": [
+      "EN: A French word which signifies something \"given\" in the sense of an idea or notion implanted in the mind or imagination; i.e. the original idea or starting point from which a writer elaborates a complete creative work. It may be a phrase, a conversation, the expression on a person's face, a tune, indeed almost any kind of experience which precipitates a series of thoughts and ideas in the writer's mind."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dramatis personæ",
+    "phonetic": "",
+    "definition": [
+      "EN: Collectively, the characters represented in a play or other dramatic work. This phrase is the conventional heading for a list of characters printed in a theatrical programme or at the beginning of the text."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "duologue",
+    "phonetic": "'dju:әlɒg",
+    "definition": [
+      "n. 对白, 对话, 对话剧",
+      "EN: A conversation between two characters in a play, story, or poem. See also dialogue."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "duple meter/duple rhythm",
+    "phonetic": "",
+    "definition": [
+      "EN: Any poetic meter based on a foot of two syllables (i.e. a duple foot), as opposed to triple meter, in which the predominant foot has three syllables. Most English metrical verse is in duple meter, either iambic or trochaic, and thus displays an alternation of stressed syllables with single unstressed syllables. In the context of classical Greek and Latin poetry, however, the term often refers to verse composed of dipodies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dynamic character",
+    "phonetic": "",
+    "definition": [
+      "EN: A character who, during the course of a narrative, grows or changes in some significant way. Dynamic characters are therefore not only complex and three-dimensional but also develop as the plot develops. In the Bildungsroman, for example, the growth of the protagonist is coincident with the course of the plot."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dénouement",
+    "phonetic": "",
+    "definition": [
+      "EN: The resolution or unravelling of the complications of the plot in a play or story, often following the climax in a final scene or chapter in which mysteries, confusions, and doubtful destinies are clarified. See also catastrophe."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ekphrasis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 读画诗;象化;柯弗拉西斯",
+      "EN: A vivid, graphic, or dramatic written commentary or description of another visual form of art."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electronic literature",
+    "phonetic": "",
+    "definition": [
+      "EN: Literary works made for digital media, such as hypertext fiction, kinetic poetry or interactive fiction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "emendation",
+    "phonetic": ".i:men'deiʃәn",
+    "definition": [
+      "n. 修订, 修正, 校正",
+      "EN: The correction or alteration of text or manuscript where it is, or appears to be, corrupt."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enallage",
+    "phonetic": "en'ælәdʒi",
+    "definition": [
+      "n. 语法形式替代",
+      "EN: A figurative device which involves the substitution of one grammatical form for another. It is commonly used in metaphor; e.g. \"to palm someone off\" or \"to have a good laugh\". Compare hypallage."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "end-stopped line",
+    "phonetic": "",
+    "definition": [
+      "EN: A line in poetry that ends in a pause, indicated by a specific punctuation, such as a period or a semicolon."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enjambment",
+    "phonetic": "in'dʒæmmәnt",
+    "definition": [
+      "n. (=enjamkement)(诗句之)跨行连续",
+      "EN: The continuing of a syntactic unit over the end of a line. Enjambment occurs when the sense of the line overflows the meter and line break."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epic poetry",
+    "phonetic": "ˈepik ˈpəuitri",
+    "definition": [
+      "史诗",
+      "EN: A long poem that narrates the victories and adventures of a hero. Such a poem is often identifiable by its lofty or elegant diction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epigraph",
+    "phonetic": "'epigræf",
+    "definition": [
+      "n. 碑文, 题铭, 题词",
+      "EN: 1. An inscription on a statue, stone, or building."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epistrophe",
+    "phonetic": "i'pistrәfi",
+    "definition": [
+      "n. 尾词重复",
+      "EN: Repetition of a word or phrase at the end of clauses or sentences."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "erasure",
+    "phonetic": "i'reiʃә",
+    "definition": [
+      "n. 擦除, 抹掉",
+      "[电] 擦掉",
+      "EN: The placing of a concept under suspicion by marking the word for it as crossed or struck through (e.g. \"philosophy\"), in order to signal to readers that it is both unreliable and at the same time indispensable. The device of placing words sous rature (\"under erasure\") has been adopted in modern philosophy and literary criticism, notably in deconstruction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eye rhyme",
+    "phonetic": "",
+    "definition": [
+      "[语言学、诗歌]视觉韵(诗行结尾用拼写相同但发音各异的词, 如 lone 与 none)",
+      "EN: A kind of rhyme in which the spellings of paired words appear to match but without true correspondence in pronunciation; e.g. \"dive/give\", \"said/maid\", \"bear/dear\". Some were originally true rhymes but have become eye rhymes through changes in pronunciation; these are sometimes called historical rhymes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "feminine rhyme",
+    "phonetic": "",
+    "definition": [
+      "阴韵, 阴性韵脚(押韵词的重读音节后还有一个或以上的非重读音节, 如bitten和written)",
+      "EN: A rhyme with two syllables, with one stressed and one unstressed; e.g. \"merry\" rhymed with \"tarry\". Contrast masculine rhyme."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "figure of twins",
+    "phonetic": "",
+    "definition": [
+      "EN: See hendiadys."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flashback",
+    "phonetic": "'flæʃbæk",
+    "definition": [
+      "n. 倒叙, 火舌回闪",
+      "[机] 回闪",
+      "EN: An interjected scene that takes the narrative back in time from the current point the story has reached."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flashforward",
+    "phonetic": "flæʃ'fɔ:wəd",
+    "definition": [
+      "预叙",
+      "EN: An interjected scene that takes the narrative forward in time from the current point of the story in literature, film, television, and other media."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "frame story",
+    "phonetic": "",
+    "definition": [
+      "[网络] 框架故事;框形故事;框架小说",
+      "EN: A story which contains either another tale (i.e. a story within a story) or a series of stories. Well-known examples include the One Thousand and One Arabian Nights and Geoffrey Chaucer's Canterbury Tales."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "free verse",
+    "phonetic": "",
+    "definition": [
+      "无韵诗,自由诗",
+      "EN: A type of poetry that does not conform to any regular meter: both the length of its lines and its use of rhyme (if at all) are irregular. In lieu of a regular metrical pattern, free verse uses more flexible cadences or rhythmic groupings, sometimes supported by anaphora and other devices of repetition. Free verse should not be confused with blank verse, which does observe a regular meter in its unrhymed lines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gesta",
+    "phonetic": "",
+    "definition": [
+      "[网络] 戈仕泰;赫斯塔;格式塔(gestaltpsychogy)",
+      "EN: Accounts of deeds or tales of adventure, often with morals attached to each tale, which were especially popular in the Middle Ages."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gloss",
+    "phonetic": "glɒs",
+    "definition": [
+      "n. 光彩, 假象, 注释",
+      "vt. 使光彩, 掩盖, 上光于, 注释, 曲解",
+      "vi. 发光, 作注释",
+      "EN: An annotation that explains or translates a difficult word or phrase, usually added to a text by a later copyist or editor (as in many modern editions of Chaucer). When placed between the lines of a text, it is known as an interlinear gloss, but it may also appear in the margin, as a footnote, or in an appendix, and may form an extended commentary."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "haibun",
+    "phonetic": "",
+    "definition": [
+      "EN: A form of prose written in a terse, haikai style and accompanied by haiku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "haikai",
+    "phonetic": "",
+    "definition": [
+      "[网络] 俳谐",
+      "EN: A broad genre comprising the related forms of haiku haikai-renga and haibun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "haiku",
+    "phonetic": "'haiku:",
+    "definition": [
+      "n. haiku (Jap) 俳句",
+      "EN: A modern term for standalone hokku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hamartia",
+    "phonetic": "hæ'mɑ:ʃiә",
+    "definition": [
+      "n. 判断错误, 悲剧性的弱点",
+      "EN: The error or false step that leads a hero or protagonist in a tragedy to his or her downfall, as discussed by Aristotle in his Poetics. The protagonist's misfortune may be caused by some moral shortcoming or defect of character, or by his or her own misjudgment, ignorance, or hubris."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hendiatris",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞法;重名法",
+      "EN: A figure of speech, used for emphasis, in which a single idea is expressed by means of three substantives joined by the conjunction \"and\" (e.g. \"wine, women and song\" or \"sex, drugs and rock and roll\"). A combination of two substantives is a hendiadys."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hexameter",
+    "phonetic": "hek'sæmitә",
+    "definition": [
+      "n. 六步格, 六步格的诗",
+      "a. 六步格的",
+      "EN: A line from a poem that has six feet in its meter. Another name for hexameter is \"The Alexandrine\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hokku",
+    "phonetic": "'hɒkuː",
+    "definition": [
+      "n. [日语];=haiku",
+      "EN: In Japanese poetry, the opening stanza of a renga or renku (haikai no renga)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hyperbaton",
+    "phonetic": "hai'pә:bәtɔn",
+    "definition": [
+      "n. [修辞]倒装法",
+      "EN: A figure of speech that alters the syntactic order of the words in a sentence or separates words that are ordinarily associated with each other. The term may also be used more generally for all different figures of speech that transpose the natural word order in sentences."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hyperbole",
+    "phonetic": "hai'pә:bәli",
+    "definition": [
+      "n. 夸张法",
+      "EN: A figure of speech which contains a blatant exaggeration for emphasis, e.g. \"I haven't seen you for ages\" or \"as old as the hills\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypotactic",
+    "phonetic": ",haipәu'tæktik",
+    "definition": [
+      "a. [语]从属关系的,主从结构的",
+      "EN: A term referring to the use of different subordinate clauses in a sentence to qualify a single verb or modify it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interjection",
+    "phonetic": ".intә'dʒekʃәn",
+    "definition": [
+      "n. 感叹词, 插入语",
+      "EN: A word that is tacked onto a sentence in order to add strong emotion and which is grammatically unrelated to the rest of the sentence. Interjections are usually followed by an exclamation point."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "intertextuality",
+    "phonetic": "ˌɪntətekstʃuˈæləti",
+    "definition": [
+      "n. 互文性",
+      "EN: Refers to the way in which different works of literature interact with and relate to one another to construct meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ji-amari",
+    "phonetic": "",
+    "definition": [
+      "EN: The use of one or more extra syllabic units (on) above the 5/7 standard in Japanese poetic forms such as waka and haiku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jitarazu",
+    "phonetic": "",
+    "definition": [
+      "EN: The use of fewer syllabic units (on) than the 5/7 standard in Japanese poetic forms such as waka and haiku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kigo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 季语;凯歌;挥毫",
+      "EN: In Japanese poetry, a seasonal word or phrase required in haiku and renku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kireji",
+    "phonetic": "",
+    "definition": [
+      "EN: In Japanese poetry, a \"cutting word\" required in haiku and hokku."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lyric",
+    "phonetic": "'lirik",
+    "definition": [
+      "n. 抒情诗, 歌词",
+      "a. 抒情的",
+      "EN: A short poem with a song-like quality, or designed to be set to music, often conveying feelings, emotions, or personal thoughts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "melodrama",
+    "phonetic": "'melәu.drɑ:mә",
+    "definition": [
+      "n. 音乐剧, 传奇剧, 戏剧似的事件",
+      "EN: A work that is characterized by extravagant theatricality and by the predominance of plot and physical action over characterization."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metaphor",
+    "phonetic": "'metәfә",
+    "definition": [
+      "n. 隐喻",
+      "EN: Making a comparison between two unlike things without using the words like, as, or than."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "muwashshah",
+    "phonetic": "",
+    "definition": [
+      "[网络] 莎赫;双韵体",
+      "EN: A multi-lined strophic verse form which flourished in Islamic Spain in the 11th century, written in Arabic or Hebrew."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Märchen",
+    "phonetic": "",
+    "definition": [
+      "EN: See fairy tale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "naturalism",
+    "phonetic": "'nætʃәrәlizm",
+    "definition": [
+      "n. 自然主义, 本能行动",
+      "EN: A theory or practice in literature emphasizing scientific observation of life without idealization and often including elements of determinism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neo-Aristotelianis",
+    "phonetic": "",
+    "definition": [
+      "EN: A view of literature and criticism propagated by the Chicago School – Ronald S. Crane, Elder Olson, Richard McKeon, Wayne Booth, and others – that means \"A view of literature and criticism that takes a pluralistic attitude toward the history of literature and seeks to view literary works and critical theories intrinsically.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neologism",
+    "phonetic": "ni:'ɒlәdʒizm",
+    "definition": [
+      "n. 新语, 使用新语, 创造新语",
+      "[医] 新语症; 语词新作, 新词症",
+      "EN: The creation of new words, often arising from acronyms, word combinations, direct translations, or the addition of prefixes or suffixes to existing words."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "novel",
+    "phonetic": "'nɒvl",
+    "definition": [
+      "n. 小说, 长篇故事",
+      "a. 新奇的, 异常的",
+      "EN: A genre of fiction that relies on narrative and possesses a considerable length, an expected complexity, and a sequential organization of action into story and plot distinctively. Novels are flexible in form (although prose is the standard), generally focus around one or more characters, and are continuously reshaped and reformed by a speaker."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "octet",
+    "phonetic": "ɔk'tet",
+    "definition": [
+      "[计] 八位二进制数的位组; 八位字节",
+      "[化] 八隅体; 八角; 八角体; 八重态; 八重线; 八重峰",
+      "EN: An eight-line stanza of poetry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ode",
+    "phonetic": "әud",
+    "definition": [
+      "n. 颂诗, 赋",
+      "EN: A lyrical poem, sometimes sung, that focuses on the glorification of a single subject and its meaning. Often has an irregular stanza structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "onomatopoeia",
+    "phonetic": ".ɒnәumætәu'pi:ә",
+    "definition": [
+      "n. 拟声, 拟声语, 声喻法",
+      "EN: The formation of a word by imitation of a sound made by or associated with its referent, such as \"cuckoo\", \"meow\", \"honk\", or \"boom\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ottava rima",
+    "phonetic": "ә'tɑ:vә'ri:mә",
+    "definition": [
+      "[意]八行体(一种诗体, 每行十或十一个音节, 前六行交替押韵, 后两行另成一组同脚韵)",
+      "EN: A verse form in which each stanza has eight iambic pentameter lines following the rhyme scheme ABABABCC. An ottava rima was often used for long narratives, especially epics and mock-heroic poems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "palinode",
+    "phonetic": "'pælinәud",
+    "definition": [
+      "n. 翻案诗",
+      "EN: A poem or song in which the poet recants or counter-balances a statement made in an earlier poem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paratactic",
+    "phonetic": ".pærә'tæktik",
+    "definition": [
+      "a. 并列的, 并列结构的",
+      "EN: The combining of various syntactic units, usually prepositions, without the use of conjunctions to form short and simple phrases."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pastoral",
+    "phonetic": "'pæstәrәl",
+    "definition": [
+      "n. 牧歌, 田园诗",
+      "a. 牧人的, 田园生活的, 牧师的, 田园式的",
+      "EN: A work depicting an idealized vision of the rural life of shepherds."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phrase",
+    "phonetic": "freiz",
+    "definition": [
+      "n. 惯用语, 词组, 成语, 措词, 乐句",
+      "vt. 用短语表达, 把(乐曲)分成短句",
+      "[计] 短语",
+      "EN: A sequence of two or more words forming a unit. In the poem “Kubla Khan” by Samuel Taylor Coleridge, the words “pleasure-dome” are a phrase read not only in this poem, but also in Mary Shelley’s Frankenstein when she uses also uses the phrase."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "present perfect",
+    "phonetic": "",
+    "definition": [
+      "现在完成时",
+      "EN: A verb tense that describes actions just finished or continuing from the past into the present. This can also imply that past actions have present effects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "renga",
+    "phonetic": "",
+    "definition": [
+      "[网络] 连歌;炼瓦;贵岛炼瓦",
+      "EN: A genre of Japanese collaborative poetry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "renku",
+    "phonetic": "",
+    "definition": [
+      "EN: In Japanese poetry, a form of popular collaborative linked verse formerly known as haikai no renga, or haikai."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "renshi",
+    "phonetic": "",
+    "definition": [
+      "EN: A form of collaborative poetry pioneered by Makoto Ooka in Japan in the 1980s."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhythm",
+    "phonetic": "'riðәm",
+    "definition": [
+      "n. 旋律, 节奏, 韵律, 匀称, 张弛节律",
+      "[医] 节律",
+      "EN: A measured pattern of words and phrases arranged by sound, time, or events. These patterns are [created] in verse or prose by use of stressed and unstressed syllables."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "simile",
+    "phonetic": "'simili",
+    "definition": [
+      "n. 明喻, 明喻说法",
+      "EN: A comparison of two different things that utilizes “like” or “as”."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sonnet",
+    "phonetic": "'sɒnit",
+    "definition": [
+      "n. 十四行诗",
+      "EN: A 14-line poem written in iambic pentameter. There are two types of sonnets: Shakespearean and Italian. The Shakespearean sonnet is written with three quatrain and a couplet in ABAB, CDCD, EFEF, GG rhythmic pattern. An Italian sonnet is written in two stanzas with an octave followed by a septet in ABBA, ABBA, CDECDE or CDCDCD rhythmic pattern."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spondee",
+    "phonetic": "'spɒndi:",
+    "definition": [
+      "n. 扬扬格",
+      "EN: A foot consisting of two syllables of approximately equal stress."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stichic",
+    "phonetic": "'stikik",
+    "definition": [
+      "a. 同韵律的; 诗行的;由诗行组成的",
+      "EN: Having lines of the same meter and length throughout, but not organized into regular stanzas. An example is the form of Samuel Taylor Coleridge's poem \"Frost at Midnight\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sublime",
+    "phonetic": "sә'blaim",
+    "definition": [
+      "a. 高尚的, 壮观的, 卓越的",
+      "v. 提高, (使)变高尚, (使)纯化, (使)升华",
+      "n. 庄严, 崇高, 顶点",
+      "EN: Of a profound and immeasurable experience, unable to be rationalized."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "synecdoche",
+    "phonetic": "si'nekdәki",
+    "definition": [
+      "n. 提喻法",
+      "EN: A figure of speech involving the expression of an entire idea by something smaller, such as a phrase or a single word, such that a term for one part of something is used to refer to the whole, or vice versa."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syntax",
+    "phonetic": "'sintæks",
+    "definition": [
+      "n. 句法, 语法, 句子构造",
+      "[计] 句法, 语法",
+      "EN: The study of how words are arranged in a sentence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tan-renga",
+    "phonetic": "",
+    "definition": [
+      "EN: In Japanese poetry, a tanka where the upper part is composed by one poet and the lower part by another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tanka",
+    "phonetic": "'tɑ:ŋkә",
+    "definition": [
+      "[日]短歌(三十一音节字的日本诗体)",
+      "EN: In Japanese poetry, a short poem in the form 5,7,5,7,7 syllabic units."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tautology",
+    "phonetic": "tɒ:'tɒlәdʒi",
+    "definition": [
+      "n. 同义反复, 赘述, 重言式",
+      "[计] 重言式",
+      "EN: A tautology is when something is defined or explained by saying exactly the same thing again in different words."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telestich",
+    "phonetic": "ti'lestik,'telis-",
+    "definition": [
+      "n. 各行最后的字母可缀合成一名(或一词)的短诗",
+      "EN: A poem or other form of writing in which the last letter, syllable or word of each line, paragraph or other recurring feature in the text spells out a word or a message."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tornada",
+    "phonetic": "",
+    "definition": [
+      "EN: In Occitan lyric poetry, a final, shorter stanza (cobla) addressed to a patron, lady, or friend."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tragic flaw",
+    "phonetic": "ˈtrædʒik flɔ:",
+    "definition": [
+      "悲剧性的缺陷",
+      "EN: See hamartia."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "trilogue",
+    "phonetic": "",
+    "definition": [
+      "[网络] 三方会谈;三方会商",
+      "EN: A trilogue is a literary form in which an imagined conversation between three participants is recorded"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unities",
+    "phonetic": "ˈju:nitiz",
+    "definition": [
+      "n. 统一体( unity的名词复数 ); (艺术等) 完整; (文学、戏剧) (情节、时间和地点的)统一性; 团结一致",
+      "EN: See classical unities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "verisimilitude",
+    "phonetic": ".verisi'militju:d",
+    "definition": [
+      "n. 好像真实, 似真, 逼真",
+      "[法] 貌似真实, 逼真, 貌似真实的事物",
+      "EN: The quality of resembling reality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vignette",
+    "phonetic": "vi'njet",
+    "definition": [
+      "n. 装饰图案;小插图",
+      "EN: A short scene that captures a single moment or a defining detail about a character, idea, or other element of a story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vulgate",
+    "phonetic": "'vʌl^eit",
+    "definition": [
+      "n. 拉丁文<<圣经>>",
+      "a. 拉丁文<<圣经>>的, 公认文本的, 通行的",
+      "EN: The use of informal, common speech, particularly of uneducated people. Similar to the use of vernacular."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wardour Street English",
+    "phonetic": "",
+    "definition": [
+      "仿古英语,古腔调的英语",
+      "EN: A pseudo-archaic form of diction affected by some writers, particularly those of historical fiction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Weltschmerz",
+    "phonetic": "'veltʃmeәts",
+    "definition": [
+      "<德>n.悲观,厌世",
+      "EN: A depressive mood of disappointment with—and alienation from—the world, prevalent in Romantic and decadent literature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "za",
+    "phonetic": "",
+    "definition": [
+      "[网络] 姬芮(Zotos Accent);姿芮;南非",
+      "EN: The site of a renga session; also, the sense of dialogue and community present in such a session."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "absorption nebulas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】吸收星云,暗星云[亦作 dark nebula]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acronical rising",
+    "phonetic": "",
+    "definition": [
+      "【天文学】日落时升起"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adaptive-optics",
+    "phonetic": "",
+    "definition": [
+      "自适应光学;适应性光学仪器(天文学使用的镜子,其形状可以改变以补偿光线受大气之扭曲)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adiabatic theory",
+    "phonetic": "",
+    "definition": [
+      "【天文学】绝热理论"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "affective fallacy",
+    "phonetic": "",
+    "definition": [
+      "(文学作品对读者)感染效应决定论的谬误,感受谬见;情感谬误(美国文学界20世纪50年代流行的新批评的一种观点)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "agricultural hydrology",
+    "phonetic": "",
+    "definition": [
+      "农业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "al-sufi",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学家苏菲;伊斯兰天文学家苏菲;苏菲派"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alembicated",
+    "phonetic": "ә'lembikeitid",
+    "definition": [
+      "a. (文体) 过分精炼的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "almagests",
+    "phonetic": "",
+    "definition": [
+      "n. 《天文学大成》;(中古时代)占星学书;点金术书",
+      "[网络] 至大论;大汇编;至高天文"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alpine glaciers",
+    "phonetic": "",
+    "definition": [
+      "【水文学】高山冰川[亦作mountain glacier, valley glacier]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "amateur astronomer",
+    "phonetic": "ˈæmətə əˈstrɔnəmə",
+    "definition": [
+      "n. 业余天文学家、天文爱好者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "amorists",
+    "phonetic": "",
+    "definition": [
+      "n. 情人;好色之徒;恋爱文学作家",
+      "[网络] 爱情小说作者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anacoluthia",
+    "phonetic": ",ænәkә'lu:θiә",
+    "definition": [
+      "n. (=anacoluthon)[语]破格文体",
+      "EN: n an abrupt change within a sentence from one syntactic structure to another"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anacoluthons",
+    "phonetic": ",ænəkə'luːθɒn; -θ(ə)n",
+    "definition": [
+      "n. 破格文体;错格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "annotater",
+    "phonetic": "'ænəteɪt",
+    "definition": [
+      "给(文学作品等)评注(或注解),作注,注释:",
+      "莎士比亚剧本往往注释详尽,便于理解。"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "annual aberrations",
+    "phonetic": "",
+    "definition": [
+      "【天文学】周年光行差"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anticlimactical",
+    "phonetic": ",æntiklai'mæktik;-kəl",
+    "definition": [
+      "a. 【修辞学】突降法的;(在重要性、兴趣、品质等方面)骤降的, 由精彩出色降至平庸的;虎头蛇尾的",
+      "EN: a of or relating to a sudden change from an impressive to a ludicrous style"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antisolar",
+    "phonetic": "",
+    "definition": [
+      "【天文学】对日的",
+      "EN: a. Opposite to the sun; -- said of the point in the heavens 180� distant from the sun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apocalyptic literature",
+    "phonetic": "",
+    "definition": [
+      "启示文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apocalyptist",
+    "phonetic": "ə,pɔkə'liptist",
+    "definition": [
+      "n. 启示文学作品作者;《启示录》作者",
+      "EN: n. The writer of the Apocalypse."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "applied hydrology",
+    "phonetic": "",
+    "definition": [
+      "应用水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "archology",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ARSL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Associate of the Royal Society of Literature <英>皇家文学学会准会员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "art-form",
+    "phonetic": "",
+    "definition": [
+      "艺术形式(尤指文学, 绘画, 音乐, 民歌等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astr",
+    "phonetic": "",
+    "definition": [
+      "abbr. 天文学(astronomy)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrochronological",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrologaster",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrologize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrometrical",
+    "phonetic": ",æstrə'metrik; ,æstrə'metrikəl",
+    "definition": [
+      "【天文学】天体测量(学)的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomer",
+    "phonetic": "ә'strɒnәmә",
+    "definition": [
+      "n. 天文学家",
+      "EN: n. a physicist who studies astronomy"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomic",
+    "phonetic": ",æstrə'nɔmikəl,-ik",
+    "definition": [
+      "a. 天文学的;星学的",
+      "EN: a. relating or belonging to the science of astronomy s. inconceivably large"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomical",
+    "phonetic": ".æstrә'nɒmikl",
+    "definition": [
+      "a. 天文学的, 庞大的",
+      "EN: a relating or belonging to the science of astronomy s inconceivably large"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomical catalogue",
+    "phonetic": "",
+    "definition": [
+      "【天文学】天体星表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomical geography",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文地理;天文地理学;大地天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomically",
+    "phonetic": ",æstrə'nɔmikli",
+    "definition": [
+      "adv. 天文学上地;宇航学地;天体地",
+      "EN: r. enormously"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomics",
+    "phonetic": ",æstrə'nɔmikəl;-ik",
+    "definition": [
+      "天文学的",
+      "天文的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomien",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astronomy",
+    "phonetic": "ә'strɒnәmi",
+    "definition": [
+      "n. 天文学",
+      "EN: n. the branch of physics that studies celestial bodies and the universe as a whole"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "augustan age",
+    "phonetic": "",
+    "definition": [
+      "n. 拉丁文学的黄金时代"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aureate",
+    "phonetic": "'ɒ:riit",
+    "definition": [
+      "a. 金色的, 镀金的, 文体华丽的",
+      "EN: s. elaborately or excessively ornamented s. having the deep slightly brownish color of gold"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aurigraphy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "austral signs",
+    "phonetic": "",
+    "definition": [
+      "【天文学】十二宫的南半图"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autobiographies",
+    "phonetic": "ˌɔ:təubaiˈɔɡrəfiz",
+    "definition": [
+      "n. 自传( autobiography的名词复数 ); 自传文学",
+      "EN: pl. of Autobiography"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autogenic drainage",
+    "phonetic": "",
+    "definition": [
+      "【水文学】自成水系"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autotelic writing",
+    "phonetic": ",ɔ:təu'telik",
+    "definition": [
+      "[新评论派用语] 目的存在于本身的文学创作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "autumnal point",
+    "phonetic": "",
+    "definition": [
+      "【天文学】 秋分点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avalanche chute",
+    "phonetic": "",
+    "definition": [
+      "【水文学】 泻落滑槽,雪崩槽沟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bais",
+    "phonetic": "",
+    "definition": [
+      "abbr. 国际研究文学士(Bandung Alliance International School )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "baldricks",
+    "phonetic": "'bɔ:ldrik",
+    "definition": [
+      "(挂剑、号角、弹药袋等的)饰带,肩带,胸绶,装饰性斜挂肩带[亦作 baudrik,bawdrik]",
+      "【天文学】黄道带(= zodiac)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BAPCT",
+    "phonetic": "",
+    "definition": [
+      "abbr. Bachelor of Arts in Practical Christian Training 基督教实践训练文学士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "barycentric elements",
+    "phonetic": "",
+    "definition": [
+      "【天文学】质心要素"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "basal groundwater",
+    "phonetic": "",
+    "definition": [
+      "【水文学】最低地下水"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "base runoff",
+    "phonetic": "",
+    "definition": [
+      "【水文学】基本径流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beaded lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】(沙丘间)连珠湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "belles letters",
+    "phonetic": "",
+    "definition": [
+      "纯文学(如诗歌、戏曲等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "belletrist",
+    "phonetic": ".bel'letrist",
+    "definition": [
+      "n. 纯文学作品作者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "belletristic",
+    "phonetic": ".belә'tristik",
+    "definition": [
+      "a. 纯文学风格的, 纯文学的",
+      "EN: s. written and regarded for aesthetic value rather than content"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "belletristic approach",
+    "phonetic": "",
+    "definition": [
+      "文学的取径"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beowulf",
+    "phonetic": "",
+    "definition": [
+      "n. 贝奥武夫(有记载的最早的一部英国文学作品)",
+      "EN: n. the legendary hero of an anonymous Old English epic poem composed in the early 8th century; he slays a monster and becomes king but dies fighting a dragon"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BHL",
+    "phonetic": "",
+    "definition": [
+      "abbr. 希伯来文学学士(Bachelor of Hebrew Letters)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bible literalist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 圣经文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliomanian",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "big-bang hypothesis",
+    "phonetic": "",
+    "definition": [
+      "【天文学】创世大爆炸假说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "big-bang theory",
+    "phonetic": "biɡ bæŋ ˈθiəri",
+    "definition": [
+      "[天文学]创世大爆炸论,大爆炸创世说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "biobibliography",
+    "phonetic": "'baiәj,bibli'ɔ^rәfi",
+    "definition": [
+      "n. 关于作家生平及其著作(或文学活动)的记载,作家(或作者)简历"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bipolar outflow",
+    "phonetic": "",
+    "definition": [
+      "【天文学】双极流出物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blue haze",
+    "phonetic": "",
+    "definition": [
+      "【天文学】 蓝霾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bog lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】沼泽湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "book-craft",
+    "phonetic": "'buk'krɑ:ft, -,kræft",
+    "definition": [
+      "n. 文学技巧"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bookcraft",
+    "phonetic": "bʊk'rɑ:ft",
+    "definition": [
+      "n. 文学技巧, 著书工作",
+      "EN: n. Authorship; literary skill."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bright nebule",
+    "phonetic": "",
+    "definition": [
+      "【天文学】 亮星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "brine cell",
+    "phonetic": "",
+    "definition": [
+      "【水文学】盐囊,卤囊[亦作 brine pocket]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "brutalist",
+    "phonetic": "'bru:tәlist",
+    "definition": [
+      "n. 野兽派(信奉美术、建筑或文学上野兽主义的人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "campaign rhetoric",
+    "phonetic": "",
+    "definition": [
+      "竞选修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "carnival-style",
+    "phonetic": "",
+    "definition": [
+      "[网络] 狂欢性文体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "casa",
+    "phonetic": "'kɑ:sә",
+    "definition": [
+      "abbr. 天文学高级研究中心(Centre for Advanced Study of Astronomy);计算机与自动化系统(Computer and Automated System Association);合作应用卫星A(Cooperative Application Satellite A)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachrestic",
+    "phonetic": "keɪ'tækrestɪk",
+    "definition": [
+      "a. 用词不当的, 修辞生硬且自相矛盾的误用",
+      "EN: a. Alt. of Catachrestical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachrestically",
+    "phonetic": "keɪtæk'restɪklɪ",
+    "definition": [
+      "adv. 用词不当地, 修辞生硬且自相矛盾的误用地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catastasis",
+    "phonetic": "kә'tæstәsis",
+    "definition": [
+      "n. (古代戏剧)高潮前的情节发展, (修辞中的)叙述, 高潮",
+      "EN: n. That part of a speech, usually the exordium, in which the orator sets forth the subject matter to be discussed. n. The state, or condition of anything; constitution; habit of body."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBEL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Cambridge Bibliography of English Literature《剑桥英国文学书目》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "celestial mechanics",
+    "phonetic": "səˈlestʃəl mɪˈkænɪks",
+    "definition": [
+      "n. 天体力学,引力天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "character-sketch",
+    "phonetic": "",
+    "definition": [
+      "n. 人物速写;对某人或某一型人物特性之简短文学特写"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chiaroscuros",
+    "phonetic": "ki:ˌɑ:rəˈskʊərəʊz",
+    "definition": [
+      "n. (绘画中)明暗对照法( chiaroscuro的名词复数 ); (文学中)对比法,对照法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chick-lit",
+    "phonetic": "",
+    "definition": [
+      "n. 小妞文学(旨在迎合女性口味、主角常为单身少女的小说)",
+      "[网络] 鸡仔文学;都会熟女小说;都会小说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "child-language",
+    "phonetic": "",
+    "definition": [
+      "[网络] 儿童语言;外国语言与文学;儿童英语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "children's literature",
+    "phonetic": "",
+    "definition": [
+      "[语] 儿童文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chinese philology",
+    "phonetic": "",
+    "definition": [
+      "[网络] 汉语言文字学;汉语言文学;第一是中国语史学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "classic-style",
+    "phonetic": "",
+    "definition": [
+      "na. 古典派风格;简练朴素的文体",
+      "[网络] 经典阅读架"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "classical greeks",
+    "phonetic": "",
+    "definition": [
+      "古典希腊;古典希腊语(指公元前5和4世纪古典雅文学中使用的希腊语)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "classical philology",
+    "phonetic": "",
+    "definition": [
+      "[语] 古典语文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coda-like",
+    "phonetic": "'kəudəlaik",
+    "definition": [
+      "adj. 结局肯定而又令人满意的;文学作品或戏剧类似乐曲最后精心雕琢的尾声的;结束的;最后的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "code-like",
+    "phonetic": "'kəudlaik",
+    "definition": [
+      "adj. (戏剧或文学作品)有精彩结尾的;结局圆满而又令人愉快的;结束的;最终的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "columnar ice",
+    "phonetic": "",
+    "definition": [
+      "【水文学】柱冰,柱状冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "commensurate orbits",
+    "phonetic": "",
+    "definition": [
+      "【天文学】通约轨道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "community-related",
+    "phonetic": "",
+    "definition": [
+      "[网络] 语言文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparatist",
+    "phonetic": "kәm'pærәtist",
+    "definition": [
+      "n. 比较文学学者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparative hydrology",
+    "phonetic": "",
+    "definition": [
+      "比较水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparative rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[语] 比较修辞学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparativist",
+    "phonetic": "kәm'pærәtivist",
+    "definition": [
+      "n. 比较文学学者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "concetto",
+    "phonetic": "kən'setəʊ",
+    "definition": [
+      "n. 矫揉造作的文体",
+      "EN: n. Affected wit; a conceit."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "consequent lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】 顺向湖,新抬升地面湖[亦作 newland lake]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "contiguous craters",
+    "phonetic": "",
+    "definition": [
+      "【天文学】相接环形山[亦作 contiguous arc, contiguous chain]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cosmic jet",
+    "phonetic": "",
+    "definition": [
+      "【天文学】宇宙喷射(宇宙空间的气体喷射现象)[亦作 galactic jet]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cosmic light",
+    "phonetic": "",
+    "definition": [
+      "【天文学】宇宙光,河外夜天光"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "counterplotter",
+    "phonetic": "'kaʊntəplɒt",
+    "definition": [
+      "对抗策略,反计",
+      "【文学】(剧本或其他文学作品中的)副线,第二主题[参较 subplot]",
+      "设计对抗(某一计谋),策划反计,将计就计:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "courtly love",
+    "phonetic": "",
+    "definition": [
+      "典雅爱情(尤指中世纪的一种文学传统, 描写骑士对贵妇人的忠贞但无结果的爱情)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crystosphene",
+    "phonetic": "'kristə,sfi:n",
+    "definition": [
+      "n. 【水文学】地下冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culteranismo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 夸饰文体;华丽的文体;夸饰主义"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culturally",
+    "phonetic": "",
+    "definition": [
+      "adv. 从文化角度, 文化意义上;在人文学方面",
+      "EN: r. with regard to a culture"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "culture-vulture",
+    "phonetic": "'kʌltʃə'vʌltʃə",
+    "definition": [
+      "n. [美国俚语]文化狂热者,过分热衷于文学、艺术等文化活动的人;好卖弄的文化人"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "current drift",
+    "phonetic": "",
+    "definition": [
+      "【水文学】海流,泥沙流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dark-eclipsing star",
+    "phonetic": "",
+    "definition": [
+      "【天文学】暗食星"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "debris flood",
+    "phonetic": "",
+    "definition": [
+      "【水文学】碎屑洪流,乱石洪流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "debris ice",
+    "phonetic": "",
+    "definition": [
+      "【水文学】含有泥沙、贝壳、石头等的冰块,堆积冰;(直径小于2米的)碎冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deep rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 深刻的修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deflation lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】风蚀湖,吹蚀湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deflection pool",
+    "phonetic": "",
+    "definition": [
+      "【水文学】(河流的)偏转深槽"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "degrading stream",
+    "phonetic": "",
+    "definition": [
+      "【水文学】夷低河,蚀河流,下切河流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "delayed runoff",
+    "phonetic": "",
+    "definition": [
+      "【水文学】延滞径流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "descriptive astronomy",
+    "phonetic": "",
+    "definition": [
+      "描述天文学;描述性天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "diffuse nebulas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】弥漫星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dis similitude",
+    "phonetic": "disi'militju:d",
+    "definition": [
+      "n. 不同,不一样,不相似 ,不类似,相异,差异,差别;不同点,异点,相异点,相异之处;【修辞学】对照法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "discordant junction",
+    "phonetic": "",
+    "definition": [
+      "【水文学】不平齐汇流,悬垂汇流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dissimile",
+    "phonetic": "di'simili",
+    "definition": [
+      "n. 【修辞学】对喻(与明喻相对)",
+      "EN: n. Comparison or illustration by contraries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "diurnal arcs",
+    "phonetic": "",
+    "definition": [
+      "【天文学】昼弧,日间弧"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "draconic months",
+    "phonetic": "",
+    "definition": [
+      "【天文学】交点月 [亦作 nodical month]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "draconitic months",
+    "phonetic": "",
+    "definition": [
+      "【天文学】交点月"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "drearing",
+    "phonetic": "drɪə",
+    "definition": [
+      "a. [文学用语]=dreary",
+      "EN: n. Sorrow."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "drift lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】冰碛湖,冰川湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dry-snow avalanche",
+    "phonetic": "",
+    "definition": [
+      "【水文学】干散雪崩"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "duecento",
+    "phonetic": ",dju:ə'tʃentəu",
+    "definition": [
+      "n. [常作 D-][意大利语](尤指意大利的文学或艺术的)13世纪(1200~1299)[亦作 dugento]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "duras",
+    "phonetic": "",
+    "definition": [
+      "n. 杜拉斯(法国文学大师)",
+      "EN: n the outermost (and toughest) of the 3 meninges"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dynamic hydrology",
+    "phonetic": "",
+    "definition": [
+      "动态水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dynamics philology",
+    "phonetic": "",
+    "definition": [
+      "[语] 动态语文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-literature",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EBCS",
+    "phonetic": "",
+    "definition": [
+      "[网络] external battery charging system; 中药调剂检核系统; 光华实验中文学校"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ecological hydrology",
+    "phonetic": "",
+    "definition": [
+      "生态水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ecphonesis",
+    "phonetic": ",i:kfə'ni:sis; ek-",
+    "definition": [
+      "n. 【修辞学】感叹[亦作 exclamation]",
+      "EN: n. An animated or passionate exclamation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eleven-year cycle",
+    "phonetic": "",
+    "definition": [
+      "【天文学】(太阳黑点再现的)11周年"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enantioses",
+    "phonetic": "en,ænti'əusi:z",
+    "definition": [
+      "enantiosis的变形",
+      "【修辞学】反语(手法);反话;讽刺语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "encounters",
+    "phonetic": "inˈkauntəz",
+    "definition": [
+      "n. 遭遇战( encounter的名词复数 ); [天文学](向着某一天体的)接近; 突然遇到",
+      "EN: n a minor short-term fight n a casual or unexpected convergence n a casual meeting with a person or thing n a hostile disagreement face-to-face v come together v come upon, as if by accident; meet with v be beset by v experience as a reaction v contend against an opponent in a sport, game, or battle"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enervated style",
+    "phonetic": "",
+    "definition": [
+      "软弱无力的笔调(或文体)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epanadiplosis",
+    "phonetic": ",epənə'dipləusis",
+    "definition": [
+      "n. 【修辞学】(句)首尾重复(法)(句首句尾重复词一单词或短语)",
+      "EN: n. A figure by which the same word is used both at the beginning and at the end of a sentence; as, \"Rejoice in the Lord always: and again I say, Rejoice.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epigrammatism",
+    "phonetic": ",epi'^ræmәtizәm",
+    "definition": [
+      "n. 警句文体, 警句的使用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epilogued",
+    "phonetic": "'epɪlɒg",
+    "definition": [
+      "(小说、戏剧、诗歌、电影、电视、广播节目或其他文学作品的)结尾部分,结(束)语,尾声;(文艺作品的)后记,跋(文)",
+      "【戏剧】"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epiphonema",
+    "phonetic": ",epifə'ni:mə",
+    "definition": [
+      "n. 【修辞学】;(文章结尾处的)画龙点睛之笔",
+      "EN: n. An exclamatory sentence, or striking reflection, which sums up or concludes a discourse."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epistlers",
+    "phonetic": "ɪ'pɪslə",
+    "definition": [
+      "文体华丽的正式书信的作者;写信人",
+      "[常作 E-]【宗教】(教堂行弥撒、圣餐礼等时)使徒书信的吟唱者,诵读者[亦作epistoler]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equal-areas law",
+    "phonetic": "",
+    "definition": [
+      "【天文学】等面积定律"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equinoctial hour",
+    "phonetic": "",
+    "definition": [
+      "【天文学】春分时"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equinoctial time",
+    "phonetic": "",
+    "definition": [
+      "【天文学】春分时"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equinoctial years",
+    "phonetic": "",
+    "definition": [
+      "【天文学】分至年[亦作astronomical year, solar year]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "erotology",
+    "phonetic": "irә'tɔlәdʒi",
+    "definition": [
+      "n. 色情文学, 色情文艺"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "erratic star",
+    "phonetic": "",
+    "definition": [
+      "【天文学】游星,行星"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "esoterics",
+    "phonetic": ",esə'terɪk; ,iːsə-",
+    "definition": [
+      "a. (在门徒、信徒内)秘传的, 秘教的;具神秘教义的;行神秘仪式的;(思想、教义、文学等)限于小圈子的, 属于挑出来少数人的",
+      "EN: n. Mysterious or hidden doctrines; secret science."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "euphuism",
+    "phonetic": "'ju:fjuizm",
+    "definition": [
+      "n. 夸饰文体, 美丽辞句, 华丽词藻",
+      "EN: n. any artificially elegant style of language n. an elegant style of prose of the Elizabethan period; characterized by balance and antithesis and alliteration and extended similes with and allusions to nature and mythology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "euphuist",
+    "phonetic": "'ju:fjuist",
+    "definition": [
+      "n. 用浮华词语的人, 用绮丽文体写作的人",
+      "EN: n. One who affects excessive refinement and elegance of language; -- applied esp. to a class of writers, in the age of Elizabeth, whose productions are marked by affected conceits and high-flown diction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "expanded-foot glacier",
+    "phonetic": "",
+    "definition": [
+      "【水文学】扩足冰川,尾部扩大冰川"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "exploding star",
+    "phonetic": "",
+    "definition": [
+      "【天文学】 (由天体爆发所产生的)爆发星(如超新星、新星和耀星等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "extra-literary",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "extragalactic nebulas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】河外星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eye dialects",
+    "phonetic": "",
+    "definition": [
+      "【语言学】视觉方言(文学作品中用按发音拼写错的字,以示方言或文盲,如把“women”拼作“wimmin”,把“was”拼作“wuz”,把“people”拼作“peepul”等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "farming hydrology",
+    "phonetic": "",
+    "definition": [
+      "[农] 农业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "farmland hydrology",
+    "phonetic": "",
+    "definition": [
+      "[农] 农田水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fast ejection",
+    "phonetic": "",
+    "definition": [
+      "【天文学】快速抛射物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "faulkner",
+    "phonetic": "'fɔ:knә",
+    "definition": [
+      "n. 福克纳(美国小说家, 曾获1949年诺贝尔文学奖)",
+      "EN: n. United States novelist (originally Falkner) who wrote about people in the southern United States (1897-1962)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "feminist literature",
+    "phonetic": "",
+    "definition": [
+      "[网络] 女性主义文学;女权主义文学;女性文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "first-person",
+    "phonetic": "",
+    "definition": [
+      "na. 【语】第一人称;用第一人称叙述的文体",
+      "[网络] 第一人称角色;第一人称的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery hydrography",
+    "phonetic": "",
+    "definition": [
+      "渔业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fishery hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水产] 渔业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flood hydrology",
+    "phonetic": "",
+    "definition": [
+      "洪水水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flushing period",
+    "phonetic": "",
+    "definition": [
+      "【水文学】泛滥期"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "folk lore",
+    "phonetic": "",
+    "definition": [
+      "民间文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "folk-lore",
+    "phonetic": "",
+    "definition": [
+      "na. 民间文学",
+      "[网络] 民俗;民俗学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "free-water content",
+    "phonetic": "",
+    "definition": [
+      "【水文学】游离水含量,自由水含量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freestone water",
+    "phonetic": "",
+    "definition": [
+      "【水文学】少含(或不含)溶解物质的水"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freeze-out lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】深冻湖,冻透湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freshwater ice",
+    "phonetic": "",
+    "definition": [
+      "【水文学】淡水冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "full-mouthed",
+    "phonetic": "",
+    "definition": [
+      "adj. (牛等)牙齿齐全的;(狗等)大声叫的;(文体等)刚劲的",
+      "[网络] 大声的;相关词条"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "galilei",
+    "phonetic": "",
+    "definition": [
+      "n. 伽利略[意大利天文学家]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gamma-ray astronomy",
+    "phonetic": "",
+    "definition": [
+      "n. 伽马射线天文学",
+      "[网络] 伽玛射线天文线;珈玛射线天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gamma-ray burster",
+    "phonetic": "",
+    "definition": [
+      "【天文学】γ射线暴;γ射线爆发[略作 GRB]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gamma-ray telescope",
+    "phonetic": "",
+    "definition": [
+      "【天文学】γ射线望远镜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gas-bounded nebula",
+    "phonetic": "",
+    "definition": [
+      "【天文学】气体束缚星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gaseous nebulas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】气体星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gaucho literature",
+    "phonetic": "",
+    "definition": [
+      "[网络] 高楚文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "genetic physiography",
+    "phonetic": "",
+    "definition": [
+      "[社科] 发生地文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geocentric theory",
+    "phonetic": "",
+    "definition": [
+      "【天文学】地心说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geodetic astronomy",
+    "phonetic": "",
+    "definition": [
+      "大地天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geohydrologist",
+    "phonetic": "",
+    "definition": [
+      "n. 地下水文学家 (geohydrology的变形)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geohydrology",
+    "phonetic": "'dʒi:әuhai'drɔlәdʒi",
+    "definition": [
+      "n. 地下(水) 水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geometrical libration",
+    "phonetic": "",
+    "definition": [
+      "【天文学】几何天平动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geophysical astronomy",
+    "phonetic": "",
+    "definition": [
+      "地球物理天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "glacier front",
+    "phonetic": "",
+    "definition": [
+      "【水文学】冰川锋"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "glacier hydrology",
+    "phonetic": "",
+    "definition": [
+      "冰川水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "graded reach",
+    "phonetic": "",
+    "definition": [
+      "【水文学】冲淤均衡段,平缓河段"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "grazing occultation",
+    "phonetic": "",
+    "definition": [
+      "【天文学】掠掩"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ground-based astronomy",
+    "phonetic": "",
+    "definition": [
+      "地面天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "groundwater hydrology",
+    "phonetic": "",
+    "definition": [
+      "地下水水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hack-works",
+    "phonetic": "'hækwɜːk",
+    "definition": [
+      "n. 粗劣文学作品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hackwork",
+    "phonetic": "'hækw\\\\:k",
+    "definition": [
+      "n. 粗劣文学作品",
+      "EN: n professional work done according to formula"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hagiology",
+    "phonetic": ".hægi'ɒlәdʒi",
+    "definition": [
+      "n. 圣徒文学, 圣徒传, 圣徒录",
+      "EN: n. literature narrating the lives (and legends) of the saints"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hard-boiled fiction",
+    "phonetic": "",
+    "definition": [
+      "un. 〔文〕僵硬小说;无情小说",
+      "[网络] 低俗文学中的硬汉小说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "harmonic laws",
+    "phonetic": "",
+    "definition": [
+      "【天文学】调和定律"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heavy-metal star",
+    "phonetic": "",
+    "definition": [
+      "【天文学】= S star"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heliacal set",
+    "phonetic": "",
+    "definition": [
+      "【天文学】偕日落"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HHD",
+    "phonetic": "",
+    "definition": [
+      "abbr. 古典文学博士(Humanitatum Doctor, 等于Doctor of Humanities)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "high-energy astronomy",
+    "phonetic": "",
+    "definition": [
+      "高能天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "higher apsis",
+    "phonetic": "",
+    "definition": [
+      "【天文学】高(远)拱点 (=apsis)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "higher criticisms",
+    "phonetic": "",
+    "definition": [
+      "高等考证(对文学作品、尤指对《圣经》的科学研究)[参较 lower criticism]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "historical philology",
+    "phonetic": "",
+    "definition": [
+      "[语] 历史语文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hot mooner",
+    "phonetic": "",
+    "definition": [
+      "【天文学】热月学家,月亮表面特征火成论者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HRCC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Humanities Research Council of Canada 加拿大人文学科研究委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanist",
+    "phonetic": "'hju:mәnist",
+    "definition": [
+      "n. 人道主义者, 人文学者",
+      "EN: n. a classical scholar or student of the liberal arts n. an advocate of the principles of humanism; someone concerned with the interests and welfare of humans a. of or pertaining to a philosophy asserting human dignity and man's capacity for fulfillment through reason and scientific method and often rejecting religion"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanistic discipline",
+    "phonetic": "",
+    "definition": [
+      "[网络] 人文学科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanistic study",
+    "phonetic": "",
+    "definition": [
+      "人文学科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "humanities",
+    "phonetic": "",
+    "definition": [
+      "n. 人文学科",
+      "EN: n studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills) n the quality of being humane n the quality of being human n all of the living human inhabitants of the earth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hurried literature",
+    "phonetic": "",
+    "definition": [
+      "急就文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrogen corona",
+    "phonetic": "",
+    "definition": [
+      "【天文学】(彗星大气外围的)氢口冕"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrognosy",
+    "phonetic": "hai'drɔ^nәsi",
+    "definition": [
+      "历史水文学",
+      "EN: n. A treatise upon, or a history and description of, the water of the earth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrography",
+    "phonetic": "hai'drɒgrәfi",
+    "definition": [
+      "n. 水文学, 水道测量术",
+      "EN: n. the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrologic budget",
+    "phonetic": "",
+    "definition": [
+      "【水文学】水文平衡计算,水文预算 [亦作 hydrologic accounting, hydrologic balance, hydrologic inventory]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrologic sciences",
+    "phonetic": "",
+    "definition": [
+      "un. 水文学",
+      "[网络] 水文科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrological",
+    "phonetic": ".haidrә'lɒdʒikl",
+    "definition": [
+      "a. 水文学的",
+      "EN: a. Of or pertaining to hydrology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydrologist",
+    "phonetic": "hai'drɒlәdʒist",
+    "definition": [
+      "n. 水文学者",
+      "EN: n. a geologist skilled in hydrology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hydroscopist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 水文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypallage",
+    "phonetic": "hai'pælә^i:",
+    "definition": [
+      "n. [修辞]换置法",
+      "EN: n reversal of the syntactic relation of two words (as in `her beauty's face')"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hyperbolist",
+    "phonetic": "hai'p\\\\:bәlist",
+    "definition": [
+      "n. (修辞上)运用夸张法的人",
+      "EN: n. One who uses hyperboles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypozeugma",
+    "phonetic": ",haipə'zu:ɡmə",
+    "definition": [
+      "n. [修辞学](一个谓语连接)一连串主语的使用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypozeuxis",
+    "phonetic": ",haipə'zu:ksis",
+    "definition": [
+      "【修辞学】(各有主谓语的)并列分句的使用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iced firm",
+    "phonetic": "",
+    "definition": [
+      "【水文学】冻结粒雪"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "illiterature",
+    "phonetic": "ɪ'lɪtrətʃə",
+    "definition": [
+      "n. 称不上文学的作品",
+      "EN: n. Want of learning; illiteracy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "industrial hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 工业水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inedita",
+    "phonetic": "in'edeitә",
+    "definition": [
+      "n. 未发表的文学作品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inertial orbit",
+    "phonetic": "",
+    "definition": [
+      "【天文学】惯性轨道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inferior conjunctions",
+    "phonetic": "",
+    "definition": [
+      "【天文学】下合[参较 superior conjunction]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inshore hydrography",
+    "phonetic": "",
+    "definition": [
+      "[水文] 近岸水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interabang",
+    "phonetic": "in'terә,bæŋ",
+    "definition": [
+      "n. 问叹号,\"?\"(将问号与惊叹号合并而成的标点符号,用在修辞性疑问句的后面)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interplanetary dusts",
+    "phonetic": "",
+    "definition": [
+      "【天文学】行星际尘埃"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interplanetary mediums",
+    "phonetic": "",
+    "definition": [
+      "【天文学】行星际介质"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interrobang",
+    "phonetic": "in'terә,bæŋ",
+    "definition": [
+      "n. 问叹号,\"?\"(将问号与惊叹号合并而成的标点符号,用在修辞性疑问句的后面)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interstellar mediums",
+    "phonetic": "",
+    "definition": [
+      "【天文学】星际介质"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "isaac newtons",
+    "phonetic": "",
+    "definition": [
+      "艾萨克·牛顿(英国物理学家和数学家以及天文学家)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ISMH",
+    "phonetic": "",
+    "definition": [
+      "[=International Society of Medical Hydrology]国际医学水文学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ISMHC",
+    "phonetic": "",
+    "definition": [
+      "[=International Society of Medical Hydrology and Climatology]国际医学水文学与气候学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "isotopic hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 同位素水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalese",
+    "phonetic": ".dʒә:nә'li:z",
+    "definition": [
+      "n. 新闻文体",
+      "EN: n. the style in which newspapers are written"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journey'",
+    "phonetic": "ˈdʒɜː(r)ni",
+    "definition": [
+      "n. 旅行;旅程;〈文学〉历程;过程",
+      "v. 〈正式〉到...旅行;到...旅游",
+      "[网络] 旅途;路程;行程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "karst hydrology",
+    "phonetic": "",
+    "definition": [
+      "喀斯特水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lad lit",
+    "phonetic": "",
+    "definition": [
+      "[网络] 男性文学;小伙儿文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lake hydrology",
+    "phonetic": "",
+    "definition": [
+      "湖泊水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "land hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 陆地水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lapidary style",
+    "phonetic": "",
+    "definition": [
+      "na. 【语】碑文体",
+      "[网络] 石雕体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "laxnesses",
+    "phonetic": "'læksnis",
+    "definition": [
+      "n. 拉克斯内斯(姓氏);拉克斯内斯(冰岛作家,曾获1955年诺贝尔文学奖)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legendist",
+    "phonetic": "'ledʒәndist",
+    "definition": [
+      "n. 传奇文学作家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legendries",
+    "phonetic": "",
+    "definition": [
+      "n. 传说;传奇文学",
+      "[网络] 传说集;影子传说;轶话集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "let-ter",
+    "phonetic": "'letə",
+    "definition": [
+      "n. 信;字母,文字;证书;文学,学问;字面意义",
+      "vt. 写字母于",
+      "vi. 写印刷体字母"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lexical devices",
+    "phonetic": "",
+    "definition": [
+      "[网络] 词汇手段;词汇修辞手段;词汇修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LHD",
+    "phonetic": "",
+    "definition": [
+      "abbr. (拉)古典文学博士(Litterarum Humaniorum Doctor, 等于Doctor of Humanities);装载拖运倾卸作业(Load-Haul-Dump)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "light-hour",
+    "phonetic": "'lait'auə",
+    "definition": [
+      "n. 【天文学】光(小)时(光在一小时中所经过的距离)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "light-seconds",
+    "phonetic": "'lait'sekənd",
+    "definition": [
+      "n. 【天文学】光秒(指光在一秒钟所经过的距离)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lit crit",
+    "phonetic": "",
+    "definition": [
+      "n. 文学批评"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literacy",
+    "phonetic": "'litәrәsi",
+    "definition": [
+      "n. 读写能力, 识字, 精通文学",
+      "EN: n. the ability to read and write"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literal values",
+    "phonetic": "",
+    "definition": [
+      "文学价值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literarily",
+    "phonetic": "'litәrәrili",
+    "definition": [
+      "adv. 文学上地, 学术上地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literariness",
+    "phonetic": "'litәrәrinis",
+    "definition": [
+      "文学性, 文艺性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary craftsman",
+    "phonetic": "",
+    "definition": [
+      "文学巨匠"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary critic",
+    "phonetic": "ˈlitərəri ˈkritik",
+    "definition": [
+      "n. 文学批评家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary discourse",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学体;文学论述;文学话语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary historian",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学史;文史学家;文献学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary manuscript",
+    "phonetic": "",
+    "definition": [
+      "文学手稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary masterpiece",
+    "phonetic": "",
+    "definition": [
+      "文学巨著"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary metaphor",
+    "phonetic": "",
+    "definition": [
+      "文学隐喻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary pirate",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学海盗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary semantics",
+    "phonetic": "",
+    "definition": [
+      "[语] 文学语义学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literary-minded",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学细胞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literate",
+    "phonetic": "'litәrit",
+    "definition": [
+      "n. 学者",
+      "a. 有读写能力的, 精通文学的, 受过教育的",
+      "EN: n. a person who can read and write a. able to read and write a. versed in literature; dealing with literature s. knowledgeable and educated in one or several fields"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literatist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literatured",
+    "phonetic": "'lɪt(ə)rətʃə",
+    "definition": [
+      "文学,文学作品",
+      "某国家、某时期的全部作品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "literatus",
+    "phonetic": ",litә'rɑ:tәs",
+    "definition": [
+      "文学界, 学者",
+      "EN: n. A learned man; a man acquainted with literature; -- chiefly used in the plural."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "litterateur",
+    "phonetic": "lɪtəræt'jʊər",
+    "definition": [
+      "n. 文学家, 文人",
+      "EN: n. One who occupies himself with literature; a literary man; a literatus."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lucian",
+    "phonetic": "'lu:sjәn",
+    "definition": [
+      "n. 琉善(腊修辞学家和讽刺诗人);卢西恩(男子名)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lunar mass",
+    "phonetic": "",
+    "definition": [
+      "【天文学】月球质量,太阴质量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lunar nodes",
+    "phonetic": "",
+    "definition": [
+      "[复数]【天文学】月球交点;月轨交点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lunisolar period",
+    "phonetic": "",
+    "definition": [
+      "【天文学】日月周期(532年)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "m'a",
+    "phonetic": "",
+    "definition": [
+      "[网络] 并购;文学硕士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MALS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 人文学科文科硕士( Master of Arts in Liberal Studies);图书馆学硕士(Master of Arts in Library Science);多重散光聚焦系统(Multi Astigmatism Lens System)",
+      "EN: n. a master's degree in library science"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marine hydrography",
+    "phonetic": "",
+    "definition": [
+      "海洋水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marine hydrology",
+    "phonetic": "",
+    "definition": [
+      "海洋水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marsh hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 沼泽水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "master's",
+    "phonetic": "",
+    "definition": [
+      "〈非正〉(文学、理学)硕士学位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mean suns",
+    "phonetic": "",
+    "definition": [
+      "【天文学】 平太阳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "medical hydrology",
+    "phonetic": "",
+    "definition": [
+      "[基医] 医疗水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mendicating",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meridian astronomy",
+    "phonetic": "",
+    "definition": [
+      "子午天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mesopotamian astronomy",
+    "phonetic": "",
+    "definition": [
+      "美索不达米亚天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meta-literary",
+    "phonetic": "",
+    "definition": [
+      "[网络] 元文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metagalactic astronomy",
+    "phonetic": "",
+    "definition": [
+      "总星系天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metalepsis",
+    "phonetic": ",metә'lepsis",
+    "definition": [
+      "n. [语]进一步转喻法( 指把已作比喻用的词进一步用于另一比喻意义的一种修辞法)",
+      "EN: n substituting metonymy of one figurative sense for another"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meteor astronomy",
+    "phonetic": "",
+    "definition": [
+      "流星天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meteor streams",
+    "phonetic": "",
+    "definition": [
+      "【天文学】流星群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meteor swarms",
+    "phonetic": "",
+    "definition": [
+      "【天文学】流星群[参较 meteor shower]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metonym",
+    "phonetic": "'metәnim",
+    "definition": [
+      "n. [修辞]换喻(metonymy)中所使用的词或短语",
+      "EN: n. a word that denotes one thing but refers to a related thing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MHL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Master of Hebrew Literature 希伯来文学硕士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "microphysiography",
+    "phonetic": "",
+    "definition": [
+      "[网络] 显微地文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "millimeter astronomy",
+    "phonetic": "ˈmɪləˌmi:tə",
+    "definition": [
+      "毫米波天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mini-black-hole",
+    "phonetic": "'mini,blæk'həul",
+    "definition": [
+      "n. 【天文学】极小黑洞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "miscellanies",
+    "phonetic": "'mɪsəˌleɪni:z",
+    "definition": [
+      "n. 混合物, 大杂烩( miscellany的名词复数 ); 文学著作汇编",
+      "EN: pl. of Miscellany"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mixed metaphors",
+    "phonetic": "",
+    "definition": [
+      "[网络] 混杂的修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MNLC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 摩顿中文学校"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "modern-dress",
+    "phonetic": "'mɒdndr'es",
+    "definition": [
+      "adj. 穿现代服装演出的,时装的; (文学作品)人物塑造现代化的,具现代背景的,现代题材的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mummy porn",
+    "phonetic": "",
+    "definition": [
+      "[网络] 师奶色情文学;师奶咸湿文学;妈咪小本"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "naso",
+    "phonetic": "",
+    "definition": [
+      "abbr. national astronomy space observatory 国家天文学空间观测台,国家航天天文台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nautical astronomy",
+    "phonetic": "",
+    "definition": [
+      "航海天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "navigational astronomy",
+    "phonetic": "",
+    "definition": [
+      "【航海学】航海天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nebulous star",
+    "phonetic": "",
+    "definition": [
+      "【天文学】星云状星群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neo hardboiled",
+    "phonetic": "",
+    "definition": [
+      "新冷酷无情文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neogrammatical",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neutrino astronomy",
+    "phonetic": "",
+    "definition": [
+      "中微子天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neutrino astrophysics",
+    "phonetic": "",
+    "definition": [
+      "中微子天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "new expressionism",
+    "phonetic": "",
+    "definition": [
+      "[亦作 N- E-]新表现主义(强调表现作家自己的文学艺术流派)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news rhetoric",
+    "phonetic": "",
+    "definition": [
+      "新闻修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "niche glacier",
+    "phonetic": "",
+    "definition": [
+      "【水文学】雪凹冰川(高加索山脉的陡崖冰川)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "no-hair theorems",
+    "phonetic": "'nəu'hεə",
+    "definition": [
+      "【天文学】无属性定理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nocturnal arcs",
+    "phonetic": "",
+    "definition": [
+      "【天文学】夜弧光 [参较 diurnal arc]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-fiction",
+    "phonetic": "nɒn 'fɪkʃn",
+    "definition": [
+      "n. 非小说类文学作品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-literary",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非文学;非文学的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-literature",
+    "phonetic": "",
+    "definition": [
+      "非文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-native speaker",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非母语者;非母语语文学习;非英语为母语者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nonfiction",
+    "phonetic": "nɒn'fikʃәn",
+    "definition": [
+      "n. (非小说的)写实文学",
+      "EN: n. prose writing that is not fictional"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "notarikon",
+    "phonetic": "nәj'tærikɔn",
+    "definition": [
+      "n. (犹太文学)拼词法(撷取句中词语的起首、居中或结尾字母创造新词的技巧)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "novelese",
+    "phonetic": ",nɔvә'li:z",
+    "definition": [
+      "n. <贬>拙劣小说的写作文体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oceanic hydrology",
+    "phonetic": "",
+    "definition": [
+      "[海洋] 海洋水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OFLC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 分级办公室;文学分级制;文学分级办公室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oil-field brine",
+    "phonetic": "",
+    "definition": [
+      "【水文学】油田水"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "operational hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 运行水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "optical astronomer",
+    "phonetic": "",
+    "definition": [
+      "光学天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orbital period",
+    "phonetic": "",
+    "definition": [
+      "【天文学】轨道周期"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ordonnances",
+    "phonetic": "ˈɔ:dənənsiz",
+    "definition": [
+      "n. (绘画、文学作品等的)安排,配置,法令( ordonnance的名词复数 )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orohydrography",
+    "phonetic": ",ɔ:rәhai'drɔ^rәfi",
+    "definition": [
+      "地形水文学, 山地水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outgassed",
+    "phonetic": "",
+    "definition": [
+      "vi. 除气, 去气;释气;【天文学】排气, 从行星内部释出气态物质",
+      "EN: past participle of outgass"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outgasses",
+    "phonetic": "",
+    "definition": [
+      "vi. 除气, 去气;释气;【天文学】排气, 从行星内部释出气态物质",
+      "EN: -s form of outgass"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overloaded stream",
+    "phonetic": "",
+    "definition": [
+      "【水文学】过负荷河流,多泥沙河流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oxymora",
+    "phonetic": ".ɒksi'mɔːrɒn",
+    "definition": [
+      "n. 【修辞】矛盾修饰法(例:a wise fool, cruel kindness)",
+      "[网络] 矛盾修辞法;逆喻;矛盾词"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "palaeographer",
+    "phonetic": "",
+    "definition": [
+      "n. 古文书学家;抄本研究者;古字体研究者",
+      "[网络] 古文学家;古字体学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paradoxes",
+    "phonetic": "'pærədɒksɪz",
+    "definition": [
+      "n. 似非而是的隽语, 看似矛盾而实际却可能正确的说法( paradox的名词复数 ); 用于语言文学中的上述隽语; 有矛盾特点的人[事物, 情况]",
+      "EN: pl. of Paradox"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paraenesis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 劝勉;劝勉文学体裁"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parametric hydrology",
+    "phonetic": "",
+    "definition": [
+      "参数水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parenesis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 劝诫文体;劝导性的经文"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parergon",
+    "phonetic": "pæ'rә:gɒn",
+    "definition": [
+      "n. 副业, 辅助装饰, (音乐、文学)小品",
+      "EN: n. See Parergy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "particle horizons",
+    "phonetic": "",
+    "definition": [
+      "【天文学】粒子视界"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "passive glacier",
+    "phonetic": "",
+    "definition": [
+      "【水文学】(增长)迟钝冰川"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "passive radioastronomy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 无源射电天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pastoral literature",
+    "phonetic": "",
+    "definition": [
+      "田园文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "penmanship",
+    "phonetic": "'penmәnʃip",
+    "definition": [
+      "n. 书法, 笔法, 笔迹, 文体",
+      "EN: n beautiful handwriting"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodize",
+    "phonetic": "'piәriәdaiz",
+    "definition": [
+      "vt.把(绘画、音乐、文学等)划分时期(或时代)",
+      "vi.划分时期(或时代)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "permafrost hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 永久冻土水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phase angles",
+    "phonetic": "",
+    "definition": [
+      "【物理学、数学】相角;【天文学】地距角;位相角"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philobiblic",
+    "phonetic": ".filә'biblik",
+    "definition": [
+      "a. 爱书的, 爱好文学的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philologic",
+    "phonetic": "filә'lɔdʒik",
+    "definition": [
+      "a. 语文学的, 语言学的",
+      "EN: a. Of or pertaining to philology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philological",
+    "phonetic": ".filә'lɒdʒikl",
+    "definition": [
+      "a. 语文学的, 文献学的",
+      "EN: a. of or relating to or dealing with philology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philologist",
+    "phonetic": "fi'lɒlәdʒist",
+    "definition": [
+      "n. 语文学者, 文献学者",
+      "EN: n. a humanist specializing in classical scholarship"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philologize",
+    "phonetic": "fi'lɒlәdʒaiz",
+    "definition": [
+      "vi. 研究文献学, 研究语文学, 从语文学角度论述",
+      "EN: v. i. To study, or make critical comments on, language."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "philology",
+    "phonetic": "fi'lɒlәdʒi",
+    "definition": [
+      "n. 语文学, 文献学",
+      "EN: n the humanistic study of language and literature"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photoheliographic",
+    "phonetic": "'fəutəu,hi:liəu'ɡræfik",
+    "definition": [
+      "photoheliograph的变形",
+      "【天文学】太阳(全色)照相仪[亦作heliograph]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physical geographies",
+    "phonetic": "",
+    "definition": [
+      "地文学;自然地理学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physical liberation",
+    "phonetic": "",
+    "definition": [
+      "【天文学】物理天平动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physiographer",
+    "phonetic": ".fizi'ɒgrәfә",
+    "definition": [
+      "n. 地文学者, 地貌学者, 自然地理学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physiographic",
+    "phonetic": ".fiziә'ɡræfik",
+    "definition": [
+      "a. 地形学的, 地文学的",
+      "EN: a. Alt. of Physiographical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physiographical",
+    "phonetic": "fɪz'ɪɒɡræfɪkəl",
+    "definition": [
+      "a. 地文学的, 地形学的",
+      "EN: a. Of or pertaining to physiography."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "physiography",
+    "phonetic": ".fizi'ɒgrәfi",
+    "definition": [
+      "n. 地文学, 地貌学, 自然地理学, 自然现象志",
+      "EN: n the study of physical features of the earth's surface"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "planetary orbiter",
+    "phonetic": "",
+    "definition": [
+      "【天文学】行星轨道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "poised stream",
+    "phonetic": "",
+    "definition": [
+      "【水文学】河床稳定河流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polar glaciers",
+    "phonetic": "",
+    "definition": [
+      "【水文学】极地冰川"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polite letters",
+    "phonetic": "",
+    "definition": [
+      "纯文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "political rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 政治修辞;政治语艺;政治辞令"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "politico-literary",
+    "phonetic": "",
+    "definition": [
+      "[网络] 政治文学派"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "porn",
+    "phonetic": "pɔ:n",
+    "definition": [
+      "n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学",
+      "EN: n creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pornographies",
+    "phonetic": "pɔː'nɒgrəfɪ",
+    "definition": [
+      "n. 色情文学;色情描写"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "positional astronomy",
+    "phonetic": "",
+    "definition": [
+      "方位天文学;球面天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "post-holocaust",
+    "phonetic": "",
+    "definition": [
+      "[网络] 后屠杀文学;后屠杀时期;浩劫后"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "precession constant",
+    "phonetic": "",
+    "definition": [
+      "【天文学】岁差常数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prograde motion",
+    "phonetic": "",
+    "definition": [
+      "【天文学】顺行"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosaic",
+    "phonetic": "prәu'zeiik",
+    "definition": [
+      "a. 散文的, 散文体的, 平凡的",
+      "EN: s not fanciful or imaginative s lacking wit or imagination s not challenging; dull and lacking excitement"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosaicism",
+    "phonetic": "",
+    "definition": [
+      "n. 散文体;枯燥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosaism",
+    "phonetic": "'prәuzeiizm",
+    "definition": [
+      "n. 散文体, 散文式词句, 平凡",
+      "EN: n. That which is in the form of prose writing; a prosaic manner."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosaisms",
+    "phonetic": "",
+    "definition": [
+      "n. 散文体;平凡",
+      "[网络] 散文式表现"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prose style",
+    "phonetic": "",
+    "definition": [
+      "[网络] 散文风格;散文体;散文化风格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prose-style",
+    "phonetic": "",
+    "definition": [
+      "[网络] 散文风格;散文体;散文化风格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosier",
+    "phonetic": "'prəʊzɪ",
+    "definition": [
+      "a. 散文体的;散文的;单调的;平淡的;无趣味的;繧唆的",
+      "EN: s. lacking wit or imagination"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prosy",
+    "phonetic": "'prәuzi",
+    "definition": [
+      "a. 散文的, 散文体的, 无趣味的",
+      "EN: s lacking wit or imagination"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "publics'",
+    "phonetic": "'pʌblɪk",
+    "definition": [
+      "n. 公众;群众;...社会;(文学家等的)爱读者",
+      "adj. 公众的;社会的;公立的;(会等)公开的",
+      "[网络] 公共;公众群体;大众"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pulp literature",
+    "phonetic": "",
+    "definition": [
+      "低俗文学,黄色文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pundit",
+    "phonetic": "'pʌndit",
+    "definition": [
+      "n. 学者, 梵文学者, 博学的印度人, 权威",
+      "EN: n someone who has been admitted to membership in a scholarly field"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puristic",
+    "phonetic": "pjʊə'rɪstɪk",
+    "definition": [
+      "a. 修辞癖的, 用语简洁的",
+      "EN: a. Alt. of Puristical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puristical",
+    "phonetic": "pjʊə'rɪstɪkəl",
+    "definition": [
+      "a. 修辞癖的, 用语简洁的",
+      "EN: a. Of or pertaining to purists or purism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quantitative hydrology",
+    "phonetic": "",
+    "definition": [
+      "定量水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quasi-stellar",
+    "phonetic": "'kweizai'stelə",
+    "definition": [
+      "adj. 【天文学】类星体的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radio astronomer",
+    "phonetic": "ˈreidiəu əˈstrɔnəmə",
+    "definition": [
+      "n. 射电天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radio astronomers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 无线电天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radio interferometers",
+    "phonetic": "",
+    "definition": [
+      "【天文学】无线电干扰仪"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radio-astronomer",
+    "phonetic": "",
+    "definition": [
+      "n. 无线电天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radio-astronomical",
+    "phonetic": "'reidiəu,æstrəu'nɔmikəl",
+    "definition": [
+      "adj. 射电天文学的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RCLS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 洛丽中文学校(Raleigh Chinese Language School);闭环钻井系统;脂肪肉瘤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "redbrush",
+    "phonetic": "",
+    "definition": [
+      "[网络] 刘石;红刷子;明清女人文学的一部著作中"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "regional hydrology",
+    "phonetic": "",
+    "definition": [
+      "区域水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "regional physiography",
+    "phonetic": "",
+    "definition": [
+      "[地理] 区域地文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reportage",
+    "phonetic": ".repɒ:'tɑ:ʒ",
+    "definition": [
+      "n. 新闻报道, 报告文学",
+      "EN: n the news as presented by reporters for newspapers or radio or television"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "responsions",
+    "phonetic": "",
+    "definition": [
+      "n. (英)牛津大学文学士学位初试"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhet",
+    "phonetic": "'ret",
+    "definition": [
+      "abbr. rhetoric 修辞学; 华丽的文辞; rhetorical 修辞(学)的; rhetorician 修辞学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetor",
+    "phonetic": "'ri:tә",
+    "definition": [
+      "n. 修辞学教师, 演说家",
+      "EN: n. A rhetorician."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetoric",
+    "phonetic": "'retәrik",
+    "definition": [
+      "n. 修辞, 修辞学, 雄辩(术)",
+      "EN: n. using language effectively to please or persuade n. study of the technique and rules for using language effectively (especially in public speaking)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical",
+    "phonetic": "ri'tɒ:rikl",
+    "definition": [
+      "a. 修辞学的, 符合修辞学的, 修辞的",
+      "EN: a. of or relating to rhetoric a. given to rhetoric, emphasizing style at the expense of thought"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical act",
+    "phonetic": "",
+    "definition": [
+      "修辞行动;语艺行动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical approach",
+    "phonetic": "",
+    "definition": [
+      "语艺取径;修辞取径"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical criticism",
+    "phonetic": "",
+    "definition": [
+      "修辞批评;语艺批评"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical device",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞手法;修辞手段题型;修辞格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical discourse",
+    "phonetic": "",
+    "definition": [
+      "修辞学论述;修饰性论域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical effect",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞效果;修辞功能;修辞作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical features",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞特征;修辞特色"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical figure",
+    "phonetic": "",
+    "definition": [
+      "修辞手段"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical figures",
+    "phonetic": "",
+    "definition": [
+      "修辞手法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical function",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞功能;修辞作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical hyperbole",
+    "phonetic": "",
+    "definition": [
+      "夸张修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical induction",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞的归纳法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical mode",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞模式;修辞方式;修辞手法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical question",
+    "phonetic": "",
+    "definition": [
+      "修辞性疑问"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical school",
+    "phonetic": "",
+    "definition": [
+      "修辞学校"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical situation",
+    "phonetic": "",
+    "definition": [
+      "修辞情境;语艺情境"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical strategy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 话语战略;修辞策略"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorically",
+    "phonetic": "rɪ'tɒrɪklɪ",
+    "definition": [
+      "adv. 在修辞学上, 讲究修辞地",
+      "EN: r. in a rhetorical manner"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetoricalness",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorician",
+    "phonetic": ".retә'riʃәn",
+    "definition": [
+      "n. 修辞学者, 雄辩家",
+      "EN: n a person who delivers a speech or oration"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ritualized rhetoric",
+    "phonetic": "",
+    "definition": [
+      "仪式化修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "river hydrology",
+    "phonetic": "",
+    "definition": [
+      "河川水文学;河流水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "romance",
+    "phonetic": "rәu'mæns",
+    "definition": [
+      "n. 冒险故事, 浪漫史, 传奇文学",
+      "vi. 写传奇, 作空想, 虚构",
+      "EN: n. the group of languages derived from Latin n. a novel dealing with idealized events remote from everyday life v. have a love affair with v. tell romantic or exaggerated lies"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rousseauism",
+    "phonetic": "ru:'sәjizәm",
+    "definition": [
+      "n. (法国思想家, 文学家)卢梭主义, 卢梭的思想(学说或风格)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rousseauist",
+    "phonetic": "ru:'sәjist",
+    "definition": [
+      "n. (法国思想家, 文学家)卢梭主义者, 卢梭的思想(学说或风格)的信徒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RSL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Royal Society of Literature 〈英〉皇家文学学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "runecraft",
+    "phonetic": "",
+    "definition": [
+      "[网络] 古文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "salt-water intrusion",
+    "phonetic": "",
+    "definition": [
+      "【水文学】盐水入侵"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sanskrit literatures",
+    "phonetic": "",
+    "definition": [
+      "[网络] 梵语文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "satellite hydrology",
+    "phonetic": "ˈsætəlait haiˈdrɔlədʒi",
+    "definition": [
+      "卫星水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "satire",
+    "phonetic": "'sætaiә",
+    "definition": [
+      "n. 讽刺文学, 讽刺",
+      "EN: n witty language used to convey insults or scorn"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "scarp-foot spring",
+    "phonetic": "",
+    "definition": [
+      "【水文学】崖麓泉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "schemata",
+    "phonetic": "",
+    "definition": [
+      "计划, 纲要, 图解, 修辞手段, (三段论法的)格",
+      "EN: n an internal representation of the world; an organization of concepts and actions that can be revised by new information about the world n a schematic or preliminary plan"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "scribeship",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文学作品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sea-captured stream",
+    "phonetic": "",
+    "definition": [
+      "【水文学】海袭夺河"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "second-foot day",
+    "phonetic": "",
+    "definition": [
+      "【水文学】秒—英尺日"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "secondary glacier",
+    "phonetic": "",
+    "definition": [
+      "【水文学】次级冰川,冰川支流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "self-gravitating",
+    "phonetic": "'self'ɡræviteitiŋ",
+    "definition": [
+      "adj. 【天文学】受自星球引力影响的;受自引力影响的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "senescent lake",
+    "phonetic": "",
+    "definition": [
+      "【水文学】老年湖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sensible horizons",
+    "phonetic": "",
+    "definition": [
+      "【天文学】感觉地平圈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "settecento",
+    "phonetic": ",sette'tʃentәu",
+    "definition": [
+      "<意> n.(意大利文学艺术史上的)18世纪"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shallow well",
+    "phonetic": "",
+    "definition": [
+      "【水文学】浅井"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sick-lit",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病态文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sidereal astronomy",
+    "phonetic": "",
+    "definition": [
+      "恒星天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sidereal hours",
+    "phonetic": "",
+    "definition": [
+      "【天文学】恒星时"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sillographer",
+    "phonetic": "si'lɔ^rәfә(r)",
+    "definition": [
+      "n. 讽刺文学作家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sinoper",
+    "phonetic": "si'nəupi",
+    "definition": [
+      "n. 【天文学】木卫九",
+      "EN: n. Sinople."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slough ice",
+    "phonetic": "",
+    "definition": [
+      "【水文学】半融冰雪"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slush pond",
+    "phonetic": "",
+    "definition": [
+      "【水文学】泥浆池"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "snow dune",
+    "phonetic": "",
+    "definition": [
+      "【水文学】雪丘"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "snow hydrology",
+    "phonetic": "",
+    "definition": [
+      "积雪水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "solar coronas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】日冕,日华"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "solar nebulas",
+    "phonetic": "",
+    "definition": [
+      "【天文学】太阳星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "solar radioastronomy",
+    "phonetic": "",
+    "definition": [
+      "太阳射电天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "solar-type stars",
+    "phonetic": "",
+    "definition": [
+      "【天文学】太阳型恒星"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sooterkin",
+    "phonetic": "'sutəkin; 'su:-",
+    "definition": [
+      "n. [古语] 胎盘;流产的计划(或事情);不完美的文学作品",
+      "EN: n. A kind of false birth, fabled to be produced by Dutch women from sitting over their stoves; also, an abortion, in a figurative sense; an abortive scheme."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sophists",
+    "phonetic": "",
+    "definition": [
+      "n. (古希腊以教授修辞学,哲学为职业并以善于诡辩出名的)智者",
+      "[网络] 诡辩家;诡辩派;智者派"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "southern triangles",
+    "phonetic": "",
+    "definition": [
+      "【天文学】南三角星座"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "space observatory",
+    "phonetic": "",
+    "definition": [
+      "【天文学】太空天文台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "space operas",
+    "phonetic": "",
+    "definition": [
+      "太空人(或星外来客)科幻小说(或电影、连续剧等)",
+      "太空探险文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "space-science",
+    "phonetic": "",
+    "definition": [
+      "n. 航天科学",
+      "[网络] 空间科学;太空科学;天文学和航天科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spacecraft astronomy",
+    "phonetic": "",
+    "definition": [
+      "航天器天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "speckle interferogram",
+    "phonetic": "",
+    "definition": [
+      "【天文学】斑点干涉图,斑点干涉照片"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spherical astronomy",
+    "phonetic": "",
+    "definition": [
+      "球面天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stage-discharge curve",
+    "phonetic": "",
+    "definition": [
+      "【水文学】水位流量曲线"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stagnant ice",
+    "phonetic": "",
+    "definition": [
+      "【水文学】死冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "star colour",
+    "phonetic": "",
+    "definition": [
+      "【天文学】星色"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "star-stream",
+    "phonetic": "'stɑ:stri:m",
+    "definition": [
+      "n. 【天文学】流星"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stargazer",
+    "phonetic": "'stɑ:geizә",
+    "definition": [
+      "n. 看星星的人, 占星师, 天文学家",
+      "EN: n. heavy-bodied marine bottom-lurkers with eyes on flattened top of the head"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "statistical hydrology",
+    "phonetic": "",
+    "definition": [
+      "统计水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "steady-stater",
+    "phonetic": "'stedi,steitə",
+    "definition": [
+      "n. 【天文学】恒稳态学说论者,持恒稳态学说者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "steady-states",
+    "phonetic": "'stedɪ,steɪt",
+    "definition": [
+      "【物理学】稳态的,稳恒态的",
+      "【天文学】恒稳态学说的;恒稳态的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stellar astronomy",
+    "phonetic": "",
+    "definition": [
+      "恒星天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sterned",
+    "phonetic": "stə:n",
+    "definition": [
+      "n. 【天文学】船尾(星)座",
+      "EN: a. Having a stern of a particular shape; -- used in composition; as, square-sterned."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stochastic hydrology",
+    "phonetic": "",
+    "definition": [
+      "随机水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stream morphology",
+    "phonetic": "",
+    "definition": [
+      "【水文学】河貌;河貌学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stream-length ratio",
+    "phonetic": "",
+    "definition": [
+      "【水文学】河长比"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylist",
+    "phonetic": "'stailist",
+    "definition": [
+      "n. 文体学家, 时装设计师",
+      "EN: n. an artist who is a master of a particular style"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic analysis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体分析;风格分析;风格性分析"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic device",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体表现手法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic effect",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体效果;语域;文体风格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic features",
+    "phonetic": "",
+    "definition": [
+      "[网络] 语体色彩;文体特点;语体特点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic marker",
+    "phonetic": "",
+    "definition": [
+      "[网络] 语体标记;语言成份即为文体标记;文体标示"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistic translation",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体翻译"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistical",
+    "phonetic": "",
+    "definition": [
+      "a. 文体的, 文体上的, 风格的, 风格上的, 具有偏重文体的倾向的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistically",
+    "phonetic": "staɪ'lɪstɪklɪ",
+    "definition": [
+      "adv. 在文体上",
+      "EN: r. in a rhetorically stylistic manner"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stylistics",
+    "phonetic": "stai'listiks",
+    "definition": [
+      "n. 文体学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "subliterary",
+    "phonetic": "'sʌb,litərәri",
+    "definition": [
+      "a. 通俗文学的,二流文学的",
+      "EN: s not written as or intended to be literature"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "subsurface hydrology",
+    "phonetic": "",
+    "definition": [
+      "【水文学】地下水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sugar iceberg",
+    "phonetic": "",
+    "definition": [
+      "【水文学】(从冰河流出的)多孔易碎流冰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sulfur stream",
+    "phonetic": "",
+    "definition": [
+      "【水文学】硫黄泉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "surface hydrology",
+    "phonetic": "",
+    "definition": [
+      "【水文学】地表面水文学,地上水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "swamp hydrology",
+    "phonetic": "",
+    "definition": [
+      "沼泽水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syllabic writing",
+    "phonetic": "",
+    "definition": [
+      "【语言学】音节文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "symploce",
+    "phonetic": "'simpləsi",
+    "definition": [
+      "n. 【修辞学】首语重复和尾词重复的并用",
+      "EN: n. The repetition of a word or phrase at the beginning and another at the end of successive clauses; as, Justice came down from heaven to view the earth; Justice returned to heaven, and left the earth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syncrisis",
+    "phonetic": "siŋ'krisis",
+    "definition": [
+      "n. <罕>(修辞学中的)对立事物比较法",
+      "EN: n. A figure of speech in which opposite things or persons are compared."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "synodical periods",
+    "phonetic": "",
+    "definition": [
+      "【天文学】会合周期"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syntactic devices",
+    "phonetic": "",
+    "definition": [
+      "[网络] 句法手段;句法手段的修辞格;句法修辞手段"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "synthetic hydrology",
+    "phonetic": "",
+    "definition": [
+      "综合水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "systematic hydrology",
+    "phonetic": "",
+    "definition": [
+      "[水文] 系统水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tadpole galaxy",
+    "phonetic": "",
+    "definition": [
+      "【天文学】蝌蚪星系,蝌蚪状射电星云"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "taled",
+    "phonetic": "teɪl",
+    "definition": [
+      "n. 传说;故事;叙述;文学故事",
+      "EN: n. A kind of quadrangular piece of cloth put on by the Jews when repeating prayers in the synagogues."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telegraphese",
+    "phonetic": ".teligrɑ:'fi:z",
+    "definition": [
+      "n. 电报文体, 电文体",
+      "a. 电报文体的",
+      "EN: n. language characterized by terseness and ellipsis as in telegrams"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telescopic astronomy",
+    "phonetic": "",
+    "definition": [
+      "望远镜天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "terrestrial hydrology",
+    "phonetic": "",
+    "definition": [
+      "陆地水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "textorial",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "textual features",
+    "phonetic": "",
+    "definition": [
+      "[网络] 文体特征;文本特征;文本特性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "the avant-garde",
+    "phonetic": "ˌævɒ~ 'gɑ:d",
+    "definition": [
+      "n. (艺术、音乐或文学方面的)前卫派思想;前卫派(艺术家等)",
+      "[网络] 先锋派;前卫小说;前卫艺术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "the literati",
+    "phonetic": "",
+    "definition": [
+      "文学人士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "the rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "the sniffles",
+    "phonetic": "",
+    "definition": [
+      "伤风;伤感文学;伤风感冒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thingish",
+    "phonetic": "'θɪŋɪʃ",
+    "definition": [
+      "(文学艺术)实物主义的;注重实物和细节的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "topos",
+    "phonetic": "'tɔpɔs,-әs,'tәjpɔs",
+    "definition": [
+      "n. (文学创作的)传统主题,(修辞学上的)惯用语句",
+      "EN: n. a traditional theme or motif or literary convention"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "translatorese",
+    "phonetic": "træns,leitә'ri:z,trænz-,trɑ:n-",
+    "definition": [
+      "n. (表达不流畅、不地道的)翻译文体,翻译腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "trecento",
+    "phonetic": "trei'tʃentәu",
+    "definition": [
+      "n. 十四世纪, 十四世纪意大利文学艺术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tripos",
+    "phonetic": "'traipɒs",
+    "definition": [
+      "n. 文学士荣誉学位考试, 荣誉学位考试及格者名册",
+      "EN: n. final honors degree examinations at Cambridge University"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "triposes",
+    "phonetic": "",
+    "definition": [
+      "n. <英>(剑桥大学)文学士荣誉学位考试, 荣誉学位考试( tripos的名词复数 )",
+      "EN: pl. of Tripos"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "troper",
+    "phonetic": "trəʊp",
+    "definition": [
+      "n. 【修辞学】转义;转喻, 隐喻, 比喻, 反语[参较 figure of speech];转义语词;辞藻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "turnoff point",
+    "phonetic": "",
+    "definition": [
+      "【天文学】拐点,转向点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tushery",
+    "phonetic": "'tʌʃәri",
+    "definition": [
+      "n. 故意写古风的文体",
+      "EN: n. writing of poor quality; characterized by affected choice of archaic words"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-body problems",
+    "phonetic": "",
+    "definition": [
+      "【天文学、力学】二体问题[参较 three-body problem]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ultraviolet astronomy",
+    "phonetic": "",
+    "definition": [
+      "紫外天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ulysses",
+    "phonetic": "ju(:)'lisi:z",
+    "definition": [
+      "n. 尤里西斯(希腊神话中男子名, 也是爱尔兰意识流文学作家詹姆斯·乔伊斯小说名)",
+      "EN: n. (Roman mythology) Roman spelling for Odysseus"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unliterary",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非文学性的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unliterate",
+    "phonetic": ",ʌn'litәrәt",
+    "definition": [
+      "a. 无文化修养的, 对文学不感兴趣的,不爱读书的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unrhetorically",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "upsetted moraine",
+    "phonetic": "ʌp'setid",
+    "definition": [
+      "【水文学】推进冰碛,前进冰碛(= push moraine)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uranological",
+    "phonetic": "",
+    "definition": [
+      "天文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uranologist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天文学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "urban hydrology",
+    "phonetic": "",
+    "definition": [
+      "城市水文学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "valley braid",
+    "phonetic": "",
+    "definition": [
+      "【水文学】交织谷,交织支流"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "veda",
+    "phonetic": "'veidә, 'vi:dә",
+    "definition": [
+      "n. 吠陀经;吠陀本集(印度最古老的宗教文献和文学作品的总称)",
+      "EN: n (from the Sanskrit word for `knowledge') any of the most ancient sacred writings of Hinduism written in early Sanskrit; traditionally believed to comprise the Samhitas, the Brahmanas, the Aranyakas, and the Upanishads"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vespering",
+    "phonetic": "'vespə",
+    "definition": [
+      "n. [V-]【天文学】黄昏星,长庚星;[亦称作 vesper bell]晚祷钟(声)",
+      "adj. 黄昏的,傍晚的;晚祷的;晚课的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vimina",
+    "phonetic": "",
+    "definition": [
+      "n. 【植】枝条;苗",
+      "[网络] 赵薇;诺贝尔文学奖获得者着作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "visual meteor",
+    "phonetic": "",
+    "definition": [
+      "【天文学】目视流星"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "waning moons",
+    "phonetic": "",
+    "definition": [
+      "【天文学】亏月"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "water regimen",
+    "phonetic": "",
+    "definition": [
+      "【水文学】情势"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wet-snow avalanche",
+    "phonetic": "",
+    "definition": [
+      "【水文学】湿雪雪崩[亦作 slush avalanche]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "white-halo",
+    "phonetic": "'hwait'heiləu",
+    "definition": [
+      "n. 【天文学】白晕"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wind-slab avalanche",
+    "phonetic": "",
+    "definition": [
+      "【水文学】风雪崩"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wisdom literatures",
+    "phonetic": "",
+    "definition": [
+      "智慧文学;智慧书"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "women's studies",
+    "phonetic": "",
+    "definition": [
+      "妇女问题研究(与妇女社会地位的变化相关的历史或文学)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

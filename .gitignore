@@ -8,3 +8,6 @@ coverage/
 .agents/
 __pycache__/
 *.py[cod]
+.DS_Store
+.firecrawl/
+scripts/.cache/

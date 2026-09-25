@@ -1,0 +1,684 @@
+[
+  {
+    "word": "Acceptable game",
+    "phonetic": "",
+    "definition": [
+      "EN: is a game form such that for every possible preference profiles, the game has pure nash equilibria, all of which are pareto efficient."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Allocation of goods",
+    "phonetic": "",
+    "definition": [
+      "[经] 商品分配",
+      "EN: is a function ν : Γ → R N {\\displaystyle \\nu \\ :\\Gamma \\ \\to \\mathbb {R} ^{\\mathrm {N} }} . The allocation is a cardinal approach for determining the good (e.g. money) the players are granted under the different outcomes of the game."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Best reply",
+    "phonetic": "",
+    "definition": [
+      "EN: the best reply to a given complement σ − i {\\displaystyle \\sigma \\ _{-i}} is a strategy τ i {\\displaystyle \\tau \\ _{i}} that maximizes player i's payment. Formally, we want: ∀ σ i ∈ Σ i π ( σ i , σ − i ) ≤ π ( τ i , σ − i ) {\\displaystyle \\forall \\sigma \\ _{i}\\in \\ \\Sigma \\ ^{i}\\quad \\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})\\leq \\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})} ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Coalition",
+    "phonetic": ".kәuә'liʃәn",
+    "definition": [
+      "n. 结合体, 结合, 联合",
+      "[经] 联合, 联盟",
+      "EN: is any subset of the set of players: S ⊆ N {\\displaystyle \\mathrm {S} \\subseteq \\mathrm {N} } ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Condorcet winner",
+    "phonetic": "",
+    "definition": [
+      "EN: Given a preference ν on the outcome space, an outcome a is a condorcet winner if all non-dummy players prefer a to all other outcomes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Decidability",
+    "phonetic": "",
+    "definition": [
+      "[计] 可判定性",
+      "EN: In relation to game theory, refers to the question of the existence of an algorithm that can and will return an answer as to whether a game can be solved or not."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Determinacy",
+    "phonetic": "di'tә:minәsi",
+    "definition": [
+      "n. 确定性, 坚定性, 确切性",
+      "[计] 确定性",
+      "EN: A subfield of set theory that examines the conditions under which one or the other player of a game has a winning strategy, and the consequences of the existence of such strategies. Games studied in set theory are Gale–Stewart games – two-player games of perfect information in which the players make an infinite sequence of moves and there are no draws."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Determined game (or Strictly determined game)",
+    "phonetic": "",
+    "definition": [
+      "EN: In game theory, a strictly determined game is a two-player zero-sum game that has at least one Nash equilibrium with both players using pure strategies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dictator",
+    "phonetic": "'dikteitә",
+    "definition": [
+      "n. 命令者, 独裁者",
+      "EN: A player is a strong dictator if he can guarantee any outcome regardless of the other players. m ∈ N {\\displaystyle m\\in \\mathbb {N} } is a weak dictator if he can guarantee any outcome, but his strategies for doing so might depend on the complement strategy vector. Naturally, every strong dictator is a weak dictator. Formally: n is a Strong dictator if: ∀ a ∈ A , ∃ σ n ∈ Σ n s . t . ∀ σ − n ∈ Σ − n : Γ ( σ − n , σ n ) = a {\\displaystyle \\forall a\\in \\mathrm {A} ,\\;\\exists \\sigma \\ _{n}\\in \\Sigma \\ ^{n}\\;s.t.\\;\\forall \\sigma \\ _{-n}\\in \\Sigma \\ ^{-n}:\\;\\Gamma \\ (\\sigma \\ _{-n},\\sigma \\ _{n})=a} m is a Weak dictator if: ∀ a ∈ A , ∀ σ − m ∈ Σ − m ∃ σ m ∈ Σ m s . t . Γ ( σ − m , σ m ) = a {\\dis"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dominated outcome",
+    "phonetic": "",
+    "definition": [
+      "EN: Given a preference ν on the outcome space, we say that an outcome a is dominated by outcome b (hence, b is the dominant strategy) if it is preferred by all players. If, in addition, some player strictly prefers b over a, then we say that a is strictly dominated. Formally: ∀ j ∈ N ν j ( a ) ≤ ν j ( b ) {\\displaystyle \\forall j\\in \\mathrm {N} \\;\\quad \\nu \\ _{j}(a)\\leq \\ \\nu \\ _{j}(b)} for domination, and ∃ i ∈ N s . t . ν i ( a ) < ν i ( b ) {\\displaystyle \\exists i\\in \\mathrm {N} \\;s.t.\\;\\nu \\ _{i}(a)<\\nu \\ _{i}(b)} for strict domination. An outcome a is (strictly) dominated if it is (strictly) dominated by some other outcome. An outcome a is dominated for a coalition S if all players in S pr"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dominated strategy",
+    "phonetic": "",
+    "definition": [
+      "n. 劣势策略;劣策略;劣战略",
+      "EN: we say that strategy is (strongly) dominated by strategy τ i {\\displaystyle \\tau \\ _{i}} if for any complement strategies tuple σ − i {\\displaystyle \\sigma \\ _{-i}} , player i benefits by playing τ i {\\displaystyle \\tau \\ _{i}} . Formally speaking: ∀ σ − i ∈ Σ − i π ( σ i , σ − i ) ≤ π ( τ i , σ − i ) {\\displaystyle \\forall \\sigma \\ _{-i}\\in \\ \\Sigma \\ ^{-i}\\quad \\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})\\leq \\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})} and ∃ σ − i ∈ Σ − i s . t . π ( σ i , σ − i ) < π ( τ i , σ − i ) {\\displaystyle \\exists \\sigma \\ _{-i}\\in \\ \\Sigma \\ ^{-i}\\quad s.t.\\quad \\pi \\ (\\sigma \\ _{i},\\sigma \\ _{-i})<\\pi \\ (\\tau \\ _{i},\\sigma \\ _{-i})} . A strategy σ is (strictly) dominated"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dummy",
+    "phonetic": "'dʌmi",
+    "definition": [
+      "n. 傀儡, 假人, 仿制品",
+      "a. 虚设的, 假的, 名义上的",
+      "EN: A player i is a dummy if he has no effect on the outcome of the game. I.e. if the outcome of the game is insensitive to player i's strategy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Effectiveness",
+    "phonetic": "i'fektivnis",
+    "definition": [
+      "n. 效力",
+      "[经] 有效性, 能行性",
+      "EN: A coalition (or a single player) S is effective for a if it can force a to be the outcome of the game. S is α-effective if the members of S have strategies s.t. no matter what the complement of S does, the outcome will be a."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Finite game",
+    "phonetic": "",
+    "definition": [
+      "[计] 有限对策, 有限博弈",
+      "EN: is a game with finitely many players, each of which has a finite set of strategies."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game",
+    "phonetic": "geim",
+    "definition": [
+      "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味",
+      "vi. 赌博",
+      "a. 勇敢的, 有胆量的, 关于野味的, 跛的",
+      "[计] 博弈; 对策",
+      "EN: A further generalization can be achieved by splitting the game into a composition of two functions:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Grand coalition",
+    "phonetic": "",
+    "definition": [
+      "EN: refers to the coalition containing all players. In cooperative games it is often assumed that the grand coalition forms and the purpose of the game is to find stable imputations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mixed Nash Equilibrium",
+    "phonetic": "",
+    "definition": [
+      "EN: Same as Pure Nash Equilibrium, defined on the space of mixed strategies. Every finite game has Mixed Nash Equilibria."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mixed strategy",
+    "phonetic": "",
+    "definition": [
+      "[计] 混合策略",
+      "[经] 混合战略",
+      "EN: for player i is a probability distribution P on Σ i {\\displaystyle \\Sigma \\ ^{i}} . It is understood that player i chooses a strategy randomly according to P."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outcome function",
+    "phonetic": "",
+    "definition": [
+      "出现函数",
+      "EN: the outcome function of the game (some authors call this function \"the game form\"), and:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Outcome space",
+    "phonetic": "",
+    "definition": [
+      "结局空间",
+      "EN: Γ {\\displaystyle \\Gamma } is in most textbooks identical to -"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pareto efficiency",
+    "phonetic": "",
+    "definition": [
+      "帕累托效率;柏瑞图效率",
+      "EN: An outcome a of game form π is (strongly) pareto efficient if it is undominated under all preference profiles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Payoffs",
+    "phonetic": "'peɪɔ:fz",
+    "definition": [
+      "n. 结果, 报偿( payoff的复数形式 )",
+      "EN: R N {\\displaystyle \\mathbb {R} ^{\\mathrm {N} }} , describing how much gain (money, pleasure, etc.) the players are allocated by the end of the game."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Player i's strategy space",
+    "phonetic": "",
+    "definition": [
+      "EN: Σ i {\\displaystyle \\Sigma \\ ^{i}} is the space of all possible ways in which player i can play the game."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Preference profile",
+    "phonetic": "",
+    "definition": [
+      "EN: is a function ν : Γ → R N {\\displaystyle \\nu \\ :\\Gamma \\ \\to \\mathbb {R} ^{\\mathrm {N} }} . This is the ordinal approach at describing the outcome of the game. The preference describes how 'pleased' the players are with the possible outcomes of the game. See allocation of goods."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pure Nash Equilibrium",
+    "phonetic": "",
+    "definition": [
+      "EN: An element σ = ( σ i ) i ∈ N {\\displaystyle \\sigma \\ =(\\sigma \\ _{i})_{i\\in \\mathrm {N} }} of the strategy space of a game is a pure nash equilibrium point if no player i can benefit by deviating from his strategy σ i {\\displaystyle \\sigma \\ _{i}} , given that the other players are playing in σ {\\displaystyle \\sigma } . Formally: ∀ i ∈ N ∀ τ i ∈ Σ i π ( τ , σ − i ) ≤ π ( σ ) {\\displaystyle \\forall i\\in \\mathrm {N} \\quad \\forall \\tau \\ _{i}\\in \\ \\Sigma \\ ^{i}\\quad \\pi \\ (\\tau \\ ,\\sigma \\ _{-i})\\leq \\pi \\ (\\sigma \\ )} . No equilibrium point is dominated."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Real numbers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 实数系;真实实数;真数",
+      "EN: R {\\displaystyle \\mathbb {R} } ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Say",
+    "phonetic": "seɪ",
+    "definition": [
+      "v. 说;告诉;讲;表达",
+      "n. 发言权;决定权",
+      "int. 啧啧;我说",
+      "[网络] 说话;念;比如说",
+      "EN: A player i has a Say if he is not a Dummy, i.e. if there is some tuple of complement strategies s.t. π (σ_i) is not a constant function."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shannon number",
+    "phonetic": "",
+    "definition": [
+      "EN: A conservative lower bound of the game-tree complexity of chess (10)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Solved game",
+    "phonetic": "",
+    "definition": [
+      "EN: A game whose outcome (win, lose or draw) can be correctly predicted assuming perfect play from all players."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Strategy space",
+    "phonetic": "",
+    "definition": [
+      "策略空间",
+      "EN: Σ = ∏ i ∈ N Σ i {\\displaystyle \\Sigma \\ =\\prod _{i\\in \\mathrm {N} }\\Sigma \\ ^{i}} , where"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "The set of players",
+    "phonetic": "",
+    "definition": [
+      "EN: N {\\displaystyle \\mathrm {N} } ."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Value",
+    "phonetic": "'vælju:",
+    "definition": [
+      "n. 价值, 价格, 购买力, 评价, 估价, 计算结果",
+      "vt. 评价, 估价, 重视",
+      "[计] 计算结果",
+      "EN: A value of a game is a rationally expected outcome. There are more than a few definitions of value, describing different methods of obtaining a solution to the game."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Veto",
+    "phonetic": "'vi:tәu",
+    "definition": [
+      "n. 否决权",
+      "vt. 否决, 禁止",
+      "EN: A veto denotes the ability (or right) of some player to prevent a specific alternative from being the outcome of the game. A player who has that ability is called a veto player."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Weakly acceptable game",
+    "phonetic": "",
+    "definition": [
+      "EN: is a game that has pure nash equilibria some of which are pareto efficient."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Zero sum game",
+    "phonetic": "ˈziərəu sʌm ɡeim",
+    "definition": [
+      "零和对策",
+      "EN: is a game in which the allocation is constant over different outcomes. Formally: ∀ γ ∈ Γ ∑ i ∈ N ν i ( γ ) = c o n s t . {\\displaystyle \\forall \\gamma \\ \\in \\Gamma \\ \\sum _{i\\in \\mathrm {N} }\\nu \\ _{i}(\\gamma \\ )=const.} w.l.g. we can assume that constant to be zero. In a zero-sum game, one player's gain is another player's loss. Most classical board games (e.g. chess, checkers) are zero sum."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cooperative game",
+    "phonetic": "",
+    "definition": [
+      "[计] 合作博弈",
+      "[化] 合作对策",
+      "EN: A game in which players are allowed to form coalitions (and to enforce coalitionary discipline). A cooperative game is given by stating a value for every coalition:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Extensive form game",
+    "phonetic": "",
+    "definition": [
+      "[网络] 扩展形式的博弈;扩展式博弈;展开形式的博弈",
+      "EN: This is given by a tree, where at each vertex of the tree a different player has the choice of choosing an edge. The outcome set of an extensive form game is usually the set of tree leaves."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Normal form game",
+    "phonetic": "",
+    "definition": [
+      "[网络] 正则形式的博弈;范式博弈;正规形式的博弈",
+      "EN: A game in normal form is a function:"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Simple game",
+    "phonetic": "",
+    "definition": [
+      "简单对策",
+      "EN: A Simple game is a simplified form of a cooperative game, where the possible gain is assumed to be either '0' or '1'. A simple game is couple (N, W), where W is the list of \"winning\" coalitions, capable of gaining the loot ('1'), and N is the set of players."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "a-game",
+    "phonetic": "",
+    "definition": [
+      "一次博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCGC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 基因组联盟;基因组计划;计算机博弈锦标赛"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chess-playing",
+    "phonetic": "",
+    "definition": [
+      "博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cockfight game",
+    "phonetic": "",
+    "definition": [
+      "斗鸡博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "constant-sum",
+    "phonetic": "",
+    "definition": [
+      "[网络] 定和;常和博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-play",
+    "phonetic": "",
+    "definition": [
+      "[网络] 运动游艺戏;博弈;游艺运动戏"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-players",
+    "phonetic": "",
+    "definition": [
+      "[网络] 博弈过程的主体;摸钟测试的博弈参与人;代练被大众"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-playing",
+    "phonetic": "",
+    "definition": [
+      "[网络] 博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-theoretic",
+    "phonetic": "",
+    "definition": [
+      "[网络] 博弈论方法;赛局理论"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "game-tree search",
+    "phonetic": "",
+    "definition": [
+      "博弈树搜索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gamer",
+    "phonetic": "'ɡeimә",
+    "definition": [
+      "n. 玩家, 博弈者",
+      "EN: s disabled in the feet or legs s willing to face danger"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gaming-industry",
+    "phonetic": "",
+    "definition": [
+      "[网络] 博弈产业;博彩;博彩业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "implicitness",
+    "phonetic": "",
+    "definition": [
+      "n. 隐逸它是指参与博弈的人还不能达到的被认知的状态; 它先暴露出一个信息; 背后还隐藏着更多、更大的一部分; 也是指决策粒子二特性的本性。隐逸像一种了解未知世界的因素",
+      "EN: n. State or quality of being implicit."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nash equilibriums",
+    "phonetic": "",
+    "definition": [
+      "纳什均衡"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "one-shot game",
+    "phonetic": "",
+    "definition": [
+      "一次有效的对策",
+      "一次完成的博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "simulation-game",
+    "phonetic": "",
+    "definition": [
+      "仿真博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sub-game",
+    "phonetic": "",
+    "definition": [
+      "[网络] 子博弈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-level games",
+    "phonetic": "",
+    "definition": [
+      "“双层博弈”"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zero-sum-game",
+    "phonetic": "",
+    "definition": [
+      "un. 零和对策",
+      "[网络] 零和博弈;零和赛局;零和对局"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

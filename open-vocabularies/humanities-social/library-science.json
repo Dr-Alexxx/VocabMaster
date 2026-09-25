@@ -1,0 +1,3252 @@
+[
+  {
+    "word": "Abstract",
+    "phonetic": "'æbstrækt",
+    "definition": [
+      "a. 抽象的, 深奥的",
+      "n. 摘要, 抽象概念",
+      "vt. 摘要, 提炼, 使抽象化",
+      "[计] 摘录; 摘要; 抽象",
+      "EN: Is a brief set of statements that summarize, classifies, evaluates, or describes the important points of a text, particularly a journal article. An abstract is typically found on the first page of a scholarly article. Because an abstract summarizes an article, it is very useful for either browsing or keyword searching."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Annotation",
+    "phonetic": "ænәu'teiʃәn",
+    "definition": [
+      "n. 注解, 评注",
+      "EN: An explanatory or critical note or commentary. Annotation is also the process of adding an explanatory or critical note or commentary to a text. Reference lists are often annotated with comments about what each resource covered and how useful it was."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Appendix",
+    "phonetic": "ә'pendiks",
+    "definition": [
+      "n. 附录, 附加物, 阑尾",
+      "[化] 增补",
+      "EN: A group of supplementary material appended to a text. It is usually related to the material in the main part of the text but not so closely related to it that it should be put into the main text. Put background information and supporting facts in the appendices. An example of a file that should be put in an appendix is a file of detailed charts and graphs of recent research closely related to the paper's main topic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Archive",
+    "phonetic": "'ɑ:kaiv",
+    "definition": [
+      "vt. 把...存档",
+      "n. 档案馆, 档案文件",
+      "[计] 挡案库, 存档",
+      "EN: A place in which selected materials such as documents, objects, and other records are preserved due to their value both culturally, historically, or evidentiary to the individual, organisation, or society curating the collection."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Arrangement",
+    "phonetic": "ә'reindʒmәnt",
+    "definition": [
+      "n. 排列, 整齐, 安排",
+      "[计] 排列",
+      "EN: The organization of entities in a certain order."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Article",
+    "phonetic": "'ɑ:tikl",
+    "definition": [
+      "n. 文章, 冠词, 物品, 物件, 条款, 契约",
+      "[计] 信件",
+      "EN: 1. (General) A document of writing, physical or virtual, on any given subject matter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Author",
+    "phonetic": "'ɒ:θә",
+    "definition": [
+      "n. 作家, 作家的著作, 创始人",
+      "[法] 作者, 著作人, 本人",
+      "EN: An originator of a creative work, particularly a writer of a text. Searching by author can be an effective form of information gathering."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Authority control",
+    "phonetic": "",
+    "definition": [
+      "【图书馆学】标准著录;标准款目",
+      "EN: cataloging process in library management of assigning unique headings to subjects such as author names and book titles to enable greater efficiency in referencing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bibliographic database",
+    "phonetic": "",
+    "definition": [
+      "un. 文献数据库",
+      "[网络] 书目数据库;书目资料库;联机书目数据库",
+      "EN: Is a computer based list of library resources. Typically each record contains the call number, author, title, publishing information, and other card catalog information."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bibliographic Framework (BIBFRAME)",
+    "phonetic": "",
+    "definition": [
+      "EN: Data model for linked metadata of bibliographic description. Initiated by the Library of Congress to replace the MARC standards."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Boolean logic",
+    "phonetic": "",
+    "definition": [
+      "[计] 布尔逻辑",
+      "EN: The algebraic system, developed by George Boole that is applied to Boolean expressions that contain Boolean operators such as AND, OR, NOT AND, and XOR (exclusive OR). This binary algebraic system is used primarily in switching circuits and database searches. Boolean operators are not to be confused with proximity operators such as NEAR."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Browse",
+    "phonetic": "brauz",
+    "definition": [
+      "v. 浏览, 吃草",
+      "n. 浏览, 吃草",
+      "[计] 浏览",
+      "EN: To inspect something casually, particularly to use a web browser to casually inspect web pages over the Internet. This involves following links from page to page (also called surfing) rather than searching directly. The main difference between browsing and searching is that with browsing you have very little advance knowledge of what will be on the next page."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Call number",
+    "phonetic": "",
+    "definition": [
+      "图书编目号码",
+      "[电] 呼叫号码",
+      "EN: An identification marker used in libraries to categorize and locate books and other resources. Each resource is assigned a combination of letters and numbers which correspond with a location in the library. For example, the call number for the Publication Manual of the American Psychological Association is BF76.7 .P83 2001."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Catalog/ catalogue",
+    "phonetic": "",
+    "definition": [
+      "EN: A complete and systematically organized enumeration of items, particularly the complete enumeration of a libraries' resources on a set of paper cards (card catalog) or in an electronic database (bibliographic database)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Categorization",
+    "phonetic": "",
+    "definition": [
+      "[计] 归类, 分类",
+      "[经] 分门别类",
+      "EN: Grouping together like concepts, entities, objects, resources, etc."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Citation",
+    "phonetic": "sai'teiʃәn",
+    "definition": [
+      "n. 引用, 引证, 引用文",
+      "[建] 引证, 指引",
+      "EN: The quoting or mentioning of a source. All works used in preparing a paper should be cited."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Citation search",
+    "phonetic": "",
+    "definition": [
+      "EN: A search, by name, of all references to an individual. Some databases have a specific citation search option, otherwise you use a full-text search. For an example of a database that has a specific citation search option go to the University of Michigan Library Database."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Classification",
+    "phonetic": ".klæsifi'keiʃәn",
+    "definition": [
+      "n. 分类, 分级",
+      "[化] 分级; 分粒; 分类",
+      "EN: The arrangement of subjects into certain categories."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Community analysis",
+    "phonetic": "",
+    "definition": [
+      "EN: The analysis of a set of people. Such analyses enable librarians to know the needs of patrons and hopefully provide better services to them. In a city library district, the set of relevant people would be all those who live in the city or those people eligible to use the library. Analysis may also be restricted to a subset of eligible library users."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Conceptual model",
+    "phonetic": "",
+    "definition": [
+      "[计] 概念模型, 概念造型",
+      "EN: A representation of a system. It consists of concepts used to help people know, understand, or simulate a subject that the model represents. In contrast, physical models are physical object such as a toy model that may be assembled and made to work like the object it represents."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Controlled vocabulary",
+    "phonetic": "",
+    "definition": [
+      "控制性词汇(儿童读物中生字有控制地逐步增加)",
+      "EN: Limiting searches to the exact subject headings contained in the Library of Congress. An example would be \"History – Bibliography etc\". Some indexes, like Wilson Indexes, have their own system of headings and hence their own controlled vocabulary."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Copyright",
+    "phonetic": "'kɒpirait",
+    "definition": [
+      "n. 版权, 著作权",
+      "[法] 著作权",
+      "EN: The legal right granted to a copyright holder for the exclusive sale, distribution or reproduction of a creative work. It is a form of intellectual property that prevents others from using a creative work without consent of the owner. For example, Thomas Mann holds the copyright on the book The Oxford Guide to Library Research."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cross reference database",
+    "phonetic": "",
+    "definition": [
+      "EN: A collection of records that have one or more fields that reference other related records. These connections (for example between \"marketing\" and \"promotion\") make browsing very productive and allow related-items searches."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Database",
+    "phonetic": "'deitәbeis",
+    "definition": [
+      "n. 数据库",
+      "[计] 数据库",
+      "EN: Is an organized collection of data, generally stored and accessed electronically from a computer system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Descriptor",
+    "phonetic": "dis'kriptә",
+    "definition": [
+      "[计] 描述符; 描述词; 解说符",
+      "EN: An index term used to identify a record in a database. It can consist of a word, phrase, or alphanumerical term. It can describe the content of the record or be an arbitrary code. When a descriptor is descriptive, it can be an effective search parameter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dewey Decimal Classification (DDC)",
+    "phonetic": "",
+    "definition": [
+      "EN: A hierarchical system for classifying books and other library materials by subject, first published in 1876 by the librarian and educator Melvil Dewey, who divided human knowledge into 10 main classes, each of which is divided into 10 divisions, etc. In Dewey Decimal call numbers, Arabic numerals and decimal fractions are used in the class notation (example: 996.9) and an alphanumeric book number is added to subarrange works of the same classification by author and by title and edition (996.9 B3262h)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Digital preservation",
+    "phonetic": "",
+    "definition": [
+      "数位保存",
+      "EN: A formal process to ensure that digital information of continuing value remains accessible and usable in the long term."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dissertation",
+    "phonetic": ".disә'teiʃәn",
+    "definition": [
+      "n. 论文",
+      "EN: A written treatise or thesis, usually lengthy, usually authored by a doctoral candidate, usually directed by a faculty advisor, and usually intended to advance the state of the art in a given discipline. There can be an oral component to the process, in which the dissertation must be defended in front of critical judges. Dissertation searches are valuable because of their currency."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Document delivery",
+    "phonetic": "",
+    "definition": [
+      "[计] 文档传递",
+      "EN: The transfer of a database record, or other information resource, to the end user. It can involve direct internet or email transfers, CD delivery via mail, paper delivery via mail, or delivery via interlibrary loan."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Edition",
+    "phonetic": "i'diʃәn",
+    "definition": [
+      "n. 版本, 版, 翻版",
+      "EN: A version of a published text, or all the instances of a published text issued at a given time. An example would be the 2nd edition (2001)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Entry",
+    "phonetic": "'entri",
+    "definition": [
+      "n. 记录;词条;登录;录入",
+      "[网络] 进入;条目;入口",
+      "EN: Any record, or a field in a record, that has been included, or entered, into a database. An entry word is the headword in a dictionary, encyclopedia, or glossary."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Enumeration",
+    "phonetic": "i.nju:mә'reiʃәn",
+    "definition": [
+      "n. 计算, 列举, 细目",
+      "[法] 列举事实, 一览表",
+      "EN: Is a complete, ordered listing of all the items in a collection."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Field",
+    "phonetic": "fi:ld",
+    "definition": [
+      "n. 领域, 田地, 场地, 战场, 场, 域",
+      "vt. 使...晒在场上, 使上场",
+      "a. 田间的, 野生的, 野外的, 田赛的",
+      "[计] 域, 字段",
+      "EN: An element of a database record. It contains one type of information and has a unique address. All or most other records in the database have a similar field. An example is the field \"name\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Finding aid",
+    "phonetic": "",
+    "definition": [
+      "EN: A description of an archival collection that describes the collection as a whole rather than individual pieces within the collection."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Free-text search",
+    "phonetic": "",
+    "definition": [
+      "EN: 1. is a simple word or character search, usually with very few Boolean, proximity, or scope limiting options. It is simple and fast. 2. a search in which all the entries are freed from their original format of presentation. Text that originated in a journal article looks much the same as text that originated in a glossary or chat room. 3. the deliberate limiting of the scope of the search parameters to include only records that are available free of charge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Full text database",
+    "phonetic": "",
+    "definition": [
+      "[电] 全文资料库",
+      "EN: A collection of records containing complete versions of the original source, rather than just bibliographies, abstracts, or abridgements. An example is JSTOR. A related concept is that of a full text search which searches only sources that are complete, and ignores those records that are mere abstracts or descriptors."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Information extraction",
+    "phonetic": "",
+    "definition": [
+      "信息提取",
+      "EN: Is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Information literacy",
+    "phonetic": "",
+    "definition": [
+      "资讯素养",
+      "EN: Is the set of integrated abilities encompassing the reflective discovery of information, the understanding of how information is produced and valued, and the use of information in creating new knowledge and participating ethically in communities of learning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Information mapping",
+    "phonetic": "",
+    "definition": [
+      "域间信息映射",
+      "EN: Is a research-based method for writing clear and user focused information, based on the audience's needs and the purpose of the information."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Information science",
+    "phonetic": "",
+    "definition": [
+      "[计] 信息科学; 情报科学",
+      "[经] 信息学, 资料学",
+      "EN: Is a field primarily concerned with the analysis, collection, classification, manipulation, storage, retrieval, movement, dissemination, and protection of information."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Interlibrary loan",
+    "phonetic": "",
+    "definition": [
+      "馆际借阅;图书馆际出借制度;根据馆际出借制度所出借的",
+      "EN: Or interloan – a service whereby a user of one library can borrow books or receive photocopies of documents that are owned by another library. The user makes a request with their local library, which, acting as an intermediary, identifies owners of the desired item, places the request, receives the item, makes it available to the user, and arranges for its return. This resource sharing system is being promoted by the International Federation of Library Associations and Institutions (IFLA)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Inventory",
+    "phonetic": "'invәntәri",
+    "definition": [
+      "n. 详细目录, 存货清单",
+      "vt. 列入详细目录, 清点存货",
+      "[计] 存货清单",
+      "EN: A tool used to provide a record of what is owned."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Journal",
+    "phonetic": "'dʒә:nәl",
+    "definition": [
+      "n. 日记, 杂志, 日报",
+      "[化] 轴颈",
+      "EN: A periodical publication that presents articles in a specific subject area. These may be academic journals, trade journals, or organizational newsletters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Keyword search",
+    "phonetic": "ˈki:wəd sə:tʃ",
+    "definition": [
+      "[医]关键字检索",
+      "EN: A search of a database using some keyword, a significant word from the title, abstract, or descriptor of a record as a point of reference to the article's overall content."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Literature search",
+    "phonetic": "",
+    "definition": [
+      "[计] 文献检索",
+      "EN: A systematic and thorough search of all material, print or electronic, published on a given topic. This can include books, journals, newspapers, catalogs, encyclopedias, dictionaries, atlases, bibliographies, handbooks, manuals, indexes, yearbooks, gazetteers, directories, chronologies, almanacs, and guides."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Location device",
+    "phonetic": "",
+    "definition": [
+      "EN: A number or other designation system that is used to physically locate an item."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MARC (Machine-Readable Cataloging)",
+    "phonetic": "",
+    "definition": [
+      "EN: A set standard of prescribed codes that allows a record to be \"read\" by a machine by identifying specific elements of a catalog record. MARC is used to share bibliographic data between libraries by transmitting the encoded metadata from one system to another, then displayed to the user in an identifiable form."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Menu",
+    "phonetic": "'menju:",
+    "definition": [
+      "n. 菜单, (功能)选择单",
+      "[计] 菜单",
+      "EN: A list of options from which a computer user can choose. This saves the user from having to memorize a set of commands. It also reduces the decision down to the basic information required (note the etymology from the French word minuet meaning small)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Monograph",
+    "phonetic": "'mɒnәgrɑ:f",
+    "definition": [
+      "n. 专题论文, 专著, 专刊",
+      "vt. 写专题论文",
+      "EN: A written document on a single subject, usually scholarly in nature and of approximately book length. They are valuable information sources because of their depth in a limited subject area."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OCLC (Online Computer Library Center)",
+    "phonetic": "",
+    "definition": [
+      "EN: A comprehensive bibliographic network that provides bibliographic, abstract, and full-text information to users."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Online catalog",
+    "phonetic": "",
+    "definition": [
+      "网路型录",
+      "EN: Or electronic catalog – a record of the holdings of an institution (e.g. library or museum) or group of institutions (a consortium), often searchable, that can be found on the Internet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Open access",
+    "phonetic": "",
+    "definition": [
+      "(图书馆)开架阅览",
+      "EN: A mechanism by which research outputs are distributed online, free of cost or other barriers, and, in its most precise meaning, with the addition of an open license applied to promote reuse."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Open source",
+    "phonetic": "",
+    "definition": [
+      "[计] 打开源",
+      "EN: In production and development a philosophy or methodology promoting free redistribution and access to an end product's design and implementation details."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Operators",
+    "phonetic": "'ɒpəreɪtəz",
+    "definition": [
+      "n. (某企业的)经营者( operator的复数形式 ); (机器、设备等的)操作员; 电话接线员; 投机取巧者",
+      "EN: Symbols that represent operations. In computer science there are binary and unary operators depending on the number of elements or records an operator acts on. In database searching there are Boolean and Proximity operators. Boolean operators are a subclass of logical operators (Logical operators are binary operators that manipulate data at the bit level.). A Boolean operator manipulates the binary \"true/false\" value."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pathfinder",
+    "phonetic": "'pɑ:θfaindә(r)",
+    "definition": [
+      "n. 探路者, 开拓者, 探索者, 导航人员, 导航飞机, 导航雷达",
+      "[化] 维修指南",
+      "EN: A subject bibliography used to find resources the library has available on a specific topic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Paywall",
+    "phonetic": "",
+    "definition": [
+      "n. 网站的付费门槛",
+      "EN: A method of restricting access to content via a paid subscription."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Periodical index",
+    "phonetic": "",
+    "definition": [
+      "期刊索引",
+      "EN: An alphabetized listing of works that are published at regular intervals of more than one day."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Plagiarism",
+    "phonetic": "'pleidʒiәrizm",
+    "definition": [
+      "n. 剽窃, 抄袭, 剽窃物",
+      "[法] 抄袭, 剽窃, 剽窃作品",
+      "EN: Directly or indirectly passing off the work of others as your own. Characterised from poor use of citations and paraphrasing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Plan S",
+    "phonetic": "",
+    "definition": [
+      "EN: The name for an initiative started in 2018 to established open access science publishing amongst twelve European countries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Primary source",
+    "phonetic": "",
+    "definition": [
+      "[计] 主源",
+      "EN: The originator of a primary record. A primary record is a resource created by the same people that initially experienced or used it. They create the records for their own purposes, records that often remain unpublished. Sometimes they witness an event, sometimes they are involved in an event, and sometimes the record is directly created by the event."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Record",
+    "phonetic": "ri'kɒ:d",
+    "definition": [
+      "n. 记录, 履历, 档案, 审判记录, 最高纪录, 唱片",
+      "vt. 记录, 记载, 标明, 将...录音",
+      "vi. 记录, 录音, 可被录音",
+      "a. 创纪录的",
+      "[计] 录制, 记录",
+      "EN: 1. (Store information) A written document, both physical or virtual, that holds an account of a given subject of interest for future reference."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Search strategy",
+    "phonetic": "",
+    "definition": [
+      "[计] 检索策略",
+      "EN: A generalized set of technique used in the process of determining what information you currently have, determining what information you need, and determining how to get it. Some possible strategies include; controlled vocabulary searches, specific entry searches, browsing, general scanning, broad to narrow searches, adjacent item browsing, subject tracings searches, keyword searches, citation searches, literature searches, cross reference searches, and chat room questions and other direct people contact searches."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Subject directory",
+    "phonetic": "",
+    "definition": [
+      "主题目录",
+      "EN: An hierarchical grouping of related subject headings. The tree structure shows relationships between subject headings. They can be found either inside a database or separate from a data base."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Subject heading",
+    "phonetic": "",
+    "definition": [
+      "[计] 主题标目",
+      "EN: The name of the category that a record is included under. For example, the record \"natural frequency of vibration\" might be found under the subject heading of \"Acoustics\", and acoustics, in turn, might be found under the subject heading \"Physics\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Thesaurus",
+    "phonetic": "θi'sɒ:rәs",
+    "definition": [
+      "n. 专类辞典, 宝库, 知识宝库, 叙词表, 主题词表",
+      "[计] 同义词, 同义词典",
+      "EN: A book of synonyms, often also containing antonyms. An example is Roget's Thesaurus. In database searching, a thesaurus strategy is to use multiple iterations to search for related words and generate result. The database will often suggest synonyms and related words to try."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Truncation",
+    "phonetic": "trʌŋ'keiʃәn",
+    "definition": [
+      "n. 切掉顶端, 截头, 截短",
+      "[计] 截断; 截除",
+      "EN: The shortening of a search word, field, or record. In the case of truncating a search word, this is a strategy used to search among multiple variants or spellings of a word. The asterisk (*) is generally used as a wildcard to replace a letter or letters. An example is invest* which will pick up instances of invest, investor, investments, investigations, etc. In some databases, the asterisk must be accompanied with a number that define the number of characters that can be truncated."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Weeding",
+    "phonetic": "",
+    "definition": [
+      "n. 除草;除杂草;(图书馆馆藏)汰旧更新",
+      "EN: Is the systematic removal of resources from a library based on selected criteria around usage, value or quality, and physical condition, amongst other select criteria depending on the goals of the organisation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "abbreviated cataloging",
+    "phonetic": "",
+    "definition": [
+      "简略编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "academic librarianship",
+    "phonetic": "",
+    "definition": [
+      "学术图书馆学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accession book",
+    "phonetic": "",
+    "definition": [
+      "【图书馆学】入藏新书(或期刊)登录簿,新书目录,新书编目册"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "accession number",
+    "phonetic": "",
+    "definition": [
+      "n. 图书馆对新添的书籍,画册等的编号"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADLMA",
+    "phonetic": "",
+    "definition": [
+      "[=American Dental Library and Museum Association]美国牙科图书馆和陈列馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alertest",
+    "phonetic": "",
+    "definition": [
+      "abbr. automated linguistic extraction and retrieval technique 【计算机】自动化语言摘录和检索技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "amire",
+    "phonetic": "",
+    "definition": [
+      "automatic diagnostic maintenance information retrieval 自动诊断维护信息检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analytical cataloging",
+    "phonetic": "",
+    "definition": [
+      "分析编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apprentices' library",
+    "phonetic": "",
+    "definition": [
+      "见习图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "archival science",
+    "phonetic": "",
+    "definition": [
+      "un. 档案学",
+      "[网络] 档案科学;图书馆和博物馆研究"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ARCIC",
+    "phonetic": "",
+    "definition": [
+      "[网络] Anglo-Roman Catholic International Commission; 集成中心; 文件检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASDL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 分析科学数字图书馆(Analytical Sciences Digital Library);当归内酯;服务器开发库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASLP",
+    "phonetic": "7",
+    "definition": [
+      "Association of Special Libraries in the Philippines 菲律宾专门图书馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "associative retrieval",
+    "phonetic": "",
+    "definition": [
+      "相联检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "asyndetons",
+    "phonetic": "ə'sɪndɪt(ə)n",
+    "definition": [
+      "n. 连接词省略;散珠格;图书馆目录中对照参考资料的省略"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "athenaeums",
+    "phonetic": "",
+    "definition": [
+      "n. 雅典娜神殿;古罗马法律[文艺]学校;文艺[科学]协会;图书馆",
+      "[网络] 雅典娜神庙;雅典娜神殿酒店;雅典娜神庙俱乐部"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "atheneum",
+    "phonetic": ",æθi'ni:әm",
+    "definition": [
+      "n. 雅典庙宇,文艺协会, 图书馆",
+      "EN: n a literary or scientific association for the promotion of learning n a place where reading materials are available"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "audio-visual library",
+    "phonetic": "",
+    "definition": [
+      "视听图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BCLA",
+    "phonetic": "",
+    "definition": [
+      "[=British Columbia Library Association]英国哥伦比亚图书馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliographical tools",
+    "phonetic": "",
+    "definition": [
+      "查目工具,资料检索工具"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliothec",
+    "phonetic": "'bɪblɪəθek",
+    "definition": [
+      "abbr. bibliothecar 图书馆理员; bibliothecal 藏书的; bibliothecary 管理员; bibliotheca 文库",
+      "EN: n. A librarian."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliotheca",
+    "phonetic": ".bibliәu'θi:kә",
+    "definition": [
+      "n. 藏书, 图书馆, 书目",
+      "EN: n. a collection of books"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliothecae",
+    "phonetic": "",
+    "definition": [
+      "n. 〈集合词〉文库;图书目录;〈废〉圣经",
+      "[网络] 藏书;图书馆;书库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliothecal",
+    "phonetic": "'bɪblɪəθi:kəl",
+    "definition": [
+      "属于图书馆的",
+      "EN: a. Belonging to a library."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliothecarian",
+    "phonetic": ",bibli,ɔθә'keәriәn",
+    "definition": [
+      "图书馆的, 书商目录的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliothecary",
+    "phonetic": ",bibli'ɔθәkәri",
+    "definition": [
+      "图书馆员, 图书管理员",
+      "EN: n. A librarian."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bibliotheque",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆;图书館;冈田尚志"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "biomedical libraries",
+    "phonetic": "",
+    "definition": [
+      "生物医学图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BLDSC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 大英图书馆文献供应中心(British Library Document Supply Center);不列颠图书馆文献提供中心(British Library's Document Supply Center);不列颠图书馆文献供应中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bodleian",
+    "phonetic": "bɔd'li:әn",
+    "definition": [
+      "n. 牛津大学图书馆",
+      "a. 牛津大学图书馆的",
+      "EN: a. Of or pertaining to Sir Thomas Bodley, or to the celebrated library at Oxford, founded by him in the sixteenth century."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "book-house",
+    "phonetic": "",
+    "definition": [
+      "[网络] 书屋;房子;图书馆刊物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bookmobile",
+    "phonetic": "'bukmә,bi:l",
+    "definition": [
+      "n. 车上图书馆, 流动图书馆",
+      "EN: n. a van with shelves of books; serves as a mobile library or bookstore"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "browsability",
+    "phonetic": ",brajzә'bilәti",
+    "definition": [
+      "n. 索得率(检索文件的效能)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BRS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 英国道路服务处(British Road Services);文献检索服务系统(bibliographic retrieval services)",
+      "EN: n a nonmetallic heavy volatile corrosive dark brown liquid element belonging to the halogens; found in sea water n a Marxist-Leninist terrorist organization that arose out of a student protest movement in the late 1960s; wants to separate Italy from NATO and advocates violence in the service of class warfare and revolution; mostly inactive since 1989"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "call-slip",
+    "phonetic": "",
+    "definition": [
+      "借书证;(图书馆借书时填写的)借书单"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "caps",
+    "phonetic": "",
+    "definition": [
+      "abbr. 盒式磁带程序设计系统(Cassette Programming System);计算机辅助产品检索(Computer Assisted Product Search)",
+      "EN: n a tight-fitting headdress n a top (as for a bottle) n a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive n something serving as a cover or protection n a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom n a protective covering that is part of a plant n an upper limit on what is allowed n (dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth n the upper part of a column that supports the entablature v lie at the top of v restrict the number or amount of"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsa",
+    "phonetic": "'kæpsә",
+    "definition": [
+      "n. (古罗马图书馆中的)圆筒形书帙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CARIS",
+    "phonetic": "",
+    "definition": [
+      "计算机辅助情报检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "carrel",
+    "phonetic": "'kærәl",
+    "definition": [
+      "n. (图书馆)小阅读室",
+      "EN: n. French surgeon and biologist who developed a way to suture and graft blood vessels (1873-1944) n. small individual study area in a library"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloging code",
+    "phonetic": "",
+    "definition": [
+      "编目规则"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloging department",
+    "phonetic": "",
+    "definition": [
+      "编目组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloging room",
+    "phonetic": "",
+    "definition": [
+      "编目室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogistic",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogued file",
+    "phonetic": "",
+    "definition": [
+      "编目档案;编目文件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogued procedure",
+    "phonetic": "",
+    "definition": [
+      "编目过程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catalogued procedures",
+    "phonetic": "",
+    "definition": [
+      "编目程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloguer",
+    "phonetic": "",
+    "definition": [
+      "n. 编目人",
+      "EN: n a librarian who classifies publication according to a categorial system"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloguing principles",
+    "phonetic": "",
+    "definition": [
+      "编目法,编目原则"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloguish",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloguist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cataloguize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBIR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 基于内容的图像检索(Content-based image retrieval);基于内容的图像检索技术;基于内容图像检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBIRS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图像检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBMR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 音乐检索(Content-based Music Retrieval);金月一口;锄"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBVIR",
+    "phonetic": "",
+    "definition": [
+      "[网络] 情报检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCLC",
+    "phonetic": "11",
+    "definition": [
+      "Cooperative College Library Center 学院图书馆合作中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CFL",
+    "phonetic": "",
+    "definition": [
+      "abbr. 加拿大劳工联合会(Canadian Federation of Labour);紧凑型型荧光灯(Compact Fluorescent Lamp);中央电影图书馆(Central Film Library)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chaining research",
+    "phonetic": "",
+    "definition": [
+      "链式检索,循环检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "children's department",
+    "phonetic": "",
+    "definition": [
+      "儿童图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "children's librarian",
+    "phonetic": "",
+    "definition": [
+      "儿童图书馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "children's library",
+    "phonetic": "",
+    "definition": [
+      "儿童图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cinematheques",
+    "phonetic": "",
+    "definition": [
+      "n. 影片贮藏库;影片图书馆;(放映文献片,非正规影片的)实验电影院",
+      "[网络] 法国电影资料馆;电影院线;实验小影院"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "circulating libraries",
+    "phonetic": "",
+    "definition": [
+      "收费的流动图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIRS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Computerized Information Retrieval and Services 计算机化情报检索与服务; Cost Information Retrieval System 成本情报检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cise",
+    "phonetic": "",
+    "definition": [
+      "abbr. Colleges; Institutes; and Schools of Education (Library Association) 教育大学; 教育学院和教育学校(图书馆协会)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CMLA",
+    "phonetic": "",
+    "definition": [
+      "Canadian Music Library Association 加拿大音乐图书馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "concordancer",
+    "phonetic": "kən'kɔ:dənsər",
+    "definition": [
+      "n. 语词检索; 关键词排序的程式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cooperative cataloging",
+    "phonetic": "",
+    "definition": [
+      "合作编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COSLA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 澎湖妹;图书馆馆长会议;苏格兰地方当局的公约"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cpl",
+    "phonetic": "",
+    "definition": [
+      "abbr. 中央公共图书馆(Central Public Library);化学物理实验室(Chemistry and Physics Laboratory);普通程序语言(Common Programming Language);计算机程序库(Computer Program Library);全称电子职业联赛(Cyberathelete Professional League)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DASL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 数据及故事图书馆;大气饱和层累积厚度;城市与区域规划科学院"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "data-code indexing",
+    "phonetic": "",
+    "definition": [
+      "数据码检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "de-accession",
+    "phonetic": ",diːək'seʃ(ə)n",
+    "definition": [
+      "vt. (美)出售或交换博物馆收藏品等",
+      "vi. 出售或交换博物馆或图书馆收藏品",
+      "n. 出售或交换收藏品;出售的收藏品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "de-acquisition",
+    "phonetic": "di:,ækwi'ziʃən",
+    "definition": [
+      "n. 出售(或交换)(博物馆、图书馆收藏品等),(博物馆藏品)出售,拍卖;(一件)待售的收藏品,(博物馆藏品中的)出售件,拍卖件",
+      "vi., vt. 出售或交换或拍卖处理掉(博物馆、图书馆收藏品等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "depository library",
+    "phonetic": "diˈpɔzitəri ˈlaibrəri",
+    "definition": [
+      "储藏图书馆, 寄存图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "descriptive catalog",
+    "phonetic": "",
+    "definition": [
+      "[网络] 记述编目;说明型录;说明目录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "descriptive cataloging",
+    "phonetic": "",
+    "definition": [
+      "【图书馆学】描述性编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dichotomising search",
+    "phonetic": "",
+    "definition": [
+      "二分[对分]检索法,二取一查询"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dichotomous key",
+    "phonetic": "diˈkɔtəməs ki:",
+    "definition": [
+      "分叉式检索表; 二叉式检索表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dichotomous keys",
+    "phonetic": "",
+    "definition": [
+      "un. 〔植〕二岐检索表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DJNR",
+    "phonetic": "",
+    "definition": [
+      "DowJones新闻检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DLSS",
+    "phonetic": "",
+    "definition": [
+      "Doctor of Library Scicence图书馆学博士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-librarian",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子图书馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-librarians",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子图书馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-libraries",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网上图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-library",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子图书馆;使用电子图书馆;理大电子图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-literacy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子素养;网讯检索素养;网路检索素养"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EDSR",
+    "phonetic": "",
+    "definition": [
+      "abbr. Engineering Data Storage and Retrieval <美>工程数据存贮与检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electric sitarist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电动图书馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "electric sitarists",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电动图书馆员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ELHILL",
+    "phonetic": "",
+    "definition": [
+      "美国国家医学图书馆MEDLARS系统检索软件名"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ESA-IRS",
+    "phonetic": "",
+    "definition": [
+      "欧洲航空局讯息检索服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ESAIRS",
+    "phonetic": "",
+    "definition": [
+      "欧洲航天局情报检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "false retrievals",
+    "phonetic": "",
+    "definition": [
+      "假检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FDLP",
+    "phonetic": "",
+    "definition": [
+      "Federal Depository Library Program 联邦积存图书馆计划"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "federated search",
+    "phonetic": "",
+    "definition": [
+      "[网络] 联合搜索;联邦检索;联邦式搜寻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "file-search protocols",
+    "phonetic": "",
+    "definition": [
+      "文件检索协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "film-a-search",
+    "phonetic": "",
+    "definition": [
+      "胶片检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "free-word retrieval",
+    "phonetic": "",
+    "definition": [
+      "自由词检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "full-text",
+    "phonetic": "",
+    "definition": [
+      "na. 全文",
+      "[网络] 全文检索;全文搜索功能;全文文本"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "full-text retrieval",
+    "phonetic": "",
+    "definition": [
+      "全文检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "full-text search",
+    "phonetic": "",
+    "definition": [
+      "全文检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hierarchical list",
+    "phonetic": "",
+    "definition": [
+      "分级表,分级编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HRLSD",
+    "phonetic": "",
+    "definition": [
+      "[=Health and Rehabilitative Library Services Division]健康与康复图书馆服务部"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "huso",
+    "phonetic": "",
+    "definition": [
+      "[网络] 社会科学资料库检索系统;鳇属;整合多资料库查询介面"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "i-space",
+    "phonetic": "",
+    "definition": [
+      "[网络] 我的空间;智慧空间;图书馆一楼"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IAALD",
+    "phonetic": "",
+    "definition": [
+      "abbr. International Association of Agricultural Libraries and Documentalists 国际农业图书馆及文献工作者协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IASLIC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Indian Association of Special Libraries and Informa-tion Centers 印度专门图书馆及情报中心协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ICDL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际电脑使用执照(International Computer Driving Licence);国际计算机操作证书(International Computer Driving License);国际儿童数字图书馆(International Children's Digital Library)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "indexing unit",
+    "phonetic": "",
+    "definition": [
+      "检索装置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "information-retrieval",
+    "phonetic": "",
+    "definition": [
+      "un. 情报检索;资料检索;信息检索;信息提取",
+      "[网络] 资讯检索;资讯撷取;文献检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "INFRAL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Information Retrieval Automatic Language 自动化情报检索语言"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interlibrary",
+    "phonetic": ",intә'laibrәri",
+    "definition": [
+      "a. (图书馆)馆际的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interrupt search",
+    "phonetic": "",
+    "definition": [
+      "中断检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inventory-control",
+    "phonetic": "",
+    "definition": [
+      "na. (计算机的)编目控制",
+      "[网络] 库存控制;存货控制;库存管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "INVSL",
+    "phonetic": "",
+    "definition": [
+      "[=Indian National Veterinary Science Library]印度国立兽医科学图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "is-as",
+    "phonetic": "",
+    "definition": [
+      "abbr. (日)太空和航空科学研究所(Institute of Space and Aeronautical Science);信息检索与分析技能(Information Search and Analysis Skills)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "item-on-term file",
+    "phonetic": "",
+    "definition": [
+      "检索词记录文件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JCBL",
+    "phonetic": "",
+    "definition": [
+      "John Carter Brown Library (of Americana)-Brown University, Providence, Rhode Island 约翰·卡特·布郎图书馆-布郎大学神学院,位于罗德岛"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "k-c",
+    "phonetic": "",
+    "definition": [
+      "[网络] 查普曼方程;中跨语检索竞赛;美国的金佰利"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KOMRML",
+    "phonetic": "",
+    "definition": [
+      "[=Kentucky,Ohio,Michigan Regional Medical Library]肯塔基、俄亥俄、密执安地区医学图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LCCC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Library of Congress Computer Catalog 美国国会图书馆计算机目录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LCCN",
+    "phonetic": "",
+    "definition": [
+      "[网络] 美国国会图书馆控制码(Library of Congress Control Number);美国国会图书馆卡片号;标准号码"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LCMARC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Library of Congress Machine Readable Cataloguing 美国国会图书馆机器阅读目录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lend library",
+    "phonetic": "",
+    "definition": [
+      "收费图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lending-library",
+    "phonetic": "",
+    "definition": [
+      "na. 收费图书馆;〈英〉公共图书馆;图书馆的借书处",
+      "[网络] 租赁图书店;借阅图书馆;辅具出借图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "libr",
+    "phonetic": "",
+    "definition": [
+      "abbr. librarian 图书管理员; 图书馆管理学专家; library 图书馆; libretto (Italian=opera or oratorio text) (意大利语)歌剧或宗教剧正文"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "librairie",
+    "phonetic": "",
+    "definition": [
+      "[网络] 书店;图书馆;修会出版品"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "librarian's status",
+    "phonetic": "",
+    "definition": [
+      "图书馆员的地位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "librarianship",
+    "phonetic": "lɪ'brɛərɪənʃɪp",
+    "definition": [
+      "图书馆长[图书管理学专家]的职位[资格]",
+      "EN: n. the position of librarian"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "librarious",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library assistants",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆助理;图书馆员助理;图书馆辅助人员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library auditing",
+    "phonetic": "",
+    "definition": [
+      "图书馆审计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library catalogues",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆目录;图书馆目录的重要性;藏书目录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library directing",
+    "phonetic": "",
+    "definition": [
+      "图书馆指挥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library fines",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆罚款"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library pastes",
+    "phonetic": "",
+    "definition": [
+      "(图书馆使用的一种白色、粘稠的)厚糨糊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library practicum",
+    "phonetic": "",
+    "definition": [
+      "图书馆实习"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library workbook",
+    "phonetic": "",
+    "definition": [
+      "图书馆练习簿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library-colleges",
+    "phonetic": "",
+    "definition": [
+      "图书馆大学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "library-user",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆用户"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LIBRIS",
+    "phonetic": "",
+    "definition": [
+      "图书馆情报系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LLJ",
+    "phonetic": "",
+    "definition": [
+      "Leaf Library of Judaica 犹太文物图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LOCIS",
+    "phonetic": "",
+    "definition": [
+      "[=Library of Congress Information Service]美国国会图书馆信息服务系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "logarithmic search",
+    "phonetic": "",
+    "definition": [
+      "对数检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LSEL",
+    "phonetic": "",
+    "definition": [
+      "London School of Economics Library 伦敦经济类图书馆学校"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LSPR",
+    "phonetic": "",
+    "definition": [
+      "Library Society of Puerto Rico 波多黎各图书馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lucence",
+    "phonetic": "",
+    "definition": [
+      "[网络] 卢塞恩;全文检索技术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MALS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 人文学科文科硕士( Master of Arts in Liberal Studies);图书馆学硕士(Master of Arts in Library Science);多重散光聚焦系统(Multi Astigmatism Lens System)",
+      "EN: n. a master's degree in library science"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "manipulative indexing",
+    "phonetic": "",
+    "definition": [
+      "键控检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "map cataloguing",
+    "phonetic": "",
+    "definition": [
+      "地图编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mechanics' library",
+    "phonetic": "",
+    "definition": [
+      "见习图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "meta-searching",
+    "phonetic": "",
+    "definition": [
+      "后设检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MFLA",
+    "phonetic": "",
+    "definition": [
+      "Midwest Federation of Library Associations 中西部图书馆联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mirs",
+    "phonetic": "",
+    "definition": [
+      "abbr. multimedia information recall system 多媒体信息检索系统; multipurpose infrared system 多用途红外系统; micro interactive retrieval system 微型交互式检索系统; marine inflight refuelling system 海上空中加油系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "monastic library",
+    "phonetic": "",
+    "definition": [
+      "僧院图书馆,修道院图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSLS",
+    "phonetic": "",
+    "definition": [
+      "abbr. Master of Science in Library Science 图书馆学理科硕士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-aspect search",
+    "phonetic": "",
+    "definition": [
+      "多(方)面检索法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NDCD",
+    "phonetic": "",
+    "definition": [
+      "[=National Drug Code Directory]全国药局代号检索,全国药物编码薄"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NLLST",
+    "phonetic": "",
+    "definition": [
+      "abbr. National Lending Library for Science and Technology <英>国立科学及技术出借图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OCLC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 联机计算机图书馆中心(Online Computer Library Center);在线计算机图书馆中心;图书馆中心(Ohio College Library Center)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "off-line retrieval",
+    "phonetic": "",
+    "definition": [
+      "离线检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line catalog",
+    "phonetic": "",
+    "definition": [
+      "(图书馆)馆藏图书联机可读性目录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line retrieval",
+    "phonetic": "",
+    "definition": [
+      "连线检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line search",
+    "phonetic": "",
+    "definition": [
+      "【计算机】联机检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ONRL",
+    "phonetic": "",
+    "definition": [
+      "Office of Naval Records and Library 海军档案与图书馆办公室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open-access library",
+    "phonetic": "",
+    "definition": [
+      "开架式图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open-stack",
+    "phonetic": "'əupən'stæk",
+    "definition": [
+      "adj. (图书馆管理体制中)开架式的[参较 closed-stack]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open-stack library",
+    "phonetic": "",
+    "definition": [
+      "开架式图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OPL",
+    "phonetic": "",
+    "definition": [
+      "abbr. Official Publications Library <英>官方出版物图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "original cataloging",
+    "phonetic": "",
+    "definition": [
+      "原始编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pedagogical library",
+    "phonetic": "",
+    "definition": [
+      "教育图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peed-a-boo system",
+    "phonetic": "",
+    "definition": [
+      "同位穿孔检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pertinent retrieval",
+    "phonetic": "",
+    "definition": [
+      "切合检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "practical cataloguing",
+    "phonetic": "",
+    "definition": [
+      "实用编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "protein-interaction",
+    "phonetic": "",
+    "definition": [
+      "[网络] 蛋白质相互作用;蛋白质相互作用检索;蛋白质间的交互作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "public librarianship",
+    "phonetic": "",
+    "definition": [
+      "公共图书馆学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "public-library",
+    "phonetic": "",
+    "definition": [
+      "na. 公立[公共]图书馆",
+      "[网络] 公共图书馆;大众图书馆;公用程序库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "public-policy",
+    "phonetic": "",
+    "definition": [
+      "un. 公开政策",
+      "[网络] 公共政策;公共政策专业研究生排名;图书馆管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recatalogued",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recataloguing",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "repetitive retrieval",
+    "phonetic": "",
+    "definition": [
+      "[计 图情] 重复检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RLM",
+    "phonetic": "30",
+    "definition": [
+      "(=regional library of medicine) 地区医学图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sabirs",
+    "phonetic": "",
+    "definition": [
+      "abbr. semi-automatic bibliographic information retrieval system 半自动书目情报检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "search distillation",
+    "phonetic": "",
+    "definition": [
+      "蒸馏式检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "search-and-replace",
+    "phonetic": "",
+    "definition": [
+      "un. 搜索与替换",
+      "[网络] 搜索和替换;查找并替换;检索及替代"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "selective cataloging",
+    "phonetic": "",
+    "definition": [
+      "[图情] 选择性编目法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "semantic search",
+    "phonetic": "",
+    "definition": [
+      "语义检索; 语义搜索; 语义查找"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "seminary libraries",
+    "phonetic": "",
+    "definition": [
+      "神学院图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sequential retrieval",
+    "phonetic": "",
+    "definition": [
+      "顺序检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shelf-mark",
+    "phonetic": "",
+    "definition": [
+      "n. (图书馆书库的)书架号,排架号"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "short cataloging",
+    "phonetic": "",
+    "definition": [
+      "[图情] 简化编目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SIGIR",
+    "phonetic": "",
+    "definition": [
+      "abbr. Special Interest Group on Information Retrieval (美国计算机协会)情报检索专业组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "simultaneous scanning",
+    "phonetic": "",
+    "definition": [
+      "同时检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spec-finder",
+    "phonetic": "",
+    "definition": [
+      "谱线检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spectral search",
+    "phonetic": "",
+    "definition": [
+      "光谱检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sub-librarian",
+    "phonetic": "",
+    "definition": [
+      "[网络] 图书馆助理馆长"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sublibrarian",
+    "phonetic": "'sʌblai'breәriәn",
+    "definition": [
+      "n. 图书馆副馆长, 图书馆副管理员",
+      "EN: n. An under or assistant librarian."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "suu",
+    "phonetic": "",
+    "definition": [
+      "abbr. Staats and Universittsbibliothek (German=State and University Library) (德语)国家大学图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "teacher-librarian",
+    "phonetic": "",
+    "definition": [
+      "[网络] 教师图书馆员;图书馆主任"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "team-teach",
+    "phonetic": "",
+    "definition": [
+      "v. 〈美〉进行[参加]小组教学",
+      "[网络] 数位图书馆;读者服务研究"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "text-retrieval",
+    "phonetic": "",
+    "definition": [
+      "un. 正文检索",
+      "[网络] 文本检索;全文检索;文本信息检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TIRC",
+    "phonetic": "",
+    "definition": [
+      "abbr. Technical Information Retrieval Committee〈美〉技术情报检索委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "topological retrieval",
+    "phonetic": "",
+    "definition": [
+      "拓扑检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TRSA",
+    "phonetic": "",
+    "definition": [
+      "Timesharing Retrieval System 分时检索系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "truncations",
+    "phonetic": "",
+    "definition": [
+      "n. 截去;【植】切干萌芽",
+      "[网络] 截字检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uranometria",
+    "phonetic": "",
+    "definition": [
+      "n. 〔天〕恒星编目志",
+      "[网络] 测天图;乌兰诺米特里亚;九等星图"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uranometry",
+    "phonetic": ",juәrә'nɔmitri",
+    "definition": [
+      "恒星编目, 天体测量, 天体测量学",
+      "EN: n. A chart or catalogue of fixed stars, especially of stars visible to the naked eye."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VEREAD",
+    "phonetic": "",
+    "definition": [
+      "abbr. Value Engineering Retrieval of Esoteric Administrative Data <美>(USAF)价值工程机密管理数据检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "weenie bin",
+    "phonetic": "",
+    "definition": [
+      "(大学生)图书馆里带书架的阅览桌"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WHML",
+    "phonetic": "",
+    "definition": [
+      "[=Wellcome Historical Medical Library]韦尔康医学史图书馆"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "word-search",
+    "phonetic": "",
+    "definition": [
+      "[网络] 词检索;搜索;单词搜索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YASD",
+    "phonetic": "",
+    "definition": [
+      "[网络] 雅丝德;图书馆学会对青少年服务部"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YUL",
+    "phonetic": "",
+    "definition": [
+      "耶鲁大学图书馆(Yale University Library)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

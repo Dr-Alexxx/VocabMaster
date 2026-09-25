@@ -1,0 +1,8466 @@
+[
+  {
+    "word": "animal virus",
+    "phonetic": "ˈæniməl ˈvaiərəs",
+    "definition": [
+      "动物病毒",
+      "EN: Any virus capable of infecting one or more animal species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antigenic drift",
+    "phonetic": "",
+    "definition": [
+      "[机] 抗原漂移",
+      "EN: A gradual change in the antigenicity of a virus arising from the accumulation of mutations in the genes that code for surface proteins, which may result in new strains of the virus that are not as effectively inhibited by the same host antibodies that prevented infection by the original strain. Antigenic drift is often enabled by the natural selection of mutant strains under pressure from an immune response. Contrast antigenic shift."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antigenic imprinting",
+    "phonetic": "",
+    "definition": [
+      "EN: See original antigenic sin."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antigenic shift",
+    "phonetic": "",
+    "definition": [
+      "抗原更换,抗原性非连续变异",
+      "EN: Any sudden and major change in the antigenicity of a virus, particularly as the result of a reassortment event between two or more different strains of a virus, or two or more different viruses, which exchange genetic material and thereby combine to form a new subtype having a mixture of the surface antigens of the original strains. Contrast antigenic drift."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "assembly",
+    "phonetic": "ә'sembli",
+    "definition": [
+      "n. 与会者, 集会, 装配, 组件",
+      "[化] 装配",
+      "[计] 汇编语言",
+      "EN: The construction of the virus within the host cell, powered by the host's metabolism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "attachment",
+    "phonetic": "ә'tʃætʃmәnt",
+    "definition": [
+      "n. 连接, 附属物, 连接物, 爱慕",
+      "[计] 附加, 附件",
+      "EN: The first stage of infection of a host cell by a virus, in which a chance collision occurs between a viral particle and a suitable receptor area on the cell's surface, allowing the viral particle to physically attach to the cell by electrostatic forces. Absence of suitable attachment areas can give a cell immunity from infection."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "attenuated strain",
+    "phonetic": "",
+    "definition": [
+      "减毒株",
+      "EN: A mutant viral strain which has low virulence or is avirulent in one or more of its natural host species, and in which it can thus be used as an attenuated vaccine. Attenuated strains are obtained by passage in cell culture or by sampling from a different host species than the one in which the virus usually causes disease."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsid",
+    "phonetic": "'kæpsid",
+    "definition": [
+      "n. 衣壳",
+      "EN: The outer shell of protein that encloses and protects the genetic material of a virus."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsomere",
+    "phonetic": "'kæpsәmә",
+    "definition": [
+      "[机] 衣壳蛋白亚单位",
+      "EN: A subunit of the viral capsid which self-assembles with other capsomeres to form the capsid."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coinfection",
+    "phonetic": "'kɔɪnfekʃən",
+    "definition": [
+      "同时感染",
+      "EN: The simultaneous infection of a cell or host by more than one pathogen, i.e. by more than one species or strain of virus, or by a virus and another type of microorganism such as a bacterium."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dalton (Da)",
+    "phonetic": "",
+    "definition": [
+      "EN: A unit of weight frequently used to describe the size of a virus or viral particle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DNA virus",
+    "phonetic": "",
+    "definition": [
+      "DNA病毒",
+      "EN: A type of virus that has DNA as its genetic material and replicates using a DNA-dependent DNA polymerase. In the Baltimore classification system, DNA viruses belong to either Group I (double-stranded DNA viruses) or Group II (single-stranded DNA viruses); Group VII viruses also have a DNA genome, but are classified separately because they replicate through an RNA intermediate."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dsDNA virus",
+    "phonetic": "",
+    "definition": [
+      "EN: A double-stranded DNA virus; i.e. a virus whose genome is encoded in two complementary strands of DNA, which usually exist as one or more circular molecules. dsDNA viruses constitute Group I in the Baltimore classification system and use methods of replication and transcription that are broadly similar to those of larger organisms such as bacteria."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "emergent virus",
+    "phonetic": "",
+    "definition": [
+      "EN: Any virus that has recently adapted and emerged as a novel causative disease agent. Emergent viruses are often the result of transmission between different species or a rapid increase in the incidence or severity of the associated disease within a host population."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "giant virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 巨病毒",
+      "EN: A very large virus, especially one of the so-called nucleocytoplasmic large DNA viruses (NCLDVs), which have extremely large genomes compared to the average virus and contain many unique genes not found in other organisms. Some of these viruses are larger than a typical bacterium."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "helper virus",
+    "phonetic": "",
+    "definition": [
+      "辅助病毒",
+      "EN: Any virus which aids or allows the replication of a coinfecting virus that is incapable of replicating on its own."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "host",
+    "phonetic": "hәust",
+    "definition": [
+      "n. 主人, 旅馆老板, 节目主持人",
+      "vt. 当主人招待, 作...节目主持人",
+      "[计] 主机, 宿主机",
+      "EN: Any larger organism which harbors a virus in some kind of symbiotic relationship, whether parasitic or otherwise. Though some viruses can survive for short periods outside of a host, all viruses are obligate parasites and therefore ultimately depend upon a host in order to reproduce. Their reproduction is by definition harmful to the host in which it occurs, though viruses may also passively infect and be transmitted by intermediate hosts to whom they do little or no harm."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "host tropism",
+    "phonetic": "",
+    "definition": [
+      "EN: The specificity with which certain pathogens, including most viruses, infect particular hosts and host tissues. Host tropism results in most pathogens being capable of infecting only a limited range of host organisms."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "icosahedral",
+    "phonetic": ",aikәusә'hedrәl",
+    "definition": [
+      "二十面的",
+      "EN: Having the symmetry of an icosahedron."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "latency",
+    "phonetic": "'leitnsi",
+    "definition": [
+      "n. 潜伏, 潜在",
+      "[计] 传输时间, 传输延迟时间",
+      "EN: 1. The ability of a pathogenic virus to lie dormant or latent within a cell for a period of time before reactivating and producing new, independent virions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "neurotropic virus",
+    "phonetic": "",
+    "definition": [
+      "向神经病毒",
+      "EN: A virus that is capable of infecting cells of the nervous system."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nucleocapsid",
+    "phonetic": "nju:kliә'kæpsid",
+    "definition": [
+      "n. [生]核壳体,核蛋白壳,核包核酸,病毒粒子",
+      "EN: The capsid of a virus together with the viral genome contained within it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "passaging",
+    "phonetic": "'pæsɪdʒ",
+    "definition": [
+      "n. 一段(文章);走廊;通路",
+      "n. (Passage)人名;(英)帕西奇;(法)帕萨热",
+      "EN: See serial passage."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "passenger virus",
+    "phonetic": "",
+    "definition": [
+      "过客病毒",
+      "EN: A virus that is frequently found in samples from diseased tissue, such as tumors, but does not contribute to causing the disease."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "penetration",
+    "phonetic": ".peni'treiʃәn",
+    "definition": [
+      "n. 穿透, 渗透, 侵入, 识穿, 洞察(力)",
+      "[化] 渗入",
+      "EN: See entry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phenotype mixing",
+    "phonetic": "",
+    "definition": [
+      "EN: A non-genetic interaction in which viral particles produced by a cell that is coinfected with two or more viruses are constructed with a common set of coat proteins shared between all of the infecting agents, but nevertheless retain their own unique viral genomes. This admixture results in viruses which possess similar assortments of identifying surface proteins despite having different genetic material, and as such is exclusively phenotypic, in the sense that if one of these viruses were to proceed to infect another cell alone (i.e. without coinfection), its genetic material would not be capable of reproducing the same set of shared proteins in its own progeny."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "plant virus",
+    "phonetic": "plɑ:nt ˈvaiərəs",
+    "definition": [
+      "植物病毒",
+      "EN: Any virus capable of infecting one or more plant species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prophage",
+    "phonetic": "",
+    "definition": [
+      "[医] 前噬菌体",
+      "EN: A bacteriophage genome that has been inserted and integrated into a circular bacterial chromosome or which exists as an extrachromosomal plasmid inside the host bacterium, specifically while it remains in a latent form that is present inside the host cell but has not yet been activated by it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reassortment",
+    "phonetic": "ri:ə'sɔ:tmənt",
+    "definition": [
+      "[医]再分布,再分类",
+      "EN: The mixing of genetic material from different species or strains into new combinations in different individuals. Reassortment may occur when two or more similar viruses (e.g. two different strains of influenza virus) infect a single host cell, permitting the assembly of new viral particles from segments of each parental lineage."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rep",
+    "phonetic": "",
+    "definition": [
+      "[计] Visual dBASE报表文件",
+      "EN: An abbreviation for replication protein."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "replication",
+    "phonetic": ".repli'keiʃәn",
+    "definition": [
+      "n. 回答, 反响, 复制, 第二次答辩, 折转, 弯回",
+      "[化] 复制",
+      "EN: Any of the various processes by which a virus reproduces."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "satellite",
+    "phonetic": "'sætlait",
+    "definition": [
+      "n. 人造卫星",
+      "[医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
+      "EN: A subviral agent that depends entirely upon a coinfecting helper virus for its own replication. Satellites may occur as independent virions which encode structural proteins but nevertheless cannot replicate without the helper virus, or as simple segments of nucleic acids which have \"hitchhiked\" using proteins encoded by the helper virus."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slow virus",
+    "phonetic": "",
+    "definition": [
+      "(潜伏期很长、据信是许多慢性病起因的)慢病毒",
+      "EN: Any virus or virus-like agent that is etiologically associated with a so-called slow virus disease: a disease which, after an extended period of latency, follows a slow, progressive course ranging from months to years before in most cases inevitably progressing to death."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superinfection",
+    "phonetic": ",sju:pәrin'fekʃәn",
+    "definition": [
+      "n. [医]重复感染,双重感染",
+      "EN: The process by which a cell that has previously been infected by a virus becomes co-infected by a different strain or species of virus as a consequence of the treatment being used to manage the first virus. The second virus has often evolved a resistance to antiviral drugs used to treat the original infection, or an ability to overcome the host's immune response."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral disease",
+    "phonetic": "",
+    "definition": [
+      "病毒病",
+      "EN: Any disease that occurs when an organism's body is invaded by infectious viral particles of one or more pathogenic viruses which attach to, enter, and parasitize susceptible cells."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral envelope",
+    "phonetic": "",
+    "definition": [
+      "un. 病毒囊包膜;病毒囊膜",
+      "[网络] 病毒包膜;病毒封套;病毒外套膜",
+      "EN: A lipid casing present in some viruses which surrounds the capsid and helps to penetrate the host's cell wall."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral particle",
+    "phonetic": "ˈvaɪərəl ˈpɑ:tikl",
+    "definition": [
+      "[医]病毒颗粒",
+      "EN: See virion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virokine",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒因子",
+      "EN: A viral gene product which has a functional homology with a host's cytokines and affects cellular function in a similar way."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virological failure",
+    "phonetic": "",
+    "definition": [
+      "EN: Occurs when an antiviral therapy (ART, nucloes(t)ide analogs, etc.) fails to suppress and sustain a person's viral load below a predetermined threshold."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virology",
+    "phonetic": "vai'rɒlәdʒi",
+    "definition": [
+      "n. 病毒学",
+      "[医] 病毒学",
+      "EN: The study of viruses and virus-like agents, which seeks to understand and explain their structure, classification, evolution, and mechanisms of infection, as well as the diseases they cause, techniques to isolate and culture them, and their use in research and therapy. Virology is often considered a subfield of microbiology or of medical science."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viropexis",
+    "phonetic": ",vaiәrә'peksis",
+    "definition": [
+      "n. [生]病毒固定(作用)",
+      "EN: The active uptake by a host cell of viral particles (typically bound to receptors on the cell surface) by a non-specific pinocytic process. Viropexis is an important method of viral penetration of host cells."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virostatic",
+    "phonetic": ",vaiәrә'stætik",
+    "definition": [
+      "抑制病毒生长的",
+      "EN: Able to prevent viral replication."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virulence",
+    "phonetic": "'virjulәns",
+    "definition": [
+      "n. 剧毒性, 毒性, 恶毒",
+      "[医] 毒力, 毒性",
+      "EN: The capacity of a pathogen to cause disease, defined broadly in terms of the severity of symptoms experienced by an infected host. Other factors being equal, a viral strain which causes severe symptoms in a susceptible individual may be considered highly virulent, while a different strain which produces less severe or no symptoms in the same individual may be considered relatively less virulent. In practice the concept of virulence can be of ambiguous interpretation, because a particular strain is not itself solely responsible for the severity of the disease which actually develops; equally important are the degree of infectivity expressed by the strain and the state of the host's immunity,"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus",
+    "phonetic": "'vaiәrәs",
+    "definition": [
+      "n. 病毒, 滤过性病毒, 毒害",
+      "[化] 病毒",
+      "EN: A submicroscopic infectious agent that replicates only inside the living cells of other organisms. As obligate intracellular parasites, viruses must infect cellular hosts in order to complete their life cycles, which they achieve by co-opting or \"hijacking\" the host cell's molecular machinery for their own reproduction. While not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent virions. Most virions are exceedingly simple in structure and physically minute, averaging just 1⁄100 the size of the typical bacterium. Viruses are found in almost every ecosystem on Earth and infect all types of life forms, from animals and plants to microorgani"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus attachment protein",
+    "phonetic": "",
+    "definition": [
+      "EN: Any protein which helps to facilitate the binding of a virus to a receptor on a host cell."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus counter",
+    "phonetic": "",
+    "definition": [
+      "EN: A specialized type of flow cytometer used to rapidly quantify the number of individual virions or viral particles in a liquid sample."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "A-CDV",
+    "phonetic": "",
+    "definition": [
+      "[=attenuated canine distemper virus]减毒犬瘟病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ACMV",
+    "phonetic": "",
+    "definition": [
+      "[=African cassava mosaic virus]非洲木薯花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ACNPV",
+    "phonetic": "",
+    "definition": [
+      "[=Autographa california nuclear polyhedrosis virus]苜蓿银纹夜蛾核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "active insect",
+    "phonetic": "",
+    "definition": [
+      "传病毒昆虫"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ad-e",
+    "phonetic": "",
+    "definition": [
+      "[网络] 腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adenoviral arthritis",
+    "phonetic": "",
+    "definition": [
+      "腺病毒性关节炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adenoviral pneumonia",
+    "phonetic": "",
+    "definition": [
+      "腺病毒性肺炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adenovirus infection",
+    "phonetic": "",
+    "definition": [
+      "腺病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADRV",
+    "phonetic": "",
+    "definition": [
+      "[=adult diarrhea rota virus]成人腹泻轮状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adventitious virus",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】外来病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "agglutination tests",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】凝集试验"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AGVD",
+    "phonetic": "",
+    "definition": [
+      "[=Austrialian grapevine viroid]澳洲葡萄藤类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AHSV",
+    "phonetic": "",
+    "definition": [
+      "[=African horse sickness virus]非洲马病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AIV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 禽流感病毒(Avian Influenza Virus);空气喷射阀(Air Injection Valve);石料冲击强度值(Aggregate Impact Value)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AMV-RT",
+    "phonetic": "",
+    "definition": [
+      "[=avian myeloblastosis virus reverse transcriptase]禽成髓细胞瘤病毒逆转录酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AMVRT",
+    "phonetic": "",
+    "definition": [
+      "[=avian myeloblastosis virus reverse transcriptase]禽成髓细胞瘤病毒逆转录酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analytical virology",
+    "phonetic": "",
+    "definition": [
+      "分析病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "animal virology",
+    "phonetic": "",
+    "definition": [
+      "[动 病毒] 动物病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anisometric particle",
+    "phonetic": "",
+    "definition": [
+      "(病毒)不等轴颗粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-delta",
+    "phonetic": "",
+    "definition": [
+      "[网络] D型肝炎抗体;病毒抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ANTI-DV-IGM",
+    "phonetic": "",
+    "definition": [
+      "[=anti-Dengue virus immunoglobulin M antibody]抗-登革病毒-IgM抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ANTI-HAV-IGM",
+    "phonetic": "",
+    "definition": [
+      "[=antihepatitis A virus IgM]抗甲型肝炎病毒IgM抗体,甲型肝炎病毒IgM抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-influenza",
+    "phonetic": "",
+    "definition": [
+      "抗流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ANTI-LFV",
+    "phonetic": "",
+    "definition": [
+      "[=antibody to Lynchburg fecal virus]抗林奇伯格粪病毒抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-poliovirus serum",
+    "phonetic": "",
+    "definition": [
+      "抗脊髓灰质炎病毒血清"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ANTI-VCA",
+    "phonetic": "",
+    "definition": [
+      "[=anti-viral capsid antigen antibody]抗病毒衣壳抗原的抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-viral",
+    "phonetic": "æntɪ'vaɪr(ə)l",
+    "definition": [
+      "a. 抗病毒的;抗滤过性病原体的",
+      "n. 抗病毒物质(等于antidote)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-virus",
+    "phonetic": "",
+    "definition": [
+      "n. 反病毒;防病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-virus programs",
+    "phonetic": "",
+    "definition": [
+      "反病毒程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anti-virus software",
+    "phonetic": "ˈæntaɪ ˈvaɪrəs ˈsɔftˌwɛr",
+    "definition": [
+      "杀毒软件;防病毒软件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antibody-positive",
+    "phonetic": "'ænti,bɔdi'pɔsitiv",
+    "definition": [
+      "adj. 【医学】艾滋病病毒抗体血验呈阳性的;艾滋病病毒血验呈阳性的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anticivic",
+    "phonetic": "",
+    "definition": [
+      "[网络] 反病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anticonservativeness",
+    "phonetic": "",
+    "definition": [
+      "[网络] 抗病毒性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antitheological",
+    "phonetic": "",
+    "definition": [
+      "[网络] 抗病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antiviral agent",
+    "phonetic": "ˌæntiˈvaiərəl ˈeidʒənt",
+    "definition": [
+      "抗病毒剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antiviral drugs",
+    "phonetic": "",
+    "definition": [
+      "抗病毒药"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antiviral model",
+    "phonetic": "",
+    "definition": [
+      "抗病毒模型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antiviral property",
+    "phonetic": "",
+    "definition": [
+      "抗病毒性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antiviral substance",
+    "phonetic": "",
+    "definition": [
+      "抗病毒物质"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antivirotic",
+    "phonetic": ",ænti,vaiә'rɔtik",
+    "definition": [
+      "抗病毒的, 抗病毒剂[素]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apical capsomer",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)顶部壳粒;顶部壳粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "apical capsomere",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)顶部壳粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arbovirus",
+    "phonetic": "'ɑ:bә'vaiәrәs",
+    "definition": [
+      "n. [微]虫媒病毒,(蚊虫等)节肢动物传染病毒",
+      "EN: n a large heterogeneous group of RNA viruses divisible into groups on the basis of the virions; they have been recovered from arthropods, bats, and rodents; most are borne by arthropods; they are linked by the epidemiologic concept of transmission between vertebrate hosts by arthropod vectors (mosquitoes, ticks, sandflies, midges, etc.) that feed on blood; they can cause mild fevers, hepatitis, hemorrhagic fever, and encephalitis"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arbovirus diseases",
+    "phonetic": "",
+    "definition": [
+      "虫媒病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arthropod-borne virus",
+    "phonetic": "",
+    "definition": [
+      "节肢动物媒介病毒;虫传病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASBVD",
+    "phonetic": "",
+    "definition": [
+      "[=Avocado sunbloth viroid]鳄梨白斑类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASFV",
+    "phonetic": "",
+    "definition": [
+      "[=African swine fever virus]非洲猪瘟病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ATLV",
+    "phonetic": "",
+    "definition": [
+      "[=adult T-cell leukemia virus]成人T细胞性白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ATTP",
+    "phonetic": "",
+    "definition": [
+      "[=phage attachment site]噬菌体附着位点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AVAP",
+    "phonetic": "",
+    "definition": [
+      "[=aIDS-Virus-associated periodontitis]爱滋病病毒相关性牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AVH",
+    "phonetic": "",
+    "definition": [
+      "[=acute viral hepatitis]急性病毒性肝炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avian adenovirus",
+    "phonetic": "",
+    "definition": [
+      "鸟类腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avian enterovirus",
+    "phonetic": "",
+    "definition": [
+      "鸟类肠病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avianize",
+    "phonetic": "'eiviә,naiz",
+    "definition": [
+      "vt.使禽化,通过在鸡胚中重复培养减轻(病毒、微生物)的毒力",
+      "EN: v to modify microorganisms by repeated culture in the developing chick embryo"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avianized virus",
+    "phonetic": "",
+    "definition": [
+      "鸡胚驯化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avirulent virus",
+    "phonetic": "",
+    "definition": [
+      "无毒病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AVRU",
+    "phonetic": "",
+    "definition": [
+      "[=Arbovirus Vector Research Unit]虫媒病毒媒介研究单位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AWV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 这项轮式装甲车辆(armoured wheeled vehicles);苜蓿花叶病毒;腹壁静脉曲张(abdominal wall varicosis)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AYV",
+    "phonetic": "1",
+    "definition": [
+      "(=aster yellow virus) 星状黄色病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bacteriophage lambda",
+    "phonetic": "",
+    "definition": [
+      "【分子生物学】 λ字形噬菌体[亦作 temperate phage]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bacteriophage typing",
+    "phonetic": "",
+    "definition": [
+      "噬菌体分型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bacteriophagous",
+    "phonetic": "bæk'tɪərɪəfeɪdʒəs",
+    "definition": [
+      "a. 噬菌体的",
+      "EN: a of or relating to bacteriophages"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BAPV",
+    "phonetic": "",
+    "definition": [
+      "[=bovine alimentary papilloma virus]牛营养性乳头状瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "base-plate fibril",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)基片丝"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "base-plate hub",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)基片插孔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "base-plate wedge",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)基片楔突"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BBWV",
+    "phonetic": "",
+    "definition": [
+      "[=broad bean wilt virus]蚕豆萎蔫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BCPV",
+    "phonetic": "",
+    "definition": [
+      "[=bovine cutaneous papilloma virus]牛皮肤乳头状瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BCVLV",
+    "phonetic": "",
+    "definition": [
+      "[=Bovine calicivirus-like virus]牛杯状样病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BDDV",
+    "phonetic": "",
+    "definition": [
+      "[=bean distortion dwarf virus]菜豆畸矮病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "benign environment",
+    "phonetic": "",
+    "definition": [
+      "良性病毒环境"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "benign virus",
+    "phonetic": "",
+    "definition": [
+      "良性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BFDV",
+    "phonetic": "",
+    "definition": [
+      "[=Budgerigar Fledgling Disease Virus]鹦鹉幼雏病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BGAV",
+    "phonetic": "",
+    "definition": [
+      "[=Blue-green algal virus]蓝绿藻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BGMV",
+    "phonetic": "",
+    "definition": [
+      "[=Bean golden mosaic virus]菜豆金黄花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bimodal virus",
+    "phonetic": "",
+    "definition": [
+      "双模病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "biohazard suit",
+    "phonetic": "",
+    "definition": [
+      "[网络] 防化服;防病毒服装"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "biological virology",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 生物病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BKV",
+    "phonetic": "",
+    "definition": [
+      "[=BK virus]BK病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bluetongue",
+    "phonetic": "'blu:tʌŋ",
+    "definition": [
+      "n. 蓝舌病(羊、马等的病毒性疾病,似口蹄疫, 最早出现于南非)",
+      "EN: n a viral disease of sheep and cattle that is transmitted by biting midges"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BLV",
+    "phonetic": "",
+    "definition": [
+      "n. 牛白血病病毒",
+      "[网络] 牛白血病病毒(bovine leukemia virus);引导逻辑卷(boot logical volume);绝缘电线"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BMNPV",
+    "phonetic": "",
+    "definition": [
+      "[=Bombyx mori nuclear polyhydrosis virus]家蚕核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BNYVV",
+    "phonetic": "",
+    "definition": [
+      "[=beet necrotic yellow vein virus]甜菜坏死黄脉病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "boot-type virus",
+    "phonetic": "",
+    "definition": [
+      "开机型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bovine adenovirus",
+    "phonetic": "",
+    "definition": [
+      "牛腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BPIV",
+    "phonetic": "",
+    "definition": [
+      "[=Bovine parainfluenza virus]牛副流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "budded virus",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】芽殖病毒 [亦作 budding virus]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bullet-shaped virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 子弹状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BVD",
+    "phonetic": "",
+    "definition": [
+      "abbr. 牛病毒性腹泻(bovine virus diarrhea)",
+      "abbr. 牛粘膜综合症(bovine virus diarrhea)",
+      "EN: n. trademark for men's underwear"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BVDV",
+    "phonetic": "",
+    "definition": [
+      "[=bovine viral diarrhea virus]牛病毒性腹泻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BVIN",
+    "phonetic": "",
+    "definition": [
+      "[=BALB virus induction,N-tropic]亲N的BALB病毒诱导"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BVIX",
+    "phonetic": "",
+    "definition": [
+      "[=BALB virus induction,xenotropic]亲异性的BALB病毒诱导"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BVV",
+    "phonetic": "",
+    "definition": [
+      "[=bovine vaginitis virus]牛阴道炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BWYV",
+    "phonetic": "",
+    "definition": [
+      "[=Beet western yellow virus]甜菜西部黄化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "c-types",
+    "phonetic": "",
+    "definition": [
+      "C型病毒的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "C-V-DNA",
+    "phonetic": "",
+    "definition": [
+      "[=coated viral DNA]包被的病毒脱氧核糖核酸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CAEBV",
+    "phonetic": "",
+    "definition": [
+      "[=chronic active Epstein-Barr Virus]慢性活动性EB病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CAEV",
+    "phonetic": "",
+    "definition": [
+      "[=Caprine arthritis-encephalitis virus]山羊关节炎-脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CAMV",
+    "phonetic": "",
+    "definition": [
+      "[=cauliflower mosaic virus]花椰菜花叶病毒,花椰菜镶嵌病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "canary-pox virus",
+    "phonetic": "",
+    "definition": [
+      "金丝雀痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cancer virology",
+    "phonetic": "",
+    "definition": [
+      "[肿瘤] 癌病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cancer-inducing virus",
+    "phonetic": "",
+    "definition": [
+      "成瘤病毒;癌诱发性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsid polypeptide",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】(病毒的)外壳多肽"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsids",
+    "phonetic": "",
+    "definition": [
+      "n. (病毒的)衣壳",
+      "[网络] 壳体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "capsomer",
+    "phonetic": "",
+    "definition": [
+      "壳粒; 病毒壳粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "carcinogenic virus",
+    "phonetic": "",
+    "definition": [
+      "致癌病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CARMV",
+    "phonetic": "",
+    "definition": [
+      "[=carnation mottle virus]香石竹斑驳病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "carrier phage",
+    "phonetic": "",
+    "definition": [
+      "载体噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cavity virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 空腔病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CBLVD",
+    "phonetic": "",
+    "definition": [
+      "[=Citrus bent leaf viroid]柑桔弯叶类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCHFV",
+    "phonetic": "",
+    "definition": [
+      "[=Crimean-Congo hemorrhagic fever virus]克里米亚-刚果出血热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDCV",
+    "phonetic": "",
+    "definition": [
+      "[=Calf diarrhea coronavirus]牛腹泻冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CEEV",
+    "phonetic": "",
+    "definition": [
+      "[=Central European encephalitis virus]中欧脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CELOV",
+    "phonetic": "",
+    "definition": [
+      "[=Chicken embryo lethal orphan virus]鸡胚致死性孤儿病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "centumviral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 百合病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CGMMV",
+    "phonetic": "",
+    "definition": [
+      "[=cucumber green mottle mosaic virus]黄瓜绿斑点花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CHF-CONGO",
+    "phonetic": "",
+    "definition": [
+      "[=Crimean haemorrhagic fever-Congo virus]克里米亚出血热-刚果病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CHV",
+    "phonetic": "10",
+    "definition": [
+      "(=canine herpes virus) 犬疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cima",
+    "phonetic": "",
+    "definition": [
+      "abbr. 特许管理会计师公会(Chartered Institute of Management Accountants);美国建筑工业制造商协会(Construction Industry Manufacturers Association);Comodo病毒在线分析服务(Comodo Instant Malware Analysis)",
+      "EN: n. A kind of molding. See Cyma."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "circulative virus",
+    "phonetic": "",
+    "definition": [
+      "循环性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "circulative viruses",
+    "phonetic": "",
+    "definition": [
+      "循环性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIRV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 香石竹意大利环斑病毒(Carnation Italian ringspot virus);香石竹环斑病毒(Carnationringspotvirus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clathroid",
+    "phonetic": "",
+    "definition": [
+      "[网络] 噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CLMW",
+    "phonetic": "",
+    "definition": [
+      "[=Cauliflower mosaic virus]花椰菜花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CMVIG",
+    "phonetic": "",
+    "definition": [
+      "[=Cytomegalovirus immune globulin]巨细胞病毒免疫球蛋白"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cod-worm",
+    "phonetic": "",
+    "definition": [
+      "[网络] 鳕鱼病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COFAL",
+    "phonetic": "",
+    "definition": [
+      "[=complement-fixation test for avian leukosis virus]鸟类造白细胞组织增生病毒补体结合试验"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coliphage",
+    "phonetic": "'kɔlifeidʒ",
+    "definition": [
+      "n. [微]大肠杆菌噬菌体",
+      "EN: n a bacteriophage that infects the bacterium Escherichia coli"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "collateral mail",
+    "phonetic": "",
+    "definition": [
+      "毒信——内有有毒物质或被有毒物质(尤其是炭疽病毒)感染的信件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "common-wart virus",
+    "phonetic": "",
+    "definition": [
+      "共同疣病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparative virology",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 比较病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "complete virion",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 完整病毒颗粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comprehensive virology",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 综合病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "computer virology",
+    "phonetic": "",
+    "definition": [
+      "电脑病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "conjunctivitis virus",
+    "phonetic": "",
+    "definition": [
+      "结膜炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "contractile tail",
+    "phonetic": "",
+    "definition": [
+      "(噬菌体)可收缩尾"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COPV",
+    "phonetic": "",
+    "definition": [
+      "[=Canine oral papillomavirus]狗口腔乳头瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cordycepin",
+    "phonetic": ",kɔ:di'sepin",
+    "definition": [
+      "n. [微]蛹虫草菌素,虫草素,冬虫夏草菌素,3'-脱氧腺苷(一种抗病毒抗生素)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "corona virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coronavirus",
+    "phonetic": ",kɔrәnә'vairәs",
+    "definition": [
+      "n. [微]日冕形病毒,冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coronavirus infection",
+    "phonetic": "",
+    "definition": [
+      "冠状病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cowpox virus",
+    "phonetic": "",
+    "definition": [
+      "牛痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cowpoxes",
+    "phonetic": "",
+    "definition": [
+      "na. 牛痘",
+      "[网络] 牛痘病;牛天花;牛痘病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COX-V",
+    "phonetic": "",
+    "definition": [
+      "[=Coxsackie virus]柯萨奇病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COYMV",
+    "phonetic": "",
+    "definition": [
+      "[=commelina yellow mottle virus]鸭跖草黄斑驳病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPAV",
+    "phonetic": "",
+    "definition": [
+      "一种清病毒软件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPMV",
+    "phonetic": "",
+    "definition": [
+      "[=cowpea mosaic virus]黑眼豆花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CRHV",
+    "phonetic": "",
+    "definition": [
+      "[=cottontail rabbit herpes virus]白尾棕色兔疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crop virology",
+    "phonetic": "",
+    "definition": [
+      "[作物] 作物病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cross-protection",
+    "phonetic": "'krɔsprəu'tekʃən",
+    "definition": [
+      "n. 【病毒学】交叉保护作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "croup-associated virus",
+    "phonetic": "'kru:pə'səuʃieitid",
+    "definition": [
+      "【病毒学】哮吼伴随病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CRSV",
+    "phonetic": "",
+    "definition": [
+      "[=carnation ringspot virus]香石竹环斑病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cryptic prophage",
+    "phonetic": "",
+    "definition": [
+      "隐性前噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cryptic virus",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】隐性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crystalline virus",
+    "phonetic": "",
+    "definition": [
+      "晶体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CTFV",
+    "phonetic": "",
+    "definition": [
+      "[=Colorado tick fever virus]科罗拉多蜱热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CVA",
+    "phonetic": "",
+    "definition": [
+      "计算机病毒工业协会",
+      "EN: n. a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CVTM",
+    "phonetic": "",
+    "definition": [
+      "[=charcoal viral transport medium]含炭的病毒传递培养基"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cyath",
+    "phonetic": "",
+    "definition": [
+      "[网络] 细胞病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cyathophylloid",
+    "phonetic": "",
+    "definition": [
+      "[网络] 细胞病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cytomegalovirus",
+    "phonetic": ",saitә,me^әlәu'vaiәrәs",
+    "definition": [
+      "n. 巨细胞病毒",
+      "EN: n. any of a group of herpes viruses that enlarge epithelial cells and can cause birth defects; can affect humans with impaired immunological systems"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DDV",
+    "phonetic": "",
+    "definition": [
+      "[=dihuang degeneration virus]地黄退化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "defective agent",
+    "phonetic": "",
+    "definition": [
+      "【微生物学】缺陷性病毒,缺损病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "defective mutant",
+    "phonetic": "",
+    "definition": [
+      "[病毒]缺损突变株"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "defective phage",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】缺陷性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "defective prophage",
+    "phonetic": "",
+    "definition": [
+      "缺陷原噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "defective virus",
+    "phonetic": "",
+    "definition": [
+      "缺损性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dengue virus",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】登革热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dermotropic virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 亲皮肤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DGV",
+    "phonetic": "'diːdʒ'iːv'iː",
+    "definition": [
+      "(=dengue fever virus) 登革热病毒,(=dextrose, gelatin, veronal) 葡萄糖, 明胶, 巴比妥(溶液),(=dextrose-gelatin-veronal solution) 葡萄糖、明胶、佛罗那溶液"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DHAV",
+    "phonetic": "",
+    "definition": [
+      "[=duck hepatitis A virus]鸭甲型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DHB",
+    "phonetic": "",
+    "definition": [
+      "[=duck hepatitis B virus]鸭乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DHBV",
+    "phonetic": "",
+    "definition": [
+      "[=duck hepatitis B virus]鸭乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "disseminations",
+    "phonetic": "dɪ,semɪ'neɪʃn",
+    "definition": [
+      "n. 宣传;散播;传染(病毒)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "distemper virus",
+    "phonetic": "",
+    "definition": [
+      "犬瘟热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DKV",
+    "phonetic": "",
+    "definition": [
+      "[=deer kidney virus]鹿肾病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DNV",
+    "phonetic": "",
+    "definition": [
+      "(=densovirus)浓核病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DOBV",
+    "phonetic": "",
+    "definition": [
+      "[=Dobrava-Belgrade virus]多布拉伐-贝尔格莱德病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DVIM",
+    "phonetic": "",
+    "definition": [
+      "[=diarrhea virus of infant mice]幼鼠腹泻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DXV",
+    "phonetic": "",
+    "definition": [
+      "[=Drosophila X virus]果蝇X病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-mail virus",
+    "phonetic": "",
+    "definition": [
+      "电子邮件病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EADV",
+    "phonetic": "",
+    "definition": [
+      "[=equine adenovirus]马腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EB-VCA",
+    "phonetic": "",
+    "definition": [
+      "[=EB virus capsid antigen]EB病毒壳抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EBV-VCA",
+    "phonetic": "",
+    "definition": [
+      "血清Esptein Barr病毒壳体抗原抗体检测试剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EBVDNA",
+    "phonetic": "",
+    "definition": [
+      "[=Epstein-Barr virus-determinated nuclear antigen]E-B病毒的决定族核心抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EBVE",
+    "phonetic": "",
+    "definition": [
+      "[=pstein-Barr virus]EB病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "echovirus",
+    "phonetic": "'ekәj,vaiәrәs",
+    "definition": [
+      ",ECHO virus[微]艾柯病毒,人肠道孤病毒, 人肠细胞病变孤儿病毒",
+      "EN: n any of a group of viruses associated with various diseases including viral meningitis and mild respiratory disorders and diarrhea in newborn infants"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ECMOV",
+    "phonetic": "",
+    "definition": [
+      "[=enteric cytopathogenic monkey orphan virus]猴肠道病原性孤儿病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ECV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 扩展内容验证;电子控制单元;艾柯病毒(extracellular virus);增强型用户视图(Enhanced Customer View)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EDIMV",
+    "phonetic": "",
+    "definition": [
+      "[=epidemic diarrhoea of infant mice virus]幼鼠流行性腹泻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EEHV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EHFV",
+    "phonetic": "",
+    "definition": [
+      "[=epidemic hemorrhagic fever virus]流行性出血热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "embryonated egg",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】含胚卵,鸡胚"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EMCV",
+    "phonetic": "",
+    "definition": [
+      "[=encephalomyocarditis virus]脑心肌炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EMDV",
+    "phonetic": "",
+    "definition": [
+      "[=Eggplant mottled dwarf virus]茄斑驳矮化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "empty capsid",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 空壳体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "endogenous virus",
+    "phonetic": "",
+    "definition": [
+      "内生病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enteric virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 肠道病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enteric-virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 肠道病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enterovirus",
+    "phonetic": ",entәrәu'vaiәrәs",
+    "definition": [
+      "n. [微]肠道病毒",
+      "EN: n any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enterovirus poliovirus",
+    "phonetic": "",
+    "definition": [
+      "小儿麻痺症病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enveloped virus",
+    "phonetic": "",
+    "definition": [
+      "有套膜病毒, 被膜病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epidemic virus",
+    "phonetic": "",
+    "definition": [
+      "流行性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equine adenovirus",
+    "phonetic": "",
+    "definition": [
+      "马腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equine herpesvirus",
+    "phonetic": "",
+    "definition": [
+      "马泡疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "equine paramyxovirus",
+    "phonetic": "",
+    "definition": [
+      "马副黏液病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "erythrocyte virus",
+    "phonetic": "",
+    "definition": [
+      "红血球病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "etch virus",
+    "phonetic": "",
+    "definition": [
+      "蚀刻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EYDU",
+    "phonetic": "",
+    "definition": [
+      "[=5-ethynyl-2'-deoxyuridine eye disease caused by virus]5-乙炔基-2'-脱氧尿苷病毒引起的眼病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "f-secure",
+    "phonetic": "",
+    "definition": [
+      "[网络] 芬安全;只能扫病毒不能解病毒;芬兰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "F-V-DNA",
+    "phonetic": "",
+    "definition": [
+      "[=free viral DNA]游离病毒DNA"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fan-leaf",
+    "phonetic": "",
+    "definition": [
+      "扇叶病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fanleaf",
+    "phonetic": "",
+    "definition": [
+      "[网络] 扇叶病毒病;葡萄扇叶病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fecal-oral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 粪口;粪口传染;带病毒者的排泄物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "feline picornavirus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 猫细小核糖核酸病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "female-specific phage",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】雌性特种噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FESV",
+    "phonetic": "",
+    "definition": [
+      "[=feline sarcoma virus]猫肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fiber antigen",
+    "phonetic": "ˈfaɪbə",
+    "definition": [
+      "腺病毒触丝抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filamentous phage",
+    "phonetic": "",
+    "definition": [
+      "【微生物学】丝状噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filamentous virus",
+    "phonetic": "",
+    "definition": [
+      "【微生物学】丝状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "file-type virus",
+    "phonetic": "",
+    "definition": [
+      "档案型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filter passer",
+    "phonetic": "",
+    "definition": [
+      "滤过性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filter-virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 滤过性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filtrable virus",
+    "phonetic": "",
+    "definition": [
+      "过性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "filtration virus",
+    "phonetic": "",
+    "definition": [
+      "滤性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FIPV",
+    "phonetic": "",
+    "definition": [
+      "[=feline infectious peritonitis virus]猫传染性腹膜炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FLV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 猫白血病病毒(feline leukemia virus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FMDV",
+    "phonetic": "",
+    "definition": [
+      "[=Foot-and-mouth Disease Virus]口蹄疫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "foamy virus",
+    "phonetic": "",
+    "definition": [
+      "泡沫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FOCMA",
+    "phonetic": "",
+    "definition": [
+      "[=feline(RNA)oncovirus-associated cell membrane antigen]猫(RNA)肿瘤病毒相关细胞膜抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "forensic virology",
+    "phonetic": "",
+    "definition": [
+      "[特医] 法医病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FPLV",
+    "phonetic": "",
+    "definition": [
+      "[=feline panleukopenia virus]猫全白细胞缺乏症病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FTLV",
+    "phonetic": "",
+    "definition": [
+      "[=Feline T-lymphotropic virus]猫T-淋巴细胞病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fungal virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 真菌病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FVA",
+    "phonetic": "",
+    "definition": [
+      "[=Friend virus anemia]弗里德病毒性贫血"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FVH",
+    "phonetic": "",
+    "definition": [
+      "[=fulminant viral hepatitis]暴发性病毒性肝炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FVP",
+    "phonetic": "",
+    "definition": [
+      "[=Friend virus polycythemia]弗里德病毒性红细胞增多症"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "G-MULV",
+    "phonetic": "",
+    "definition": [
+      "[=Gross murine leukaemia virus]格罗斯鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gd-vii virus",
+    "phonetic": "",
+    "definition": [
+      "GD7号病毒(造成泰勒氏脑嵴髓炎之病因)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GDV",
+    "phonetic": "",
+    "definition": [
+      "[=granule-derived virus]颗粒体衍生病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GEFC",
+    "phonetic": "",
+    "definition": [
+      "[=gastroenteritis of foals coronavirus]驹冠状病毒胃肠炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "general virology",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 普通病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "genetic circularity",
+    "phonetic": "",
+    "definition": [
+      "遗传圆环性;(细菌病毒之)无末端的线状染色体图或连锁图"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "getah virus",
+    "phonetic": "",
+    "definition": [
+      "给塔病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GGV",
+    "phonetic": "",
+    "definition": [
+      "[=Gaeumannomyces graminis virus]禾顶囊壳病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GICMVD",
+    "phonetic": "",
+    "definition": [
+      "消化道巨细胞病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GPHV",
+    "phonetic": "",
+    "definition": [
+      "[=guinea pig herpes virus]豚鼠疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GPRV",
+    "phonetic": "",
+    "definition": [
+      "[=guinea pig retrovirus]豚鼠逆病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "granulosis virus",
+    "phonetic": "",
+    "definition": [
+      "颗粒体症病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GSHBV",
+    "phonetic": "",
+    "definition": [
+      "[=ground squirrel hepatitis B virus]地松鼠乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GSHV",
+    "phonetic": "",
+    "definition": [
+      "[=ground squirrel hapatitis virus]黄鼠肝炎病毒,地松鼠肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "guinea-worm",
+    "phonetic": "",
+    "definition": [
+      "na. 麦地那龙线虫",
+      "[网络] 几内亚龙线虫;几内亚虫;麦地那龙线虫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HALV",
+    "phonetic": "",
+    "definition": [
+      "[=hamster leukemia virus]仓鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hamster virus",
+    "phonetic": "",
+    "definition": [
+      "仓鼠病毒(属于披衣菌;可能与小鼠肺炎有关)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HANPV",
+    "phonetic": "",
+    "definition": [
+      "[=Heliothis armigera nuclear polyhedrosis virus]棉铃虫核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hav",
+    "phonetic": "",
+    "definition": [
+      "abbr. 甲型肝炎病毒(Hepatitis A virus);热空气硫化(Hot Air Vulcanization)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HBV-DMA",
+    "phonetic": "",
+    "definition": [
+      "乙型肝炎病毒去氧核糖核酸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HBV-DNAP",
+    "phonetic": "",
+    "definition": [
+      "[=HBV-associated DNA polymerase]乙型肝炎病毒相关DNA聚合酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HBVDNA",
+    "phonetic": "",
+    "definition": [
+      "乙肝病毒脱氧核糖核酸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HCIS",
+    "phonetic": "",
+    "definition": [
+      "[=herpes simplex virus type 1 sensitivity]1型单纯疱疹病毒敏感性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HECV",
+    "phonetic": "",
+    "definition": [
+      "[=human enteric coronavirus]人肠道冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "helical virion",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 螺旋病毒粒子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "helper phage",
+    "phonetic": "",
+    "definition": [
+      "【遗传学】辅助噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hemagglutination virus",
+    "phonetic": "",
+    "definition": [
+      "血球凝集病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpes sim-plex",
+    "phonetic": "",
+    "definition": [
+      "单纯疱疹病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpes virus",
+    "phonetic": "ˈhə:pi:z ˈvaiərəs",
+    "definition": [
+      "疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus aotus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 枭猴疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus ateles",
+    "phonetic": "",
+    "definition": [
+      "蜘蛛猴疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus cuniculi",
+    "phonetic": "",
+    "definition": [
+      "兔疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus infections",
+    "phonetic": "",
+    "definition": [
+      "疱疹病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus saimiri",
+    "phonetic": "",
+    "definition": [
+      "狨疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "herpesvirus varicella",
+    "phonetic": "",
+    "definition": [
+      "水痘疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heteroimmune phage",
+    "phonetic": "",
+    "definition": [
+      "异种免疫噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heterozygous phage",
+    "phonetic": "",
+    "definition": [
+      "杂合噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HHBV",
+    "phonetic": "",
+    "definition": [
+      "[=heron hepatitis B virus]灰仓鹭乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HIV-RT",
+    "phonetic": "",
+    "definition": [
+      "人类免疫缺陷病毒逆转录酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HLV",
+    "phonetic": "",
+    "definition": [
+      "[=herpes like virus]疱疹样病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HOCV",
+    "phonetic": "",
+    "definition": [
+      "[=Hog cholera virus]猪瘟病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HPAIV",
+    "phonetic": "",
+    "definition": [
+      "[=high pathogenic avian influenza virus]高致病性禽流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HPV-DK",
+    "phonetic": "",
+    "definition": [
+      "[=high-passage virus-dog kidney]多代经狗肾病毒,多次经狗肾传代病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HRLA",
+    "phonetic": "",
+    "definition": [
+      "[=human reovirus-like agent]人呼肠病毒样因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HRVLA",
+    "phonetic": "",
+    "definition": [
+      "[=human reovirus-like agent]人呼肠病毒样因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HSV-I",
+    "phonetic": "",
+    "definition": [
+      "[网络] 单纯疱疹病毒;单纯庖疹病毒;单纯疱疹病毒抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HSV-II",
+    "phonetic": "",
+    "definition": [
+      "[网络] 单纯疱疹病毒;单纯疱疹病毒抗体;二型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HSVE",
+    "phonetic": "",
+    "definition": [
+      "[=herpes simplex virus encephalitis]单纯疱疹病毒脑炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HSVIA",
+    "phonetic": "",
+    "definition": [
+      "[=herpes simplex viral-induced antigens]单纯疱疹病毒诱发抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HSVLA",
+    "phonetic": "",
+    "definition": [
+      "[=herpes simplex viral-in-duced antigens]单纯疱疹病毒诱发抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HTLV-I",
+    "phonetic": "",
+    "definition": [
+      "[网络] 淋巴细胞病毒;人嗜T淋巴细胞病毒I型;白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HTLV-MA",
+    "phonetic": "",
+    "definition": [
+      "[=HTLV-associated cell membrane antigen]人T细胞白血病病毒相关细胞膜抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HTNV",
+    "phonetic": "",
+    "definition": [
+      "[=Hantaan virus]汉滩病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "human cytomegalovirus",
+    "phonetic": "",
+    "definition": [
+      "人巨细胞病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "human virology",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 人类病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HVH",
+    "phonetic": "",
+    "definition": [
+      "[=herpes virus hominis]人疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HVHMA",
+    "phonetic": "",
+    "definition": [
+      "[=herpes virus hominis membrane antigen]人疱疹病毒膜抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HVJ",
+    "phonetic": "",
+    "definition": [
+      "[=hemagglutinating virus of Japan]日本血球凝集病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HVNPV",
+    "phonetic": "",
+    "definition": [
+      "[=Heliothis virescens nuclear polyhedrosis virus]烟芽夜蛾核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HWV",
+    "phonetic": "",
+    "definition": [
+      "[=human wart virus]人疣病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HZNPV",
+    "phonetic": "",
+    "definition": [
+      "[=Heliothis zea nuclear polyhedrosis virus]玉米夜蛾核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IBDV",
+    "phonetic": "",
+    "definition": [
+      "[=infectious bursal disease virus]传染性法氏囊病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ICNV",
+    "phonetic": "",
+    "definition": [
+      "[=International Committee for the Nomenclature viruses]国际病毒命名委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "icosahedral virion",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 二十面体病毒粒子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "icosahedral virus",
+    "phonetic": "",
+    "definition": [
+      "二十面体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "icosahedron virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 二十面体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IDAV",
+    "phonetic": "",
+    "definition": [
+      "[=immune deficiency associated virus]免疫缺陷相关病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IEV",
+    "phonetic": "",
+    "definition": [
+      "[=intracellular enveloped virus]细胞内具被膜的病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ILH",
+    "phonetic": "",
+    "definition": [
+      "[=Ilheus virus]伊利乌斯病毒,巴西脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inactivated virus",
+    "phonetic": "",
+    "definition": [
+      "不活化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inactive insect",
+    "phonetic": "",
+    "definition": [
+      "不传病毒昆虫"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inclusion rhinitis",
+    "phonetic": "",
+    "definition": [
+      "(病毒性)包涵体鼻炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "incubation periods",
+    "phonetic": "",
+    "definition": [
+      "na. 潜伏期",
+      "[网络] 诺罗病毒潜伏期"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inducible phage",
+    "phonetic": "",
+    "definition": [
+      "诱导噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "infective unit",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 感染单位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "influenza virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "influenzas",
+    "phonetic": ".ɪnflu'enzə",
+    "definition": [
+      "n. (马,猪等的)流感;【医】流行性感冒",
+      "[网络] 流行感冒;流感病毒;流行性感冒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "insect virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 昆虫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "intact virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 完整病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet hoaxes",
+    "phonetic": "",
+    "definition": [
+      "网际网路恶作剧病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "intracellular titer",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 细胞内效价"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IOCV",
+    "phonetic": "",
+    "definition": [
+      "[=International Organization of Citrus Virologists]国际柑桔病毒学家组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iridescent virus",
+    "phonetic": "",
+    "definition": [
+      "虹彩病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "irido virus",
+    "phonetic": "",
+    "definition": [
+      "虹彩病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "isometric particle",
+    "phonetic": "",
+    "definition": [
+      "(病毒)等轴颗粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "isometric virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 等轴病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ISVN",
+    "phonetic": "",
+    "definition": [
+      "[=International System of virus Nomenclature]国际病毒命名法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JEV",
+    "phonetic": "",
+    "definition": [
+      "[=Japanese encephalitis virus]日本脑炎病毒,乙型脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KERV",
+    "phonetic": "",
+    "definition": [
+      "[=Kentucky equine respiratory virus]肯德基马呼吸道病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KHFV",
+    "phonetic": "",
+    "definition": [
+      "[=Korean haemorrhagic fever virus]朝鲜出血热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "killing titer",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 致死滴度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KILV",
+    "phonetic": "",
+    "definition": [
+      "[=Kirsten leukemia virus]柯斯顿白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KIMSV",
+    "phonetic": "",
+    "definition": [
+      "[=Kristen murine sarcoma virus]柯斯顿鼠肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KISV",
+    "phonetic": "",
+    "definition": [
+      "[=Kirsten sarcoma virus]柯斯顿肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KNRK",
+    "phonetic": "",
+    "definition": [
+      "柯尔斯滕鼠肉瘤病毒转化的大鼠肾细胞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KSHV",
+    "phonetic": "",
+    "definition": [
+      "[=Kaposi sarcoma associated herpesvirus]卡波济肉瘤相关疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KYZ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 酒店管理公司;工程设计有限公司;披膜病毒科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LAHV",
+    "phonetic": "",
+    "definition": [
+      "[=leukocyte-associated herpes virus]白细胞相关疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lambda phage",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】λ—噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lambdoid phase",
+    "phonetic": "",
+    "definition": [
+      "入形噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lapinized virus",
+    "phonetic": "",
+    "definition": [
+      "兔化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "latent-virus infection",
+    "phonetic": "",
+    "definition": [
+      "潜伏性病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LCMV",
+    "phonetic": "",
+    "definition": [
+      "[=lymphocytic choriomeningitis virus]淋巴细胞性脉络丛脑膜炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "leukemia virus",
+    "phonetic": "",
+    "definition": [
+      "白血病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "live-virus vaccine",
+    "phonetic": "",
+    "definition": [
+      "活病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "livestock virology",
+    "phonetic": "",
+    "definition": [
+      "[兽医] 家畜病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LIVIM",
+    "phonetic": "",
+    "definition": [
+      "[=lethal intestinal virus of infant mice]仔鼠致死性肠病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LLV-F",
+    "phonetic": "",
+    "definition": [
+      "[=Friend virus-associated lymphatic leukemia virus]与弗兰德病毒相关性淋巴白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "louping-ill virus",
+    "phonetic": "",
+    "definition": [
+      "跳跃病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LPAIV",
+    "phonetic": "",
+    "definition": [
+      "低致病性禽流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LRUV",
+    "phonetic": "",
+    "definition": [
+      "[=live,attenuated rubellavirus vaccine]减毒活风疹病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LSDV",
+    "phonetic": "",
+    "definition": [
+      "[=lumpy skin disease virus]皱皮病病毒,疙瘩皮肤病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lysogenic phage",
+    "phonetic": "",
+    "definition": [
+      "溶原性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lysogenic virus",
+    "phonetic": "",
+    "definition": [
+      "溶源性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lysogenic viruses",
+    "phonetic": "",
+    "definition": [
+      "溶源性病毒(可转化为原病毒的病毒), 溶原性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lytic phage",
+    "phonetic": "",
+    "definition": [
+      "溶解性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lytic virus",
+    "phonetic": "",
+    "definition": [
+      "裂解病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lytic viruses",
+    "phonetic": "",
+    "definition": [
+      "溶菌性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "major bacteriophage",
+    "phonetic": "",
+    "definition": [
+      "较大噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MARHV",
+    "phonetic": "",
+    "definition": [
+      "[=marmoset herpes virus]狨猴疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marine bacteriophage",
+    "phonetic": "",
+    "definition": [
+      "海洋噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "marine virology",
+    "phonetic": "",
+    "definition": [
+      "海洋病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mature phage",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 成熟噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mature virion",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 成熟病毒体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "maw-worms",
+    "phonetic": "",
+    "definition": [
+      "[网络] 蠕虫病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MCFV",
+    "phonetic": "",
+    "definition": [
+      "[=malignant catarrhal fever virus]恶性卡他热病毒,恶性疱疹热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MCPV",
+    "phonetic": "",
+    "definition": [
+      "[=midgut cytoplasmic polyhedrosis virus]牛肠细胞质多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MDHV",
+    "phonetic": "",
+    "definition": [
+      "[=Marek's disease herpesvirus]马雷克病疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MDPV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 浴盐;番鸭细小病毒;戊酮"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MDV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 马立克氏病病毒(Marek's disease virus);马立克氏病毒;鸡马立克氏病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "medical virology",
+    "phonetic": "",
+    "definition": [
+      "医学病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "memory-resident virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 记忆体常驻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MHFV",
+    "phonetic": "",
+    "definition": [
+      "[=Mongolia hemorrhagic fever virus]蒙古出血热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MIIC",
+    "phonetic": "",
+    "definition": [
+      "[=minimum intracellular virus inactivation concentration]最低细胞内病毒灭活浓度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "minor bacteriophage",
+    "phonetic": "",
+    "definition": [
+      "较小噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "minute phage",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 微小噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MMLV",
+    "phonetic": "",
+    "definition": [
+      "[=Moloney murine leukemia virus]莫洛尼鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MMTV",
+    "phonetic": "",
+    "definition": [
+      "[=mouse mammary tumor virus]小鼠乳房肿瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MMULV",
+    "phonetic": "",
+    "definition": [
+      "[=Moloney murine leukemia virus]莫洛尼鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MMULV-RT",
+    "phonetic": "",
+    "definition": [
+      "[=Moloney murine leukemia virus reverse transcriptase]莫洛尼鼠白血病病毒逆转录酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MO-MLV",
+    "phonetic": "",
+    "definition": [
+      "[=Moloney murine leukemia virus]莫洛尼小鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "monovalent phage",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 单价噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MOPV",
+    "phonetic": "",
+    "definition": [
+      "[=monovalent oral poliovirus vaccine]单价口服脊髓灰质炎病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "morbid poison",
+    "phonetic": "",
+    "definition": [
+      "病毒毒素"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouse adenovirus",
+    "phonetic": "",
+    "definition": [
+      "小鼠腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MPLV",
+    "phonetic": "",
+    "definition": [
+      "[=myeloproliferative leukemia virus]骨髓增殖性白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSTV",
+    "phonetic": "",
+    "definition": [
+      "[=maize stripe virus]玉米条纹叶枯病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-part virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 复合病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multi-partite virus",
+    "phonetic": "",
+    "definition": [
+      "复合型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multicomponent virus",
+    "phonetic": "",
+    "definition": [
+      "多分体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "multiplication cycle",
+    "phonetic": "",
+    "definition": [
+      "病毒增殖周期"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MULV",
+    "phonetic": "",
+    "definition": [
+      "[=murine leukemia virus]鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MULV-F",
+    "phonetic": "",
+    "definition": [
+      "[=Friend murine leukemia virus]弗里德小鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MULV-R",
+    "phonetic": "",
+    "definition": [
+      "[=Rauscher murine leukemia virus]劳舍尔小鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mumps-meningitis",
+    "phonetic": "",
+    "definition": [
+      "un. 流行性腮腺炎性脑膜炎",
+      "[网络] 腮腺炎病毒性脑膜炎;流行性腮腺炎脑膜炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MUMTV",
+    "phonetic": "",
+    "definition": [
+      "[=murine mammary tumor virus]鼠乳腺肿瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MUSV",
+    "phonetic": "",
+    "definition": [
+      "[=murine sarcoma virus]鼠肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mutating virus",
+    "phonetic": "",
+    "definition": [
+      "突变病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mutator phage",
+    "phonetic": "",
+    "definition": [
+      "增变噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "myxoma virus",
+    "phonetic": "mikˈsəumə ˈvaiərəs",
+    "definition": [
+      "粘液瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "myxovirus",
+    "phonetic": "'miksәu,vaiәrәs",
+    "definition": [
+      "n. [微]黏病毒",
+      "EN: n any of a group of RNA viruses including those that cause influenza and mumps"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "naked virion",
+    "phonetic": "",
+    "definition": [
+      "裸露病毒[粒]体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NANBHV",
+    "phonetic": "",
+    "definition": [
+      "[=non A non B hepatitis virus]非甲非乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NC-BVDV",
+    "phonetic": "",
+    "definition": [
+      "[=noncytopathogenic bovine viral diarrhea virus]非细胞病变性牛病毒性腹泻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NCDCV",
+    "phonetic": "",
+    "definition": [
+      "[=neonatal calf diarrhea coronavirus]新生小牛腹泻冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NCDV",
+    "phonetic": "",
+    "definition": [
+      "[=Nebraska calf diarrhea virus]内布拉斯加牛腹泻病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NCWVI",
+    "phonetic": "",
+    "definition": [
+      "[=noncondylomatous cervical wart virus infection]非湿疣性颈疣病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NDL-L",
+    "phonetic": "",
+    "definition": [
+      "[=Newcastle disease virus Losota strain]新城鸡瘟病毒弱毒株Losota系"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NDV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 新城疫病毒(Newcastle Disease Virus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "necrosis virus",
+    "phonetic": "",
+    "definition": [
+      "坏死病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NMV",
+    "phonetic": "",
+    "definition": [
+      "[=neuroadapted mumps virus]神经适应性腮腺炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nodule-inducing virus",
+    "phonetic": "",
+    "definition": [
+      "诱发结节病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-a-e",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非甲至戊型;戊型病毒肝炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-persistent virus",
+    "phonetic": "",
+    "definition": [
+      "非持久性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-poliovirus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非脊髓灰质炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-viral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "noninclusion virus",
+    "phonetic": "",
+    "definition": [
+      "非包含体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nonviral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NPAIV",
+    "phonetic": "",
+    "definition": [
+      "无致病性禽流感病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nucleoid",
+    "phonetic": "'nju:kliɔid",
+    "definition": [
+      "n. [生]类核,病毒核心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nucleoprotein antigen",
+    "phonetic": "",
+    "definition": [
+      "(天花病毒)核蛋白抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NVC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 雷士(Nvc.);国家签证中心(National Visa Center);病毒防治(Norman Virus Control)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "occluded virus",
+    "phonetic": "",
+    "definition": [
+      "包含体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "occult virus",
+    "phonetic": "",
+    "definition": [
+      "隐秘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-access scanner",
+    "phonetic": "",
+    "definition": [
+      "[网络] 即时病毒扫瞄器;实时病毒扫瞄器;访问扫描器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oncogenic adenovirus",
+    "phonetic": "",
+    "definition": [
+      "致癌性腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oncogenic virus",
+    "phonetic": "",
+    "definition": [
+      "致癌病毒,致肿瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "one-step conditions",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 一步条件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "organule",
+    "phonetic": "'ɔ:^ә,nju:l",
+    "definition": [
+      "n. [微](具有微生物和分子特征的)传染性病毒",
+      "EN: n. One of the essential cells or elements of an organ. See Sense organule, under Sense."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ornithosis",
+    "phonetic": ",ɔ:ni'θәusis",
+    "definition": [
+      "n. 鸟疫,饲鸟病( 鸟类的一种病毒性疾病)",
+      "EN: n an atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orphan virus",
+    "phonetic": "",
+    "definition": [
+      "孤儿病毒,孤生病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ORSV",
+    "phonetic": "",
+    "definition": [
+      "齿兰环斑病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outer-shell virus",
+    "phonetic": "'autəʃel",
+    "definition": [
+      "(计算机)外层型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overwriting virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 重写病毒;对于重写型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "p-vl",
+    "phonetic": "",
+    "definition": [
+      "[=parvovirus-like agent]微病毒样因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pantropic virus",
+    "phonetic": "",
+    "definition": [
+      "泛嗜性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "papilloma virus",
+    "phonetic": "",
+    "definition": [
+      "乳头状瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "papilloma-like virus",
+    "phonetic": "",
+    "definition": [
+      "类乳头状瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "papovavirus",
+    "phonetic": "pә'pәjvә,vaiәrәs",
+    "definition": [
+      "n. [微]乳头(状瘤)多瘤空泡(形)病毒,乳多空病毒",
+      "EN: n any of a group of animal viruses associated with or causing papillomas or polyomas"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paramyxovirus",
+    "phonetic": ",pærә,miksә'vaiәrәs",
+    "definition": [
+      "n. [微]副粘病毒",
+      "EN: n a group of viruses including those causing mumps and measles"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paramyxovirus disease",
+    "phonetic": "",
+    "definition": [
+      "副黏液病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PBGV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 大菜粉蝶颗粒体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PCNV",
+    "phonetic": "",
+    "definition": [
+      "[=Provisional Committee on Nomenclature of viruses]病毒命名临时委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PECBP",
+    "phonetic": "",
+    "definition": [
+      "[=polyoma virus CAAT-binding protein]多瘤病毒增强子CAAT结合蛋白"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PEMV",
+    "phonetic": "",
+    "definition": [
+      "[=pea enation mosaic virus]豌豆耳突花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage conversion",
+    "phonetic": "",
+    "definition": [
+      "噬菌体转换, 噬菌变型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage cross",
+    "phonetic": "",
+    "definition": [
+      "(病毒)噬菌体交配"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage exclusion",
+    "phonetic": "",
+    "definition": [
+      "噬菌体排除"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage lysozyme",
+    "phonetic": "",
+    "definition": [
+      "噬菌体溶菌酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage therapy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 噬菌体疗法;噬菌体治疗;噬菌体治疗法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage type",
+    "phonetic": "",
+    "definition": [
+      "噬菌体型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 噬菌体病毒;噬菌体病毒雕塑"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage-code",
+    "phonetic": "",
+    "definition": [
+      "噬菌体密码"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage-coded",
+    "phonetic": "",
+    "definition": [
+      "噬菌体编码的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage-resistant",
+    "phonetic": "",
+    "definition": [
+      "抗噬菌体的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage-specific",
+    "phonetic": "",
+    "definition": [
+      "噬菌体专一性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phage-type",
+    "phonetic": "",
+    "definition": [
+      "噬菌体型"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phytopathogenic virus",
+    "phonetic": "",
+    "definition": [
+      "植物致病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "picornavirus",
+    "phonetic": "pai,kɔ:nә'vaiәrәs",
+    "definition": [
+      "n. [微]小核糖核酸病毒",
+      "EN: n a group of single-strand RNA viruses with a protein coat"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "picornavirus disease",
+    "phonetic": "",
+    "definition": [
+      "小核糖核酸病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "picornavirus infection",
+    "phonetic": "",
+    "definition": [
+      "小核糖核酸病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PICV",
+    "phonetic": "",
+    "definition": [
+      "[=pichinde arenavirus]伯钦特沙粒病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "plant virology",
+    "phonetic": "",
+    "definition": [
+      "植物病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "plaque-forming units",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】空斑形成单位"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PLLV",
+    "phonetic": "",
+    "definition": [
+      "[=Precerutii-Law leukaemia virus]普-劳二氏白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PLRV",
+    "phonetic": "",
+    "definition": [
+      "[=potato leafroll virus]马铃薯卷叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PMY",
+    "phonetic": "",
+    "definition": [
+      "[=Paramyxovirus Yucaipa]尤凯帕副粘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pneumotropic virus",
+    "phonetic": "",
+    "definition": [
+      "亲肺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pock method",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 点计法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polio virus",
+    "phonetic": "",
+    "definition": [
+      "小儿麻痺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "poliomyelitis virus",
+    "phonetic": "",
+    "definition": [
+      "脊髓灰质炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "poliovirus vaccine",
+    "phonetic": "ˌpəuliəuˈvaiərəs vækˈsi:n",
+    "definition": [
+      "脊髓灰质炎病毒疫苗,小儿麻痹活毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polyhedral virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 多面形病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polyhedral viruses",
+    "phonetic": "",
+    "definition": [
+      "多面形病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polyhedrosis virus",
+    "phonetic": "",
+    "definition": [
+      "多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "polymorphic virus",
+    "phonetic": "",
+    "definition": [
+      "多形病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "positive-sense strand",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】正链[亦作 positive strand]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "post-viral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒后感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "post-viral syndrome",
+    "phonetic": "",
+    "definition": [
+      "病毒后综合征"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pox viruses",
+    "phonetic": "",
+    "definition": [
+      "痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "poxvirus",
+    "phonetic": "'pɔks,vaiәrәs",
+    "definition": [
+      "n. [微]痘病毒",
+      "EN: n any of a group of viruses that can cause pox diseases in vertebrates"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PRCV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 猪呼吸道冠状病毒;猪呼吸系统冠状病毒感染;猪呼吸系统冠状病毒(Porcine respiratory corona virus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prion protein",
+    "phonetic": "",
+    "definition": [
+      "[网络] 朊蛋白;朊病毒蛋白;普昂蛋白"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "progeny virus",
+    "phonetic": "",
+    "definition": [
+      "子代病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "proof-of-concept virus",
+    "phonetic": "",
+    "definition": [
+      "概念型病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "properdin",
+    "phonetic": "'prәupәdin",
+    "definition": [
+      "(血液中)一种能消灭细菌和病毒的血清"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prophage interference",
+    "phonetic": "",
+    "definition": [
+      "原噬菌体干扰"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prophage map",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 原噬菌体图"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prophage site",
+    "phonetic": "",
+    "definition": [
+      "原噬菌体位置"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "prophages",
+    "phonetic": "",
+    "definition": [
+      "n. 原噬菌体;前噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "proviral",
+    "phonetic": "prәj'vaiәrәl",
+    "definition": [
+      "a. [微]前病毒的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "provirus",
+    "phonetic": "prәj'vaiәrәs",
+    "definition": [
+      "n. [微]前病毒",
+      "EN: n cDNA copy of the RNA genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "provirus theory",
+    "phonetic": "",
+    "definition": [
+      "原病毒学说"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "proviruses",
+    "phonetic": "",
+    "definition": [
+      "n. 〔遗〕原病毒;前病毒;病毒原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PRRSV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 猪繁殖与呼吸综合征病毒(Porcine reproductive and respiratory syndrome virus);猪繁殖与呼吸综合症病毒;耳病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pseudograsserie",
+    "phonetic": ",(p)sju:dәu'^ræsәri:",
+    "definition": [
+      "舞毒蛾病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PSTV",
+    "phonetic": "",
+    "definition": [
+      "[=potato spindle tuber virus]马铃薯纺锤体块茎类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PSTVD",
+    "phonetic": "",
+    "definition": [
+      "[=Potato spindle tuber viroid]马铃薯纺锤形块茎类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puppy viremia",
+    "phonetic": "",
+    "definition": [
+      "小狗病毒血症"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "purified virus",
+    "phonetic": "",
+    "definition": [
+      "纯化病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PV-IGA",
+    "phonetic": "",
+    "definition": [
+      "[=immunoglobulin A antibody to parainfluenza virus]抗副流感病毒免疫球蛋白A抗体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PVFS",
+    "phonetic": "",
+    "definition": [
+      "[=post-viral fatigue syndrome]病毒感染后疲劳综合征"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PVLA",
+    "phonetic": "",
+    "definition": [
+      "[=parvovirus-like agent]微病毒样因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PVX",
+    "phonetic": "",
+    "definition": [
+      "[网络] 马铃薯x病毒(Potato virus X);马铃薯轻花叶病毒;马铃薯花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PVY",
+    "phonetic": "",
+    "definition": [
+      "[=potato virus Y]马铃薯Y病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PYFV",
+    "phonetic": "",
+    "definition": [
+      "[=parsnip yellow fleck virus]欧防风黄点病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "R-MLV",
+    "phonetic": "",
+    "definition": [
+      "[=R-mouse leukemia virus]R-小鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "R-MULV",
+    "phonetic": "",
+    "definition": [
+      "[=Rauscher murine leukemia virus]劳舍尔鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rabbit-myxoma virus",
+    "phonetic": "",
+    "definition": [
+      "兔黏液瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rabbit-wart virus",
+    "phonetic": "",
+    "definition": [
+      "兔疣病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RALV",
+    "phonetic": "",
+    "definition": [
+      "[=Rat leukemia virus]大鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RASV",
+    "phonetic": "",
+    "definition": [
+      "[=recovered avian sarcoma virus]回收的鸟类肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rat coronavirus",
+    "phonetic": "",
+    "definition": [
+      "大鼠冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RBECV",
+    "phonetic": "",
+    "definition": [
+      "[=rabbit enteric coronavirus]兔肠道冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RDV",
+    "phonetic": "16",
+    "definition": [
+      "水稻矮缩病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RDVR",
+    "phonetic": "",
+    "definition": [
+      "[=RD 114 virus receptor]RD114病毒受体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "receptor gradient",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 受体梯度"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "REDZ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 帖子;病毒;近时毛毛雨"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reovirus",
+    "phonetic": ",ri:әu'vaiәrәs",
+    "definition": [
+      "n. [微]呼肠孤病毒, 呼吸道肠道病毒",
+      "EN: n any of a group of non-arboviruses including the rotavirus causing infant enteritis"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reoviruses",
+    "phonetic": "",
+    "definition": [
+      "n. 【医】呼吸道肠道病毒",
+      "[网络] 呼肠孤病毒;孤儿病毒;呼肠孤病毒科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "retro-virus",
+    "phonetic": "",
+    "definition": [
+      "逆转性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RGDV",
+    "phonetic": "",
+    "definition": [
+      "[=rice gall dwarf virus]水稻瘿矮病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RGV",
+    "phonetic": "",
+    "definition": [
+      "[=Rio Grande virus]里奥格朗德病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RHDV",
+    "phonetic": "",
+    "definition": [
+      "[=rabbit hemorrhagic disease virus]兔出血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rheumatoid virus",
+    "phonetic": "",
+    "definition": [
+      "类风湿病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhinovirus vaccine",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 鼻病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RMLV",
+    "phonetic": "",
+    "definition": [
+      "[=Rauscher murine leukemia virus]劳舍尔鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rogue program",
+    "phonetic": "",
+    "definition": [
+      "【计算机】(含有病毒的)“痞子”(或捣蛋)程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RPAS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 重组噬菌体抗体系统(Recombinant Phage Antibody System);辅助服务;空气系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RRV",
+    "phonetic": "",
+    "definition": [
+      "[=Ross River virus]罗斯河病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RSV-IVIG",
+    "phonetic": "",
+    "definition": [
+      "静脉用呼吸道合胞病毒免疫球蛋白"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RTBV",
+    "phonetic": "",
+    "definition": [
+      "[=rice tungro bacilliform virus]水稻东格鲁杆状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RTCV",
+    "phonetic": "",
+    "definition": [
+      "[=Runde tick coronavirus]隆德岛壁虱冠状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RTSV",
+    "phonetic": "",
+    "definition": [
+      "[=rice tungro spherical virus]水稻东格鲁球状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rubeolas",
+    "phonetic": "",
+    "definition": [
+      "n. 【医】麻疹",
+      "[网络] 风疹;麻疹病毒;风疹者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RVFV",
+    "phonetic": "",
+    "definition": [
+      "[=Rift Valley fever virus]立(夫特山)谷热病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RVIA",
+    "phonetic": "",
+    "definition": [
+      "[=rihinovirus Type I A]鼻病毒I型A"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SAAV",
+    "phonetic": "",
+    "definition": [
+      "[=adeno-associated virus]腺病毒相关病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sarcoma virus",
+    "phonetic": "",
+    "definition": [
+      "肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SBMV",
+    "phonetic": "",
+    "definition": [
+      "[=southern bean mosaic virus]南方蚕豆花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SBWMV",
+    "phonetic": "",
+    "definition": [
+      "[=soil-borne wheat mosaic virus]土传小麦花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SDAV",
+    "phonetic": "",
+    "definition": [
+      "[=sialodacryoadenitis virus]唾泪腺炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "self-garbling virus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 自窜改病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SEOV",
+    "phonetic": "",
+    "definition": [
+      "[=Seoul virus]汉城病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SHV",
+    "phonetic": "",
+    "definition": [
+      "[=simian herpes virus]猿疱疹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "simian virus",
+    "phonetic": "",
+    "definition": [
+      "猴病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SISV",
+    "phonetic": "",
+    "definition": [
+      "[=simian sarcoma virus]猿猴肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "siver",
+    "phonetic": "",
+    "definition": [
+      "abbr. simian immunodeficiency virus猿猴免疫缺损病毒",
+      "EN: v. i. To simmer."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SLEV",
+    "phonetic": "",
+    "definition": [
+      "[=St.Louis encephalitis virus]圣路易士脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slow-virus infection",
+    "phonetic": "",
+    "definition": [
+      "慢病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "smallpox pneumonia",
+    "phonetic": "",
+    "definition": [
+      "天花病毒肺炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SMSV",
+    "phonetic": "",
+    "definition": [
+      "[=San Miguel sea lion virus]圣米格尔海狮病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SNPV",
+    "phonetic": "",
+    "definition": [
+      "[=single nuclear polyhedrosis virus]单核型多角体病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spheric viruses",
+    "phonetic": "",
+    "definition": [
+      "球状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spherical viruses",
+    "phonetic": "",
+    "definition": [
+      "球状病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SPLV",
+    "phonetic": "",
+    "definition": [
+      "[=serum parvovirus-like virus]血清类微小病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spontaneous induction",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 自发诱导作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SR-RSV",
+    "phonetic": "",
+    "definition": [
+      "[=Schmidt-Ruppin strain Rous sarcoma virus]施密特-鲁宾株劳斯肉瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SRSV",
+    "phonetic": "",
+    "definition": [
+      "[=small round-structured virus]小圆结构病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SSAV",
+    "phonetic": "",
+    "definition": [
+      "[=simian sarcoma associated virus]猿猴肉瘤辅助病毒,猿猴肉瘤相关病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stealth virus",
+    "phonetic": "",
+    "definition": [
+      "秘密病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "STNV",
+    "phonetic": "",
+    "definition": [
+      "[=satellite tobacco necrosis virus]烟草随体坏死病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stomach-flu",
+    "phonetic": "",
+    "definition": [
+      "[网络] 肠胃感冒;肠胃型流感;病毒性肠胃炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "streptococcus phage",
+    "phonetic": "",
+    "definition": [
+      "链球菌噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "subviral",
+    "phonetic": ",sʌb'vaiərәl",
+    "definition": [
+      "a. [微]亚病毒的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "subviral component",
+    "phonetic": "",
+    "definition": [
+      "次病毒成分"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "subviral particle",
+    "phonetic": "",
+    "definition": [
+      "【病毒学】亚病毒颗粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "swine enterovirus",
+    "phonetic": "",
+    "definition": [
+      "猪肠内病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SYNV",
+    "phonetic": "",
+    "definition": [
+      "[=Sonchus yellow net virus]苦苣菜黄网病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "system infector",
+    "phonetic": "",
+    "definition": [
+      "[网络] 系统感染程序;系统传染病毒;作业系统感染者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SYVV",
+    "phonetic": "",
+    "definition": [
+      "[=Sowthistle yellow vein virus]苦苣菜黄脉病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "t-even phage",
+    "phonetic": "",
+    "definition": [
+      "T偶噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "t-odd phage",
+    "phonetic": "",
+    "definition": [
+      "T-奇数噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TBEV",
+    "phonetic": "",
+    "definition": [
+      "[=tick-borne encephalitis virus]蜱传脑炎病毒,壁虱脑炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TBSV",
+    "phonetic": "",
+    "definition": [
+      "[=tomato bushy stunt virus]番茄丛矮病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TBV",
+    "phonetic": "'tiːb'iːv'iː",
+    "definition": [
+      "(=tamana bat virus) 塔玛纳蝙蝠病毒,(=total blood volume) 总血容量, 全血量"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TCCA",
+    "phonetic": "",
+    "definition": [
+      "[=transitional cell cancer associated virus]移行细胞癌相关病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TCDV",
+    "phonetic": "",
+    "definition": [
+      "[=turkey bluecomb disease virus]火鸡蓝冠病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "temperate phage",
+    "phonetic": "",
+    "definition": [
+      "温和噬菌体,非烈性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "teratogenic poison",
+    "phonetic": "",
+    "definition": [
+      "形成畸胎病毒物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TGMV",
+    "phonetic": "",
+    "definition": [
+      "[=tomato golden mosaic virus]番茄金花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thymic virus",
+    "phonetic": "",
+    "definition": [
+      "胸腺病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "time bombs",
+    "phonetic": "",
+    "definition": [
+      "na. 定时炸弹;潜在的爆炸性局势",
+      "[网络] 不定时炸弹;定时炸弹病毒;计时炸弹"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TLCV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 薄层循环伏安法(Thin-Layer Cyclic Voltammetry);薄层伏安法;烟草卷叶病毒(Tobaccoleafcurlgeminivirus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TNV",
+    "phonetic": "",
+    "definition": [
+      "[=tobacco necrosis virus]烟草坏死病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TOBRSV",
+    "phonetic": "",
+    "definition": [
+      "[=tobacco ringspot virus]烟草环斑病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tomato streak",
+    "phonetic": "təˈmɑ:təu stri:k",
+    "definition": [
+      "番茄条纹毒病,番茄线条病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TOMV",
+    "phonetic": "",
+    "definition": [
+      "[=tomato masaic virus]番茄花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "trachoma virus",
+    "phonetic": "",
+    "definition": [
+      "沙眼病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "transducing phage",
+    "phonetic": "",
+    "definition": [
+      "【分子生物学】转导噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TRSV",
+    "phonetic": "",
+    "definition": [
+      "[=tobacco ringspot virus]烟草环斑病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TSHV",
+    "phonetic": "",
+    "definition": [
+      "[=tree squirrel hepatitis virus]灰鼠肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TSWV",
+    "phonetic": "",
+    "definition": [
+      "[=tomato spotted wilt virus]番茄斑萎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tumour virus",
+    "phonetic": "",
+    "definition": [
+      "【医学】肿瘤病毒[亦作 tumor virus]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TVLP",
+    "phonetic": "",
+    "definition": [
+      "环曲病毒样颗粒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TYMV",
+    "phonetic": "",
+    "definition": [
+      "[=turnip yellow mosaic virus]黄萝卜花叶病病毒,羌菁黄花叶病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "typhoid bacteriophage",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伤寒菌噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UG-S",
+    "phonetic": "",
+    "definition": [
+      "[=Uganda S virus]乌干达S病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ultraviruses",
+    "phonetic": "",
+    "definition": [
+      "n. 【医】超病毒;超显微病毒",
+      "[网络] 过滤性病毒;越权理论"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unenveloped",
+    "phonetic": "",
+    "definition": [
+      "adj. 无囊膜的",
+      "n. 无囊膜的病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "URU",
+    "phonetic": "",
+    "definition": [
+      "[=Uruma virus]乌鲁马病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "V-CDV",
+    "phonetic": "",
+    "definition": [
+      "[=virulent canine distemper virus]有毒犬瘟病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "V-ONC",
+    "phonetic": "",
+    "definition": [
+      "[=virus-oncogene]病毒肿瘤基因,病毒癌基因"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "V-ONCO",
+    "phonetic": "",
+    "definition": [
+      "[=virus-oncogene]病毒肿瘤基因,病毒癌基因"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vaccinias",
+    "phonetic": "",
+    "definition": [
+      "n. 【医】牛痘",
+      "[网络] 牛痘苗;牛痘病;天花病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VAHS",
+    "phonetic": "",
+    "definition": [
+      "[=viral associated hemophagocytic syndrome]病毒相关嗜血细胞综合征"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "varicella virus",
+    "phonetic": "",
+    "definition": [
+      "水痘毒, 水痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "varicellous",
+    "phonetic": "",
+    "definition": [
+      "[网络] 水痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "variola virus",
+    "phonetic": "vəˈraiələ ˈvaiərəs",
+    "definition": [
+      "天花病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "variolar virus",
+    "phonetic": "",
+    "definition": [
+      "天花病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VCA-IGA",
+    "phonetic": "",
+    "definition": [
+      "[=viral capsid antigen-immunoglobulin A]病毒壳蛋白抗原-免疫球蛋白A"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VCSA",
+    "phonetic": "",
+    "definition": [
+      "[=viral cell surface antigen]细胞表面病毒抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VDEPT",
+    "phonetic": "",
+    "definition": [
+      "[=virus-directed enzyme prodrug therapy]病毒导向的酶解药物前体疗法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VDNA",
+    "phonetic": "",
+    "definition": [
+      "[=virus DNA]病毒脱氧核糖核酸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VEEV",
+    "phonetic": "",
+    "definition": [
+      "[=Venezuelan equine encephalomyelitis virus]委内瑞拉马脑脊髓炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vegetative phage",
+    "phonetic": "",
+    "definition": [
+      "营养期噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "venezuelan virus",
+    "phonetic": "",
+    "definition": [
+      "委内瑞拉病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VETF",
+    "phonetic": "",
+    "definition": [
+      "[=vaccinia early transcription factor]痘苗病毒早期转录因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VHFJ",
+    "phonetic": "",
+    "definition": [
+      "[=Viral Hepatitis Research Foundation of Japan]日本病毒性肝炎研究基金会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VIAA",
+    "phonetic": "",
+    "definition": [
+      "[=virus infection associated antigen]病毒感染相关抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VINR",
+    "phonetic": "",
+    "definition": [
+      "[=virus induced necrotic region]病毒引起的坏死病灶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viragoish",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral arteritis",
+    "phonetic": "",
+    "definition": [
+      "病毒性动脉炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral chromosome",
+    "phonetic": "",
+    "definition": [
+      "病毒染色体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral conjunctivitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性结膜炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral diarrhea",
+    "phonetic": "",
+    "definition": [
+      "病毒性腹泻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral encephalitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性脑炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral esophagitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性食管炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral flacherie",
+    "phonetic": "",
+    "definition": [
+      "病毒性软化病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral gastroenteritis",
+    "phonetic": "",
+    "definition": [
+      "病毒性胃肠炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral inactivation",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒灭活"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral inhibition",
+    "phonetic": "",
+    "definition": [
+      "病毒抑制作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral insecticide",
+    "phonetic": "",
+    "definition": [
+      "病毒杀虫剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral iridocyclitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性虹膜睫状体炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral keratitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性角膜炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral meningitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性脑膜炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral myelitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性嵴髓炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral myocarditis",
+    "phonetic": "",
+    "definition": [
+      "病毒性心肌炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral nephritis",
+    "phonetic": "",
+    "definition": [
+      "病毒性肾炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral pericarditis",
+    "phonetic": "",
+    "definition": [
+      "病毒性心包炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral pesticide",
+    "phonetic": "",
+    "definition": [
+      "病毒农药"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral pneumonia",
+    "phonetic": "ˈvaɪərəl nju:ˈməunjə",
+    "definition": [
+      "病毒性肺炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral rubella",
+    "phonetic": "",
+    "definition": [
+      "病毒性风疹"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral shedding",
+    "phonetic": "",
+    "definition": [
+      "病毒散发"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral uveitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性葡萄膜炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral warts",
+    "phonetic": "",
+    "definition": [
+      "病毒性疣"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral zoonosis",
+    "phonetic": "",
+    "definition": [
+      "病毒性人畜共通传染病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viral-specific enzyme",
+    "phonetic": "",
+    "definition": [
+      "病毒专一性酶"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virally",
+    "phonetic": "",
+    "definition": [
+      "病毒地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virgal",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viricide",
+    "phonetic": "'vaiәrisaid",
+    "definition": [
+      "n. 杀病毒剂",
+      "EN: n. an agent (physical or chemical) that inactivates or destroys viruses"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virilities",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virilocally",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virion",
+    "phonetic": "'vaiәriɔn",
+    "definition": [
+      "n. [微]病毒(成熟)粒子,毒粒,病毒体",
+      "EN: n (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virologic",
+    "phonetic": "",
+    "definition": [
+      "病毒学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virological",
+    "phonetic": "",
+    "definition": [
+      "a. 病毒学的",
+      "EN: a of or relating to the science of virology"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virological genetics",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 病毒遗传学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virological immunology",
+    "phonetic": "",
+    "definition": [
+      "[病毒 免疫] 病毒免疫学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virologies",
+    "phonetic": "vaɪ'rɒlədʒɪ",
+    "definition": [
+      "n. [病毒] 病毒学,滤过性微生物学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virology laboratory",
+    "phonetic": "",
+    "definition": [
+      "病毒化验室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viroses",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virosis",
+    "phonetic": ".vaiә'rәusis",
+    "definition": [
+      "n. 病毒病, 病毒感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virulence phage",
+    "phonetic": "",
+    "definition": [
+      "烈性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virulent phage",
+    "phonetic": "",
+    "definition": [
+      "烈性噬菌体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virulent virus",
+    "phonetic": "",
+    "definition": [
+      "[病毒] 毒性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viruliferous",
+    "phonetic": ",viru'lifәrәs",
+    "definition": [
+      "带病毒的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus adsorption",
+    "phonetic": "",
+    "definition": [
+      "病毒吸附"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus antigen",
+    "phonetic": "",
+    "definition": [
+      "[病毒 免疫] 病毒抗原"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus bait",
+    "phonetic": "",
+    "definition": [
+      "病毒饵剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus buster",
+    "phonetic": "",
+    "definition": [
+      "【计算机】;病毒清除程序;病毒清除专家 [亦作 virus-buster]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus capsid",
+    "phonetic": "",
+    "definition": [
+      "病毒壳体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus checker",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒检测程序;病毒检查程序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus checkers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒检查程序;防病毒程式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus dermotropic",
+    "phonetic": "",
+    "definition": [
+      "亲皮性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus encephalitis",
+    "phonetic": "",
+    "definition": [
+      "病毒性脑炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus epidemic",
+    "phonetic": "",
+    "definition": [
+      "【计算机】病毒传染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus hoax",
+    "phonetic": "",
+    "definition": [
+      "病毒恶作剧"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus hoaxes",
+    "phonetic": "",
+    "definition": [
+      "病毒恶作剧"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus immunity",
+    "phonetic": "",
+    "definition": [
+      "病毒免疫"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus inhibition",
+    "phonetic": "",
+    "definition": [
+      "病毒抑制作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus insecticide",
+    "phonetic": "",
+    "definition": [
+      "[农药] 病毒杀虫剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus nucleocapsid",
+    "phonetic": "",
+    "definition": [
+      "病毒核衣壳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus throttling",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒扼制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus yellows",
+    "phonetic": "",
+    "definition": [
+      "病毒性黄化病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-detection",
+    "phonetic": "",
+    "definition": [
+      "un. 病毒检测",
+      "[网络] 病毒侦测;检测病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-fighting",
+    "phonetic": "",
+    "definition": [
+      "adj. 〔医〕抗病毒的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-free",
+    "phonetic": "",
+    "definition": [
+      "un. 无病毒",
+      "[网络] 脱毒;无病毒的;组培"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-host",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒宿主"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-infected",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-like",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒样;类病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-resistance",
+    "phonetic": "",
+    "definition": [
+      "[网络] 抗病毒;病毒抗性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virus-rise test",
+    "phonetic": "",
+    "definition": [
+      "病毒增加试验"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viruslike",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viscerotropic",
+    "phonetic": ",visәrә'trɔpik",
+    "definition": [
+      "a. (病毒等)亲内脏的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vital myocarditis",
+    "phonetic": "",
+    "definition": [
+      "病毒性心肌炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VITF",
+    "phonetic": "",
+    "definition": [
+      "[=vaccinia virus intermediate transcription facotr]牛痘病毒中期转录因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VLLB",
+    "phonetic": "",
+    "definition": [
+      "[=Viral Leukemia and Lymphoma Branch]病毒性白血病和淋巴瘤分所"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VLTV",
+    "phonetic": "",
+    "definition": [
+      "[=vaccinia late transcription factor]痘苗病毒晚期转录因子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VONC",
+    "phonetic": "",
+    "definition": [
+      "[=viral oncogene]病毒致瘤基因"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VRDB",
+    "phonetic": "",
+    "definition": [
+      "[网络] 病毒复原资料库;病毒复原数据库;病毒复原数据库修复文件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VSV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 水泡性口炎病毒(Vesicular stomatitis virus);真空电磁阀(Vacuum Solenoid Valve);水泡性口膜炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VTMOV",
+    "phonetic": "",
+    "definition": [
+      "[=(virusoid of)velvet tobacco mottle virus]光滑的烟草斑纹病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VZV",
+    "phonetic": "",
+    "definition": [
+      "abbr. 水痘带状疱疹病毒(varicella zoster virus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WCHV",
+    "phonetic": "",
+    "definition": [
+      "[=woodchuck hepatitis virus]土拨鼠肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WDV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 账面净值(written down value);小麦矮缩病毒(wheat dwarf virus);猬"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "west-nile",
+    "phonetic": "",
+    "definition": [
+      "[网络] 西尼罗;西尼罗病毒;西尼罗河病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WHBV",
+    "phonetic": "",
+    "definition": [
+      "[=woodchuck hepatitis B virus]土拨鼠乙型肝炎病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WRSV",
+    "phonetic": "",
+    "definition": [
+      "[=Wheat rosette stunt virus]小麦丛矮病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WTV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 中华电视网;电视文件;伤瘤病毒(Wound tumor virus)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WVV",
+    "phonetic": "",
+    "definition": [
+      "[=whole virus vaccine]全病毒疫苗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "xenotropic",
+    "phonetic": ",zenәj'trɔpik,,zi:-",
+    "definition": [
+      "a. [微](病毒)向异的,亲异的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "xenotropic virus",
+    "phonetic": "",
+    "definition": [
+      "异向性病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "XMRV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 异嗜性小鼠白血病相关病毒;病毒引起的;异嗜性小鼠白血病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "yaba virus",
+    "phonetic": "",
+    "definition": [
+      "尤巴病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "yaba-like poxvirus",
+    "phonetic": "",
+    "definition": [
+      "似尤巴痘病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "yellow-fever",
+    "phonetic": "",
+    "definition": [
+      "n. 【医】黄热病",
+      "[网络] 黄热病毒;黄热病疫苗;黄热针"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YFV",
+    "phonetic": "",
+    "definition": [
+      "[=yellow fever virus]黄热病病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YSKV",
+    "phonetic": "",
+    "definition": [
+      "[=Yale SK virus]耶鲁大学病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

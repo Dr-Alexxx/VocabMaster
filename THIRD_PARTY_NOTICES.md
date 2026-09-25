@@ -31,6 +31,23 @@ License: MIT
 The source CSV records were merged by abbreviation and converted to
 VocabMaster's JSON format.
 
+## dwyl english-words (build-time filter)
+
+Source: [dwyl/english-words](https://github.com/dwyl/english-words)  
+License: The Unlicense
+
+Used only at build time as a spelling lexicon to reject malformed candidate
+terms. The word list itself is not redistributed in this repository.
+
+## google-10000-english (build-time filter)
+
+Source: [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english)  
+License: MIT
+
+Used only at build time to identify common English words when filtering
+two-word domain terms. The word list itself is not redistributed in this
+repository.
+
 ### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

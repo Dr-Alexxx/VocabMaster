@@ -1,0 +1,3406 @@
+[
+  {
+    "word": "Anterior",
+    "phonetic": "æn'tiәriә",
+    "definition": [
+      "a. 前面的, 先前的",
+      "[医] 前的",
+      "EN: The direction toward the front of the head or the lips, as opposed to posterior, which refers to the directions toward the back of an individual's head. The term anterior teeth refers to incisors and canines, as opposed to premolars and molars, which are posterior teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Apical",
+    "phonetic": "'æpikl",
+    "definition": [
+      "a. 顶端的",
+      "[医] 尖的, 尖端的",
+      "EN: The direction toward the root tip(s) or apex(es) of a tooth (the apices), as opposed to coronal, which refers to the direction toward the crown. It may also refer to something relating to the roots, such as apical support. When referring to direction in relation to entities on or of the crown, this term can be synonymous with both cervical and gingival."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Approximal",
+    "phonetic": "ә'prɔksimәl",
+    "definition": [
+      "[解]邻接的, 邻近的",
+      "EN: Surfaces which form points of contact between adjacent teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Axial",
+    "phonetic": "'æksiәl",
+    "definition": [
+      "a. 轴的, 成轴的, 轴向的",
+      "[医] 轴的, 中轴的",
+      "EN: A plane parallel to the surface of a tooth. For example, if a drill bur would be inserted into a tooth from any side (proximal, vestibular, oral), the depth of the hole is defined from the axial wall of the hole (from the long axis walls (vertical surfaces bounding the tooth))."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Buccal",
+    "phonetic": "'bʌkәl",
+    "definition": [
+      "a. 颊的, 口的, 口腔的",
+      "[医] 颊的",
+      "EN: The side of a tooth that is adjacent to (or the direction toward) the inside of the cheek, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively. Although technically referring only to posterior teeth (where the cheeks are present instead of lips, use of this term has incorrectly extended to all teeth, anterior and posterior), this term has inaccurately been employed to describe the vestibular surface of (or directions in relation to) anterior teeth as well."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cervical",
+    "phonetic": "'sә:vikәl",
+    "definition": [
+      "a. 颈的, 子宫颈的",
+      "[医] 颈的",
+      "EN: Means neck in Latin (as in cervical vertebrae), and refers to the narrowing of the contours of the tooth surface at or near the CEJ, where the crown meets the root. When referring to direction in relation to entities on or of the crown, it is nearly synonymous with both apical and gingival."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Coronal",
+    "phonetic": "'kɒrәnәl",
+    "definition": [
+      "n. 冠, 花冠, 冠状物",
+      "a. 冠的, 花冠的, 头顶的",
+      "EN: The direction toward the crown of a tooth, as opposed to apical, which refers to the direction toward the tip(s) of the root(s) or apex(es). It may also refer to something relating to the crown, such as coronal forces."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "definitions of commonly used terms of location and direction in dentistry",
+    "phonetic": "",
+    "definition": [
+      "EN: This is a list of definitions of commonly used terms of location and direction in dentistry. This set of terms provides orientation within the oral cavity, much as anatomical terms of location provide orientation throughout the body."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Distal",
+    "phonetic": "'distәl",
+    "definition": [
+      "a. 末梢的",
+      "[医] 远侧的, 远中的(牙)",
+      "EN: The direction toward the gingiva beyond the tooth furthest from the anterior midline (the 'most posterior tooth' or last tooth) in each quadrant of a dental arch, as opposed to mesial, which refers to the direction toward the anterior midline. Each tooth can be described as having a distal surface and, for posterior teeth, a distobuccal (DB) and a distolingual (DL) corner or cusp."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Facial",
+    "phonetic": "'feiʃәl",
+    "definition": [
+      "n. 美颜, 脸部按摩",
+      "a. 脸的, 表面的, 脸部用的",
+      "EN: The side of a tooth that is adjacent to (or the direction toward) the inside of the lips, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity. However, this term has been incorrectly used for both buccal and labial, being also applied to the side of a tooth that is adjacent to (or the direction toward) the inside of the cheek (instead of the more accurate term, vestibular)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gingival",
+    "phonetic": "dʒin'dʒaivl",
+    "definition": [
+      "a. 齿龈的",
+      "[医] 龈的",
+      "EN: The direction toward the gingiva (gums), synonymous with cervical and similar to apical. However, locations on teeth already more apical to the interface of the crown and root, referred to as the CEJ, tend not to be described using this term, as it would lead to confusion, as the exact definition is ambiguous. Additionally, this term would not be used when referring to a tooth ex vivo."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Incisal",
+    "phonetic": "in'saizәl",
+    "definition": [
+      "a. 切的, 割的",
+      "EN: The direction toward the biting edge of anterior teeth or something relating to this edge, such as the terms incisal guidance or incisal edge. This is the sister term to occlusal, which related to the analogous location on posterior teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Inferior",
+    "phonetic": "in'fiәriә",
+    "definition": [
+      "a. 次等的, 较差的, 下方的, 下级的",
+      "n. 部下, 次品, 下标(符号)",
+      "EN: The direction toward the feet of a human's body, as opposed to superior, which refers to the direction toward the head. However, use of these terms should enjoy only limited usage when discussing features of a tooth, as, for example, something more inferior on a mandibular tooth will be situated more superior on a maxillary tooth, as they exhibit an inverted relationship. It is for this reason that the terms coronal and apical are substituted."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Interproximal",
+    "phonetic": ",intә'prɔksimәl",
+    "definition": [
+      "a. [医]邻间的,邻接近端间的",
+      "EN: An adjective meaning between teeth. For example, interproximal teeth refers to the space between adjacent teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Labial",
+    "phonetic": "'leibiәl",
+    "definition": [
+      "a. 唇的, 嘴唇的, 唇音的",
+      "n. 唇音, 风琴管",
+      "EN: The side of a tooth that is adjacent to (or the direction toward) the inside of the lip (labium), as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity. Although technically referring only to anterior teeth (where the lips (labia) are present instead of cheeks), use of the term labial has inaccurately extended to all teeth, anterior and posterior (instead of vestibular)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lateral",
+    "phonetic": "'lætәrәl",
+    "definition": [
+      "n. 侧部, 支线, 边音",
+      "a. 侧面的, 旁边的",
+      "EN: A tooth which is away from the midline, such as lateral incisor, or the sides of a tooth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lingual",
+    "phonetic": "'liŋgwәl",
+    "definition": [
+      "a. 舌的, 舌音的, 语言的",
+      "n. 舌音",
+      "EN: The side of a tooth adjacent to (or the direction toward) the tongue (lingua, compare linguistics and language), as opposed to buccal, labial, or vestibular which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek or lips, respectively. Although this term is technically specific to the mandible, it enjoys extensive use in reference to the maxilla as well (see Palatal)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lower left quadrant",
+    "phonetic": "",
+    "definition": [
+      "EN: lower left first incisor to lower left wisdom tooth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lower right quadrant",
+    "phonetic": "ˈləuə rait ˈkwɔdrənt",
+    "definition": [
+      "[医]右下象限,右下腹部,右下四分之一",
+      "EN: lower right first incisor to lower right wisdom tooth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mandibular",
+    "phonetic": "mæn'dibjulә",
+    "definition": [
+      "a. 颚的",
+      "[医] 下颌[骨]的",
+      "EN: Entities related to the mandible, or lower jaw."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Marginal",
+    "phonetic": "'mɑ:dʒinәl",
+    "definition": [
+      "a. 边缘的, 最低限度的, 有旁注的",
+      "[医] 缘的",
+      "EN: A number of different 'margins' are involved in dentistry. The edge of tooth structure that is prepared to meet the edge of a prosthetic crown is called a margin, as is the aforementioned edge of the crown; an example of this usage would be \"a poorly fitting crown might exhibit marginal leakage.\" The gingiva and bone that abut the teeth are referred to as 'marginal', as in marginal periodontitis. The bulk of tooth structure on the occlusal surface at the point of contact of posterior teeth is referred to as the marginal ridge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maxillary",
+    "phonetic": "'mæksilәri",
+    "definition": [
+      "a. 颌的, 上颌骨的",
+      "n. 上颌骨",
+      "EN: Entities related to the maxilla, or upper jaw."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mesial",
+    "phonetic": "'mi:ziәl",
+    "definition": [
+      "a. 中央的, 中间的",
+      "[医] 正中的, 近中的",
+      "EN: The direction toward the anterior midline in a dental arch, as opposed to distal, which refers to the direction toward the gingiva beyond the tooth furthest from the anterior midline (the 'most posterior tooth' or last tooth) in each quadrant. Each tooth can be described as having a mesial surface and, for posterior teeth, a mesiobuccal (MB) and a mesiolingual (ML) corner or cusp."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Midline",
+    "phonetic": "'midlain",
+    "definition": [
+      "n. 中间线, 中线",
+      "EN: Main article: Dental midline. Roughly, an imaginary vertical line dividing the left and right sides of the mouth at the teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Occlusal",
+    "phonetic": "ә'klu:sәl,ɔ-",
+    "definition": [
+      "a. [医](上下齿)咬合(面)的",
+      "EN: The direction toward the biting surface of posterior teeth or something relating to this surface, such as the terms occlusal interference or occlusal surface. This is the sister term to incisal, which related to the analogous location on anterior teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oral",
+    "phonetic": "'ɒ:rәl",
+    "definition": [
+      "n. 口试",
+      "a. 口头的, 口述的, 口部的",
+      "EN: The side of a tooth adjacent to (or the direction toward) the oral cavity, as opposed to buccal, labial or vestibular, which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek, lips or vestibule respectively. Oral includes both palatal and lingual. Alternatively, lingual has been used as a blanket term instead although this specifically refers only to the side of a tooth that is adjacent to (or the direction toward) the tongue, technically specific to the mandible."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Palatal",
+    "phonetic": "'pælәtәl",
+    "definition": [
+      "n. 上腭音",
+      "[医] 腭的",
+      "EN: The side of a tooth adjacent to (or the direction toward) the palate, as opposed to buccal, labial or vestibular which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek, lips and vestibule of the mouth respectively. This term is strictly used in the maxilla."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Posterior",
+    "phonetic": "pɒ'stiәriә",
+    "definition": [
+      "a. 在后的, 其次的, 后面的",
+      "n. 后部, 臀部",
+      "EN: The direction toward the back of an individual's head, as opposed to anterior, which refers to the directions toward an individual's lips. The term posterior teeth refers to premolars and molars, as opposed to incisors and canines, which are anterior teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Proximal",
+    "phonetic": "'prɒksiml",
+    "definition": [
+      "a. 最接近的, 近中心的, 近身体中央的",
+      "[医] 近接的, 邻近的",
+      "EN: The surfaces of teeth that normally lie adjacent to another tooth. Proximal includes both mesial and distal, such as when referring to the proximal surfaces of teeth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quadrant",
+    "phonetic": "'kwɒdrәnt",
+    "definition": [
+      "n. 四分之一圆, 象限, 象限仪",
+      "[医] 四分体, 象限",
+      "EN: The dentition is divided into four quarters. The two dental arches form an oval, which is divided into quadrants which are numbered from 1 to 4: Upper right quadrant: upper right first incisor to upper right wisdom tooth Upper left quadrant: upper left first incisor to upper left wisdom tooth Lower right quadrant: lower right first incisor to lower right wisdom tooth Lower left quadrant: lower left first incisor to lower left wisdom tooth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sextant",
+    "phonetic": "'sekstәnt",
+    "definition": [
+      "n. 六分仪",
+      "EN: One of six groups of adjacent teeth, excluding the wisdom teeth. The front sextants go from canine to canine, and there are sextants on the right and left of these. See Periodontal examination."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Superior",
+    "phonetic": "sju:'piәriә",
+    "definition": [
+      "n. 长者, 占优势的人, 上级",
+      "a. 上级的, 出众的, 高傲的",
+      "EN: The direction toward the head of a human's body, as opposed to inferior, which refers to the direction toward the feet. However, use of these terms should enjoy only limited use when discussing features of a tooth, as, for example, something more superior on a mandibular tooth will be situated more inferior on a maxillary tooth, as they exhibit an inverted relationship. It is for this reason that the terms coronal and apical are substituted."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Upper left quadrant",
+    "phonetic": "",
+    "definition": [
+      "EN: upper left first incisor to upper left wisdom tooth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Upper right quadrant",
+    "phonetic": "",
+    "definition": [
+      "EN: upper right first incisor to upper right wisdom tooth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vestibular",
+    "phonetic": "ves'ti:bjulә",
+    "definition": [
+      "a. 门厅的, 前庭的",
+      "[医] 前庭的",
+      "EN: The side of a tooth that is adjacent to (or the direction toward) the inside of the cheeks and lips, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity. Vestibular includes both buccal and labial. Alternatively, the term facial has been used instead although this specifically refers only to the side of a tooth that is adjacent to (or the direction toward) the inside of the lips, as opposed to lingual or palatal (both oral), and not the cheeks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AADP",
+    "phonetic": "",
+    "definition": [
+      "American Academy of Denture Prosthetics 美国义齿修复学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AAHD",
+    "phonetic": "",
+    "definition": [
+      "[=American Association of Hospital Dentists]美国医院牙科医师协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AAHDC",
+    "phonetic": "",
+    "definition": [
+      "[=American Association of Hospital Dental Chiefs]美国医院牙科主任协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ABDPH",
+    "phonetic": "",
+    "definition": [
+      "[=American Board of Dental Public Health]美国牙科公共卫生委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ABOP",
+    "phonetic": "",
+    "definition": [
+      "[=American Board of Oral Pathology]美国口腔病理学委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acrylate base",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 丙烯酸酯基托"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acrylate packing",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 丙烯酸酯填塞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acrylate splint",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 丙烯酸酯夹板"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "acrylate tooth",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 丙烯酸酯牙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADAHF",
+    "phonetic": "",
+    "definition": [
+      "[=American Dental Association Health Foundation]美国牙科协会卫生基金会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADHA",
+    "phonetic": "",
+    "definition": [
+      "[=American Dental Hygienists's Association]美国牙科保健员协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADLMA",
+    "phonetic": "",
+    "definition": [
+      "[=American Dental Library and Museum Association]美国牙科图书馆和陈列馆协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ADSA",
+    "phonetic": "'ædsə",
+    "definition": [
+      "(=american dairy science association) 美国乳品科学协会,(=american dental society of anesthesiology) 美国牙科麻醉学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "adult orthodontics",
+    "phonetic": "",
+    "definition": [
+      "成人口腔正畸学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aerodontia",
+    "phonetic": ",eәrәu'dɔnʃiә",
+    "definition": [
+      "n. 高空牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aeronautical oralogy",
+    "phonetic": "",
+    "definition": [
+      "[特医] 航空口腔学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AFDH",
+    "phonetic": "",
+    "definition": [
+      "[=American Fund for Dental Health]美国牙科卫生基金会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AIDT",
+    "phonetic": "",
+    "definition": [
+      "[=American Institute of Dental Teachers]美国牙科教师学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AIOB",
+    "phonetic": "",
+    "definition": [
+      "[=American Institute of Oral Biology]美国口腔生物学学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "amalgam carver",
+    "phonetic": "",
+    "definition": [
+      "(牙科器械)汞合金雕刻刀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "amalgam conveyor",
+    "phonetic": "",
+    "definition": [
+      "(牙科器械)汞合金输送器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "animal dentistry",
+    "phonetic": "",
+    "definition": [
+      "[网络] 动物牙科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anticarious primer",
+    "phonetic": "",
+    "definition": [
+      "口腔防龋涂料"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "APDF",
+    "phonetic": "",
+    "definition": [
+      "[=Asian Pacific dental Federation]亚洲太平洋牙科联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arrested periodontitis",
+    "phonetic": "",
+    "definition": [
+      "静止性牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ASDC",
+    "phonetic": "",
+    "definition": [
+      "[=American Society of Dentistry for Children]美国儿童牙科学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AVAP",
+    "phonetic": "",
+    "definition": [
+      "[=aIDS-Virus-associated periodontitis]爱滋病病毒相关性牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "aviation dentistry",
+    "phonetic": "",
+    "definition": [
+      "[特医] 航空牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BDHE",
+    "phonetic": "",
+    "definition": [
+      "[=National Board of Dental Hygiene Examination]全国口腔卫生学考试委员会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bitewing",
+    "phonetic": "'baitwiŋ",
+    "definition": [
+      "n. 咬翼片(口腔科用的一种X光胶片)",
+      "EN: n a dental X-ray film that can be held in place by the teeth during radiography"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blowout fracture",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 爆裂性骨折"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bruxisms",
+    "phonetic": "'brʌksɪzm",
+    "definition": [
+      "n. [口腔] 磨牙症;夜间磨牙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BSDH",
+    "phonetic": "",
+    "definition": [
+      "[=Bachelor of Science in Dental Hygiene]牙科卫生学学士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "buccal hypophysis",
+    "phonetic": "",
+    "definition": [
+      "口腔下垂体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "buccal pumping",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔抽吸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "buccal skeleton",
+    "phonetic": "",
+    "definition": [
+      "口腔骨, 口腔骨骼;口腔骨"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "buccal smear",
+    "phonetic": "",
+    "definition": [
+      "颊部涂片;口腔黏膜涂片"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "burning-mouth syndrome",
+    "phonetic": "",
+    "definition": [
+      "口腔灼痛症候群"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "burr-drill",
+    "phonetic": "",
+    "definition": [
+      "n. (牙科用)圆头锉, 钻锥"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDHA",
+    "phonetic": "",
+    "definition": [
+      "[=Canadian Dental Hygienists Association]加拿大牙科卫生学家协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDPN",
+    "phonetic": "",
+    "definition": [
+      "[=Code on Dental Proceduresand Nomenclature]牙科操作和术语规范"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CDRF",
+    "phonetic": "",
+    "definition": [
+      "[=Canadian Dental Research Foundation]加拿大牙科研究基金会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cheiloplasties",
+    "phonetic": "'kailəu,plæsti",
+    "definition": [
+      "n. [口腔] 唇成形术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cleft lips",
+    "phonetic": "",
+    "definition": [
+      "n. [口腔] 唇裂;[胚][口腔] 兔唇"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clinical dentistry",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 临床牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "closed-mouth",
+    "phonetic": "",
+    "definition": [
+      "[网络] 闭口法;义齿闭口式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "community dentistry",
+    "phonetic": "",
+    "definition": [
+      "社区口腔医学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "COPV",
+    "phonetic": "",
+    "definition": [
+      "[=Canine oral papillomavirus]狗口腔乳头瘤病毒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cosmetic dentistries",
+    "phonetic": "",
+    "definition": [
+      "美容牙医学",
+      "美容牙科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CPITN",
+    "phonetic": "",
+    "definition": [
+      "社区牙周治疗需要指数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "curry-hall syndrome",
+    "phonetic": "",
+    "definition": [
+      "Curry-Hall氏症候群(口腔外胚层发育异常)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DENED",
+    "phonetic": "",
+    "definition": [
+      "[=dental equipment depot]牙科设备仓库"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DENSP",
+    "phonetic": "",
+    "definition": [
+      "[=dental specialist]牙科专业人员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DENTAC",
+    "phonetic": "",
+    "definition": [
+      "[=dental activity]牙科机构"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental assistants",
+    "phonetic": "",
+    "definition": [
+      "牙科助理;牙医助理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental bur",
+    "phonetic": "",
+    "definition": [
+      "牙科用钻针"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental cares",
+    "phonetic": "",
+    "definition": [
+      "牙科护理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental chisel",
+    "phonetic": "",
+    "definition": [
+      "牙科凿子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental emergencies",
+    "phonetic": "",
+    "definition": [
+      "口腔急诊学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental enamel",
+    "phonetic": "",
+    "definition": [
+      "牙科瓷"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental hygienists",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙齿卫生员;口腔卫生保健师;口腔卫生师"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental liquids",
+    "phonetic": "",
+    "definition": [
+      "牙科用液"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental mechanic",
+    "phonetic": "",
+    "definition": [
+      "牙科技师(=dental technician)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental orthopaedics",
+    "phonetic": "",
+    "definition": [
+      "正畸学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental parlor",
+    "phonetic": "",
+    "definition": [
+      "牙科诊所"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental plaques",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】菌斑,牙斑[亦作bacterial plaque]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental radiology",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 牙科放射学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental receptionist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙科前台;口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental spatula",
+    "phonetic": "",
+    "definition": [
+      "牙科调拌刀"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental surgeries",
+    "phonetic": "",
+    "definition": [
+      "牙科;口腔外科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental technicians",
+    "phonetic": "",
+    "definition": [
+      "牙科技师[亦作dental mechanic]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental therapeutics",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 牙体治疗学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dental-records",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙医记录;牙科病历;牙齿纪录"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dentalman",
+    "phonetic": "'dentəlmən",
+    "definition": [
+      "n. (美国海军的)牙科助理兵"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dentist's",
+    "phonetic": "'dentists",
+    "definition": [
+      "n. 牙科医生诊疗所"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dentistic",
+    "phonetic": "'den'tistik;-kəl",
+    "definition": [
+      "a. 牙科的;牙科学的",
+      "EN: a. Alt. of Dentistical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dentistical",
+    "phonetic": "'den'tistik;-kəl",
+    "definition": [
+      "a. 牙科的;牙科学的",
+      "EN: a. Pertaining to dentistry or to dentists."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dentistries",
+    "phonetic": "'dentɪstrɪ",
+    "definition": [
+      "n. 牙科学;牙医业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture adhesive",
+    "phonetic": "",
+    "definition": [
+      "义齿黏附剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture adsorption",
+    "phonetic": "",
+    "definition": [
+      "义齿吸附作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture aesthetics",
+    "phonetic": "",
+    "definition": [
+      "义齿美学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture border",
+    "phonetic": "",
+    "definition": [
+      "义齿边缘"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture cream",
+    "phonetic": "",
+    "definition": [
+      "[网络] 义齿霜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture flask",
+    "phonetic": "",
+    "definition": [
+      "义齿型盒"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture packing",
+    "phonetic": "",
+    "definition": [
+      "义齿填塞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture prosthetics",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 假牙修复学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture stomatitis",
+    "phonetic": "",
+    "definition": [
+      "义齿性口炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "denture-bearing area",
+    "phonetic": "",
+    "definition": [
+      "义齿承托区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "disjunct denture",
+    "phonetic": "",
+    "definition": [
+      "分离式义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DMD",
+    "phonetic": "",
+    "definition": [
+      "abbr. (拉)牙科学博士(Dentariae Medicinae Doctor, 等于Doctor of Dental Medicine);数字微镜器件(Digital Mirror Device)",
+      "EN: n. a doctor's degree in dental medicine"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dry mouths",
+    "phonetic": "",
+    "definition": [
+      "口干",
+      "口腔干燥症"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dry sockets",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】干槽症,牙槽窝骨髓炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EADA",
+    "phonetic": "",
+    "definition": [
+      "abbr. East African Dental Association 东非牙科医学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ENAP",
+    "phonetic": "",
+    "definition": [
+      "切除性牙周膜新附着术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epidendral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "esthetic dentistry",
+    "phonetic": "",
+    "definition": [
+      "口腔美容学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eugenol cement",
+    "phonetic": "",
+    "definition": [
+      "丁香油黏固粉(牙科材料)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "faulty dental",
+    "phonetic": "",
+    "definition": [
+      "不当牙科治疗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FICD",
+    "phonetic": "",
+    "definition": [
+      "[=Fellow of the International College Dentists]国际牙科医师学会会员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "five-handed dentistry",
+    "phonetic": "",
+    "definition": [
+      "五手牙科操作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed denture",
+    "phonetic": "",
+    "definition": [
+      "固定义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fixed prosthodontics",
+    "phonetic": "",
+    "definition": [
+      "固定义齿修复学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "floor-of-mouth",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口底;口腔底;化脓性口底蜂窝织炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "foramen root",
+    "phonetic": "",
+    "definition": [
+      "(牙科)根尖孔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "geminated teeth",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 双生牙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "glover's suture",
+    "phonetic": "",
+    "definition": [
+      "[网络] 下颌骨颏部口腔内显露损伤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gum surgery",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 牙龈外科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gum-disease",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙龈疾病;牙周病;牙龈病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hairy tongues",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 毛舌"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "half-and-half clasp",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 对半卡环"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hare-lips",
+    "phonetic": "heə'lɪp",
+    "definition": [
+      "n. 兔唇,[口腔] 唇裂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IADC",
+    "phonetic": "",
+    "definition": [
+      "国际钻井承包商协会(International Association Of Drilling Contractors)",
+      "机构间空间碎片协调委员会(Inter-Angency Space Debris Coordination Committee)",
+      "国际儿童牙科协会(International Association of Dentistry for Children)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IADR",
+    "phonetic": "",
+    "definition": [
+      "[=International Association for Dental Research]国际牙科研究协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IAOS",
+    "phonetic": "",
+    "definition": [
+      "[=International Association of Oral Surgeons]国际口腔外科医师协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IJOS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际口腔科学杂志(International Journal of Oral Science)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inlet plenum",
+    "phonetic": "",
+    "definition": [
+      "气室,进口腔室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jacket crowns",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】甲冠(牙齿的人造冠)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jaw abnormality",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 颌畸形"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jaw disease",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 颌骨疾病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JOOMSA",
+    "phonetic": "",
+    "definition": [
+      "[=Journal for Orthodontic and Oral Maxillofacial Surgery Assisting]正畸和口腔颌面外科助手杂志"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "juvenile periodontitis",
+    "phonetic": "",
+    "definition": [
+      "青少年型牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "KHDS",
+    "phonetic": "",
+    "definition": [
+      "[=King's Honorary Dental Surgeon]国王荣誉口腔外科御医,王室牙科医生"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LADC",
+    "phonetic": "",
+    "definition": [
+      "[=lnternational Association of Dentistry for Children]国际小儿牙科协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LANAP",
+    "phonetic": "",
+    "definition": [
+      "[网络] Laser Assisted New Attachment Procedure; 牙周治疗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LDSC",
+    "phonetic": "",
+    "definition": [
+      "[=Licentiate in Dental Science]牙科学硕士,有开业证书的牙科医生"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legal dentistry",
+    "phonetic": "",
+    "definition": [
+      "法医牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lingual brace",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】舌形支架"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LJP",
+    "phonetic": "",
+    "definition": [
+      "[=localized juvenile periodontitis]局限型青少年牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mandibular prosthesis",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 下颌修复术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MCLD",
+    "phonetic": "",
+    "definition": [
+      "[=Master of Clinical Dentistry]临床牙科硕士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "medical-imaging",
+    "phonetic": "",
+    "definition": [
+      "un. 医学显象",
+      "[网络] 医疗造影;口腔医学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "medico-dental",
+    "phonetic": "",
+    "definition": [
+      "a. 医学及牙科的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth",
+    "phonetic": "mauθ",
+    "definition": [
+      "n. 嘴, 口, 口腔, 口状物",
+      "vi. 装腔作势说话, 做鬼脸",
+      "vt. 说出, 做作地说",
+      "EN: n. the opening through which food is taken in and vocalizations emerge n. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening n. an opening that resembles a mouth (as of a cave or a gorge) n. the point where a stream issues into a larger body of water"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth dilators",
+    "phonetic": "",
+    "definition": [
+      "口腔开肌"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth illuminator",
+    "phonetic": "",
+    "definition": [
+      "口腔照明灯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth neoplasia",
+    "phonetic": "",
+    "definition": [
+      "口腔瘤, 口赘瘤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth neoplasm",
+    "phonetic": "",
+    "definition": [
+      "[肿瘤] 口腔肿瘤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth organists",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔器官"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth speculum",
+    "phonetic": "",
+    "definition": [
+      "口腔镜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth ulcers",
+    "phonetic": "",
+    "definition": [
+      "n. 口腔溃疡",
+      "[网络] 嘴部溃烂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth-coating",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouth-spatula-system",
+    "phonetic": "",
+    "definition": [
+      "口腔检查器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouthbreeder",
+    "phonetic": "'majθ,bri:dә(r)",
+    "definition": [
+      "n. [鱼]口育鱼(泛指用口腔繁育幼仔的鱼,如海鲇等)",
+      "EN: n any of various fishes that carry their eggs and their young in their mouths"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mouthbrooder",
+    "phonetic": "maʊθb'ru:dər",
+    "definition": [
+      "n. 口育鱼(泛指用口腔繁育幼仔的鱼, 如海鲇等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MSDENT",
+    "phonetic": "",
+    "definition": [
+      "[=Master of Science in Dentistry]牙科学硕士"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NADL",
+    "phonetic": "",
+    "definition": [
+      "[=National Association of Dental Laboratories]全国牙科技工室协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NADSP",
+    "phonetic": "",
+    "definition": [
+      "[=National Association of Dental Service Plans]全国牙科医疗计划协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NCDHM",
+    "phonetic": "",
+    "definition": [
+      "[=National Children's Dental Health Month]全国儿童牙科卫生月"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nicotine stomatitis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 尼古丁口炎;尼古丁口腔炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nonnasality",
+    "phonetic": ",nɔnnei'zælәti",
+    "definition": [
+      "n. 口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nonnasally",
+    "phonetic": "",
+    "definition": [
+      "adv. 非鼻地,口腔地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ODONT",
+    "phonetic": "",
+    "definition": [
+      "[=odontology]牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "odontological",
+    "phonetic": "",
+    "definition": [
+      "adj. 牙科学的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "odontophoral",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "OPDENT",
+    "phonetic": "",
+    "definition": [
+      "[=operative dentistry]牙科手术学,牙外科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open bites",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】(牙齿的)开式咬合"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral actinomycosis",
+    "phonetic": "",
+    "definition": [
+      "口腔放线菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral anesthesiology",
+    "phonetic": "",
+    "definition": [
+      "口腔麻醉学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral anesthetics",
+    "phonetic": "",
+    "definition": [
+      "口腔麻醉学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral anomaly",
+    "phonetic": "",
+    "definition": [
+      "口腔异常"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral bacteriology",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔细菌学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral cancers",
+    "phonetic": "",
+    "definition": [
+      "口腔癌"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral candidiasis",
+    "phonetic": "",
+    "definition": [
+      "口腔念珠菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral cavity",
+    "phonetic": "ˈɔrəl ˈkæviti",
+    "definition": [
+      "n. 口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral chancroid",
+    "phonetic": "",
+    "definition": [
+      "口腔輭下疳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral cyst",
+    "phonetic": "",
+    "definition": [
+      "口腔囊肿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral digestion",
+    "phonetic": "",
+    "definition": [
+      "口腔消化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral embryology",
+    "phonetic": "",
+    "definition": [
+      "口腔胚胎学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral epidemiology",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔流行病学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral evacuator",
+    "phonetic": "",
+    "definition": [
+      "口腔抽吸器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral gland",
+    "phonetic": "",
+    "definition": [
+      "口腔腺"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral glanders",
+    "phonetic": "",
+    "definition": [
+      "口腔鼻疽"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral gratification",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔满足"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral habit",
+    "phonetic": "",
+    "definition": [
+      "口腔习惯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral hemorrhage",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔出血"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral herpes",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔疱疹;口腔泡疹;口疮"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral histology",
+    "phonetic": "",
+    "definition": [
+      "口腔组织学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral hygienist",
+    "phonetic": "",
+    "definition": [
+      "口腔卫生医师"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral implant",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔种植;口腔种植体;人工植牙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral inhaler",
+    "phonetic": "",
+    "definition": [
+      "口腔吸入器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral intubation",
+    "phonetic": "",
+    "definition": [
+      "口腔插管法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral leprosy",
+    "phonetic": "",
+    "definition": [
+      "口腔麻风"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral malformation",
+    "phonetic": "",
+    "definition": [
+      "口腔畸形"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral microorganism",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔微生物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral moniliasis",
+    "phonetic": "",
+    "definition": [
+      "口腔念珠菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral mucosa",
+    "phonetic": "",
+    "definition": [
+      "口腔黏膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral necrobacillosis",
+    "phonetic": "",
+    "definition": [
+      "口腔坏死桿菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral neoplasia",
+    "phonetic": "",
+    "definition": [
+      "口腔肿瘤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral orthopaedics",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔矫形学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral radiology",
+    "phonetic": "",
+    "definition": [
+      "口腔放射学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral scurvy",
+    "phonetic": "",
+    "definition": [
+      "口腔坏血病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral smear",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔涂片"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral sporotrichosis",
+    "phonetic": "",
+    "definition": [
+      "口腔胞子丝菌病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral therapeutics",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 口腔治疗学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral thermometer",
+    "phonetic": "",
+    "definition": [
+      "【医学】口腔温度计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral tissues",
+    "phonetic": "",
+    "definition": [
+      "口腔组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral tuberculosis",
+    "phonetic": "",
+    "definition": [
+      "口腔结核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral vestibule",
+    "phonetic": "",
+    "definition": [
+      "1【动】口前庭; 2【人解】口腔前庭"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral-care",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔护理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral-exposure",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔;口腔眼射"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral-genital",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔生殖器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oral-lamp",
+    "phonetic": "",
+    "definition": [
+      "口腔照明灯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthodontic aesthetics",
+    "phonetic": "",
+    "definition": [
+      "口腔正畸美学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthodontic appliance",
+    "phonetic": "",
+    "definition": [
+      "正畸矫治器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthodontic braces",
+    "phonetic": "",
+    "definition": [
+      "[网络] 正畸大括号"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthodontic force",
+    "phonetic": "",
+    "definition": [
+      "正畸力"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthodontic retainer",
+    "phonetic": "",
+    "definition": [
+      "正畸保持器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "orthotypous",
+    "phonetic": "",
+    "definition": [
+      "[网络] 正畸的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outlet plenum",
+    "phonetic": "",
+    "definition": [
+      "口联箱,出口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overlay denture",
+    "phonetic": "",
+    "definition": [
+      "覆盖义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paradentium",
+    "phonetic": ",pærә'denʃiәm",
+    "definition": [
+      "(=pariodontium)牙周组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "paragraphic machine",
+    "phonetic": "",
+    "definition": [
+      "口腔体腔摄影机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parodontitis",
+    "phonetic": ",pærәdɔn'taitis",
+    "definition": [
+      "牙周炎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parodontium",
+    "phonetic": ",pærә'dɔnʃiәm",
+    "definition": [
+      "牙周膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parotid disease",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 腮腺疾病"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PDLC",
+    "phonetic": "",
+    "definition": [
+      "[网络] 聚合物分散液晶(Polymer dispersed liquid crystal);牙周膜细胞(PDL cells);熟悉软件生命周期(Project Development Life Cycle)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pediatric orthodontics",
+    "phonetic": "",
+    "definition": [
+      "儿童口腔正畸学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pedodontist",
+    "phonetic": "",
+    "definition": [
+      "儿童牙科医生",
+      "EN: n. a dentist who specializes in the care of children's teeth"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pericementum",
+    "phonetic": ",perisi'mentәm",
+    "definition": [
+      "n. [解]牙周膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peridental branches",
+    "phonetic": "",
+    "definition": [
+      "牙周支"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peridental membrane",
+    "phonetic": "",
+    "definition": [
+      "牙周膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peridentium",
+    "phonetic": ",peri'denʃiәm",
+    "definition": [
+      "牙周组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "peridentoclasia",
+    "phonetic": ",peri,dentә'kleisiә",
+    "definition": [
+      "牙周组织溃坏"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal aesthetics",
+    "phonetic": "",
+    "definition": [
+      "牙周美学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal arteriole",
+    "phonetic": "",
+    "definition": [
+      "牙周小动脉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal chart",
+    "phonetic": "",
+    "definition": [
+      "牙周记录表"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal dressing",
+    "phonetic": "",
+    "definition": [
+      "牙周塞治剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal fiber",
+    "phonetic": "",
+    "definition": [
+      "牙周纤维"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal file",
+    "phonetic": "",
+    "definition": [
+      "牙周锉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal index",
+    "phonetic": "",
+    "definition": [
+      "牙周指数"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal infection",
+    "phonetic": "",
+    "definition": [
+      "牙周感染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal lesion",
+    "phonetic": "",
+    "definition": [
+      "牙周损害"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal ligament",
+    "phonetic": "",
+    "definition": [
+      "牙周膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal membrane",
+    "phonetic": "ˌperiəuˈdɔntl ˈmemˌbreɪn",
+    "definition": [
+      "牙周膜"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal packing",
+    "phonetic": "",
+    "definition": [
+      "牙周塞治术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal prosthesis",
+    "phonetic": "",
+    "definition": [
+      "牙周病矫形治疗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal scaling",
+    "phonetic": "",
+    "definition": [
+      "牙周洁治"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal tissue",
+    "phonetic": "",
+    "definition": [
+      "牙周组织"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal trauma",
+    "phonetic": "",
+    "definition": [
+      "牙周创伤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal traumatism",
+    "phonetic": "",
+    "definition": [
+      "牙周创伤"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontal treatment",
+    "phonetic": "",
+    "definition": [
+      "牙周治疗"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontic scaler",
+    "phonetic": "",
+    "definition": [
+      "牙周刮器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "periodontium",
+    "phonetic": ",periә'dɔnʃjәm",
+    "definition": [
+      "n. [解]牙周组织(尤指牙周膜)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pre-dental",
+    "phonetic": "",
+    "definition": [
+      "[网络] 牙科预科;牙科预备课程;牙医预科"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "predental",
+    "phonetic": "pri'dentәl",
+    "definition": [
+      "牙科学预科的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "provisional denture",
+    "phonetic": "",
+    "definition": [
+      "暂时性义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ptyalisms",
+    "phonetic": "'ptaɪəlɪzəm",
+    "definition": [
+      "n. 流涎;[口腔] 涎分泌过多"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "push-type clasp",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 杆形卡环"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "removable denture",
+    "phonetic": "",
+    "definition": [
+      "活动义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SAMDC",
+    "phonetic": "",
+    "definition": [
+      "[=South African Medical and Dental Council]南非内科与牙科理事会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SCSOMS",
+    "phonetic": "",
+    "definition": [
+      "[=Southern California Society of Oral and Maxillofacial Surgeons]南加利福尼亚口腔和上颌面外科医师学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "seguidilla",
+    "phonetic": ",se^ә'di(:)ljә",
+    "definition": [
+      "塞吉迪里亚诗节(一种由四个或七个部分半韵的短诗行组成的西班牙体诗节)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "semifixed connector",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 半固定桥连接体"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "space dentistry",
+    "phonetic": "",
+    "definition": [
+      "[特医] 航天牙科学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sphagnologist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔医师"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "staphylorrhaphies",
+    "phonetic": ",stæfɪ'lɔːrəfɪ",
+    "definition": [
+      "n. [口腔] 悬雍垂缝术;软腭缝术"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stomatode",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stomatological",
+    "phonetic": "",
+    "definition": [
+      "adj. 口腔学的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "surgical orthodontics",
+    "phonetic": "",
+    "definition": [
+      "外科口腔正畸学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SVOM",
+    "phonetic": "",
+    "definition": [
+      "[=sequential volitional oral movement]连续自主口腔运动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "temporary denture",
+    "phonetic": "",
+    "definition": [
+      "暂时性义齿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "three-quarter veneer",
+    "phonetic": "",
+    "definition": [
+      "【牙科学】四分之三镶盖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tooth-aches",
+    "phonetic": "'tuːθeɪk",
+    "definition": [
+      "n. [口腔] 牙痛"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "trench mouths",
+    "phonetic": "",
+    "definition": [
+      "[口腔] 战壕口炎",
+      "战壕口"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "triple-angle",
+    "phonetic": "",
+    "definition": [
+      "三角器(牙科)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UCDPN",
+    "phonetic": "",
+    "definition": [
+      "[=Uniform Code on Dental Procedures and Nomenclature]牙科处理与名称的统一代号"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wound cavity",
+    "phonetic": "",
+    "definition": [
+      "伤口腔洞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "xerostoma",
+    "phonetic": "",
+    "definition": [
+      "[网络] 口腔干燥症"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

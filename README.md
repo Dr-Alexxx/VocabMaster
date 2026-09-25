@@ -102,4 +102,4 @@ macOS 构建产物位于 `release/`：
 
 默认词库由 MIT 许可的 [ECDICT](https://github.com/skywind3000/ECDICT) 数据按考试标签和词频提取。完整声明见 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)。
 
-项目根目录的 [open-vocabularies](./open-vocabularies/) 另含 41 个面向中国内地常见考试、专业学习和就业场景的开放词库，共 52,907 条词目，可在词库页面直接导入。收录范围、来源、许可证和复现方式见 [OPEN_VOCABULARY_RESEARCH.md](./OPEN_VOCABULARY_RESEARCH.md)。
+项目根目录的 [open-vocabularies](./open-vocabularies/) 另含 103 个面向中国内地常见考试、专业学习和就业场景的开放词库，共 270,926 条词目，可在词库页面直接导入。收录范围、来源、许可证和复现方式见 [OPEN_VOCABULARY_RESEARCH.md](./OPEN_VOCABULARY_RESEARCH.md)。

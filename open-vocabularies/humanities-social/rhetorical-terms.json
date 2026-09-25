@@ -1,0 +1,2276 @@
+[
+  {
+    "word": "Alliteration",
+    "phonetic": "ә.litә'reiʃәn",
+    "definition": [
+      "n. 头韵",
+      "[医] 同音韵错误症",
+      "EN: the use of a series of two or more words beginning with the same letter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Amphiboly",
+    "phonetic": "æm'fibәli",
+    "definition": [
+      "n. 模棱两可的言辞, 暧昧的词句",
+      "EN: a sentence that may be interpreted in more than one way due to ambiguous structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Amplification",
+    "phonetic": ".æmplifi'keiʃәn",
+    "definition": [
+      "n. 扩大, 放大",
+      "[化] 放大; 放大作用",
+      "EN: the act and the means of extending thoughts or statements to increase rhetorical effect, to add importance, or to make the most of a thought or circumstance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Analogy",
+    "phonetic": "ә'nælәdʒi",
+    "definition": [
+      "n. 相似, 类似",
+      "[计] 模拟",
+      "EN: the use of a similar or parallel case or example to reason or argue a point."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anastrophe",
+    "phonetic": "ә'næstrәfi",
+    "definition": [
+      "n. [语]倒置法",
+      "EN: inversion of the natural word order."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anecdote",
+    "phonetic": "'ænikdәut",
+    "definition": [
+      "n. 轶事, 奇闻",
+      "EN: a brief narrative describing an interesting or amusing event."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Anticlimax",
+    "phonetic": ".ænti'klaimæks",
+    "definition": [
+      "n. 突降法, 虎头蛇尾",
+      "EN: a bathetic collapse from an elevated subject to a mundane or vulgar one."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Antistrophe",
+    "phonetic": "æn'tistrәfi",
+    "definition": [
+      "n. 对照乐节, 反用",
+      "EN: repeating the last word in successive phrases, for example, \"Since the time when from our state concord disappeared, liberty disappeared, good faith disappeared, friendship disappeared, the common weal disappeared.\" Also see: epiphora."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Antithesis",
+    "phonetic": "æn'tiθisis",
+    "definition": [
+      "n. 对偶, 对照, 对立面",
+      "EN: the juxtaposition of contrasting ideas in balanced or parallel words, phrases, or grammatical structures; the second stage of the dialectic process."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Apostrophe",
+    "phonetic": "ә'pɒstrәfi",
+    "definition": [
+      "n. 撇号, 呼语法",
+      "EN: a figure of speech consisting of a sudden turn in a text towards an exclamatory address to an imaginary person or a thing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Argument",
+    "phonetic": "'ɑ:gjumәnt",
+    "definition": [
+      "n. 争论, 论证, 论据, 自变量",
+      "[计] 参数",
+      "EN: discourse characterized by reasons advanced to support conclusions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Assonance",
+    "phonetic": "'æsәunәns",
+    "definition": [
+      "n. 谐音, 准押韵, 半押韵",
+      "[医] 谐音癖",
+      "EN: words that repeat the same vowel sound."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Audience",
+    "phonetic": "'ɒ:diәns",
+    "definition": [
+      "n. 听众, 观众, 读者",
+      "[法] 听讼, 观众, 听众",
+      "EN: real, imagined, invoked, or ignored, this concept is at the very center of the intersections of composing and rhetoric."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aureation",
+    "phonetic": "",
+    "definition": [
+      "EN: the use of Latinate and polysyllabic terms to \"heighten\" diction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Axioms",
+    "phonetic": "",
+    "definition": [
+      "n. 公设;公理;原理(axiom的复数)",
+      "EN: the point where scientific reasoning starts; principles that are not questioned."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Barbarism",
+    "phonetic": "'bɑ:bәrizәm",
+    "definition": [
+      "n. 野蛮, 未开化",
+      "EN: use of a non-standard word, expression or pronunciation in a language, particularly one prescriptively regarded as an error in morphology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Burden of proof",
+    "phonetic": "",
+    "definition": [
+      "[经] 举证责任",
+      "EN: theory of argument giving the obligation of proving a case to the asserting party."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Buzzword",
+    "phonetic": "'bʌzwә:d",
+    "definition": [
+      "n. 流行词",
+      "EN: a word or phrase used to impress, or one that is fashionable."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Canon",
+    "phonetic": "'kænәn",
+    "definition": [
+      "n. 教会法规, 圣典, 准则, 标准, 教士",
+      "[医] 规范, [加农]炮",
+      "EN: a term often used to discuss significant literary works in a specific field, used by Cicero to outline five significant parts of the rhetorical composition process."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Charisma",
+    "phonetic": "kә'rizmә",
+    "definition": [
+      "n. 非凡的领导力, 神秘的个人魅力, 神授的能力",
+      "EN: an attribute that allows a speaker's words to become powerful."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Circumlocution",
+    "phonetic": ".sә:kәmlә'kju:ʃәn",
+    "definition": [
+      "n. 迂回的说法",
+      "EN: use of many words where a few would do."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Classicism",
+    "phonetic": "'klæsisizm",
+    "definition": [
+      "n. 古典主义, 古典风格, 古典崇拜, 古典知识, 古典成语",
+      "EN: a revival in the interest of classical antiquity languages and texts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Climax",
+    "phonetic": "'klaimæks",
+    "definition": [
+      "n. 高潮, 极点, 层进法",
+      "v. (使)达到顶点, (使)达到高潮",
+      "EN: an arrangement of phrases or topics in increasing order, as with good, better, best."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Colloquialism",
+    "phonetic": "kә'lәjkwiәliz(ә)m",
+    "definition": [
+      "n. 口语, 口语用法, 口语词, 方言, 口语体",
+      "EN: a word or phrase that is not formal or literary, typically one used in ordinary or familiar conversation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Colon",
+    "phonetic": "'kәulәn",
+    "definition": [
+      "n. 冒号, 结肠",
+      "[医] 结肠",
+      "EN: a rhetorical figure consisting of a clause that is grammatically, but not logically, complete."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Common topics",
+    "phonetic": "",
+    "definition": [
+      "EN: arguments and approaches useful in rhetorical settings."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Consubstantiality",
+    "phonetic": ",kɔnsәb,stænʃi'æliti",
+    "definition": [
+      "n. [神学]同体, 同质",
+      "EN: substance commonality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Context",
+    "phonetic": "'kɒntekst",
+    "definition": [
+      "n. 上下文, 背景, 来龙去脉",
+      "n. 上下文",
+      "[计] 上下文",
+      "EN: the circumstances surrounding an issue that should be considered during its discussion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Contingency",
+    "phonetic": "kәn'tindʒәnsi",
+    "definition": [
+      "n. 偶然性, 可能性, 意外事故",
+      "[经] 意外事故, 意外开支, 偶然事故",
+      "EN: the contextual circumstances that do not allow an issue to be settled with complete certainty."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Deconstruction",
+    "phonetic": ",di:kәn'strʌkʃən",
+    "definition": [
+      "n. 解构,拆析(文学评论用语, 指找出文本中自身逻辑矛盾或自我拆解因素, 从而摧毁文本在人们心目中的传统建构)",
+      "EN: analyzing communication artifacts by scrutinizing their meaning and related assumptions, with the goal of determining the social and systemic connotations behind their structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Deduction",
+    "phonetic": "di'dʌkʃәn",
+    "definition": [
+      "n. 减除, 扣除, 减除额, 推论",
+      "[医] 演绎, 推论",
+      "EN: moving from an overall hypothesis to infer something specific about that hypothesis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dialectic",
+    "phonetic": "daiә'lektik",
+    "definition": [
+      "a. 辩证的, 辩证法的",
+      "n. 辩证法, 逻辑论证",
+      "EN: a term that has been defined differently by Aristotle and Petrus Ramus, among others; generally, it means using verbal communication to come to an agreement on a topic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Doxa",
+    "phonetic": "",
+    "definition": [
+      "多克萨牌手表",
+      "EN: a common belief or popular opinion, usually contrasted with episteme ('knowledge')."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dramatism",
+    "phonetic": "",
+    "definition": [
+      "[医] 戏剧式行为",
+      "EN: a theory developed by Kenneth Burke, according to which the world is a stage where all the people present are actors; the dramatistic pentad centers around five concepts: act, scene, agent, agency, and purpose."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dysphemism",
+    "phonetic": "'disfimizәm",
+    "definition": [
+      "n. [语]粗直语用法, 粗直语",
+      "EN: a term with negative associations for something in reality fairly innocuous or inoffensive."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ellipse",
+    "phonetic": "i'lips",
+    "definition": [
+      "n. 椭圆, 椭圆形",
+      "[计] 椭圆",
+      "EN: the suppression of ancillary words to render an expression more lively or more forceful."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Eloquence",
+    "phonetic": "'elәkwәns",
+    "definition": [
+      "n. 口才, 雄辩术, 雄辩",
+      "[法] 善辩, 口才",
+      "EN: fluent, elegant, persuasive, and forceful speech, persuading an audience."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Enallage",
+    "phonetic": "en'ælәdʒi",
+    "definition": [
+      "n. 语法形式替代",
+      "EN: the switching of grammatical forms for an expressive purpose."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Enthymeme",
+    "phonetic": "'enθimi:m",
+    "definition": [
+      "n. 三段论省略式",
+      "EN: a type of argument that is grounded in assumed commonalities between a rhetor and the audience. (For example: Claim 1: Bob is a person. Therefore, Claim 3: Bob is mortal. The assumption (unstated Claim 2) is that People are mortal). In Aristotelian rhetoric, an enthymeme is known as a \"rhetorical syllogism\": it mirrors the form of a syllogism, but it is based on opinion rather than fact."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epideictic",
+    "phonetic": ",epi'daiktik",
+    "definition": [
+      "a. 富于词藻的, 夸耀的",
+      "EN: ceremonial rhetoric, such as might be found in a funeral or victory speech."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epistemology",
+    "phonetic": "i.pisti:'mɒlәdʒi",
+    "definition": [
+      "n. 认识论",
+      "[医] 认识论",
+      "EN: philosophical study directed at understanding how people gain knowledge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epistrophe",
+    "phonetic": "i'pistrәfi",
+    "definition": [
+      "n. 尾词重复",
+      "EN: a succession of clauses, phrases or sentences that all end with the same word or group of words."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Epithet",
+    "phonetic": "'epiθet",
+    "definition": [
+      "n. 浑名, 绰号, 称号",
+      "EN: a term used as a descriptive and qualifying substitute for the name of a person, place or thing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Eristic",
+    "phonetic": "e'ristik",
+    "definition": [
+      "a. 争论的, 好争论的",
+      "n. 辩论术, 争论者, 论客",
+      "EN: communicating with the aim of winning the argument regardless of truth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Eulogy",
+    "phonetic": "'ju:lәdʒi",
+    "definition": [
+      "n. 赞词, 称颂",
+      "EN: a speech or writing in praise of a person, especially one who recently died or retired."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Euphemism",
+    "phonetic": "'ju:fәmizm",
+    "definition": [
+      "n. 委婉说法, 委婉语",
+      "EN: an innocuous, inoffensive or circumlocutory term or phrase for something unpleasant or obscene—e.g., in advertising for female hygiene products any liquid shown is never red, it's usually blue."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fable",
+    "phonetic": "'feibl",
+    "definition": [
+      "n. 寓言, 神话, 谎言",
+      "vi. 虚构, 作寓言",
+      "EN: a short allegorical story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Feminist rhetoric",
+    "phonetic": "",
+    "definition": [
+      "EN: rhetorical theory concerned with feminism and its critique of social structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Forensic rhetoric",
+    "phonetic": "",
+    "definition": [
+      "EN: speaking in a courtroom."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Glossophobia",
+    "phonetic": "",
+    "definition": [
+      "[医] 谈话恐怖, 言语恐怖",
+      "EN: the fear of public speaking, commonly referred to as speech anxiety in non-psychiatric contexts."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Grand style",
+    "phonetic": "",
+    "definition": [
+      "=grand manner",
+      "EN: a style of rhetoric, notable for its use of figurative language and for its ability to evoke emotion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hermeneutics",
+    "phonetic": ",h\\\\:mә'nju:tiks",
+    "definition": [
+      "n. 诠释学, 解释学",
+      "EN: the theoretical underpinnings of interpreting texts, usually religious or literary."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Homiletics",
+    "phonetic": ".hɒmi'letiks",
+    "definition": [
+      "n. 说教术",
+      "EN: the application of the general principles of rhetoric to the specific art of public preaching."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Humblebrag",
+    "phonetic": "",
+    "definition": [
+      "以看似谦虚的方式自夸",
+      "EN: a statement that purports to be modest while delivering a boast (coined by Harris Wittels)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hypallage",
+    "phonetic": "hai'pælә^i:",
+    "definition": [
+      "n. [修辞]换置法",
+      "EN: a literary device that reverses the syntactic relation of two words (as in \"her beauty's face\")."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hyperbaton",
+    "phonetic": "hai'pә:bәtɔn",
+    "definition": [
+      "n. [修辞]倒装法",
+      "EN: a figure of speech in which words that naturally belong together are separated from each other for emphasis or effect."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hyperbole",
+    "phonetic": "hai'pә:bәli",
+    "definition": [
+      "n. 夸张法",
+      "EN: a figure of speech where emphasis is achieved through exaggeration, independently or through comparison; for example, \"His body was as white as snow, his face burned like fire.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ideology",
+    "phonetic": ".aidi'ɒlәdʒi",
+    "definition": [
+      "n. 思想体系, 意识形态, 观念学, 空论",
+      "[医] 观念学, 观念形态",
+      "EN: a way of understanding one's external surroundings."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Invitational rhetoric",
+    "phonetic": "",
+    "definition": [
+      "EN: rhetoric involving \"an invitation to understanding as a means to create a relationship rooted in quality, immanent value, and self-determination\" (Foss and Griffin, 1995); it emphasizes the relationship between the speaker and freedoms of the audience to make decisions for themselves in order to promote equality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Irony",
+    "phonetic": "'aiәrәni",
+    "definition": [
+      "n. 反语, 讽刺, 具有讽刺意味的事",
+      "EN: a deliberate contrast between indirect and direct meaning to draw attention to the opposite."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Isocolon",
+    "phonetic": "",
+    "definition": [
+      "[网络] 等同结构",
+      "EN: a string of phrases of corresponding structure and equal length."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jargon",
+    "phonetic": "'dʒɑ:gәn",
+    "definition": [
+      "n. 专门术语, 行话, 梦话, 土语",
+      "[计] 行话",
+      "EN: highly technical language used by specific group."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Litotes",
+    "phonetic": "'laitәuti:z",
+    "definition": [
+      "n. 反叙法, 曲言法",
+      "EN: stating a positive by negating the negative; a form of understatement as in \"I am not unaware of your difficulties.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Logical fallacy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 逻辑谬误;逻辑的谬误;逻辑错误",
+      "EN: misconceptions resulting from faulty reasoning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Logology",
+    "phonetic": "",
+    "definition": [
+      "[网络] 符号体系;理学",
+      "EN: Study of the specific theological terms used, not to find the truth or falseness of the statement, but why that particular word was chosen. (Kenneth Burke)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Material fallacy",
+    "phonetic": "",
+    "definition": [
+      "EN: false notion concerning the subject matter of an argument."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maxim",
+    "phonetic": "'mæksim",
+    "definition": [
+      "n. 格言, 座右铭",
+      "[法] 格言, 准则, 原则",
+      "EN: \"A saying drawn from life, which shows concisely either what happens or ought to happen in life, for example: 'Every beginning is difficult.'\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Metaphor",
+    "phonetic": "'metәfә",
+    "definition": [
+      "n. 隐喻",
+      "EN: a figure of speech where a word that normally applies to one thing is used to designate another for the sake of creating a mental picture, for example, \"he lightly breathed a favoring breath\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Metonymy",
+    "phonetic": "mi'tɒnimi",
+    "definition": [
+      "n. 转喻",
+      "[医] 代语失当, 选语失当",
+      "EN: a figure of speech that substitutes one word or phrase for another with which it is closely associated. For example, in UK, people speak of \"Crown property\" meaning property belonging to the State. Similarly: \"The White House had no comment to make.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Minor premise",
+    "phonetic": "",
+    "definition": [
+      "[计] 次前提",
+      "EN: statement in an argument."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Moral reasoning",
+    "phonetic": "",
+    "definition": [
+      "道德推理",
+      "EN: reasoning employed in rhetoric that determines a conclusion based on evidence; used in issues of ethics, religion, economics, and politics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Narration",
+    "phonetic": "nә'reiʃәn",
+    "definition": [
+      "n. 叙述, 故事, 叙述文",
+      "[法] 陈诉, 原告陈述者事实",
+      "EN: story telling, involving the elements of time, place, actor, action, cause and manner."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Onomatopoeia",
+    "phonetic": ".ɒnәumætәu'pi:ә",
+    "definition": [
+      "n. 拟声, 拟声语, 声喻法",
+      "EN: words that imitate the sounds, objects, or actions they refer to, for example \"buzz\", \"hullabaloo\", \"bling\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Opening statement",
+    "phonetic": "",
+    "definition": [
+      "[网络] 开场陈述;开场白;开庭陈述",
+      "EN: first part of discourse; should gain audiences' attention."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Orator",
+    "phonetic": "'ɒ:rәtә",
+    "definition": [
+      "n. 演说者, 演讲者, 雄辩家, 原告, 请愿人",
+      "[法] 请愿人, 原告, 雄辩者",
+      "EN: a public speaker, especially one who is eloquent or skilled."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oxymoron",
+    "phonetic": ".ɒksi'mәurɒn",
+    "definition": [
+      "n. 矛盾修饰法, 逆喻",
+      "EN: opposed or markedly contradictory terms joined for emphasis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Panegyric",
+    "phonetic": ".pæni'dʒirik",
+    "definition": [
+      "n. 赞颂, 颂词, 推崇备至",
+      "EN: a formal public speech, delivered in high praise of a person or thing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Paradox",
+    "phonetic": "'pærәdɒks",
+    "definition": [
+      "n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事",
+      "[化] 佯谬",
+      "EN: an apparently absurd or self-contradictory statement or proposition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parallel syntax",
+    "phonetic": "",
+    "definition": [
+      "EN: repetition of similar sentence structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parallelism",
+    "phonetic": "'pærәlelizm",
+    "definition": [
+      "n. 平行, 对应, 类似, 比拟",
+      "[计] 并行性",
+      "EN: the correspondence, in sense or construction, of successive clauses or passages."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parataxis",
+    "phonetic": ".pærә'tæksis",
+    "definition": [
+      "n. 并列, 并列结构",
+      "EN: using juxtaposition of short, simple sentences to connect ideas, as opposed to explicit conjunction."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parenthesis",
+    "phonetic": "pә'renθisis",
+    "definition": [
+      "n. 圆括号, 插入语, 附带, 插曲",
+      "EN: an explanatory or qualifying word, clause, or sentence inserted into a passage that is not essential to the literal meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Parody",
+    "phonetic": "'pærәdi",
+    "definition": [
+      "n. 打油诗文, 诙谐的模仿诗文, 拙劣的模仿",
+      "vt. 拙劣模仿, 作模仿诗文",
+      "EN: comic imitation of something or somebody."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Personification",
+    "phonetic": "pә:.sɒnifi'keiʃәn",
+    "definition": [
+      "n. 拟人, 人格化, 拟人法, 化身, 象征",
+      "EN: a figure of speech that gives human characteristics to inanimate objects, or represents an absent person as being present. For example, \"But if this invincible city should now give utterance to her voice, would she not speak as follows?\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Philippic",
+    "phonetic": "fi'lipik",
+    "definition": [
+      "n. 激烈的抨击",
+      "EN: a fiery, damning speech, delivered to condemn a particular political actor; the term is derived from Demosthenes's speeches in 351 BC denouncing the imperialist ambitions of Philip of Macedon, which later came to be known as The Philippics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Phronesis",
+    "phonetic": "frәu'ni:sis",
+    "definition": [
+      "n. [哲]实践智慧( 指在确定目标及达到目标的手段中的智慧)",
+      "EN: practical wisdom; common sense."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pleonasm",
+    "phonetic": "'pli:әnæzm",
+    "definition": [
+      "n. 冗笔, 冗词, 赘句",
+      "[医] 赘余畸形",
+      "EN: the use of more words than necessary to express an idea."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Polysemy",
+    "phonetic": "'pɒlisi:mi",
+    "definition": [
+      "n. 一词多义现象",
+      "EN: the capacity of a word or phrase to render more than one meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Polysyndeton",
+    "phonetic": ",pɔli'sinditɔn",
+    "definition": [
+      "n. [语]连词叠用",
+      "EN: the repeated use of conjunctions within a sentence, particularly where they do not necessarily have to be used."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Postmodernism",
+    "phonetic": "ˌpəʊstˈmɒdənɪzəm",
+    "definition": [
+      "n. 后现代主义",
+      "EN: a field of inquiry concerned with the ideological underpinnings of commonly held assumptions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pragmatism",
+    "phonetic": "'prægmәtizm",
+    "definition": [
+      "n. 实用主义",
+      "[法] 实用主义, 干涉主义, 独断",
+      "EN: approach based on practical consideration and immediate perception to the exclusion of moral (in the sense of 'should') and ethic arguments."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Praise sandwich",
+    "phonetic": "",
+    "definition": [
+      "EN: delivering criticism together with praise."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Priamel",
+    "phonetic": "",
+    "definition": [
+      "[网络] 一个简短的比衬;阕颂歌以一个比衬",
+      "EN: a series of compared alternatives which serve as foils to the true subject of a poem."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Protreptic",
+    "phonetic": "prәj'treptik",
+    "definition": [
+      "n. 规劝, 劝告",
+      "a. 规劝的, 劝告的",
+      "EN: the potential to persuade through language."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Repetition",
+    "phonetic": ".repi'tiʃәn",
+    "definition": [
+      "n. 重复, 背诵, 循环, 复制品, 副本",
+      "[机] 重复, 反复",
+      "EN: the repeating of a word for emphasis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rhetor",
+    "phonetic": "'ri:tә",
+    "definition": [
+      "n. 修辞学教师, 演说家",
+      "EN: a person who is in the course of presenting or preparing rhetorical discourse."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rhetoric",
+    "phonetic": "'retәrik",
+    "definition": [
+      "n. 修辞, 修辞学, 雄辩(术)",
+      "EN: the study and practice of good effective expression; also a type of discourse, focusing on goals of the speech or piece of writing that attempts to sway the mind of the audience."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rhetorical criticism",
+    "phonetic": "",
+    "definition": [
+      "修辞批评;语艺批评",
+      "EN: analysis of the symbolic artifacts of discourse—the words, phrases, images, gestures, performances, texts, films, etc. that people use to communicate; there are many different forms of rhetorical criticism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rhetorical question",
+    "phonetic": "",
+    "definition": [
+      "修辞性疑问",
+      "EN: a question asked to make a point instead of to elicit a direct answer."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rhetorical situation",
+    "phonetic": "",
+    "definition": [
+      "修辞情境;语艺情境",
+      "EN: a term made popular by Lloyd Bitzer; it describes the scenario that contains a speech act, including the considerations (purpose, audience, author/speaker, constraints to name a few) that play a role in how the act is produced and perceived by its audience; the counterargument regarding Bitzer's situation-rhetoric relationship was made by Richard Vatz, who argued for a salience-meaning (or now, agenda-framing-spin) model of persuasion, which emphasized rhetoric as a creative act with increased agent or persuader responsibility for the situation his or her rhetoric creates."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Salon",
+    "phonetic": "'sælɔ:ŋ",
+    "definition": [
+      "n. 大会客室, 大厅, 客厅, 交谊室, 沙龙, 美术展览馆, 画廊, 美容院, 发廊",
+      "EN: intellectual assembly in an aristocratic setting; primarily associated with France in the 17th and 18th centuries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schesis onomaton",
+    "phonetic": "",
+    "definition": [
+      "EN: either a sentence constructed only of nouns and adjectives, a series of synonyms used for emphasis, or both."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scholasticism",
+    "phonetic": "skә'læstisizm",
+    "definition": [
+      "n. 繁琐哲学, 墨守成规, 经院哲学",
+      "[法] 宗教哲学",
+      "EN: rhetorical study of Christianity that was intellectually prominent in 11th–15th-century Western Europe, emphasizing rhetorical concepts by Aristotle and a search for universal truth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scientism",
+    "phonetic": "'saiәntizm",
+    "definition": [
+      "n. 科学至上主义, 科学态度",
+      "EN: applying scientific assumptions to subjects that are not completely natural."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Second Sophistic",
+    "phonetic": "",
+    "definition": [
+      "EN: rhetorical era in Rome that dealt primarily with rhetorical style through some of the Greek Sophists' concepts, while neglecting its political and social uses because of censorship."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Semantics",
+    "phonetic": "si'mæntiks",
+    "definition": [
+      "n. [语]语义学;语义论",
+      "EN: philosophical study of language that deals with its connection to perceptions of reality."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Semiotics",
+    "phonetic": ".semi'ɒtiks",
+    "definition": [
+      "n. 符号论, 症状学",
+      "[计] 符号语言学; 形式语言学",
+      "EN: branch of semantics concerning language and communication as a system of symbols."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Simile",
+    "phonetic": "'simili",
+    "definition": [
+      "n. 明喻, 明喻说法",
+      "EN: a figure of speech that compares unlike things, implying a resemblance between them, for example, \"He entered the combat in body like the strongest bull, in impetuosity like the fiercest lion.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Solecism",
+    "phonetic": "'sɒlisizm",
+    "definition": [
+      "n. 语法错误, 失礼",
+      "EN: ignorantly misusing tenses, cases, and genders."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sophists",
+    "phonetic": "",
+    "definition": [
+      "n. (古希腊以教授修辞学,哲学为职业并以善于诡辩出名的)智者",
+      "[网络] 诡辩家;诡辩派;智者派",
+      "EN: considered the first professional teachers of oratory and rhetoric (ancient Greece 4th century BC)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Spin",
+    "phonetic": "spin",
+    "definition": [
+      "n. 旋转, 自旋, 疾驰, 情绪低落",
+      "vt. 纺织, 纺, 使旋转, 编造",
+      "vi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+      "EN: the act of competing to infuse meaning into agenda items for chosen audiences."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Spoonerism",
+    "phonetic": "'spu:nәrizm",
+    "definition": [
+      "n. 首音互换",
+      "EN: the deliberate or involuntary switching of sounds or morphemes between two words of a phrase, rendering a new meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Straw man",
+    "phonetic": "",
+    "definition": [
+      "稻草人, 假想对手, 被当作挡箭牌的人",
+      "EN: an argument that is a logical fallacy based on misrepresentation of an opponent's position."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Syllogism",
+    "phonetic": "'silәdʒizm",
+    "definition": [
+      "n. 三段论, 推论, 演绎",
+      "[计] 三段论",
+      "EN: a type of valid argument that states if the first two claims are true, then the conclusion is true. (For example: Claim 1: People are mortal. Claim 2: Bob is a person. Therefore, Claim 3: Bob is mortal.) Coined by Aristotle."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Symbol",
+    "phonetic": "'simbl",
+    "definition": [
+      "n. 符号, 象征, 代号, 信条",
+      "[计] 符号; 码元",
+      "EN: a visual or metaphorical representation of an idea or concept."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Symploce",
+    "phonetic": "'simpləsi",
+    "definition": [
+      "n. 【修辞学】首语重复和尾词重复的并用",
+      "EN: a figure of speech in which several successive clauses have the same first and last words."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Synathroesmus",
+    "phonetic": "",
+    "definition": [
+      "[网络] 天蝎座",
+      "EN: a rhetorical device involving the listing, typically to emphasize emotion"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Synecdoche",
+    "phonetic": "si'nekdәki",
+    "definition": [
+      "n. 提喻法",
+      "EN: a rhetorical device where one part of an object is used to represent the whole—e.g., \"There are fifty head of cattle.\" or \"Show a leg!\" (naval command to get out of bed = show yourself)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Taste",
+    "phonetic": "teist",
+    "definition": [
+      "n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量",
+      "vt. 尝, 察觉...的味道, 体会",
+      "vi. 品尝, 察觉味道, 有某种味道",
+      "EN: a learned admiration for things of beauty."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tautology",
+    "phonetic": "tɒ:'tɒlәdʒi",
+    "definition": [
+      "n. 同义反复, 赘述, 重言式",
+      "[计] 重言式",
+      "EN: the same idea repeated in different words."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Technobabble",
+    "phonetic": "",
+    "definition": [
+      "技术呓语(普通人难以理解的科技术语)",
+      "EN: use of technical terms or jargon to try to win a point by confusing the opposition or by attempting to intimidate by suppressing admission of ignorance by the opposition."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Terministic screens",
+    "phonetic": "",
+    "definition": [
+      "EN: a term coined by Kenneth Burke to explain the way in which the world is viewed when taking languages and words into consideration."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tmesis",
+    "phonetic": "'tmi:sis",
+    "definition": [
+      "n. [语]插词法",
+      "EN: separating the parts of a compound word by a different word (or words) to create emphasis or other similar effects."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Toulmin model",
+    "phonetic": "",
+    "definition": [
+      "EN: a method of diagramming arguments created by Stephen Toulmin that identifies such components as backing, claim, data, qualifier, rebuttal, and warrant."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tricolon",
+    "phonetic": "",
+    "definition": [
+      "[网络] 平行结构以三平行;三行诗",
+      "EN: the pattern of three phrases in parallel, found commonly in Western writing after Cicero—for example, the kitten had white fur, blue eyes, and a pink tongue."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tropes",
+    "phonetic": "",
+    "definition": [
+      "(trope 的复数) n. 转义, 比喻",
+      "EN: a figure of speech that uses a word aside from its literal meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Understatement",
+    "phonetic": "ʌndә'steitmәnt",
+    "definition": [
+      "n. 软弱无力的陈述, 克制的说法",
+      "[经] 少报",
+      "EN: a form of irony, sometimes in the form of litotes, in which something is represented as less than it really is, with the intent of drawing attention to and emphasizing the opposite meaning."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Universal audience",
+    "phonetic": "",
+    "definition": [
+      "EN: an audience consisting of all humankind."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Utterance",
+    "phonetic": "'ʌtәrәns",
+    "definition": [
+      "n. 发声, 言辞, 表达, 说话的方式, 死",
+      "[医] 发言, 言语, 语调",
+      "EN: statement that could contain meaning about one's own person."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Validity",
+    "phonetic": "vә'liditi",
+    "definition": [
+      "n. 有效性, 正确性",
+      "[计] 有效性",
+      "EN: apprehension over the structure of an argument."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Visual rhetoric",
+    "phonetic": "",
+    "definition": [
+      "EN: a theoretical framework describing how visual images, typography, and texts communicate, as opposed to aural or verbal messages."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anadiplosis",
+    "phonetic": ",ænәdi'plәusis",
+    "definition": [
+      "n. [修辞]联珠法",
+      "EN: n repetition of the final words of a sentence or line at the beginning of the next"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anticlimactical",
+    "phonetic": ",æntiklai'mæktik;-kəl",
+    "definition": [
+      "a. 【修辞学】突降法的;(在重要性、兴趣、品质等方面)骤降的, 由精彩出色降至平庸的;虎头蛇尾的",
+      "EN: a of or relating to a sudden change from an impressive to a ludicrous style"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "campaign rhetoric",
+    "phonetic": "",
+    "definition": [
+      "竞选修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachresis",
+    "phonetic": ",kætә'kri:sis",
+    "definition": [
+      "n. 在特定上下文中词的误用, 修辞手法生硬而自相矛盾的误用",
+      "EN: n. strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths')"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachrestic",
+    "phonetic": "keɪ'tækrestɪk",
+    "definition": [
+      "a. 用词不当的, 修辞生硬且自相矛盾的误用",
+      "EN: a. Alt. of Catachrestical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catachrestically",
+    "phonetic": "keɪtæk'restɪklɪ",
+    "definition": [
+      "adv. 用词不当地, 修辞生硬且自相矛盾的误用地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "catastasis",
+    "phonetic": "kә'tæstәsis",
+    "definition": [
+      "n. (古代戏剧)高潮前的情节发展, (修辞中的)叙述, 高潮",
+      "EN: n. That part of a speech, usually the exordium, in which the orator sets forth the subject matter to be discussed. n. The state, or condition of anything; constitution; habit of body."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "comparative rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[语] 比较修辞学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deep rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 深刻的修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dis similitude",
+    "phonetic": "disi'militju:d",
+    "definition": [
+      "n. 不同,不一样,不相似 ,不类似,相异,差异,差别;不同点,异点,相异点,相异之处;【修辞学】对照法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dissimile",
+    "phonetic": "di'simili",
+    "definition": [
+      "n. 【修辞学】对喻(与明喻相对)",
+      "EN: n. Comparison or illustration by contraries."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ecphonesis",
+    "phonetic": ",i:kfə'ni:sis; ek-",
+    "definition": [
+      "n. 【修辞学】感叹[亦作 exclamation]",
+      "EN: n. An animated or passionate exclamation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "enantioses",
+    "phonetic": "en,ænti'əusi:z",
+    "definition": [
+      "enantiosis的变形",
+      "【修辞学】反语(手法);反话;讽刺语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epanadiplosis",
+    "phonetic": ",epənə'dipləusis",
+    "definition": [
+      "n. 【修辞学】(句)首尾重复(法)(句首句尾重复词一单词或短语)",
+      "EN: n. A figure by which the same word is used both at the beginning and at the end of a sentence; as, \"Rejoice in the Lord always: and again I say, Rejoice.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "epiphonema",
+    "phonetic": ",epifə'ni:mə",
+    "definition": [
+      "n. 【修辞学】;(文章结尾处的)画龙点睛之笔",
+      "EN: n. An exclamatory sentence, or striking reflection, which sums up or concludes a discourse."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hyperbolist",
+    "phonetic": "hai'p\\\\:bәlist",
+    "definition": [
+      "n. (修辞上)运用夸张法的人",
+      "EN: n. One who uses hyperboles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypozeugma",
+    "phonetic": ",haipə'zu:ɡmə",
+    "definition": [
+      "n. [修辞学](一个谓语连接)一连串主语的使用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hypozeuxis",
+    "phonetic": ",haipə'zu:ksis",
+    "definition": [
+      "【修辞学】(各有主谓语的)并列分句的使用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interabang",
+    "phonetic": "in'terә,bæŋ",
+    "definition": [
+      "n. 问叹号,\"?\"(将问号与惊叹号合并而成的标点符号,用在修辞性疑问句的后面)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interrobang",
+    "phonetic": "in'terә,bæŋ",
+    "definition": [
+      "n. 问叹号,\"?\"(将问号与惊叹号合并而成的标点符号,用在修辞性疑问句的后面)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lexical devices",
+    "phonetic": "",
+    "definition": [
+      "[网络] 词汇手段;词汇修辞手段;词汇修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lucian",
+    "phonetic": "'lu:sjәn",
+    "definition": [
+      "n. 琉善(腊修辞学家和讽刺诗人);卢西恩(男子名)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mendicating",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metalepsis",
+    "phonetic": ",metә'lepsis",
+    "definition": [
+      "n. [语]进一步转喻法( 指把已作比喻用的词进一步用于另一比喻意义的一种修辞法)",
+      "EN: n substituting metonymy of one figurative sense for another"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "metonym",
+    "phonetic": "'metәnim",
+    "definition": [
+      "n. [修辞]换喻(metonymy)中所使用的词或短语",
+      "EN: n. a word that denotes one thing but refers to a related thing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mixed metaphors",
+    "phonetic": "",
+    "definition": [
+      "[网络] 混杂的修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news rhetoric",
+    "phonetic": "",
+    "definition": [
+      "新闻修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "oxymora",
+    "phonetic": ".ɒksi'mɔːrɒn",
+    "definition": [
+      "n. 【修辞】矛盾修饰法(例:a wise fool, cruel kindness)",
+      "[网络] 矛盾修辞法;逆喻;矛盾词"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "political rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 政治修辞;政治语艺;政治辞令"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puristic",
+    "phonetic": "pjʊə'rɪstɪk",
+    "definition": [
+      "a. 修辞癖的, 用语简洁的",
+      "EN: a. Alt. of Puristical"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "puristical",
+    "phonetic": "pjʊə'rɪstɪkəl",
+    "definition": [
+      "a. 修辞癖的, 用语简洁的",
+      "EN: a. Of or pertaining to purists or purism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhet",
+    "phonetic": "'ret",
+    "definition": [
+      "abbr. rhetoric 修辞学; 华丽的文辞; rhetorical 修辞(学)的; rhetorician 修辞学家"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical",
+    "phonetic": "ri'tɒ:rikl",
+    "definition": [
+      "a. 修辞学的, 符合修辞学的, 修辞的",
+      "EN: a. of or relating to rhetoric a. given to rhetoric, emphasizing style at the expense of thought"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical act",
+    "phonetic": "",
+    "definition": [
+      "修辞行动;语艺行动"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical approach",
+    "phonetic": "",
+    "definition": [
+      "语艺取径;修辞取径"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical device",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞手法;修辞手段题型;修辞格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical discourse",
+    "phonetic": "",
+    "definition": [
+      "修辞学论述;修饰性论域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical effect",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞效果;修辞功能;修辞作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical features",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞特征;修辞特色"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical figure",
+    "phonetic": "",
+    "definition": [
+      "修辞手段"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical figures",
+    "phonetic": "",
+    "definition": [
+      "修辞手法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical function",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞功能;修辞作用"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical hyperbole",
+    "phonetic": "",
+    "definition": [
+      "夸张修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical induction",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞的归纳法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical mode",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞模式;修辞方式;修辞手法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical school",
+    "phonetic": "",
+    "definition": [
+      "修辞学校"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorical strategy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 话语战略;修辞策略"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorically",
+    "phonetic": "rɪ'tɒrɪklɪ",
+    "definition": [
+      "adv. 在修辞学上, 讲究修辞地",
+      "EN: r. in a rhetorical manner"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetoricalness",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorician",
+    "phonetic": ".retә'riʃәn",
+    "definition": [
+      "n. 修辞学者, 雄辩家",
+      "EN: n a person who delivers a speech or oration"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rhetorize",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ritualized rhetoric",
+    "phonetic": "",
+    "definition": [
+      "仪式化修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "schemata",
+    "phonetic": "",
+    "definition": [
+      "计划, 纲要, 图解, 修辞手段, (三段论法的)格",
+      "EN: n an internal representation of the world; an organization of concepts and actions that can be revised by new information about the world n a schematic or preliminary plan"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syncrisis",
+    "phonetic": "siŋ'krisis",
+    "definition": [
+      "n. <罕>(修辞学中的)对立事物比较法",
+      "EN: n. A figure of speech in which opposite things or persons are compared."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "syntactic devices",
+    "phonetic": "",
+    "definition": [
+      "[网络] 句法手段;句法手段的修辞格;句法修辞手段"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "the rhetoric",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "topos",
+    "phonetic": "'tɔpɔs,-әs,'tәjpɔs",
+    "definition": [
+      "n. (文学创作的)传统主题,(修辞学上的)惯用语句",
+      "EN: n. a traditional theme or motif or literary convention"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "troper",
+    "phonetic": "trəʊp",
+    "definition": [
+      "n. 【修辞学】转义;转喻, 隐喻, 比喻, 反语[参较 figure of speech];转义语词;辞藻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unrhetorically",
+    "phonetic": "",
+    "definition": [
+      "[网络] 修辞地"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

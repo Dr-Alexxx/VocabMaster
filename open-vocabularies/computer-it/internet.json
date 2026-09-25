@@ -1,0 +1,1301 @@
+[
+  {
+    "word": "ADSL",
+    "phonetic": "",
+    "definition": [
+      "abbr. 非对称数字用户环线(Asymmetrical Digital Subscriber Loop)",
+      "EN: Asymmetric Digital Subscriber Line is a technology for transmitting digital information at a high bandwidth on existing phone lines to homes and businesses. ADSL is asymmetric in the sense that it uses most of the channel to transmit downstream to the user and only a small part to receive information from the user. This means, high download rates and slower upload rates. Generally if you see 2 Mb ADSL broadband, it refers to 2 Mbit/s Max d/load rate. The upload rate will probably be around 256 kbit/s Max. (ADSL has a maximum download rate of 8 Mbit/s, ADSL2 is capable of up to 16 Mbit/s and ADSL2+ is rated at 24 Mbit/s maximum.)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bandwidth (computing)",
+    "phonetic": "",
+    "definition": [
+      "EN: Rate data transfers across a network"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Blogging",
+    "phonetic": "",
+    "definition": [
+      "n. 写网志;博客",
+      "EN: Writing on or otherwise using online journals known as web logs or blogs"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cable modem",
+    "phonetic": "ˈkeibl ˈməudem",
+    "definition": [
+      "线缆调制解调器",
+      "EN: Primary competitor to ADSL, uses digital information transmitted over a cable television infrastructure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CSS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 样式表;层叠样式表(Cascading Style Sheets);内容扰乱系统(Content Scramble System)",
+      "EN: Cascading Style Sheets; while HTML dictates the content of page, CSS regulates the format, including headers, footers, navigation bars, etc. While all of these elements can be created in HTML, such a method would have to be repeated on every web page. CSS on the other hand, is applied to all pages of a website."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cyberbullying",
+    "phonetic": "",
+    "definition": [
+      "网上欺凌",
+      "EN: A bully who harasses his or her victims online through various means such as spamming, defaming or negative impersonation of the victim."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dial-up",
+    "phonetic": "'daiәlʌp",
+    "definition": [
+      "[计] 拨号, 拨通, 拨号终端",
+      "EN: A method of connection to the internet using existing copper phone lines using a modem on the client's end to send information at a slow speed, normally reaching maximum speed at about 56 kbit/s. This technology uses the voice spectrum of the telephone lines to transmit data using a system of sounds that only the receiving modem or ISP understand."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Egosurfer",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络自搜者",
+      "EN: someone who searches the Internet for references of themselves"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fail",
+    "phonetic": "feil",
+    "definition": [
+      "vi. 失败, 缺乏, 中断, 衰退, 失灵",
+      "vt. 忘记, 使...失望, 缺乏, 不及格",
+      "n. 不及格",
+      "EN: The opposite of \"win\", \"fail\" expresses an ability to incorrectly perform acts ranging from idiotically simple to impossibly difficult, often consisting of an amusing element."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Flamer",
+    "phonetic": "'fleimә",
+    "definition": [
+      "n. 火焰喷射器;[俚]公开的同性恋者",
+      "EN: A flamer is someone who makes degrading or insulting remarks on a forum or other Internet message board, the verb of which is \"flame\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Friending",
+    "phonetic": "",
+    "definition": [
+      "v. <诗>与...为友(friend的现在分词形式)",
+      "EN: the act of making and adding friends online through social networking sites such as Facebook and MySpace"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "FTP",
+    "phonetic": "",
+    "definition": [
+      "[计] 文件传送协议, 固定项目设计",
+      "EN: Protocol to exchange files between two computers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Googling",
+    "phonetic": "ˈɡuːɡl",
+    "definition": [
+      "n. 【网】谷歌;【企】谷歌公司",
+      "v. 【网】用谷歌搜索",
+      "[网络] 网上搜索;谷歌一下;关于搜索引擎",
+      "EN: searching through the Google search engine"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Griefer",
+    "phonetic": "",
+    "definition": [
+      "[网络] 滋事者",
+      "EN: A player of an online game who harasses other players."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "HTML",
+    "phonetic": "ˌeɪtʃ ti: em 'el",
+    "definition": [
+      "abbr. (=hypertext mark-up language)【IT】超文本标记语言",
+      "[网络] 超文本标记语言(Hyper Text Markup Language);网页;超文本标示语言",
+      "EN: HyperText Markup Language, the coding language used to create hypertext documents for the World Wide Web. In HTML, a block of text can be surrounded with tags that indicate how it should appear (for example, in bold face or italics). Also, in HTML a word, a block of text, or an image can be linked to another file on the Web. HTML files are viewed with a World Wide Web browser."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ID-10-T",
+    "phonetic": "",
+    "definition": [
+      "EN: clueless user; everybody giving a hard time to (computer) administrators"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jank",
+    "phonetic": "dʒæŋk",
+    "definition": [
+      "vi.<美军俚>(为躲避地面高射炮火而)同时改变飞行高度和方向, 闪避",
+      "EN: flickering in a user interface, due to the software generating the interface being unable to update quickly enough for the display's frame rate."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lag",
+    "phonetic": "læg",
+    "definition": [
+      "n. 落后, 囚犯, 迟延, 桶板, 防护套",
+      "a. 最后的",
+      "vi. 落后, 蹒跚, 缓缓而行, 滞后",
+      "vt. 落后于, 押往监狱, 加上外套",
+      "[计] 延迟; 落后",
+      "EN: perceived poor response times or sluggishness in a user interface, which may be due to programming defects, use of low-quality processes, executing long tasks. Often this slows down or affects user performed operations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Leet",
+    "phonetic": "li:t",
+    "definition": [
+      "n. 民事法庭",
+      "[法] 领地刑事法庭, 刑事法庭管辖区, 候选人名单",
+      "EN: , or \"1337\", (from elite) is someone who is unnaturally adept at a certain trait or ability. Originally used as a slightly infra dig expression in the hacker community. Later usage centered around video games players."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lurk",
+    "phonetic": "lә:k",
+    "definition": [
+      "n. 潜伏, 潜行",
+      "vi. 暗藏, 潜伏, 埋伏",
+      "[计] 隐匿阅读",
+      "EN: Used to describe visiting and spending time on forums and image boards viewing content but not posting. People engaged in this are called \"lurkers\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "noob",
+    "phonetic": "nuːb",
+    "definition": [
+      "n. 新手(等于newbie)",
+      "EN: A new or inexperienced person, someone who does not know the rules of a website, or has only recently joined. A wordplay on newbie."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phishing",
+    "phonetic": "ˈfɪʃɪŋ",
+    "definition": [
+      "网络仿冒",
+      "EN: The act of attempting to obtain private or sensitive information such as user names, passwords and credit card information through the use of fake emails from trustworthy sites."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "PHP",
+    "phonetic": "",
+    "definition": [
+      "[计] 包含有PHP脚本的HTML网页",
+      "EN: Hypertext Preprocessor, the coding language to create interactive web pages and so forth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "POP3",
+    "phonetic": "",
+    "definition": [
+      "abbr. 邮局通讯协定第三版(Post Office Protocol 3)",
+      "EN: Protocol to retrieve email."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Redditor",
+    "phonetic": "",
+    "definition": [
+      "EN: A person who scours the Internet for media and posts the findings on the Reddit website. Once posted, other members can upvote or downvote the material based on their evaluation of it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SMTP",
+    "phonetic": "",
+    "definition": [
+      "[计] 简易邮件传递协议",
+      "EN: Protocol to send email."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spamming",
+    "phonetic": "",
+    "definition": [
+      "[计] 滥塞",
+      "EN: the act of sending unsolicited email or posting many useless messages in a forum website."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "The Game",
+    "phonetic": "",
+    "definition": [
+      "致命游戏(电影名)",
+      "EN: A popular mind game, often referred to on public message boards as a way to irritate other users."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Troll",
+    "phonetic": "trɒl",
+    "definition": [
+      "vi. 滚动, 参加轮唱, 曳绳钓鱼",
+      "vt. 使转动, 轮唱, 高唱, 用曳绳钓(鱼)",
+      "n. 转动, 轮唱, 钓绳",
+      "EN: someone who attempts to gain infamy in chat or on forums by use of but not limited to links to disturbing items, bashing (fighting, put down) with others, copying or mimicking other's real posts into perverted messages."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tweet",
+    "phonetic": "twi:t",
+    "definition": [
+      "vi. 啁啾",
+      "n. 小鸟叫声",
+      "EN: a small message sent by a user of the website Twitter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Unfriend",
+    "phonetic": "ʌn'frend",
+    "definition": [
+      "vt. 删除好友, 即, 将某人从社交网站(如Facebook等)的‘好友’中删除",
+      "EN: The act of removing someone from a list of friends on social networking profiles of Facebook, MySpace or Bebo. It is also the Oxford dictionary's 2009 Word of the Year."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Win",
+    "phonetic": "win",
+    "definition": [
+      "vt. 赢得, 打胜, 成功",
+      "vi. 获胜, 达到, 影响",
+      "n. 胜利, 赢, 收益",
+      "EN: Similar to \"leet\", \"win\" expresses an ability to perform an otherwise impossible act through pure luck or practice, or an object or statement that constitutes an amusing or amazing element."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "YouTuber",
+    "phonetic": "",
+    "definition": [
+      "油管人(频繁使用视频分享网站YouTube的用户,特别是自己制作视频并且出镜的人们)",
+      "EN: a person who produces video content for the video-sharing site YouTube."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "APIX",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网交换中心;塞内加尔大项目投资局;投资促进和大型工程署"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "APNG",
+    "phonetic": "",
+    "definition": [
+      "[网络] Animated Portable Network Graphics; 工作组; 亚太互联网团体(Asia Pacific Networking Group)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bozo-filter",
+    "phonetic": "",
+    "definition": [
+      "na. (能在因特网上删除掉尚未接收之无用信息的)傻瓜过滤器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CCSP",
+    "phonetic": "",
+    "definition": [
+      "思科认证互联网专家(Cisco Certified Security Professional)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cloud-computing",
+    "phonetic": "",
+    "definition": [
+      "n. 云计算(用户通过互联网调用主要存储于中央计算机的数据和软件的方式)",
+      "[网络] 云端运算;云式计算"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "computer interconnect",
+    "phonetic": "",
+    "definition": [
+      "计算机互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daytime protocols",
+    "phonetic": "",
+    "definition": [
+      "(国际互联网)日期时间协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "designing webs",
+    "phonetic": "",
+    "definition": [
+      "万维网设计"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "developing webs",
+    "phonetic": "",
+    "definition": [
+      "万维网开发"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dot-bomb",
+    "phonetic": "",
+    "definition": [
+      "[网络] 炸弹;倒闭网络公司;破产的互联网企业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dot-commers",
+    "phonetic": "",
+    "definition": [
+      "n. 互联网行业工作者, 来自于域名结尾的符号“。com” (dot-com)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-cash",
+    "phonetic": "",
+    "definition": [
+      "电子现金(互联网付费和收费系统)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-learning",
+    "phonetic": "'i:l'ɜ:nɪŋ",
+    "definition": [
+      "n. 电子学习:特指通过互联网和电子邮件进行的学习和培训"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ego-surfing",
+    "phonetic": "",
+    "definition": [
+      "自我冲浪, 自我搜寻 (在互联网上搜索提及自己名字的网页)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "emule",
+    "phonetic": "",
+    "definition": [
+      "n. 电骡子;电驴(一种P2P协议的互联网下载工具)",
+      "EN: v. t. To emulate."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EVDICT",
+    "phonetic": "",
+    "definition": [
+      "点点通[简称],地球村互联网络词典[全称],是阅读英文电子资料必备的辅助工具"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "finger daemon",
+    "phonetic": "",
+    "definition": [
+      "(因特网)指示服务守护进程"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gith",
+    "phonetic": "",
+    "definition": [
+      "abbr. gigabit Internet to home 吉(千兆)比特因特网到户",
+      "EN: n. The corn cockle; also anciently applied to the Nigella, or fennel flower."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "i-fax",
+    "phonetic": "",
+    "definition": [
+      "[网络] 传真;网路传真;互联网传真"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "I-HSPA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网高速分组接入"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "I-PNNI",
+    "phonetic": "",
+    "definition": [
+      "n.集成专用网络协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IEAK",
+    "phonetic": "",
+    "definition": [
+      "abbr. 因特网“探索者”管理工具箱(Internet Explorer Administration Kit)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IEPG",
+    "phonetic": "5",
+    "definition": [
+      "n.因特网工程规划小组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IGMP",
+    "phonetic": "",
+    "definition": [
+      "abbr. 因特网组管理协议(The Internet Group Management Protocol);因特网组消息管理协议(Internet Group Message Protocol);因特网用户组成员协议(Internet Group Membership Protocol)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ILNP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inter-net",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网;因特网;网际网路"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "intercommuner",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet explorers",
+    "phonetic": "",
+    "definition": [
+      "因特网浏览器;微软网页浏览器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-access",
+    "phonetic": "",
+    "definition": [
+      "n. 网路存取",
+      "[网络] 互联网接入;上网;网际网路"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-age",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互连网时代;互联网时代;网络时代"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-based",
+    "phonetic": "",
+    "definition": [
+      "[网络] 以网络为基础的;网考;基于互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-censorship",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络审查;互联网审查;网路审查"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-finance",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络金融;网络财务;互联网金融"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-on-a-disk",
+    "phonetic": "",
+    "definition": [
+      "盘上互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-savvy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网专家;网路上最热门"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-search",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络搜索;互联网搜索;搜寻引擎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-service",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络服务;互联网服务;网际网路服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-services",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网服务;英特网服务;网络服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-software",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网软件;网际网路软体;因特网软件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-style",
+    "phonetic": "'ɪntɜːrnetst'aɪl",
+    "definition": [
+      "adj. 互联网式的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-tax",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网税;征收网络税;网路税"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-telephony",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络电话;因特网电话;网路电话"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internet-users",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网民;上网者;互联网用户"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internetted",
+    "phonetic": "'ɪntɚnɛt",
+    "definition": [
+      "n. 【计算机】因特网;国际互联网[口语简称为 the Net (网)]",
+      "adj. 因特网的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "internuncioship",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IOTP",
+    "phonetic": "",
+    "definition": [
+      "Internet Open Trading Protocol,互联网开放贸易协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IP-PBX",
+    "phonetic": "",
+    "definition": [
+      "abbr. 互联网协议专用分组交换机(Internet Protocol Private Branch Exchange )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IPPBX",
+    "phonetic": "",
+    "definition": [
+      "abbr. 互联网协议专用分组交换机(Internet Protocol Private Branch Exchange )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ipso",
+    "phonetic": "",
+    "definition": [
+      "abbr. incremental phase shift oscillator 增量移相振荡器; Internet protocol security option 因特网协议安全选件; iodized poppy-seed oil 碘化罂粟子油"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ISAPI",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网服务器应用程序接口(Internet Server Application Program Interface);应用程序编程接口"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ISWC",
+    "phonetic": "",
+    "definition": [
+      "[网络] International Semantic Web Conference; 国际语义网会议; 国际语义万维网会议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ITFA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 互联网免税法案(Internet Tax Freedom Act);海域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ITSP",
+    "phonetic": "8",
+    "definition": [
+      "n.因特网电话服务提供商"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "JDWP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 调试网络协议(Java Debug Wire Protocol);调试线协议;调试线路协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MCIS",
+    "phonetic": "",
+    "definition": [
+      "abbr. 微软商业因特网系统(microsoft commercial internet system);漏诊的原位癌(missed carcinoma in situ)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MISF",
+    "phonetic": "",
+    "definition": [
+      "Microsoft Internet Security Framework,Microsoft 的互联网安全框架"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NGN",
+    "phonetic": "",
+    "definition": [
+      "[网络] 下一代网络(Next Generation Network);下一代通信;下一代互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-olympic",
+    "phonetic": "",
+    "definition": [
+      "互联网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NPDU",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络协议数据单元(Network Protocol Data Unit);网络层协议数据单元;数据区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line magazine",
+    "phonetic": "",
+    "definition": [
+      "(在互联网上出版的)线上杂志"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line mall",
+    "phonetic": "",
+    "definition": [
+      "(利用互联网进行交易的)网上商场"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "post-internet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 后网路时代;后因特网艺术;后网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pre-internet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 在前因特网;互联网;前网际网路时代"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "proactive service",
+    "phonetic": "",
+    "definition": [
+      "[网络] 主动服务;主动的服务;主动的互联网服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "RIR",
+    "phonetic": "",
+    "definition": [
+      "abbr. 区域性互联网注册机构(Regional Internet Registry)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "satellite-internet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 卫星因特网;卫星网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "search-engine",
+    "phonetic": "",
+    "definition": [
+      "na. 【计】(用以搜索因特网上信息的)电脑搜索程序",
+      "[网络] 搜寻引擎;查看"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "search-engines",
+    "phonetic": "",
+    "definition": [
+      "na. 【计】(用以搜索因特网上信息的)电脑搜索程序",
+      "[网络] 搜索引擎;搜寻引擎;搜寻器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "silver surfer",
+    "phonetic": "",
+    "definition": [
+      "银发网民(指经常上互联网的老年人)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "social e-commerce",
+    "phonetic": "",
+    "definition": [
+      "[网络] 社群商务;社群电子商务;互联网营销"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "TCPIP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 传输控制协议和互联网协议(transmission control protocol Internet protocol);并发连接数破解;用于网络的一组通讯协议"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tech-free tourism",
+    "phonetic": "",
+    "definition": [
+      "\"零科技旅游”:不带手机等通讯设备去旅行,尤其是到屏蔽或没有互联网和手机信号的地方旅游。"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UCAID",
+    "phonetic": "",
+    "definition": [
+      "[网络] 进行先进因特网发展的机构(University Corporation for Advanced Internet Development);先进因特网开发大学联盟;大学先进互联网开发联盟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "unnet",
+    "phonetic": "",
+    "definition": [
+      "[网络] 联通;联通互联网;联通接入点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VPIM",
+    "phonetic": "",
+    "definition": [
+      "[网络] Voice Profile for Internet Mail; 语音协议(Voice Protocol for Internet Messaging); 互联网邮件语音档案"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WBEM",
+    "phonetic": "",
+    "definition": [
+      "n. 基于万维网的企业管理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "web-browser",
+    "phonetic": "",
+    "definition": [
+      "n. Web浏览器",
+      "[网络] 网页浏览器;互联网浏览器;内建支援浏览器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "web-search",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网页搜索;网络搜索;互联网搜索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "web-server",
+    "phonetic": "",
+    "definition": [
+      "n. Web服务器",
+      "[网络] 万维网服务器;网页服务器;网络服务器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "WSDL",
+    "phonetic": "",
+    "definition": [
+      "[网络] 描述语言;服务描述语言(web Services Description Language);互联网服务定义语言(Web Services Definition Language)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

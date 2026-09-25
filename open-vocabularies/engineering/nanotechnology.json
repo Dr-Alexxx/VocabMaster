@@ -1,0 +1,2382 @@
+[
+  {
+    "word": "Adenosine Triphosphate (ATP)",
+    "phonetic": "",
+    "definition": [
+      "[化] 腺苷三磷酸; 三磷酸腺苷",
+      "EN: A chemical compound that functions as fuel for biomolecular nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Assembler",
+    "phonetic": "ә'semblә",
+    "definition": [
+      "n. 装配工",
+      "[计] 汇编程序",
+      "EN: A molecular manufacturing device capable of positioning molecules through chemical reactions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Atom",
+    "phonetic": "'ætәm",
+    "definition": [
+      "n. 原子, 核能, 微粒, 微量",
+      "[计] 原子",
+      "EN: The smallest unit of a chemical element, about a third of a nanometer in diameter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Atomic force microscope (AFM)",
+    "phonetic": "",
+    "definition": [
+      "EN: An imaging instrument used to “magnify” at the molecular level through mechanical tracing of surface contours."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Atomic layer deposition (ALD)",
+    "phonetic": "",
+    "definition": [
+      "EN: A technique developed in the 1970s for depositing monolayers of material in a sequential, controlled manner using self-limiting reactions. It is used to make thin films."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Atomic Manipulation",
+    "phonetic": "",
+    "definition": [
+      "原子操纵术",
+      "EN: Manipulating atoms, typically with the tip of an STM."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Atomistic Simultations",
+    "phonetic": "",
+    "definition": [
+      "EN: Atomic motion computer simulations of macromolecular systems are increasingly becoming an essential part of materials science and nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Automated engineering",
+    "phonetic": "",
+    "definition": [
+      "EN: Engineering done by computer systems without the input of humans."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Automated manufacturing",
+    "phonetic": "",
+    "definition": [
+      "EN: Manufacturing at the nano-level by assemblers & Replicators by themselves."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ballistic Magnetoresistance (BMR)",
+    "phonetic": "",
+    "definition": [
+      "EN: A way in which spin orientation, encoding information on a storage medium such as a hard drive, can modify electrical resistance in a nearby circuit, thereby accomplishing the sensing of that orientation."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bio-assemblies",
+    "phonetic": "",
+    "definition": [
+      "EN: Containing several protein units, DNA loops, lipids, various ligands, etc."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biochauvinism",
+    "phonetic": "",
+    "definition": [
+      "EN: The prejudice that biological systems have an intrinsic superiority that will always give them a monopoly on self-reproduction and intelligence."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BioMEMS",
+    "phonetic": "",
+    "definition": [
+      "EN: MEMS used in medicine, that use microchips."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biomimetic Chemistry",
+    "phonetic": "",
+    "definition": [
+      "[化] 仿生化学",
+      "EN: Knowledge of biochemistry, analytical chemistry, polymer science, and biomimetic chemistry is linked and applied to research in designing new molecules, molecular assemblies, and macromolecules having biomimetic functions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biomimetic Materials",
+    "phonetic": "",
+    "definition": [
+      "EN: Materials that imitate, copy, or learn from nature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biomimetics",
+    "phonetic": "baɪɒmɪ'metɪks",
+    "definition": [
+      "生体模仿学",
+      "EN: Study of the structure and function of biological substances to make artificial products that mimic the natural ones."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "BioNEMS",
+    "phonetic": "",
+    "definition": [
+      "EN: Biofunctionalized nanoelectromechanical systems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biopolymeroptoelectromechanical Systems (BioPOEMS)",
+    "phonetic": "",
+    "definition": [
+      "EN: Combining optics and microelectromechanical systems, and used in biological applications."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biostasis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 生物停滞",
+      "EN: A condition in which an organism's cell and tissue structure are preserved, allowing later restoration by cell repair machines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Biovorous",
+    "phonetic": "",
+    "definition": [
+      "EN: An organism capable of converting biological material into energy for sustenance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Blue goo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 蓝天鹅;蓝蛊",
+      "EN: Slang term for nanobots designed to protect against harmful nanotechnology; \"blue\" being a metonym for police as in the color of many police uniforms."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bose-Einstein Condensate (BEC)",
+    "phonetic": "",
+    "definition": [
+      "EN: A state of matter (also called the fifth state of matter) which is typically formed when a gas of bosons at low densities is cooled to temperatures very close to absolute zero."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bottom Up",
+    "phonetic": "",
+    "definition": [
+      "颠倒",
+      "EN: Building larger objects from smaller building blocks. Nanotechnology seeks to use atoms and molecules as those building blocks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brownian Assembly",
+    "phonetic": "",
+    "definition": [
+      "EN: Brownian motion in a fluid brings molecules together in various position and orientations."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brownian Motion",
+    "phonetic": "",
+    "definition": [
+      "[化] 布朗运动",
+      "EN: Motion of a particle in a fluid owing to thermal agitation, observed in 1827 by Robert Brown."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Buckminsterfullerene",
+    "phonetic": "ˌbʌkmɪnstəˈfʊləri:n",
+    "definition": [
+      "巴克敏斯特富勒烯",
+      "EN: A broad term covering the variety of buckyballs and carbon nanotubes that exist."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bucky Balls",
+    "phonetic": "",
+    "definition": [
+      "EN: Molecules made up of 60 carbon atoms arranged in a series of interlocking hexagonal shapes, forming a structure similar to a soccer ball."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bulk technology",
+    "phonetic": "",
+    "definition": [
+      "体效应技术",
+      "EN: Technology in which atoms and molecular are manipulated in bulk, rather than individually."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bush robot",
+    "phonetic": "",
+    "definition": [
+      "EN: A concept for robots of ultimate dexterity, they utilize fractal branching to create ever-shrinking \"branches,\" eventually ending in nanoscale \"fingers.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cell pharmacology",
+    "phonetic": "",
+    "definition": [
+      "EN: Delivery of drugs by medical nanomachines to exact locations in the body."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cell Repair Machine",
+    "phonetic": "",
+    "definition": [
+      "EN: Molecular and nanoscale machines with sensors, nanocomputers and tools, programmed to detect and repair damage to cells and tissues, which could even report back to and receive instructions from a human doctor if needed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cellular Automata",
+    "phonetic": "",
+    "definition": [
+      "细胞自动机",
+      "EN: an array of identically programmed automata, or \"cells,\" which interact with one another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Chemical Vapour Deposition (CVD)",
+    "phonetic": "",
+    "definition": [
+      "化学蒸镀",
+      "EN: A technique used to deposit coatings, where chemicals are first vaporized, and then applied using an inert carrier gas such as nitrogen."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cobots",
+    "phonetic": "",
+    "definition": [
+      "[网络] 山雀",
+      "EN: Collaborative robots designed to work alongside human operators."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Cognotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: Convergence of nanotech, biotech and IT, for remote brain sensing and mind control."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Computational Nanotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: Permits the modeling and simulation of complex nanometer-scale structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Computronium",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子计算机",
+      "EN: A highly (or optimally) efficient matrix for computation, such as dense lattices of nanocomputers or quantum dot cellular automata."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Contelligence",
+    "phonetic": "",
+    "definition": [
+      "EN: The combination of awareness and computational power required in an Artificially Intelligent network before we could, without loss of anything essential, upload ourselves into them."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Convergent Assembly",
+    "phonetic": "",
+    "definition": [
+      "EN: It is based on the idea that smaller parts can be assembled into larger parts, larger parts can be assembled into still larger parts, and so forth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dendrimers",
+    "phonetic": "'dendrɪməz",
+    "definition": [
+      "[医]树突状聚合物一种精确纳米结构的多聚体,可装载DNA注入组织,以细胞内吞作用进入细胞,DNA释放后进入细胞核,行基因整合。",
+      "EN: A tiny molecular structure that interacts with cells, enabling scientists to probe, diagnose, cure or manipulate them on a nanoscale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Diamondoid",
+    "phonetic": "'daiәmәndɔid",
+    "definition": [
+      "a. 钻石形的, 菱形的",
+      "EN: Structures that resemble diamond in a broad sense, strong stiff structures containing dense, three dimensional networks of covalent bonds, formed chiefly from first and second row atoms with a valence of three or more."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dip Pen Nanolithography",
+    "phonetic": "",
+    "definition": [
+      "EN: An AFM-based soft-lithography technique."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Directed-Assembler",
+    "phonetic": "",
+    "definition": [
+      "EN: A specific type of assembler that makes use of directed-assembly, such that the assembly process requires external energy or information input."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Disassemble",
+    "phonetic": ".disә'sembl",
+    "definition": [
+      "vt. 解开, 拆开",
+      "EN: An instrument able to take apart structures a few atoms at a time, recording structural information at each step."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DNA Chip",
+    "phonetic": "",
+    "definition": [
+      "[网络] 基因芯片;基因晶片;基因芯片技术",
+      "EN: A purpose built microchip used to identify mutations or alterations in a gene's DNA."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dopeyballs",
+    "phonetic": "",
+    "definition": [
+      "EN: Superconducting Buckyballs (they) have the highest critical temperature of any known organic compound."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dry Nanotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: Derives from surface science and physical chemistry, focuses on fabrication of structures in carbon (e.g. fullerenes and nanotubes), silicon, and other inorganic materials."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ecophagy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 噬生态;生态变种",
+      "EN: Consuming the biological environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ecosystem protector",
+    "phonetic": "",
+    "definition": [
+      "EN: A nanomachine for mechanically removing selected imported species from an ecosystem to protect native species."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Enabling science and technologies",
+    "phonetic": "",
+    "definition": [
+      "EN: Areas of research relevant to a particular goal, such as nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Entanglement",
+    "phonetic": "in'tæŋglmәnt",
+    "definition": [
+      "n. 纠缠, 卷入, 缠绕物",
+      "[化] 缠结",
+      "EN: From quantum mechanics, entanglement is a relationship between two objects in which they both exhibit superposition but once the state of one object is measured, the state of the other is also known."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Exponential assembly",
+    "phonetic": "",
+    "definition": [
+      "(反应堆的)指数装置",
+      "EN: A manufacturing architecture starting with a single tiny robotic arm on a surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Exponential Growth",
+    "phonetic": "",
+    "definition": [
+      "[经] 指数增长",
+      "EN: refers to the process of growth or replication involving doubling within a given period."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Femtometer",
+    "phonetic": "'femtә,mitә",
+    "definition": [
+      "n. 千万亿分之一公尺",
+      "EN: A unit suitable to express the size of atomic nuclei."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Femtosecond",
+    "phonetic": "fem'təʊsi:kənd",
+    "definition": [
+      "n. 毫微微秒",
+      "EN: One quadrillionth of a second, and is to a second what a second is to 32,700,000 years."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Femtotechnology",
+    "phonetic": "",
+    "definition": [
+      "[网络] 飞米技术",
+      "EN: The art of manipulating materials on the scale of elementary particles (leptons, hadrons, and quarks)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fluidic Self Assembly",
+    "phonetic": "",
+    "definition": [
+      "EN: A novel technique for accurately assembling large numbers of very small devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Foglet",
+    "phonetic": "",
+    "definition": [
+      "EN: A mesoscale machine."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fractal",
+    "phonetic": "'fræktәl",
+    "definition": [
+      "n. 不规则碎片形",
+      "EN: A mathematical construct that has a fractional dimension."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fractal Mechatronic Universal Assembler",
+    "phonetic": "",
+    "definition": [
+      "EN: A machine that is capable of assembling any chemical from a generic descriptions of the properties required of the chemical."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fractal Robots",
+    "phonetic": "",
+    "definition": [
+      "EN: Programmable machines that can do unlimited tasks in the physical world, the world of matter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fullerenes",
+    "phonetic": "'fʊləri:nz",
+    "definition": [
+      "[医]富洛伦尼斯",
+      "EN: A molecular form of pure carbon discovered in 1985."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Genegeneering",
+    "phonetic": "",
+    "definition": [
+      "EN: Genetic engineering."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GENIE",
+    "phonetic": "'dʒi:ni",
+    "definition": [
+      "n. 妖怪, 鬼",
+      "EN: An AI combined with an assembler or other universal constructor, programmed to build anything the owner wishes. Sometimes called a Santa Machine."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GNR technologies",
+    "phonetic": "",
+    "definition": [
+      "EN: Genetic Engineering, Nanotechnology, and Robotics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Golden goo",
+    "phonetic": "",
+    "definition": [
+      "EN: Hypothetical scenario in which nanomachines programmed to filter gold from seawater go out of control and produce endless piles of gold goo."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Green goo",
+    "phonetic": "",
+    "definition": [
+      "EN: Hypothetical use of nanomachines or bio-engineered organisms used for population control of humans, either by governments or eco-terrorist groups."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Grey goo",
+    "phonetic": "",
+    "definition": [
+      "[网络] 灰雾;灰蛊;灰色粘质",
+      "EN: Hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building more of themselves."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Guy Fawkes scenario",
+    "phonetic": "",
+    "definition": [
+      "EN: Hypothetical scenario in which wide availability of nanotech makes it trivial for anyone to produce significant amounts of explosives for use in committing acts of terrorism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Heteronuclear",
+    "phonetic": ",hetәrә'nju:kliә",
+    "definition": [
+      "RNA [生化](哺乳动物细胞核中的) 异核核糖核酸",
+      "EN: Consisting of different elements."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Immune Machines",
+    "phonetic": "",
+    "definition": [
+      "EN: Medical nanomachines designed for internal use, especially in the bloodstream and digestive tract, able to identify and disable intruders such as bacteria and viruses."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IMP",
+    "phonetic": "imp",
+    "definition": [
+      "n. 顽童",
+      "vt. 加强, 给...装上翅膀",
+      "[计] 图象处理程序, 接口信息处理器",
+      "EN: Electronic implant, especially in the brain."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Inline Universities",
+    "phonetic": "",
+    "definition": [
+      "EN: Nanocomputer implants serving to increase intelligence and education of their owners, essentially turning them into walking universities."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Khaki goo",
+    "phonetic": "",
+    "definition": [
+      "EN: Slang term for hypothetical military use of nanotechnology, especially as of weaponized grey goo."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Knowbots",
+    "phonetic": "",
+    "definition": [
+      "na. 智能机器人",
+      "[网络] 智能程序",
+      "EN: Knowledge robots, first developed Vinton G. Cref and Robert E. Kahn for National Research Initiatives."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Langmuir-Blodgett",
+    "phonetic": "",
+    "definition": [
+      "[网络] 布洛吉特;兰慕尔-布罗吉;水气界面单层",
+      "EN: The name of a nanofabrication technique used to create ultrathin films (monolayers and isolated molecular layers), the end result of which is called a \"Langmuir-Blodgett film.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "LCD",
+    "phonetic": "",
+    "definition": [
+      "液晶显示器",
+      "[计] 液晶显示器; 改变目录",
+      "EN: The predominant technology used in flat panel displays."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Limited Assembler",
+    "phonetic": "",
+    "definition": [
+      "EN: Assembler capable of making only certain products; faster, more efficient, and less liable to abuse than a general-purpose assembler."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mechanochemistry",
+    "phonetic": ",mekәnә'kemistri",
+    "definition": [
+      "n. [生化]机械化学, 机械化学现象",
+      "EN: The direct, mechanical control of molecular structure formation and manipulation to form atomically precise products."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mechanosynthesis",
+    "phonetic": "",
+    "definition": [
+      "[网络] 机械合成",
+      "EN: Molecular tools with chemically specific tip structures can be used, sequentially, to modify a work piece and build a wide range of molecular structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mesoscale",
+    "phonetic": "'mesәskeil",
+    "definition": [
+      "n. & adj.[气]中尺度(的)",
+      "EN: A device or structure larger than the nanoscale (10^-9 m) and smaller than the megascale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Microelectromechanical systems (MEMS)",
+    "phonetic": "",
+    "definition": [
+      "EN: Generic term to describe micron scale electrical/mechanical devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Microencapsulation",
+    "phonetic": "",
+    "definition": [
+      "[化] 微囊包封",
+      "EN: Individually encapsulated small particles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular assembler",
+    "phonetic": "",
+    "definition": [
+      "[网络] 分子组合器;分子自动组装机",
+      "EN: Also known as an assembler, a molecular assembler is a molecular machine that can build a molecular structure from its component building blocks."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Beam Epitaxy",
+    "phonetic": "",
+    "definition": [
+      "[电] 分子束磊晶成松",
+      "EN: Process used to make compound (multi-layer) semiconductors."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Electronics (ME)",
+    "phonetic": "",
+    "definition": [
+      "EN: Any system with atomically precise electronic devices of nanometer dimensions, especially if made of discrete molecular parts rather than the continuous materials found in today's semiconductor devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Integrated Microsystems (MIMS)",
+    "phonetic": "",
+    "definition": [
+      "EN: Microsystems in which functions found in biological and nanoscale systems are combined with manufacturable materials."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Manipulator",
+    "phonetic": "",
+    "definition": [
+      "EN: A device combining a proximal probe mechanism for atomically precise positioning with a molecule binding site on the tip; can serve as the basis for building complex structures by positional synthesis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Manufacturing",
+    "phonetic": "məˈlekjələ ˌmænjʊˈfæktʃərɪŋ",
+    "definition": [
+      "n. 分子制造业",
+      "EN: Manufacturing using molecular machinery, giving molecule-by-molecule control of products and by-products via positional chemical synthesis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Medicine",
+    "phonetic": "",
+    "definition": [
+      "分子医学",
+      "EN: Studying molecules as they relate to health and disease, and manipulating those molecules to improve the diagnosis, prevention, and treatment of disease."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Nanotechnology (MNT)",
+    "phonetic": "",
+    "definition": [
+      "EN: Thorough, inexpensive control of the structure of matter based on molecule-by-molecule control of products and byproducts; the products and processes of molecular manufacturing, including molecular machinery."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Recognition",
+    "phonetic": "",
+    "definition": [
+      "[化] 分子识别",
+      "EN: A chemical term referring to processes in which molecules adhere in a highly specific way, forming a larger structure; an enabling technology for nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Systems Engineering",
+    "phonetic": "",
+    "definition": [
+      "EN: Design, analysis, and construction of systems of molecular parts working together to carry out a useful purpose."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Molecular Wire",
+    "phonetic": "",
+    "definition": [
+      "EN: A molecular wire - the simplest electronic component - is a quasi-one-dimensional molecule that can transport charge carriers (electrons or holes) between its ends."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MOLMAC",
+    "phonetic": "",
+    "definition": [
+      "EN: Molecular machine."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Monomer",
+    "phonetic": "'mɒnәmә",
+    "definition": [
+      "n. 单体",
+      "[化] 单体",
+      "EN: The units from which a polymer is constructed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Monomolecular Computing",
+    "phonetic": "",
+    "definition": [
+      "EN: The implantation inside a single molecule of all the functional groups or circuits to realize a calculation, without any help from external artifices such as re-configuration, calculation sharing between the user and the machine, or selection of the operational devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Moore's Law",
+    "phonetic": "",
+    "definition": [
+      "[网络] 摩尔定律;莫尔定律;摩尔定理",
+      "EN: It stated at the time that the number of transistors packed into an integrated circuit had doubled every year since the technology's inception four years earlier."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanarchist",
+    "phonetic": "",
+    "definition": [
+      "EN: Someone who circumvents government control to use nanotechnology, or someone who advocates this."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanarchy",
+    "phonetic": "",
+    "definition": [
+      "EN: The use of automatic law-enforcement by nanomachines or robots, without any human control."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nano-Optics",
+    "phonetic": "",
+    "definition": [
+      "EN: Interaction of light and matter on the nanoscale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoarray",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米阵列;纳米阵列;纳米芯片",
+      "EN: An ultra-sensitive, ultra-miniaturized array for biomolecular analysis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanobalance",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米秤",
+      "EN: A nanoscale balance for determining mass, small enough to weigh viruses and other sub-micron scale particles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanobeads",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米粒子",
+      "EN: Polymer beads with diameters of between 0.1 to 10 micrometers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanobialys",
+    "phonetic": "",
+    "definition": [
+      "EN: Miniature bialy-shaped particles developed by Washington University as delivery agents for drugs and imaging agents directly to the sites of tumors and plaques."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanobiotechnology",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米生物科技;纳米生物技术;纳米生物医药技术",
+      "EN: Applying the tools and processes of MNT to build devices for studying biosystems, in order to learn from biology how to create better nanoscale devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanobubbles",
+    "phonetic": "",
+    "definition": [
+      "[网络] 微泡",
+      "EN: Tiny air bubbles on colloid surfaces."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanochondria",
+    "phonetic": "",
+    "definition": [
+      "EN: Nanomachines existing inside living cells, participating in their biochemistry (like mitochondria) and/or assembling various structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanocombinatorics",
+    "phonetic": "",
+    "definition": [
+      "EN: The new analytical method utilizes a technique invented at Northwestern called polymer pen lithography, where basically a rubber stamp having as many as 11 million sharp pyramids is mounted on a transparent glass backing and precisely controlled by an atomic force microscope to generate desired patterns on a surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanocomputer",
+    "phonetic": "nænəʊkəmp'ju:tə",
+    "definition": [
+      "[医]超微计算机",
+      "EN: A computer made from components (mechanical, electronic, or otherwise) built at the nanometer scale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanocontainers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米容器",
+      "EN: Nanoscale polymeric containers that could be used to selectively deliver hydrophobic drugs to specific sites within individual cells."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanocrystals",
+    "phonetic": "",
+    "definition": [
+      "(nanocrystal 的复数) 纳米晶体",
+      "EN: Aggregates of anywhere from a few hundred to tens of thousands of atoms that combine into a crystalline form of matter known as a \"cluster.\""
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanodefenses",
+    "phonetic": "",
+    "definition": [
+      "EN: Any of the \"good\" goos, such a blue goo; protectors against grey goo, destructive nanoswarms, and the like."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanodisaster",
+    "phonetic": "",
+    "definition": [
+      "EN: Various so-called \"goo\" scenarios that have potentially negative outcomes."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoelectronics",
+    "phonetic": "",
+    "definition": [
+      "纳电子学",
+      "EN: Electronics on a nanometer scale, whether made by current techniques or nanotechnology; includes both molecular electronics and nanoscale devices resembling today's semiconductor devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanofabrication",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米制造;纳米制备;纳米制造",
+      "EN: Construction of items using assemblers and stock molecules."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanofacture",
+    "phonetic": "",
+    "definition": [
+      "EN: The fabrication of goods using nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanofilters",
+    "phonetic": "",
+    "definition": [
+      "EN: One opportunity for nanoscale filters is for the separation of molecules, such as proteins or DNA, for research in genomics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanofluidics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米流体学;奈米流体力学;纳米流体学",
+      "EN: Controlling nano-scale amounts of fluids."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanogate",
+    "phonetic": "",
+    "definition": [
+      "EN: A device that precisely meters the flow of tiny amounts of fluid."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanohacking",
+    "phonetic": "",
+    "definition": [
+      "EN: \"Hacking\" at the molecular level."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanohorns",
+    "phonetic": "",
+    "definition": [
+      "EN: One of the SWNT (single walled carbon nanotube) types, with an irregular horn-like shape, which may be a critical component of a new generation of fuel cells."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoimprint Machine",
+    "phonetic": "",
+    "definition": [
+      "EN: A form of soft lithography."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoimprinting",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米压印;奈米压印技术;纳米压印",
+      "EN: A technique that is very simple in concept, and totally analogous to traditional mould- or form-based printing technology, but that uses moulds (masters) with nanoscale features."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoindentation",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米压痕技术;奈米压痕;纳米压痕仪",
+      "EN: Similar to conventional hardness testing performed on a much smaller scale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanolithography",
+    "phonetic": "'nænəlɪθəɡrəfɪ",
+    "definition": [
+      "毫微光刻",
+      "EN: Writing on the nanoscale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanomachine",
+    "phonetic": "'neinәmә,ʃi:n",
+    "definition": [
+      "[计] 纳诺计算机, 毫微计算机",
+      "EN: An artificial molecular machine of the sort made by molecular manufacturing."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanomachining",
+    "phonetic": "",
+    "definition": [
+      "EN: Like traditional machining, where portions of the structure are removed or modified, nanomachining involves changing the structure of nano-scale materials or molecules."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanomanipulation",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米操控技术;纳米操纵;奈米操控",
+      "EN: The process of manipulating items at an atomic or molecular scale in order to produce precise structures."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nanoManipulator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米操纵器;奈米操控;机械手",
+      "EN: Uses virtual reality (VR) goggles and a force feedback probe as an interface to a scanning probe microscope, providing researchers with a new way to interact with the atomic world."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanomaterials",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米材料;纳米材料;奈米材料学",
+      "EN: Can be subdivided into nanoparticles, nanofilms and nanocomposites."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanopens & Nanopencils",
+    "phonetic": "",
+    "definition": [
+      "EN: Allows for drawing electronic circuits a thousand times smaller than current ones."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanopharmaceuticals",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米制药",
+      "EN: Nanoscale particles used to modulate drug transport for drug uptake and delivery applications."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanophase Carbon Materials",
+    "phonetic": "",
+    "definition": [
+      "EN: A form of matter in which small clusters of atoms form the building blocks of a larger structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoplotter",
+    "phonetic": "",
+    "definition": [
+      "EN: A multi-tip nanopen."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanopores",
+    "phonetic": "",
+    "definition": [
+      "[网络] 奈米孔;纳米孔法;相互扩散所引发的奈米孔洞",
+      "EN: Involves squeezing a DNA sequence between two oppositely charged fluid reservoirs, separated by an extremely small channel."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nanoprobe",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米探针;奈米探测;探针装置",
+      "EN: Nanoscale machines used to diagnose, image, report on, and treat disease within the body."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NEMSA",
+    "phonetic": "",
+    "definition": [
+      "EN: A generic term to describe nano scale electrical/mechanical devices."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Picotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: The art of manipulating materials on a quantum scale."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Polysilicon",
+    "phonetic": ",pɔli'silikәn",
+    "definition": [
+      "[计] 多晶硅",
+      "EN: Used in the manufacture of computer chips."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Positional Assembly",
+    "phonetic": "",
+    "definition": [
+      "位置装配",
+      "EN: Constructing materials an atom or molecule at a time."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Positional Controlled Chemical Synthesis",
+    "phonetic": "",
+    "definition": [
+      "EN: Control of chemical reactions by precisely positioning the reactive molecules, the basic principle of assemblers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "POSS Nanotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: POSS nanomaterials are attractive for missile and satellite launch rocket applications because they offer effective protection from collisions with space debris and the extreme thermal environments of deep space and atmospheric re-entry."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Protein Design",
+    "phonetic": "",
+    "definition": [
+      "EN: The design and construction of new proteins; an enabling technology for nanotechnology."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Protein folding",
+    "phonetic": "",
+    "definition": [
+      "[化] 蛋白质折叠",
+      "EN: The process by which proteins acquire their functional, preordained, three-dimensional structure after they emerge, as linear polymers of amino acids, from the ribosome."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Proteomics",
+    "phonetic": "p'rəʊti:əʊmɪks",
+    "definition": [
+      "蛋白质组学",
+      "EN: The term proteome refers to all the proteins expressed by a genome, and thus proteomics involves the identification of proteins in the body and the determination of their role in physiological and pathophysiological functions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Computer",
+    "phonetic": "",
+    "definition": [
+      "[计] 量子计算机",
+      "EN: A computer that takes advantage of quantum mechanical properties such as superposition and entanglement resulting from nanoscale, molecular, atomic and subatomic components."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Confined Atoms (QCA)",
+    "phonetic": "",
+    "definition": [
+      "EN: Atoms caged inside nanocrystals."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Cryptography",
+    "phonetic": "",
+    "definition": [
+      "量子密码",
+      "EN: A system based on quantum- mechanical principles."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Dot Nanocrystal (QDN)",
+    "phonetic": "",
+    "definition": [
+      "EN: Used to tag biological molecules, and \"measuring between five and ten nanometres across, are made up of three components."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Dots",
+    "phonetic": "",
+    "definition": [
+      "[网络] 量子点;量子粒;量子点技术服务",
+      "EN: Nanometer-sized semiconductor crystals, or electrostatically confined electrons."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Mechanics",
+    "phonetic": "",
+    "definition": [
+      "[计] 量子力学",
+      "[化] 量子力学",
+      "EN: A largely computational physical theory explaining the behavior of quantum phenomena, which incorporates the theory of special relativity. Despite dilignet attempts, general relativity has not been successfully incorporated into quantum mechanics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Mirage",
+    "phonetic": "",
+    "definition": [
+      "[网络] 量子海市蜃楼;量子幻象;量子幻影",
+      "EN: A nanoscale property that may allow information to be transferred through use of the wave property of electrons."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum Tunneling",
+    "phonetic": "",
+    "definition": [
+      "量子隧道贯穿(指电子穿透势垒的现象) [亦作quantum tunnelling]",
+      "EN: When electrons pass through a barrier, without overcoming it or breaking it down."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum well",
+    "phonetic": "",
+    "definition": [
+      "量子阱",
+      "EN: A P-N-P junction in which the \"N\" layer is ~10 nm (where traditional physics leaves off and quantum effects take over) and an \"electron trap\" is created."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Quantum wire",
+    "phonetic": "",
+    "definition": [
+      "量子线",
+      "EN: Another form of quantum dot, but unlike the single-dimension \"dot,\" a quantum wire is confined only in two dimensions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Qubit",
+    "phonetic": "",
+    "definition": [
+      "abbr. 量子位(quantum bit,量子计算器中的最小信息单位)",
+      "EN: The quantum computing analog to a bit."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Red goo",
+    "phonetic": "",
+    "definition": [
+      "EN: Nanotechnology which is deliberately designed and released to cause harm, as opposed to a grey goo scenario which is assumed to be accidental."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Replicator",
+    "phonetic": "",
+    "definition": [
+      "[计] 重复符",
+      "[化] 复制基因",
+      "EN: A system able to build copies of itself when provided with raw materials and energy."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rheology",
+    "phonetic": "ri:'ɒlәdʒi",
+    "definition": [
+      "n. 流变学",
+      "[化] 流变学",
+      "EN: The study of the deformation and flow of matter under the influence of an applied stress, which might be, for example, a shear stress or extensional stress."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SAMFET",
+    "phonetic": "",
+    "definition": [
+      "EN: Where a few molecules act as FETs, exhibiting both very strong gain, and extraordinarily rapid response."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scanning Capacitance Microscopy",
+    "phonetic": "",
+    "definition": [
+      "扫描式电容显微镜",
+      "EN: A method for mapping the local capacitance of a surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scanning Force Microscope (SFM)",
+    "phonetic": "",
+    "definition": [
+      "EN: An instrument able to image surfaces to molecular accuracy by mechanically probing their surface contours."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scanning Near Field Optical Microscopy",
+    "phonetic": "",
+    "definition": [
+      "EN: A method for observing local optical properties of a surface that can be smaller than the wavelength of the light used."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scanning Thermal Microscopy",
+    "phonetic": "",
+    "definition": [
+      "EN: A method for observing local temperatures and temperature gradients on a surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Scanning Tunneling Microscope (STM)",
+    "phonetic": "",
+    "definition": [
+      "扫描穿隧显微镜",
+      "EN: An instrument able to image conducting surfaces to atomic accuracy; has been used to pin molecules to a surface."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sealed Assembler Laboratory",
+    "phonetic": "",
+    "definition": [
+      "EN: A work space, containing assemblers, encapsulated in a way that allows information to flow in and out but does not allow the escape of assemblers or their products."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Self-assembly",
+    "phonetic": "'selfә'sembli",
+    "definition": [
+      "a. (买配件)自己组装的",
+      "EN: In chemical solutions, self-assembly (also called Brownian assembly) results from the random motion of molecules and the affinity of their binding sites for one another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Self-repair",
+    "phonetic": "",
+    "definition": [
+      "[电] 自行修复",
+      "EN: Indicating ability to heal itself without outside intervention."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Self-replication",
+    "phonetic": "'selfreplɪk'eɪʃn",
+    "definition": [
+      "[医]自我复制; 自复制",
+      "EN: More accurately labeled \"exponential replication,\" self-replication refers to the process of growth or replication involving doubling within a given period."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Shape Memory Alloy",
+    "phonetic": "",
+    "definition": [
+      "[化] 形状记忆合金",
+      "EN: A unique class of alloys which are able to \"remember\" their shape and are able to return to that shape even after being bent."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Smart material",
+    "phonetic": "",
+    "definition": [
+      "[化] 智能材料; 机敏材料",
+      "EN: Materials and products capable of relatively complex behavior due to the incorporation of nanocomputers and nanomachines."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Smartdust",
+    "phonetic": "",
+    "definition": [
+      "[网络] 智能微尘;智能尘埃;智能粉尘",
+      "EN: Tiny, bottle-cap-shaped micro-machines fitted with wireless communication devices - that measure light and temperature."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Spintronics",
+    "phonetic": "",
+    "definition": [
+      "[网络] 自旋电子学;自旋电子元件;半导体自旋电子学",
+      "EN: Electronic devices that exploit the spin of electrons as well as their charge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Superconductor",
+    "phonetic": ",sju:pәkәn'dʌktә",
+    "definition": [
+      "n. 超导体, 超导电体",
+      "[计] 超导体",
+      "EN: An object or substance that conducts electricity with zero resistance."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Superlattice Nanowire",
+    "phonetic": "",
+    "definition": [
+      "EN: Interwoven bundles of nanowires using substances with different compositions and properties."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Superlattice Nanowire Pattern",
+    "phonetic": "",
+    "definition": [
+      "EN: A technique for producing \"Ultra High Density Nanowire Lattices and Circuits\". See Researchers Discover How to Make the Smallest, Most Perfect, Densest Nanowire Lattices-And It's a SNAP"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Superposition",
+    "phonetic": ".sju:pәpә'ziʃәn",
+    "definition": [
+      "n. 重叠, 叠合, 重合",
+      "[化] 叠加",
+      "EN: A quantum mechanical phenomena in which an object exists in more than one state simultaneously."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Technocyte",
+    "phonetic": "",
+    "definition": [
+      "EN: A nanoscale artificial device (especially a nanite) in the human bloodstream used for repairs, cancer protection, as an artificial immune system or for other uses."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Top Down Molding",
+    "phonetic": "",
+    "definition": [
+      "EN: Carving and fabricating small materials and components by using larger objects such as our hands, tools and lasers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Transistor",
+    "phonetic": "træn'zistә",
+    "definition": [
+      "n. 晶体管",
+      "[化] 晶体管",
+      "EN: The basic element in an integrated circuit."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Universal Assembler",
+    "phonetic": "",
+    "definition": [
+      "EN: Uses raw atoms and molecules to construct consumer goods, and is pollution free."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Universal Constructor",
+    "phonetic": "",
+    "definition": [
+      "[网络] 通用构造器;普适砌棋者;宇宙构造器",
+      "EN: A machine capable of constructing anything that can be constructed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Utility fog",
+    "phonetic": "",
+    "definition": [
+      "EN: Objects formed of \"intelligent\" polymorphic (able to change shape) substances, typically having an octet truss structure."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vasculoid",
+    "phonetic": "",
+    "definition": [
+      "EN: A single, complex, multisegmented nanotechnological medical robotic system capable of duplicating all essential thermal and biochemical transport functions of the blood, including circulation of respiratory gases, glucose, hormones, cytokines, waste products, and cellular components."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Von Neumann Machine",
+    "phonetic": "",
+    "definition": [
+      "[计] 冯·诺伊曼计算机",
+      "EN: A machine which is able to build a working copy of itself using materials in its environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Von Neumann Probe",
+    "phonetic": "",
+    "definition": [
+      "[网络] 冯纽曼探测器;诺以曼太空船;冯诺曼探测船",
+      "EN: A von Neumann Machine able to move over interstellar or interplanetary distances and to utilize local materials to build new copies of itself."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wet nanotechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: The study of biological systems that exist primarily in a water environment."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Zeptosecond",
+    "phonetic": "",
+    "definition": [
+      "[网络] 仄普托秒;阿秒;阿秒和仄秒",
+      "EN: One-billion-trillionth of a second."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Zettatechnology",
+    "phonetic": "",
+    "definition": [
+      "EN: Referring to the typical number of distinct designed parts in a product made by the systems we envision (molecular, mature, or molecular-manufacturing-based nanotechnology)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "angula",
+    "phonetic": "",
+    "definition": [
+      "n. (Angula)人名;(纳米)安古拉"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CFN",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米基本结构研究中心(Center for Functional Nanostructures);多尼戈尔机场;顶核"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CNST",
+    "phonetic": "",
+    "definition": [
+      "[网络] Center for Nanoscale Science and Technology; 纳米科学技术学院; 科技中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GCNS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络系统;了不同结构的石墨化纳米碳"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GISAXS",
+    "phonetic": "",
+    "definition": [
+      "[网络] 掠角入射小角度散射;射线散射;纳米结构表面"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GNF",
+    "phonetic": "",
+    "definition": [
+      "[网络] 几内亚法郎;纳米纤维;全球自然基金会(Global Nature Fund)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heliodor",
+    "phonetic": "'hi:liә,dɔ:",
+    "definition": [
+      "n. [矿](产于非洲纳米比亚的)金绿柱石"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IJN",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际纳米科学杂志(International Journal of Nanoscience);国家心脏中心(Institut Jantung Negara);日本海军"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nanometer resolution",
+    "phonetic": "",
+    "definition": [
+      "纳米分辨率"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nanometer-sized",
+    "phonetic": "",
+    "definition": [
+      "[网络] 纳米级"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nanometre",
+    "phonetic": "ˈnænəʊmi:tə(r)",
+    "definition": [
+      "n. <英>十亿分之一公尺, 毫微米; 纳米",
+      "EN: n. a metric unit of length equal to one billionth of a meter"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NRAM",
+    "phonetic": "",
+    "definition": [
+      "[网络] 随机存取存储器;纳米存储器;鎯舵亹"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rehoboth",
+    "phonetic": "",
+    "definition": [
+      "[地名] [美国] 里霍博斯; [地名] [纳米比亚] 雷霍博特"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SWANU",
+    "phonetic": "'swɑ:nә",
+    "definition": [
+      "abbr.South West Africa(n) National Union (纳米比亚)西南非洲全国联盟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SWCNT",
+    "phonetic": "",
+    "definition": [
+      "[网络] 单壁碳纳米管;单层碳纳米管;单壁碳奈米管"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "theo-ben",
+    "phonetic": "",
+    "definition": [
+      "n. (Theoben)人名;(纳米)西奥本"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]

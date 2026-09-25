@@ -242,18 +242,51 @@ def parse_wikipedia_page(page: str) -> tuple[dict[str, dict[str, str]], dict[str
 
     for node in root.xpath("//dt"):
         siblings = node.xpath("following-sibling::*[1][self::dd]")
+        if not siblings:
+            # Some glossaries wrap the definition in a nested list:
+            # <dt><dfn>term</dfn></dt><dl><dd>definition</dd></dl>
+            siblings = node.xpath("following-sibling::*[1][self::dl]/dd[1]")
         if siblings:
             add_term(terms, node.text_content(), siblings[0].text_content())
 
+    # Heading-based glossaries: <h3>term</h3><p>definition</p>
+    for node in root.xpath("//h3 | //h4"):
+        term = node.text_content()
+        if re.fullmatch(r"[A-Za-z]{1,3}", term.strip()):
+            continue  # letter range headings such as "Aa"
+        containers = node.xpath("ancestor::div[contains(@class,'mw-heading')][1]")
+        if containers:
+            blocks = containers[0].xpath("following-sibling::*[1][self::p]")
+        else:
+            blocks = node.xpath("following-sibling::*[1][self::p]")
+        if blocks:
+            add_term(terms, term, blocks[0].text_content())
+
+    def block_definition(node, term):
+        text = node.text_content()
+        if len(clean_definition(text, term)) >= 10:
+            return text
+        for sib in node.xpath("following-sibling::*[1][self::dl] | following-sibling::*[1][self::p]"):
+            if len(clean_definition(sib.text_content(), term)) >= 10:
+                return sib.text_content()
+        return text
+
     for item in root.xpath("//li"):
-        headings = item.xpath("./b[1] | ./strong[1] | ./dfn[1] | ./*[1][self::b or self::strong or self::dfn]")
+        headings = item.xpath("./b[1] | ./strong[1] | ./dfn[1]")
+        if not headings:
+            # "<li><a href="...">term</a>: definition</li>" glossary lists
+            anchors = item.xpath("./a[1]")
+            if anchors:
+                tail = (anchors[0].tail or "").lstrip()
+                if tail.startswith((":", "：", " – ", " — ", " - ")):
+                    headings = anchors
         if headings:
             add_term(terms, headings[0].text_content(), item.text_content())
 
     for paragraph in root.xpath("//p"):
         headings = paragraph.xpath("./b[1] | ./strong[1] | ./dfn[1]")
         if headings:
-            add_term(terms, headings[0].text_content(), paragraph.text_content())
+            add_term(terms, headings[0].text_content(), block_definition(paragraph, headings[0].text_content()))
 
     for row in root.xpath("//table//tr"):
         cells = row.xpath("./th | ./td")
@@ -539,7 +572,12 @@ def generate_readme(catalog: dict[str, object]) -> str:
         "所有文件统一使用 `word`、`phonetic`、`definition`、`examples`、`etymology`、`synonyms`、`antonyms` 七个字段。`definition` 等多值字段使用 JSON 数组。", "",
         "## 许可与来源", "",
         "每个词库的来源 ID、页面修订号和许可证记录在 `catalog.json`。Wikipedia 派生词库包含 CC BY-SA 内容，应按 CC BY-SA 4.0 规则再分发；其他词库分别遵循 MIT 或 Apache-2.0。", "",
-        "## 生成", "", "```powershell", "python scripts/build_open_vocabularies.py --ecdict <ecdict.csv> --output open-vocabularies", "```", "",
+        "## 生成", "",
+        "```powershell",
+        "python scripts/build_open_vocabularies.py --ecdict <ecdict.csv> --output open-vocabularies",
+        "python scripts/expand_open_vocabularies.py --ecdict <stardict.db> --output open-vocabularies",
+        "```", "",
+        "第一条命令生成考试词库与主流专业词库；第二条命令在此基础上按 ECDICT 领域义项和其余 Wikipedia 术语表补充专业词汇（比对现有词库、多词入库、库内去重）。", "",
     ])
     return "\n".join(lines)
 

@@ -1,0 +1,5711 @@
+[
+  {
+    "word": "adversarial journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: A style of journalism in which journalists adopt a confrontational approach of reporting and interviewing—often within investigative or watchdog reporting—to scrutinize and challenge claims, expose inconsistencies, and hold powerful individuals or institutions accountable in service of the public."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "advocacy journalism",
+    "phonetic": "",
+    "definition": [
+      "(阐明观点或原因的)偏袒性(或倾向性)新闻报道;鼓吹性新闻;提倡某一事业(或表明某一观点)的报刊",
+      "EN: A type of journalism which deliberately adopts a non-objective viewpoint, usually committed to the endorsement of a particular social or political cause, policy, campaign, organization, demographic, or individual."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alternative journalism",
+    "phonetic": "",
+    "definition": [
+      "另类新闻学",
+      "EN: A type of journalism practiced in alternative media, typically by open, participatory, non-professionalized, non-commercial, and non-hierarchical media organizations. Precisely what is labeled alternative journalism has changed over time, but implicit in the genre is a rejection and critique of the practices of mainstream journalism, such that alternative journalists may perceive themselves as working to different values and ethics, covering different stories, giving access to a different cast of presenters and sources, or operating as a form of watchdog on mainstream media."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "arts journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: A branch of journalism concerned with the reporting and discussion of the arts, including but not limited to the visual arts, film, literature, music, theater, and architecture."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "assignment",
+    "phonetic": "ә'sainmәnt",
+    "definition": [
+      "n. 分配, 功课, 任务, 转让, 归因, 陈述",
+      "[计] 赋值",
+      "EN: An instruction to a reporter to cover an event."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "B copy",
+    "phonetic": "",
+    "definition": [
+      "EN: The bottom section of a story in a periodical, written ahead of the event it describes in order to save time in processing and completing the story before the publication deadline."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "backgrounder",
+    "phonetic": "'bæk,^rajndә(r)",
+    "definition": [
+      "n. 政府官员举行的记者招待会",
+      "EN: A piece of journalism that accompanies or follows a news item and provides the audience with additional historical or other contextualizing information or analysis."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blockline",
+    "phonetic": "",
+    "definition": [
+      "EN: Another name for the caption of a photograph."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bright",
+    "phonetic": "brait",
+    "definition": [
+      "a. 明亮的, 聪明的, 鲜明的, 欢快的",
+      "adv. 明亮地, 欢快地",
+      "EN: A short, amusing story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "broadcasting",
+    "phonetic": "'brɒ:dkæstiŋ",
+    "definition": [
+      "n. 广播",
+      "[电] 广播",
+      "EN: The distribution of audio and audiovisual content to widely dispersed audiences through an electronic mass communications medium, traditionally via technologies that transmit radio waves to numerous recipients in a one-to-many model (as opposed to one-to-one transmission intended for a single recipient). The term generally includes distribution by radio, television, and Internet but excludes non-electronic forms of communication, even if they also reach a widespread audience, such as printed newspaper delivery."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "churnalism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 抄袭新闻;新闻抄袭",
+      "EN: A type of journalism that relies on recycling press releases and agency copy to fill newspaper pages or news bulletins, and which involves little or no independent reporting or attempt at verification."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cod byline",
+    "phonetic": "",
+    "definition": [
+      "EN: The use of a fictitious name for a byline, giving the impression that an article has been written by a member of the publication's staff when in fact it has been supplied by a news agency."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "column",
+    "phonetic": "'kɒlәm",
+    "definition": [
+      "n. 专栏, 圆柱, 纵队, 列, 柱形物",
+      "[计] 列, 柱形图",
+      "EN: 1. A vertical block of text on a page, separated by margins and/or rules. Newspapers are commonly divided into visible columns."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "copy",
+    "phonetic": "'kɒpi",
+    "definition": [
+      "n. 副本, 摹仿, 一册",
+      "v. 复印, 抄袭, 复制",
+      "[计] 副本; 复制; DOS内部命令:复制文件",
+      "将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送",
+      "EN: Written material intended for publication, as opposed to photographs or other elements of a publication's layout."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "correspondent",
+    "phonetic": ".kɒri'spɒndәnt",
+    "definition": [
+      "n. 通讯记者, 通信者",
+      "[经] 客户, 代理商行, 代理银行",
+      "EN: 1. A reporter who sends news to a newspaper office or broadcast headquarters remotely, i.e. from outside the office or headquarters."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crony journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: Reporting that ignores or treats lightly negative news about the friends of a particular reporter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "curtain raiser",
+    "phonetic": "",
+    "definition": [
+      "n. 正戏前的配戏,开场戏(开幕之前的短剧)",
+      "EN: A story written before a predicted event, setting the scene for when it happens. Such stories are often used at the start of election campaigns, sporting competitions, etc."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cutline",
+    "phonetic": "'kʌtlain",
+    "definition": [
+      "n. (插图下的)简短说明, 图片说明",
+      "EN: See caption."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daily",
+    "phonetic": "'deili",
+    "definition": [
+      "a. 每日的, 日常的",
+      "adv. 每日地, 日常地",
+      "n. 日报",
+      "EN: A periodical for which new editions are published once per day, usually either on five days a week (every weekday), six days a week, or seven days a week (everyday including weekends)."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dateline",
+    "phonetic": "",
+    "definition": [
+      "n. 日期",
+      "EN: A line preceding a written news story that lists the name of the city, town, or general location from which the story is reported and sometimes the date, particularly for stories that are not considered local for the publication, i.e. reported from a distant location."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dead air",
+    "phonetic": "",
+    "definition": [
+      "[机] 静气",
+      "EN: An extended unwanted silence that interrupts a radio or television broadcast, during which no audio or video program material is transmitted, usually caused by technical or operating errors."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deadline",
+    "phonetic": "'dedlain",
+    "definition": [
+      "n. 最后期限, 截止期限",
+      "[经] 截止日期",
+      "EN: The time set by the editor or producer by which a reporter must submit a finished story; the cut-off point for the completion of a story before it is published."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deck",
+    "phonetic": "dek",
+    "definition": [
+      "n. 甲板, (汽车后部的)行李仓",
+      "vt. 装饰, 打扮, 装甲板",
+      "[计] 纸牌背面图案",
+      "EN: 1. An individual row or line of type in a headline, e.g. a three-deck headline is set in three lines of text."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "digital divide",
+    "phonetic": "",
+    "definition": [
+      "n. 数码鸿沟",
+      "[网络] 数字鸿沟;数位落差;数位差距",
+      "EN: Inequality between human populations in access to or effective use of digital technology, including online journalism and other forms of Internet-based or mobile communication, especially that due to social, economic, political, or cultural factors which may make one group more or less likely to make use of online content than other groups."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "digital doorstepping",
+    "phonetic": "",
+    "definition": [
+      "EN: The journalistic use of online social media to obtain the kind of information that in earlier eras would have required direct personal contact with the source, either face-to-face or on the telephone. The practice may include passive lifting of information, comments, or pictures from public social media profiles as well as direct requests for information or comments via social media."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editorial independence",
+    "phonetic": "",
+    "definition": [
+      "编辑独立",
+      "EN: A concept in journalistic ethics holding that journalists ought to be able to conduct their work without coming under undue influence to provide coverage tailored to suit the commercial interests of proprietors or advertisers."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editorialize",
+    "phonetic": ".edi'tɒ:riәlaiz",
+    "definition": [
+      "v. 发表社论, 插入主观评论",
+      "EN: To write in an opinionated and subjective manner, as in an editorial."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "endnote",
+    "phonetic": "'endnәut",
+    "definition": [
+      "n. 尾注",
+      "[计] 尾注",
+      "EN: A paragraph presented after the end of an article, usually in a different type, giving additional information about the writer of the article, or, in the case of a review, the details of the publication or performance being reviewed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "exclusive",
+    "phonetic": "ik'sklu:siv",
+    "definition": [
+      "a. 排外的, 独占的, 唯一的",
+      "[计] 独占的",
+      "EN: A story that a reporter or publication has obtained to the exclusion of the competition; a story to which only the reporting publication has access."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "explanatory journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of reporting that attempts to present ongoing news stories in a more accessible manner than conventional news sources by providing greater context and more detailed background information than might otherwise normally be provided in a traditional piece of journalism, with the goal of making the information understandable by a wider audience, including consumers who may not already be familiar with stylistic standards or industry-specific jargon associated with reporting on complex topics such as politics and law."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "exposé",
+    "phonetic": "",
+    "definition": [
+      "EN: A piece of investigative journalism that uncovers and makes public some form of allegedly scandalous behavior."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fact-checking",
+    "phonetic": "",
+    "definition": [
+      "[网络] 证据核实;事实核对;事实核查",
+      "EN: The process of verifying the factual accuracy or otherwise establishing the veracity of the information reported within a piece of journalism, whether before or after the content is published or broadcast. Internal fact-checking may be done in-house by the publisher prior to publication (often by the original author or reporter, by an editor, and/or by persons employed specifically as fact-checkers) in order to prevent inaccurate content from being published, but external fact-checking is also commonly done by third parties after publication in an effort to promote accurate and reliably sourced reporting and call attention to any inaccuracies, misquotes, and other distortions of the truth."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "facticity",
+    "phonetic": "fæk'tisiti",
+    "definition": [
+      "n. 真实性,确凿性",
+      "EN: The factual quality of a piece of journalism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "feature",
+    "phonetic": "'fi:tʃә",
+    "definition": [
+      "n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写",
+      "vt. 是...的特色, 特写, 放映",
+      "vi. 起重要作用",
+      "[计] 特性",
+      "EN: A story emphasizing the human or entertaining aspects of the situation it covers; a news story or other material that is highlighted as a special-interest piece or otherwise differentiated from straight news."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flannel panel",
+    "phonetic": "",
+    "definition": [
+      "EN: A column or box printed in a regular, fixed position in each edition of a publication that lists the names and/or responsibilities of the publication's owners, departments, officers and staff, and/or contributors, as well as the physical addresses of the publication's offices and information on how to contact them."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fourth estate",
+    "phonetic": "fɔ:θ isˈteit",
+    "definition": [
+      "<正>新闻界, 报界",
+      "EN: The press and the news media conceptualized as a distinctive estate of the realm, alongside the original three estates (nobility, commoners, and clergy) included in the traditional social hierarchy of much of Christian Europe. The notion refers particularly to the capacity of the media to wield great influence in politics and culture, and in some conceptualizations views them as quasi-constitutional watchdogs acting on behalf of a society's citizens. Compare fifth estate."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gather string",
+    "phonetic": "",
+    "definition": [
+      "EN: To collect details for a story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "graf",
+    "phonetic": "^rɑ:f",
+    "definition": [
+      "<德>n.(德国、奥地利、瑞典的) 伯爵",
+      "EN: An abbreviation for paragraph."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gutter",
+    "phonetic": "'gʌtә",
+    "definition": [
+      "n. 排水沟, 槽, 贫民区",
+      "vt. 开沟于",
+      "vi. 流",
+      "[计] 装订线",
+      "EN: A vertical margin of white space where two pages meet, such as in the crease of a book or newspaper."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hard copy",
+    "phonetic": "",
+    "definition": [
+      "[计] 硬拷贝; 复印文本",
+      "[经] 复制件, 硬拷贝, 印刷记录",
+      "EN: Copy that is printed on physical paper, as opposed to soft copy, which exists in digital form."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "heavies",
+    "phonetic": "ˈheviz",
+    "definition": [
+      "n. 保镖( heavy的复数形式 ); 打手; 烈性啤酒; (尤指)苦啤酒",
+      "EN: An informal collective term for the broadcast or quality press, referring both to the physical weight of traditional printed newspapers and to their serious hard news content."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hub",
+    "phonetic": "hʌb",
+    "definition": [
+      "n. 毂, 木片, 中心",
+      "[计] 插座; 插孔; 集线器, 集中器, 连接器, 中继站",
+      "EN: A way of combining and/or centralizing editorial functions designed to break down traditional demarcations within a news organization, permitting many editors of distinct journalistic departments to work more closely together than they would by running their own separate divisions."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "human interest story",
+    "phonetic": "",
+    "definition": [
+      "[美国英语]能唤起读者共鸣(或同情)的报道,“人情味”的故事",
+      "EN: A news story or feature, or an angle on a story, that tends to emphasize the emotion, drama, tension, struggle, joy, despair, triumph, or tragedy of people's lives, usually by focusing on individual people and the effects that specific issues or events have on them, or by covering unusual and interesting aspects of people's lives which are not particularly significant to society as a whole. Human-interest stories are not restricted to soft news, and in fact are often used to interest an audience in hard news by exploring individual case studies as a means of illustrating wider trends or statistics."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "immediacy",
+    "phonetic": "i'mi:diәsi",
+    "definition": [
+      "n. 直接, 目前, 迫切需要的事物",
+      "EN: The quality of an event or story that enables it to be reported as it is happening, or immediately after. All other things being equal, an unfolding or recent event is more likely than an older one to become news."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "insert",
+    "phonetic": "in'sә:t",
+    "definition": [
+      "n. 插入物",
+      "vt. 插入, 把(人造卫星)射入(轨道), 添写",
+      "vi. 附着",
+      "[计] 插入",
+      "EN: 1. Additional text inserted into a story after it has been written, usually to provide additional details."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalism",
+    "phonetic": "'dʒә:nәlizm",
+    "definition": [
+      "n. 新闻业, 报章杂志",
+      "[法] 报刊, 新闻业, 新闻出版",
+      "EN: The production and distribution of reports on current events based on facts and supported with proof or evidence, and practiced by professional or amateur journalists. Common types of journalistic media include print, television, radio, and the Internet."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jump line",
+    "phonetic": "",
+    "definition": [
+      "跳页",
+      "EN: A line of type at the bottom of an incomplete newspaper or magazine article which directs the reader to another page where the story is continued. The term may also refer to the line at the top of the continued article indicating the page from which it was continued, also called a from line. See also spill."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kerning",
+    "phonetic": "",
+    "definition": [
+      "n. 字距调整",
+      "[计] 字距调整",
+      "EN: A way of setting printed type so that the space between immediately adjacent characters is adjusted to appear uniform, at the same time reducing the amount of horizontal space they require."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "kicker",
+    "phonetic": "'kikә",
+    "definition": [
+      "n. 踢者, 善踢的人, 爱踢的马",
+      "[化] 抖动器",
+      "EN: 1. An entertaining, amusing, or offbeat story used to balance a page or bulletin of otherwise serious news."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "leader",
+    "phonetic": "'li:dә",
+    "definition": [
+      "n. 领导者, 社论, 指挥, 领袖, 领唱者, 前导字符",
+      "[计] 前导字符",
+      "EN: See editorial."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "leading question",
+    "phonetic": "",
+    "definition": [
+      "[法] 暗示性的讯问, 诱导证人回答的讯问",
+      "EN: A question phrased in such a way as to draw out a specific answer desired by the questioner."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lede",
+    "phonetic": "",
+    "definition": [
+      "[地名] [比利时] 莱德",
+      "EN: See lead."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "narrowcasting",
+    "phonetic": "",
+    "definition": [
+      "(narrowcast 的现在分词) v.( 为少量特定听众)小范围播送,用电缆电视播送",
+      "EN: The dissemination of information to a specialized, niche, or narrowly defined target audience, rather than to a general one such as the public-at-large, in contrast to broadcasting. Target audiences may be defined by their shared demographic or common interests, or by being subscribers to a paid service."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news agency",
+    "phonetic": "",
+    "definition": [
+      "通讯社",
+      "EN: A commercial organization that sells stories, photographs, or other journalistic products to the news media and which carries out reporting tasks on behalf of media clients. The Associated Press is an example."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news cycle",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻周期;新闻循环",
+      "EN: The period of time that elapses before one news story or set of stories is replaced by another. Historically, news cycles have often been based on the publication deadlines of daily newspapers, typically lasting 24 hours, but for much of the public has continually decreased in duration with the emergence of radio, television, the Internet, and social media, such that cycles of definitive length have largely been supplanted by rolling news."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news hole",
+    "phonetic": "",
+    "definition": [
+      "na. 〈美〉新闻窗口",
+      "[网络] 新闻版面;新闻洞;版面限制",
+      "EN: The amount of space available daily for news in a newspaper, after accounting for the space used by advertisements, attributions, images, etc."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news leak",
+    "phonetic": "",
+    "definition": [
+      "[网络] 泄漏;消息来源",
+      "EN: The deliberate, surreptitious, and unauthorized release of confidential information to news media. It also refers to the premature publication of information by a news outlet that has agreed to delay release under a news embargo. News leaks can occur from sources or through breaches of agreed-upon timing, potentially affecting public perception and accountability."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news values",
+    "phonetic": "",
+    "definition": [
+      "EN: The qualities or criteria that journalists consider when assessing whether a story, event, development, or opinion is worthy of preparing and presenting as news. The process of determining what constitutes news may be complex and involve the weighing of a wide range of factors, including public interest, timeliness of the topic, reliability of the source, and the number of resources required to cover the story."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newscast",
+    "phonetic": "'nju:zkɑ:st",
+    "definition": [
+      "n. 新闻广播",
+      "EN: A news bulletin broadcast on radio or television, or a broadcast-style bulletin that can be viewed and/or listened to online."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newscaster",
+    "phonetic": "'nju:z.kɑ:stә",
+    "definition": [
+      "n. 新闻广播员, 新闻评论广播员",
+      "EN: See news presenter."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsprint",
+    "phonetic": "'nju:zprint",
+    "definition": [
+      "n. 新闻纸",
+      "[化] 新闻纸",
+      "EN: A non-archival grade of paper on which newspapers and other publications and advertising material are commonly printed, consisting mainly of wood pulp and usually having an off-white cast and a soft, distinctive texture. It is favored by many daily broadsheets and wide-circulation publications because it is relatively lightweight, inexpensive, and durable and can accept simple four-color printing. It is often designed to be used in high-speed printing presses that print upon a continuous stream of paper rather than individual sheets."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsworthy",
+    "phonetic": "'nju:zwә:ði",
+    "definition": [
+      "a. 有报导价值的",
+      "EN: Describing the extent to which some event, statement, observation, story, or other piece of information has the potential to become news; the condition of being sufficiently notable or relevant to be covered or presented by the news media. Notions of what is newsworthy can differ markedly between mainstream and alternative journalism, with much of the latter's emphasis often predicated on an explicit rejection of conventional news values."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "off the record",
+    "phonetic": "",
+    "definition": [
+      "非正式地, 不可引用地",
+      "[法] 不公开的, 非正式的",
+      "EN: Information given by a source to a journalist on the (often implicit) understanding that, when reporting the information, the journalist will not attribute it to the source in a way that could allow readers to specifically identify the source. Contrast on the record."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "off-diary",
+    "phonetic": "",
+    "definition": [
+      "EN: A story or publishable piece of information discovered through a journalist's own observation, investigation, initiative, or communication with contacts, as opposed to diary stories, which are generally predictable, publicly accessible events. Off-diary stories tend to be highly prized as they help to distinguish one news organization or brand from another."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on the record",
+    "phonetic": "ˈɔ:nðəˈrekəd, ˈɔn-",
+    "definition": [
+      "记录在案的,公开发布的,公开做的",
+      "EN: Information given by a source to a journalist on the understanding that the journalist can publish it and openly and specifically attribute it to the source, as opposed to information shared \"off the record\", i.e. with the expectation that it will remain confidential and unattributed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "online journalism",
+    "phonetic": "",
+    "definition": [
+      "网路新闻学",
+      "EN: See digital journalism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "op-ed",
+    "phonetic": "",
+    "definition": [
+      "a. (报纸)专栏(版)的, 署名评论(版面)的",
+      "EN: A short opinion piece in written prose, typically less than 1,000 words, that expresses a strong, focused personal or collective opinion on an issue of relevance to the target audience, commonly included as a regular feature or column in many newspapers, magazines, and online publications. Op-eds are distinct from editorials and leaders, which are written by the publication's own staff, and often provide a space for commentary from outside contributors."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "open journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of journalism that promotes interaction and two-way conversations between the journalist and his or her audience, often accompanied especially by the idea that access to online journalism should not be restricted by paywalls."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "opinion journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: A type of journalism that shares the journalist's commentary, analysis or opinion."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "overnight",
+    "phonetic": "'әuvәnait",
+    "definition": [
+      "n. 前一天晚上, 一夜的逗留",
+      "a. 通宵的, 晚上的, 前夜的",
+      "adv. 在前一夜, 整夜, 昨晚一晚上",
+      "EN: A story written late at night in order to be published in the afternoon newspapers of the following day."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pack journalism",
+    "phonetic": "",
+    "definition": [
+      "(许多记者)一窝蜂(或蜂拥而上)的新闻报道",
+      "EN: A practice in which multiple journalists representing different news organizations, even rival ones, act or work together with a sort of \"pack mentality\", reinforcing each other's views, approach, and/or actions while trying to provide coverage of the same story or event."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "parachute journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: The sudden emergence of national or international news organizations descending upon a location in order to cover a story rather than maintaining a permanent presence there or engaging local journalists to provide reporting. The term is often used to imply tactless efforts to obtain a desirable news story, in the absence of contextualizing information, respect for locals, or a true understanding of the issues involved."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press",
+    "phonetic": "pres",
+    "definition": [
+      "n. 压, 揿, 按, 人群, 印刷机, 压力, 出版社, 记者, 报刊, 新闻舆论, 紧迫",
+      "vt. 压, 压榨, 紧抱, 逼迫, 推进, 强迫征募, 催逼",
+      "vi. 压, 重压, 催促, 拥挤, 奋力前进, 受压",
+      "EN: All forms of mass media considered collectively, especially print media such as newspapers and magazines but not necessarily excluding broadcast and online media; the journalism industry as a whole, or the entire body of journalists that produce and publish such media."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "public journalism",
+    "phonetic": "",
+    "definition": [
+      "公共新闻学;公众新闻学",
+      "EN: Another name for civic journalism or citizen journalism; or any form of journalism that seeks to promote the participation and engagement of citizens in democratic governments and civic structures, and/or to bemoan the absence of active involvement of the general public in conventional journalism and commercial mass media."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "radical journalism",
+    "phonetic": "",
+    "definition": [
+      "EN: Any form of journalism that articulates a critical perspective on society or eschews the established conventions of mainstream journalism, often found in alternative media and the underground press; the collective body of publications endorsing this style of journalism is sometimes referred to as the radical press."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rag-out",
+    "phonetic": "",
+    "definition": [
+      "n. 暗色毛边引文",
+      "EN: The reproduction of a section of a previously reported story, usually comprising the headline and intro, as a \"cut-out\" graphic alongside a follow-up story, in order to remind readers of the earlier coverage. A rag-out is often outlined with a jagged border to give the impression of it having been torn from the original page."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reach",
+    "phonetic": "ri:tʃ",
+    "definition": [
+      "n. 伸出, 延伸, 区域, 范围, 流域, 岬",
+      "vt. 到达, 达到, 伸出, 延伸, 影响",
+      "vi. 达到, 延伸, 伸出手, 传到",
+      "EN: A measure of the potential size of an audience for a particular publication, program, or website, as opposed to a measure of the actual number of people reading, watching, or listening to it."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recto",
+    "phonetic": "'rektәu",
+    "definition": [
+      "n. 右页, (纸的)正面",
+      "EN: The right-hand page of a newspaper or periodical. Contrast verso."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "retraction",
+    "phonetic": "ri'trækʃәn",
+    "definition": [
+      "n. 缩进, 撤回",
+      "[医] 退缩, 缩回",
+      "EN: A published correction (especially in print) that formally withdraws a false or offending piece of journalism and/or acknowledges that it was incorrectly or misleadingly reported."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Reuters",
+    "phonetic": "'rɒitә",
+    "definition": [
+      "n. 路透社",
+      "EN: An international news agency founded in London in 1851 that provides news material in 16 languages and numerous multimedia formats to subscribing news media organizations worldwide."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rolling news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 滚动新闻;滚动消息",
+      "EN: News that is broadcast on a continuous basis rather than being confined to specific bulletins."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rowback",
+    "phonetic": "",
+    "definition": [
+      "EN: A story that attempts to correct a previous story without indicating that the prior story had been in error or without taking responsibility for the error."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "running order",
+    "phonetic": "ˈrʌnɪŋ ˈɔ:də",
+    "definition": [
+      "动作次序",
+      "EN: A list from first to last of which stories will feature in a broadcast news bulletin. Changes are sometimes made at the last minute, or even after the broadcast has begun."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shield law",
+    "phonetic": "",
+    "definition": [
+      "新闻保障法",
+      "EN: Any legislation designed to protect reporters' privilege by preventing a journalist from being compelled to reveal the identity of an anonymous source who has been promised confidentiality. The term is used primarily in the United States."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "shirttail",
+    "phonetic": "'ʃә:tteil",
+    "definition": [
+      "n. 衬衣下摆, 社论栏",
+      "a. 幼小的, 远房的",
+      "EN: A short, related story added to the end of a longer one."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slug",
+    "phonetic": "slʌg",
+    "definition": [
+      "n. 鼻涕虫, 刺蛾, 懒汉, 弹丸, 金属小块, 重击",
+      "vi. 偷懒, 动作迟缓",
+      "vt. 重击",
+      "EN: A working title given to a story as it proceeds through production but prior to final publication. Normally just one word, slugs are intended to be seen only by journalists and reporters in the office or studio."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "soft copy",
+    "phonetic": "",
+    "definition": [
+      "[计] 软拷贝",
+      "EN: Copy that exists in digital form as computerized data, as opposed to hard copy, which is printed on a physical medium."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "soft news",
+    "phonetic": "sɔft nju:z",
+    "definition": [
+      "软新闻",
+      "EN: Any news that is not hard news, typically stories covering topics regarded as inconsequential or light-hearted, or which are reported more for their entertainment value and to balance somber and serious content than because of their importance to public knowledge."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spiking",
+    "phonetic": "'spaikiŋ",
+    "definition": [
+      "[化] 掺加; 掺加示踪剂",
+      "EN: The act of withholding a story from publication, either temporarily or permanently, for editorial, political, or commercial reasons."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "spin",
+    "phonetic": "spin",
+    "definition": [
+      "n. 旋转, 自旋, 疾驰, 情绪低落",
+      "vt. 纺织, 纺, 使旋转, 编造",
+      "vi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+      "EN: A particular angle or interpretation of information or events, especially one which deliberately ignores or contradicts other information which might undermine its own validity or otherwise fails to adhere to standards of objectivity; or the practice of pushing such a biased angle with the goal of influencing journalistic coverage and ultimately public opinion. Spin is thus a form of propaganda and generally has a negative connotation which implies willful distortion of the truth through the use of disingenuous, deceptive, or manipulative tactics. The term is most commonly applied to press officers working for politicians, though it may also be used more broadly to describe any effort to man"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "splash",
+    "phonetic": "splæʃ",
+    "definition": [
+      "n. 飞溅, 污点, 一点儿, 溅泼声, 色斑",
+      "vi. 溅湿, 溅开, 飞溅",
+      "vt. 溅, 泼, 使溅起水, 洒, 使成斑驳状",
+      "EN: An exciting or widely interesting front-page story given prominence so that people will take notice of the publication in which it is printed."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "staff writer",
+    "phonetic": "stɑ:f ˈraitə",
+    "definition": [
+      "n. 特约撰稿人",
+      "EN: A person, often an intern, whom a publication such as a magazine employs to propose ideas for articles, write them and sometimes do clerical and research work."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "standfirst",
+    "phonetic": "ˈstændfə:st",
+    "definition": [
+      "vt. 为(报刊文章)写摘要或内容提要",
+      "EN: A sentence or two of text placed immediately beneath the headline but before the main body of an article, which serves to introduce or contextualize what follows. Standfirsts most commonly accompany feature stories and may also incorporate the writer's byline. See also go-last."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "straight news",
+    "phonetic": "",
+    "definition": [
+      "纯新闻;直述新闻",
+      "EN: See hard news."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "streamer",
+    "phonetic": "'stri:mә",
+    "definition": [
+      "n. 横幅, 饰带, 流光, 通栏标题",
+      "EN: See banner."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "streeters",
+    "phonetic": "",
+    "definition": [
+      "(streeter 的复数) [人名] [英格兰人姓氏] 斯特里特 Street的变体; [地名] [美国] 斯特里特",
+      "EN: See vox pop."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stringer",
+    "phonetic": "'striŋә",
+    "definition": [
+      "n. 纵梁, 楼梯基, 上弦工人, 出售弓弦的人, 制造弓弦的人",
+      "EN: A freelance journalist who contributes writing, photos, videos, or other content to a news or photo agency and is paid for each contribution rather than with a fixed salary."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "thread",
+    "phonetic": "θred",
+    "definition": [
+      "n. 线, 丝, 纤维, 线索",
+      "vt. 穿线于, 穿过, 通过, 用线穿成",
+      "vi. 穿过",
+      "[计] 线索, 线程",
+      "EN: A series of Internet posts on a single topic."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "topspin",
+    "phonetic": "ˈtɒpspɪn",
+    "definition": [
+      "n. <网球>上旋",
+      "EN: An intangible quality that journalists are sometimes said to apply to their stories in order to make them appear more relevant or significant than they actually are. See also spin."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "United Press International (UPI)",
+    "phonetic": "",
+    "definition": [
+      "EN: An international news agency founded in 1907 and based in the United States that offers newswires, photographs, film, and audio services in English, Spanish, and Arabic to subscribing news media organizations worldwide."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "verso",
+    "phonetic": "'vә:sәu",
+    "definition": [
+      "n. 偶数页, 背面, 反面",
+      "EN: The left-hand page of a newspaper or periodical. Contrast recto."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "watchdog journalism",
+    "phonetic": "",
+    "definition": [
+      "监督新闻学;看门狗新闻学",
+      "EN: A form of investigative journalism in which journalists, authors or publishers of a news publication fact-check and interview political and public figures to increase accountability in democratic governance systems."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "webcast",
+    "phonetic": "",
+    "definition": [
+      "n. 网路广播;网络广播;网络直播",
+      "EN: A media presentation distributed, either live or on demand, over the Internet using streaming media to distribute a single content source to many listeners or viewers simultaneously, i.e. \"broadcasting\" on the \"web\"."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wob",
+    "phonetic": "",
+    "definition": [
+      "abbr. washed overboard (保险业用语)浪击落海的; 浪击落水(指被浪冲出舷外); washing overboard (货物被)浪击落海; 冲失",
+      "EN: White text on a black or dark-coloured background; an abbreviation of white on black."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "yellow press",
+    "phonetic": "",
+    "definition": [
+      "黄色报刊",
+      "EN: American newspapers that engage in yellow journalism."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "a-p",
+    "phonetic": "",
+    "definition": [
+      "abbr. 美国联合通讯社(Associated Press);空气污染(Air Pollution);大气规划(Air Program);汇编程序(Assembly Program)",
+      "n. (Ap)人名;(中)鸭(广东话·威妥玛)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ABCA",
+    "phonetic": "40",
+    "definition": [
+      "Army Bureau of Current Affairs,陆军新闻局"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "AEJ",
+    "phonetic": "6",
+    "definition": [
+      "Association for Education in Journa lism 新闻教育联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "airwise",
+    "phonetic": "",
+    "definition": [
+      "adj. 熟悉航空的",
+      "[网络] 航空新闻;专家系统"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "all-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 全新闻节目"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "alternate newsgroup",
+    "phonetic": "",
+    "definition": [
+      "替代新闻群组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ambush journalism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 伏击式新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anc",
+    "phonetic": "",
+    "definition": [
+      "abbr. 非洲民族会议(African National Council);美国新闻社(American News Company);(美国)大气氮公司(Atmospheric Nitrogen Corporation);自动噪声消除器(Automatic Noise Canceller)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "anchorman",
+    "phonetic": "'æŋkәmæn",
+    "definition": [
+      "n. 末棒运动员, 成绩倒数第一名, 新闻节目主持人",
+      "EN: n a television reporter who coordinates a broadcast to which several correspondents contribute"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "antara",
+    "phonetic": "",
+    "definition": [
+      "n. 安德拉(汽车品牌);安塔拉(通讯社名)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "astrophysics newsgroup",
+    "phonetic": "",
+    "definition": [
+      "天体物理学新闻组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "avant-garde picture",
+    "phonetic": "",
+    "definition": [
+      "[法语]加演影片,正片开映前放映的影片(如新闻片)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "back grounding",
+    "phonetic": "",
+    "definition": [
+      "新闻背景"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "back-of-the-book",
+    "phonetic": "'bækəvðə'buk",
+    "definition": [
+      "adj. [美国英语](广播、报纸、杂志等中有关文教、艺术动态、科技进步等)公众感兴趣部分的,普遍感兴趣的题材的,兴趣题材的;有关兴趣题材的;花絮新闻的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bad-press",
+    "phonetic": "",
+    "definition": [
+      "[网络] 负面报道;负面报导;来自新闻界的责难"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beat sweetener",
+    "phonetic": "",
+    "definition": [
+      "讨好的新闻报道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bi-media journalism",
+    "phonetic": "",
+    "definition": [
+      "双媒介新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bimbo eruption",
+    "phonetic": "",
+    "definition": [
+      "桃色事件曝光,绯闻,花边新闻(如1998年美国原白宫实习生莱温斯基泄露与前总统克林顿的性关系)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blacked out",
+    "phonetic": "",
+    "definition": [
+      "na. 用墨涂掉;使停刊;封锁(新闻);【戏】使舞台转暗",
+      "[网络] 我曾一度昏了;昏了过去;昏过去"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blacking out",
+    "phonetic": "",
+    "definition": [
+      "na. 用墨涂掉;使停刊;封锁(新闻);【戏】使舞台转暗",
+      "[网络] 休黑"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blood-letting",
+    "phonetic": "b'lʌdl'etɪŋ",
+    "definition": [
+      "n. (尤指敌军之间的)武力冲突, 流血事件, 杀戮; (新闻用语)内讧, 同室操戈"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "boiler-plate",
+    "phonetic": "",
+    "definition": [
+      "na. (做锅炉用的)钢板;〈美〉做成纸型送来的新闻稿",
+      "[网络] 样板式;锅炉板;样板文件"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bonk journalism",
+    "phonetic": "",
+    "definition": [
+      "〈贬〉桃色新闻(报道)业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bourgeoisie journalism",
+    "phonetic": "",
+    "definition": [
+      "资产阶级新闻学;中产阶级新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "breaking-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 大事件;突发新闻;爆炸新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "broad-tape",
+    "phonetic": "'brɔ:dteip",
+    "definition": [
+      "adj. (电传)宽带的(指传输有关证券、价格、商品市场等信息的新闻电报所用的宽带)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bulletins",
+    "phonetic": "'bʊlətɪnz",
+    "definition": [
+      "n. 公告( bulletin的名词复数 ); 新闻快报; 小报; 期刊",
+      "EN: n a brief report (especially an official statement issued for immediate publication or broadcast) v make public by bulletin"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bummer beat",
+    "phonetic": "",
+    "definition": [
+      "新闻记者对坠机、火灾、凶杀及类似事件所做的采访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "business-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 商业新闻;行业新闻;企业新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bystanders' journalism",
+    "phonetic": "",
+    "definition": [
+      "局外者新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "c-spanner",
+    "phonetic": "'si:'spæn",
+    "definition": [
+      "n. (连续24小时播出的有关立法和行政机构活动的新闻报道的)有线电视",
+      "abbr. Cable Satellite Public Affairs Network 大众卫星有线电视公司"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cable-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 有线新闻;有线电视新闻;有线新闻台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "camera-eye",
+    "phonetic": "'kæmərə'aɪ",
+    "definition": [
+      "n. (如照相机般的客观详细)报导新闻的能力",
+      "adj. 客观而详尽的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "censor out",
+    "phonetic": "",
+    "definition": [
+      "审查后修改、删去或完全禁止(书、新闻、影片等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "checkbook journalism",
+    "phonetic": "ˈtʃɛkˌbʊk ˈdʒə:nəˌlɪzəm",
+    "definition": [
+      "支票簿新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "chequebook journalism",
+    "phonetic": "",
+    "definition": [
+      "n. 重金新闻, 支票新闻(花大笔钱购买有关犯罪或名人隐私的信息为报纸文章提供素材)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CIJ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 连续喷墨(continuous ink-jet);新闻中心;连续式喷印"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "citizen-journal",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《公民新闻报》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "citizen-journalism",
+    "phonetic": "",
+    "definition": [
+      "n. 公民新闻;网民新闻",
+      "[网络] 公民记者;市民新闻;公民新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "city desks",
+    "phonetic": "",
+    "definition": [
+      "[美国英语](报社的)本地新闻编辑部;[亦作 City desk][英国英语](报社的)金融和商业新闻编辑部"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "CJR",
+    "phonetic": "",
+    "definition": [
+      "abbr. 中国新闻传播学评论(China Journalism Review);哥伦比亚新闻评论(Columbia journalism review)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "class-angle",
+    "phonetic": "",
+    "definition": [
+      "vt. 使(新闻报道)具有阶级色彩"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clipsheet",
+    "phonetic": "'klipʃi:t",
+    "definition": [
+      "n. (为剪贴方便)只在单面排印的新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clipsheets",
+    "phonetic": "",
+    "definition": [
+      "na. (为剪贴方便而)单面排印的新闻[通告等]",
+      "[网络] 印刷一面;报刊等只印一面"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "clique journalism",
+    "phonetic": "",
+    "definition": [
+      "派阀新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "closed-ended",
+    "phonetic": "",
+    "definition": [
+      "[网络] 封闭式;封闭回答式采访;封闭式基金"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "colorcaster",
+    "phonetic": "'kʌlə,kɑ:stə; -,kæstə",
+    "definition": [
+      "n. (体育比赛等的)现场播音员,讲评精彩的广播员(尤指在体育方面增补新闻或讲评的播音员),优秀播音员[亦称color commentator]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "colour piece",
+    "phonetic": "",
+    "definition": [
+      "新闻特稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "coloured newsprint",
+    "phonetic": "",
+    "definition": [
+      "彩色新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "copyboy",
+    "phonetic": "'kɒpibɒi",
+    "definition": [
+      "n. (送稿件的)勤务工"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "copyboys",
+    "phonetic": "",
+    "definition": [
+      "n. 送稿件的工",
+      "[网络] 送稿件工友;送稿件的工友;出版社的小工友"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "copyread",
+    "phonetic": "'kɔpiri:d",
+    "definition": [
+      "vt.<主美>对...作文字编辑工作,修改(稿件)",
+      "EN: v edit and correct (written or printed material)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "courants",
+    "phonetic": "ku'rɑ:nt",
+    "definition": [
+      "n. 报纸;新闻(仅用于报纸名)",
+      "adj. (纹章上动物形象)跑步状的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "covert news",
+    "phonetic": "",
+    "definition": [
+      "祕密新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crisis-mode",
+    "phonetic": "",
+    "definition": [
+      "[网络] 危机模式;危机狀态的新闻模式;走出危机模式"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "crushed news",
+    "phonetic": "",
+    "definition": [
+      "废新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cub reporter",
+    "phonetic": "kʌb riˈpɔ:tə",
+    "definition": [
+      "n. 初出茅庐的新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "cub-reporter",
+    "phonetic": "",
+    "definition": [
+      "n. 初出茅庐的记者",
+      "[网络] 初任记者;新闻记者;初出茅庐的新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "d-girl",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "datelined",
+    "phonetic": "'deɪtlaɪn",
+    "definition": [
+      "n. 国际日期变更线;报纸写明的发稿日期及地址;新闻电头",
+      "EN: v. mark with a date and place"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "datelines",
+    "phonetic": "'deɪtlaɪn",
+    "definition": [
+      "n. 国际日期变更线;报纸写明的发稿日期及地址;新闻电头",
+      "EN: n. an imaginary line on the surface of the earth following (approximately) the 180th meridian n. a line at the beginning of a news article giving the date and place of origin of the news dispatch v. mark with a date and place"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "datelining",
+    "phonetic": "'deɪtlaɪn",
+    "definition": [
+      "n. 国际日期变更线;报纸写明的发稿日期及地址;新闻电头",
+      "EN: v. mark with a date and place"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daybook journalism",
+    "phonetic": "",
+    "definition": [
+      "日志式新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deliberative office",
+    "phonetic": "",
+    "definition": [
+      "新闻审查室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deliberative report",
+    "phonetic": "",
+    "definition": [
+      "审议式新闻报导"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deliberative reporting",
+    "phonetic": "",
+    "definition": [
+      "审议式新闻报导"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "deskmen",
+    "phonetic": "",
+    "definition": [
+      "na. 新闻助理编辑;坐办公桌的人",
+      "[网络] 远程监控;办公室人员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "digital-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 数字新闻;数位新闻;数码新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dispatches",
+    "phonetic": "disˈpætʃiz",
+    "definition": [
+      "n. (使者等的)派遣( dispatch的名词复数 ); 急件; 迅速办理(或办妥、摆脱); (记者发回的)新闻报道",
+      "EN: n an official report (usually sent in haste) n the act of sending off something n the property of being prompt and efficient n killing a person or animal v send away towards a designated goal v complete or carry out v kill intentionally and with premeditation v dispose of rapidly and without delay and efficiently v kill without delay"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DJNR",
+    "phonetic": "",
+    "definition": [
+      "DowJones新闻检索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dog-watch",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕夜间值班编缉;半轮值班;值小班",
+      "[网络] 每两小时的值班"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dope sheet",
+    "phonetic": "",
+    "definition": [
+      "内幕新闻;信息清单"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dropline",
+    "phonetic": "d'rɒplaɪn",
+    "definition": [
+      "(新闻)分成数行的横标题(其第一行左方的边线齐,每下一行空若干格,其最后一行与右方的边线齐)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "DSNG",
+    "phonetic": "",
+    "definition": [
+      "[网络] 数字卫星新闻采集系统;数字卫星新闻采集(Digital Satellite News Gather);数字卫星新闻采集车"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-blast",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻信订户"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-journalism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电子报;电子新闻;电子期刊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-news service",
+    "phonetic": "",
+    "definition": [
+      "电子新闻服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "e-newsletters",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻订阅;电子通讯;电子时讯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ear-duster",
+    "phonetic": "'iə,dʌstə",
+    "definition": [
+      "n. [美国俚语];爱散布流言蜚语的人,好说长道短的人,碎嘴子;闲言碎语的话题;流言蜚语;内幕新闻,小道消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "earful",
+    "phonetic": "'iәful",
+    "definition": [
+      "n. 惊人(或重要)新闻的透露, (说话、闲话等的)大量, 过多, 斥责",
+      "EN: n. an outpouring of gossip"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ECIS",
+    "phonetic": "",
+    "definition": [
+      "abbr. European Community Information Service 欧洲共同体新闻处"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editing-room",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕编辑室",
+      "[网络] 剪接室;编辑机房;电影剪辑的剪接室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editor-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 编辑新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editorial-page",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕社论版",
+      "[网络] 社论专页;编辑页"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "editors-in-chief",
+    "phonetic": "",
+    "definition": [
+      "n. 〔新闻〕总编辑",
+      "[网络] 主编;主编们;编者-在-领袖"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "evening wheezes",
+    "phonetic": "",
+    "definition": [
+      "假消息,虚伪(或捏造)的新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "evening-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 晚间新闻;晚报;新闻晚报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "exercise censorship",
+    "phonetic": "",
+    "definition": [
+      "实行书刊新闻检查"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "express-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 芝加哥论坛报和安东尼快讯;快迅报;快速新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "extra-news",
+    "phonetic": "",
+    "definition": [
+      "号外新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eyewitness news",
+    "phonetic": "",
+    "definition": [
+      "见证新闻, 见证式新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fabricating news",
+    "phonetic": "",
+    "definition": [
+      "捏造新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "faits divers",
+    "phonetic": "",
+    "definition": [
+      "[复数][法语](报纸上的)杂闻,(报纸)社会新闻栏;新闻项目,小消息;小事情"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "feel-good",
+    "phonetic": "fi:l ɡud",
+    "definition": [
+      "phr. 愉悦感, 对未来的乐观态度(新闻用语)",
+      "a. (电影)令人愉悦的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "fiddler's news",
+    "phonetic": "",
+    "definition": [
+      "过时新闻;来得迟的消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "financial pornography",
+    "phonetic": "",
+    "definition": [
+      "对金融专家、基金经理人、理财专家以及他们所做的交易大肆歌功颂德、大加赞扬的书籍、刊物、文章和新闻简讯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "financial-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 财经新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flacked",
+    "phonetic": "",
+    "definition": [
+      "n. 同“flak”;(剧团等的)新闻宣传员;广告代理人",
+      "v. 作(剧团等的)新闻宣传员等",
+      "[网络] 高射炮;严厉批评;弗莱克"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flacker",
+    "phonetic": "flæk",
+    "definition": [
+      "[美国俚语]",
+      "n. =press agent;广告, 宣传, 推销;宣传资料",
+      "vi. 推广, 作宣传, 担任新闻广告员(或广告宣传员), 作广告, 从事广告宣传;当报刊宣传员;充当(某人的)发言人",
+      "EN: v. i. To flutter, as a bird."
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flash-news",
+    "phonetic": "",
+    "definition": [
+      "n. 大新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "flyback interview",
+    "phonetic": "",
+    "definition": [
+      "[网络] 回访采访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "footwork",
+    "phonetic": "'futwә:k",
+    "definition": [
+      "n. 脚的动作, 脚力, 现场采访活动",
+      "EN: n. the manner of using the feet n. skillful maneuvering or dealing"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "free-press",
+    "phonetic": "",
+    "definition": [
+      "na. 出版自由",
+      "[网络] 自由出版社;新闻自由;自由报业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freedom-of-information",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻自由",
+      "[网络] 信息自由法;资讯公开法"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "front-page news",
+    "phonetic": "frʌnt peidʒ nju:z",
+    "definition": [
+      "头版新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "general-assignment",
+    "phonetic": "",
+    "definition": [
+      "un. 总任务;综合性作业",
+      "[网络] 一般转让;普通转让;一般新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "globe-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻动态"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "GMCA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 拟子协同进化算法;通讯社"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gonzo journalism",
+    "phonetic": "",
+    "definition": [
+      "哗众取宠的新闻报道;新闻炒作"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gossipped",
+    "phonetic": "'gɒsɪp",
+    "definition": [
+      "(尤指涉及私人、私事的)闲话,流言蜚语,小道消息,内幕新闻",
+      "喋喋不休,闲谈,闲聊;漫谈社会新闻(或他人隐私)的文章",
+      "饶舌者;爱议论别人长短的人;传播流言蜚语的人[亦作 gossiper, gossipper]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gossipper",
+    "phonetic": "'gɒsɪp",
+    "definition": [
+      "(尤指涉及私人、私事的)闲话,流言蜚语,小道消息,内幕新闻",
+      "喋喋不休,闲谈,闲聊;漫谈社会新闻(或他人隐私)的文章",
+      "饶舌者;爱议论别人长短的人;传播流言蜚语的人[亦作 gossiper, gossipper]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "gossipping",
+    "phonetic": "'gɒsɪp",
+    "definition": [
+      "(尤指涉及私人、私事的)闲话,流言蜚语,小道消息,内幕新闻",
+      "喋喋不休,闲谈,闲聊;漫谈社会新闻(或他人隐私)的文章",
+      "饶舌者;爱议论别人长短的人;传播流言蜚语的人[亦作 gossiper, gossipper]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "green eyeshade",
+    "phonetic": "",
+    "definition": [
+      "(其教学及研究集中在编辑和报道的“实践”艺术上的)新闻学教授;通信学教授"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hard-news",
+    "phonetic": "",
+    "definition": [
+      "n. 重大新闻",
+      "[网络] 严肃新闻;硬新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "have whiskers",
+    "phonetic": "",
+    "definition": [
+      "(新闻等)不再新鲜,不再新奇"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "headline",
+    "phonetic": "'hedlain",
+    "definition": [
+      "n. 大标题, 新闻摘要",
+      "vt. 为...做标题, 写标题",
+      "EN: n. the heading or caption of a newspaper article v. publicize widely or highly, as if with a headline v. provide (a newspaper page or a story) with a headline"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "headline-grabbing",
+    "phonetic": "'hedlaɪnɡr'æbɪŋ",
+    "definition": [
+      "adj. 吸引注意力的;(尤指)成为新闻焦点的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hiatus",
+    "phonetic": "hai'eitәs",
+    "definition": [
+      "n. 裂缝, 中断, 空隙, 间隙, 裂孔, (稿件)脱字, 漏句",
+      "pl. 裂缝, 中断, 空隙, 间隙, 裂孔, (稿件)脱字, 漏句",
+      "EN: n. a missing piece (as a gap in a manuscript)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "horse-race journalism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 赛马式新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hot-button issue",
+    "phonetic": "",
+    "definition": [
+      "na. (讨论中的)热点;敏感问题;一触苏发的敏感部位",
+      "[网络] 热钮话题;热门话题;最近却成了新闻的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ICIJ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际调查记者联盟(International Consortium of Investigative Journalists);调查性新闻记者国际联盟;国际调查性记者联盟"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IFJ",
+    "phonetic": "",
+    "definition": [
+      "abbr. International Federation of Journalists 国际新闻工作者联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "immersion journalism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 浸入式报道;新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "infos",
+    "phonetic": "",
+    "definition": [
+      "[网络] 信息;资讯(Informations);新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "INP",
+    "phonetic": "",
+    "definition": [
+      "abbr. 国际新闻照片社(International News Photos);物价指数(Index Number of Prices)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ins",
+    "phonetic": "",
+    "definition": [
+      "abbr. 惯性导航系统(Inertial Navigation System);国际新闻社(International News Service);信息网络系统(Information Network System)",
+      "EN: n an agency in the Department of Justice that enforces laws and regulations for the admission of foreign-born persons to the United States n a unit of length equal to one twelfth of a foot n a rare soft silvery metallic element; occurs in small quantities in sphalerite n a state in midwestern United States"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "inter-view",
+    "phonetic": "'ɪntəvjuː",
+    "definition": [
+      "n. 接见, 采访;面试, 面谈",
+      "vt. 采访;接见;对...进行面谈;对某人进行面试"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interpretative news",
+    "phonetic": "",
+    "definition": [
+      "解释性新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interview-room",
+    "phonetic": "",
+    "definition": [
+      "[网络] 接见室;会见室;采访室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interview-worthy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 采访值得"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interviewee",
+    "phonetic": ".intәvju:'i:",
+    "definition": [
+      "n. 被接见者, 被采访者, 被面试者",
+      "EN: n. a person who is interviewed"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "interviews",
+    "phonetic": "ˈintəvju:z",
+    "definition": [
+      "n. 接见( interview的名词复数 ); 采访; 面谈; 会谈",
+      "EN: n the questioning of a person (or a conversation in which information is elicited); often conducted by journalists n a conference (usually with someone important) v conduct an interview in television, newspaper, and radio reporting v discuss formally with (somebody) for the purpose of an evaluation v go for an interview in the hope of being hired"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "investigative reporter",
+    "phonetic": "",
+    "definition": [
+      "[网络] 调查记者;浅议调研记者;采访记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IOJ",
+    "phonetic": "",
+    "definition": [
+      "国际新闻工作者协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IPI",
+    "phonetic": "",
+    "definition": [
+      "国际新闻学会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "iterative journalism",
+    "phonetic": "",
+    "definition": [
+      "週而复始的新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ITN",
+    "phonetic": "",
+    "definition": [
+      "abbr. 独立电视新闻公司(Independent Television News)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "j-school",
+    "phonetic": "",
+    "definition": [
+      "abbr. journalism school 新闻学院"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journ",
+    "phonetic": "d'ʒɜ:n",
+    "definition": [
+      "abbr. journalism 新闻业; journalist 新闻记者; journalese (低劣的)新闻笔调; journalistic 新闻事业的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journal teleprinter",
+    "phonetic": "",
+    "definition": [
+      "新闻电传打字机,日志电传打字机;日记账电传打字机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journal-news",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《新闻报》",
+      "[网络] 新闻日报;动态信息;期刊新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journal-register",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《新闻纪事报》",
+      "[网络] 报纸出版公司;报刊记录公司;纪录报公司"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journal-world",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《世界新闻报》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalese",
+    "phonetic": ".dʒә:nә'li:z",
+    "definition": [
+      "n. 新闻文体",
+      "EN: n. the style in which newspapers are written"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalised",
+    "phonetic": "'dʒɜːnəlaɪz",
+    "definition": [
+      "vt. (英)把...写入日记;记入流水帐",
+      "vi. 记日记;从事新闻工作(等于journalize)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalist",
+    "phonetic": "'dʒә:nәlist",
+    "definition": [
+      "n. 新闻记者, 从事新闻杂志业的人",
+      "EN: n. a writer for newspapers and magazines"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalistic",
+    "phonetic": ",dʒ\\\\: nә'listik",
+    "definition": [
+      "a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的",
+      "EN: a. of or relating to or having the characteristics of journalism"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalistic autonomy",
+    "phonetic": "",
+    "definition": [
+      "新闻自主[权]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalistic education",
+    "phonetic": "",
+    "definition": [
+      "新闻教育"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalistic ethics",
+    "phonetic": "",
+    "definition": [
+      "新闻伦理"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalistic style",
+    "phonetic": "",
+    "definition": [
+      "{写作}新闻报导式风格"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "journalization",
+    "phonetic": "dʒɜːnəlaɪ'zeɪʃən",
+    "definition": [
+      "新闻化"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "keyhole journalism",
+    "phonetic": "",
+    "definition": [
+      "偷窥新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "l'espresso",
+    "phonetic": "",
+    "definition": [
+      "[网络] 快讯杂志;快报;意大利新闻杂志"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "late-breaking news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legman",
+    "phonetic": "'legmæn",
+    "definition": [
+      "n. 采访记者, 资料搜集助手"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legmen",
+    "phonetic": "",
+    "definition": [
+      "采访助手, 资料搜集助手( legman的名词复数 )"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "legwork",
+    "phonetic": "'le^w\\\\:k",
+    "definition": [
+      "n. <口>外出搜集情况的工作(如新闻采访,案件调查等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lobby correspondents",
+    "phonetic": "",
+    "definition": [
+      "议会新闻的采访记者,(报刊的)政治记者[亦作 lobby journalist]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "local-news",
+    "phonetic": "",
+    "definition": [
+      "na. 本地新闻",
+      "[网络] 地方新闻;当地新闻;地方报纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mall intercept",
+    "phonetic": "",
+    "definition": [
+      "购物中心(对客户意见的)现场采访;侦听"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "media hype",
+    "phonetic": "",
+    "definition": [
+      "【新闻学】[美国口语](对公司、候选人等所作的)集中宣传报道;媒体的大肆渲染"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "media-related",
+    "phonetic": "",
+    "definition": [
+      "[网络] 媒体相关;新闻与媒体及文化工作者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MEGO",
+    "phonetic": "'mi:^әj",
+    "definition": [
+      "abbr.mine eyes glaze over <口>(新闻媒体用语)这事太没劲了"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mercury-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 水星报;圣荷西信使报;水星新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MIJ",
+    "phonetic": "",
+    "definition": [
+      "abbr. Member of the Institute of Journalists <英>新闻工作者学会会员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mini-story",
+    "phonetic": "",
+    "definition": [
+      "[网络] 微型新闻;微型报道;微型消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "moi",
+    "phonetic": "",
+    "definition": [
+      "abbr. 惯性矩(Moment of Inertia);感染复数(Multiplicity of Infection);英国新闻部(Ministry of Information);英国内政部(Ministry of the Interior)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "muckraking journalism",
+    "phonetic": "",
+    "definition": [
+      "丑闻揭发新闻学;扒粪新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NAPPHN",
+    "phonetic": "",
+    "definition": [
+      "[=National Association of Private Psychiratic Hospitals Newsletter]全国私立精神病医院协会新闻通报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NAVIC",
+    "phonetic": "",
+    "definition": [
+      "Naval Information Center 海军新闻中心"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "network-news",
+    "phonetic": "",
+    "definition": [
+      "n. 网络新闻",
+      "[网络] 网络新闻服务;网路新闻;网络消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "networked journalism",
+    "phonetic": "",
+    "definition": [
+      "网络式新闻学;参与式新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news aesthetics",
+    "phonetic": "",
+    "definition": [
+      "新闻美学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news aggregator",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻聚合器;新闻汇集软体;新闻整合器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news anchors",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻报导员;新闻主播;新闻节目主持"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news blackout",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻管制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news bulletins",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕新闻公报",
+      "[网络] 新闻演示文稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news busters",
+    "phonetic": "",
+    "definition": [
+      "新闻人物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news cameraman",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻摄影记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news caster",
+    "phonetic": "'nuzkæstɚ",
+    "definition": [
+      "n. 新闻广播员;新闻评论广播员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news clue",
+    "phonetic": "",
+    "definition": [
+      "新闻线索"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news correspondent",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news crawl",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻爬网"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news crawls",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻抓取"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news desks",
+    "phonetic": "",
+    "definition": [
+      "新闻平台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news discourse",
+    "phonetic": "",
+    "definition": [
+      "新闻论述;新闻话语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news distortion",
+    "phonetic": "",
+    "definition": [
+      "新闻扭曲"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news fasting",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻斋戒;新闻斋戒日"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news gatherer",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news hen",
+    "phonetic": "",
+    "definition": [
+      "n. 〈美口〉女新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news hound",
+    "phonetic": "",
+    "definition": [
+      "n. 〔新闻〕新闻记者",
+      "[网络] 新闻特派员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news imperialism",
+    "phonetic": "",
+    "definition": [
+      "新闻帝国主义"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news judgement",
+    "phonetic": "",
+    "definition": [
+      "新闻判断"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news medias",
+    "phonetic": "",
+    "definition": [
+      "新闻媒介;新闻传播工具;新闻媒介,传播媒介"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news objectivity",
+    "phonetic": "",
+    "definition": [
+      "新闻客观性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news on-demand",
+    "phonetic": "",
+    "definition": [
+      "新闻点播"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news peg",
+    "phonetic": "",
+    "definition": [
+      "新闻题材[亦作 peg]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news presenter",
+    "phonetic": "",
+    "definition": [
+      "新闻主播;新闻播报员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news propaganda",
+    "phonetic": "",
+    "definition": [
+      "新闻宣传"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news rhetoric",
+    "phonetic": "",
+    "definition": [
+      "新闻修辞"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news rundown",
+    "phonetic": "",
+    "definition": [
+      "新闻播报顺序"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news ticker",
+    "phonetic": "",
+    "definition": [
+      "(计算机或电视屏幕上的)滚动新闻条"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news tickers",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻滚动条;消息转动条"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-american",
+    "phonetic": "",
+    "definition": [
+      "[网络] 美国新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-beat",
+    "phonetic": "",
+    "definition": [
+      "na. 新闻记者采访区",
+      "[网络] 时事全接触;新闻记者的采访区"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-blackout",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻管制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-book",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻书"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-boy",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕报童"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-chronicle",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻纪事;新闻纪事报;每日记事报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-cutting",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻摘要;新闻剪辑;剪报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-express",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻速递;新闻快讯;信息快递"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-feature interview",
+    "phonetic": "",
+    "definition": [
+      "新闻特写採访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-flash",
+    "phonetic": "",
+    "definition": [
+      "最后新闻;简讯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-free",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻免费"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-gatherer",
+    "phonetic": "'nju:z-,ɡæðərə",
+    "definition": [
+      "n. 采访新闻工作者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-gathering",
+    "phonetic": "nju:z ˈgæðərɪŋ",
+    "definition": [
+      "新闻采集"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-gathering camera",
+    "phonetic": "",
+    "definition": [
+      "[电视] 新闻采访摄像机"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-gazette",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-herald",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻先驱报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-hungry",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻饥饿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-journal",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻日报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-leader",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻领袖报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-magazine",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻杂志;时事全方位;时事刊物"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-making",
+    "phonetic": "",
+    "definition": [
+      "[网络] 制造新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-on-demand",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻点播;即时新闻;点播新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-oriented",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻导向"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-paper",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-press",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻媒体;新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-printing paper",
+    "phonetic": "",
+    "definition": [
+      "新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-reader",
+    "phonetic": "",
+    "definition": [
+      "新闻阅读器;新闻阅读程序;新闻播音员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-record",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻纪录报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-reporting",
+    "phonetic": "",
+    "definition": [
+      "新闻报道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-sentinel",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻哨兵报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-service",
+    "phonetic": "",
+    "definition": [
+      "[网络] 通讯社;新闻处;新闻服务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-star",
+    "phonetic": "",
+    "definition": [
+      "[网络] 明星新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-sun",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻太阳报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-talk",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻今日谈;新闻区;实事英语"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-times",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《新闻时报》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-tribune",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《新闻论坛报》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-wall",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻墙;新闻长城;看看新闻墙"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-week",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻周刊;美国新闻周刊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "news-writer",
+    "phonetic": "",
+    "definition": [
+      "na. 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsbeat",
+    "phonetic": "'nju:zbi:t",
+    "definition": [
+      "n. 新闻记者的采访区域"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newscasting",
+    "phonetic": "",
+    "definition": [
+      "新闻广播(的)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsgirls",
+    "phonetic": "",
+    "definition": [
+      "[网络] 女报童;新闻女郎"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newshound",
+    "phonetic": "'nju:zhajnd",
+    "definition": [
+      "n. 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsiest",
+    "phonetic": "'njuːzi",
+    "definition": [
+      "adj. 嘴碎的",
+      "n. 〈美〉同“newsboy”",
+      "[网络] 报童;多新闻的;饶舌的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsiness",
+    "phonetic": "",
+    "definition": [
+      "n. 多新闻, 饶舌"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsless",
+    "phonetic": "'nju:zlis",
+    "definition": [
+      "a. 没有新闻的",
+      "EN: s. not having or receiving news or information s. not providing news or information"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsmagazine",
+    "phonetic": "'njuːz,mæɡə'ziːn",
+    "definition": [
+      "n. 新闻杂志"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsman",
+    "phonetic": "'nju:zmæn",
+    "definition": [
+      "n. 报童, 送报人, 新闻记者",
+      "EN: n a person who investigates and reports or edits news stories"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsmonger",
+    "phonetic": "'nju:z.mʌŋgә",
+    "definition": [
+      "n. 爱传播新闻的人, 饶舌者",
+      "EN: n a person given to gossiping and divulging personal information about others"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsmongering",
+    "phonetic": "'njuːz,mʌŋɡə",
+    "definition": [
+      "n. (积极)传播新闻的人;爱传播流言蜚语的人,饶舌者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newspaper-readings",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻选读"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newspaper-style",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻体裁"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newspaperdom",
+    "phonetic": "",
+    "definition": [
+      "n. 报界,新闻界"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newspaperman",
+    "phonetic": "'nju:s,peipәmæn,'nju:z-",
+    "definition": [
+      "n. 新闻记者",
+      "EN: n a journalist employed to provide news stories for newspapers or broadcast media"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsprint carrier",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻纸运输船"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsprint paper",
+    "phonetic": "",
+    "definition": [
+      "新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsreel",
+    "phonetic": "'nju:zri:l",
+    "definition": [
+      "n. 新闻影片",
+      "EN: n. a short film and commentary about current events"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsroom",
+    "phonetic": "'nju:zru:m",
+    "definition": [
+      "n. 新闻编辑部, 报刊阅览室, 售报处",
+      "EN: n. the staff of a newspaper or the news department of a periodical n. an office in which news is processed by a newspaper or news agency or television or radio station n. a reading room (in a library or club) where newspapers and other periodicals can be read"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newswoman",
+    "phonetic": "'nju:z,wumən",
+    "definition": [
+      "n. 女新闻记者; 女编辑; 女报刊经售人",
+      "EN: n. a female newsperson"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsworthiness",
+    "phonetic": "",
+    "definition": [
+      "有新闻价值",
+      "EN: n. the quality of being sufficiently interesting to be reported in news bulletins"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newswriter",
+    "phonetic": "",
+    "definition": [
+      "na. 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newswriting",
+    "phonetic": "'nju:z,raitiŋ",
+    "definition": [
+      "n. 新闻编辑,新闻写作,为报纸撰稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "newsy",
+    "phonetic": "'nju:si",
+    "definition": [
+      "a. 多新闻的, 有报道价值的, 爱闲话的",
+      "n. 报童",
+      "EN: s. full of news"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "non-newsworthy",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非新闻价值"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NSJ",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻社;Negative Source Journaling;农安县"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NTTP",
+    "phonetic": "",
+    "definition": [
+      "[网络] 网络新闻传输协议;新闻服务器"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "NZPA",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新西兰报联社(new zealand press association);新西兰通讯社;新西兰新闻协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "on-line news",
+    "phonetic": "",
+    "definition": [
+      "线上新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "one-reeler",
+    "phonetic": "'wʌn'ri:lə",
+    "definition": [
+      "n. [美国英语]单盘影片(如新闻纪录片、动画片等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "online pressroom",
+    "phonetic": "",
+    "definition": [
+      "网路新闻室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "online-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 线上新闻;网上新闻;网路新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "outrageous journalism",
+    "phonetic": "",
+    "definition": [
+      "暴行新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "over-the-transom",
+    "phonetic": "'əʊvərðətr'ænsəm",
+    "definition": [
+      "a. (稿件等)主动提供的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "packaged news",
+    "phonetic": "",
+    "definition": [
+      "套装新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "patriot-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 爱国者新闻报;美国爱国者新闻报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "people-people",
+    "phonetic": "",
+    "definition": [
+      "[网络] 人物;人民;动新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "percolate through",
+    "phonetic": "",
+    "definition": [
+      "(使)渗滤;(使)渗透;(阳光等)透过,射过;(消息、新闻、意思等)慢慢地透露出来"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "phat",
+    "phonetic": "fæt",
+    "definition": [
+      "a. (因稿件空白行多而)容易排字的;(俚)酷毙了, 太好了"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photo-journalist",
+    "phonetic": "",
+    "definition": [
+      "[网络] 摄影新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photojournalism",
+    "phonetic": ",fәutәu'dʒә:nәlizm",
+    "definition": [
+      "n. 摄影新闻工作, 摄影报道",
+      "EN: n. journalism that presents a story primarily through the use of pictures"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photojournalist",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻摄影记者",
+      "EN: n. a journalist who presents a story primarily through the use of photographs"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "photojournalistic",
+    "phonetic": "",
+    "definition": [
+      "新闻摄影的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "plate-matter",
+    "phonetic": "",
+    "definition": [
+      "na. (通讯社发给小报馆的)电版新闻稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "police-public",
+    "phonetic": "",
+    "definition": [
+      "[网络] 警务公开;警务新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "political-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 政治报纸;政治新闻;政治要闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "post-newsweek",
+    "phonetic": "",
+    "definition": [
+      "[网络] 后新闻周刊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pre-interviews",
+    "phonetic": "",
+    "definition": [
+      "[网络] 预采访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press correspondent",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press cuttings",
+    "phonetic": "",
+    "definition": [
+      "un. 剪报",
+      "[网络] 新闻剪报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press gaggle",
+    "phonetic": "",
+    "definition": [
+      "[网络] 白宫新闻秘书非正式吹风"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press revises",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻修改"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press secretaries",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻秘书"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press self-regulation",
+    "phonetic": "",
+    "definition": [
+      "新闻自律"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press subsidy",
+    "phonetic": "",
+    "definition": [
+      "新闻津贴"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press telegram",
+    "phonetic": "",
+    "definition": [
+      "新闻电报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-agent",
+    "phonetic": "",
+    "definition": [
+      "新闻广告员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-box",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻记者席"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-citizen",
+    "phonetic": "",
+    "definition": [
+      "[网络] 是撒意思;公民新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-enterprise",
+    "phonetic": "",
+    "definition": [
+      "[网络] 企业新闻报;企业报;印刷企业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-gazette",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻报;报刊公报;报业公报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-register",
+    "phonetic": "",
+    "definition": [
+      "[网络] 莫比尔纪事报;新闻记录报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-release",
+    "phonetic": "",
+    "definition": [
+      "na. (向记者发布的)新闻稿;(通讯社发布的)通讯稿",
+      "[网络] 新闻发布;新闻公告;新闻简报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-room",
+    "phonetic": "",
+    "definition": [
+      "n. 记者室",
+      "[网络] 记者招待室;新闻中心;新闻发布室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-show",
+    "phonetic": "'pres,ʃən",
+    "definition": [
+      "vt. (影片的)试映,预映;(在公映前向新闻界记者们)预展;预映"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-telegram",
+    "phonetic": "",
+    "definition": [
+      "na. 新闻电报",
+      "[网络] 新闻电讯报;案情透露给长滩日报;电讯报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "press-warrant",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "presses box",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻记者席"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pressman",
+    "phonetic": "'presmәn",
+    "definition": [
+      "n. 印刷工, 新闻记者",
+      "EN: n someone whose occupation is printing n a journalist employed to provide news stories for newspapers or broadcast media"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pressrooms",
+    "phonetic": "",
+    "definition": [
+      "na. 印刷室;(政府机构中的)记者室",
+      "[网络] 印刷间;新闻发布室;新闻稿"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "presswoman",
+    "phonetic": "'pres,wjmәn",
+    "definition": [
+      "n. <英>女新闻工作者,女记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pseudo-event",
+    "phonetic": "s'ju:dəʊɪv'ent",
+    "definition": [
+      "n. 假新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "public presses",
+    "phonetic": "",
+    "definition": [
+      "报章杂志,新闻出版界"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "pulitzer",
+    "phonetic": "'pulitsә",
+    "definition": [
+      "n. 普利策(美国新闻业经营者)",
+      "EN: n. United States newspaper publisher (born in Hungary) who established the Pulitzer prizes (1847-1911)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quick-fix journalism",
+    "phonetic": "",
+    "definition": [
+      "速成新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quill driver",
+    "phonetic": "",
+    "definition": [
+      "[贬义]笔杆子(指作家、新闻记者、秘书等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "quill-driver",
+    "phonetic": "",
+    "definition": [
+      "n. 作家, 抄写员, 新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ragger",
+    "phonetic": "'ræ^ә",
+    "definition": [
+      "n. (英)(非正式)恶作剧者, 捣蛋鬼, (美)(非正式)新闻记者"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "read-on",
+    "phonetic": "",
+    "definition": [
+      "n. (新闻报道的)引人入胜的导语,读下去便知究竟的引子"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "readable news",
+    "phonetic": "",
+    "definition": [
+      "新闻可读性"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recaps",
+    "phonetic": "ri:ˈkæps",
+    "definition": [
+      "n. 胎面翻新的轮胎( recap的名词复数 ); 重述要点; <新闻>简明新闻",
+      "EN: n a summary at the end that repeats the substance of a longer discussion n a used automobile tire that has been remolded to give it new treads v summarize briefly"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "recessive coverage",
+    "phonetic": "",
+    "definition": [
+      "隐性采访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reeled news",
+    "phonetic": "",
+    "definition": [
+      "卷筒新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reflective journalism",
+    "phonetic": "",
+    "definition": [
+      "反思新闻学"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "reportage",
+    "phonetic": ".repɒ:'tɑ:ʒ",
+    "definition": [
+      "n. 新闻报道, 报告文学",
+      "EN: n the news as presented by reporters for newspapers or radio or television"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rotating file",
+    "phonetic": "",
+    "definition": [
+      "[比喻](盛放无发表价值稿件的)废纸篓"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rule-of-rummage",
+    "phonetic": "-'rʌmidʒ",
+    "definition": [
+      "n. (最高法院准许警察持证搜查新闻报刊单位以获取情报的)搜查条例"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "scandal-hungry",
+    "phonetic": "",
+    "definition": [
+      "[网络] 迫切需要八卦新闻的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sci-tech",
+    "phonetic": "",
+    "definition": [
+      "[网络] 科技;科技新闻;科技网站"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "scoop",
+    "phonetic": "sku:p",
+    "definition": [
+      "n. 铲子, 勺子, 穴, 口, 独家新闻",
+      "vt. 汲取, 舀取, 挖空, 抢先报道",
+      "EN: n. the quantity a scoop will hold n. a hollow concave shape made by removing something n. the shovel or bucket of a dredge or backhoe n. a large ladle"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "SDX",
+    "phonetic": "12",
+    "definition": [
+      "Sigma Delta Chi, society of professional journalists 西格马得尔他,职业的新闻工作者协会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "second-day story",
+    "phonetic": "",
+    "definition": [
+      "连续性新闻;接续消息;后续消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sensational journalism",
+    "phonetic": "",
+    "definition": [
+      "搧色腥新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sensationism",
+    "phonetic": "",
+    "definition": [
+      "[网络] 感觉主义;佩索阿创造了感官主义;膻色新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sex scandal",
+    "phonetic": "",
+    "definition": [
+      "桃色新闻;性丑闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sex-scandal",
+    "phonetic": "",
+    "definition": [
+      "[网络] 桃色新闻;绯闻;性丑闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "slam piece",
+    "phonetic": "",
+    "definition": [
+      "抨击诋毁性的新闻报道",
+      "炮友"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sloppy journalism",
+    "phonetic": "",
+    "definition": [
+      "垃圾新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "small-press",
+    "phonetic": "",
+    "definition": [
+      "[网络] 小记者;小型压力机;小新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "social columnist",
+    "phonetic": "",
+    "definition": [
+      "(报刊的)社会新闻栏目作家(或记者)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "soft-news",
+    "phonetic": "",
+    "definition": [
+      "un. 〔新闻〕软新闻",
+      "[网络] 软性新闻;软式新闻;软消息"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "software newsgroup",
+    "phonetic": "",
+    "definition": [
+      "软件新闻组"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sound-bite",
+    "phonetic": "",
+    "definition": [
+      "(新闻采访的)原声摘要播出"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sportswriters",
+    "phonetic": "'spɔːts,raɪtə",
+    "definition": [
+      "n. 体育专栏作家;体育新闻记者",
+      "EN: n. a journalist who writes about sports"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sportswriting",
+    "phonetic": "'spɔ:ts,raitiŋ",
+    "definition": [
+      "n. 体育新闻的写作(或报道)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stagger heads",
+    "phonetic": "",
+    "definition": [
+      "【新闻学】(带边框的)大标题;副标题[亦作 staggered head]"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stand-upper",
+    "phonetic": "'stæn'dʌpə",
+    "definition": [
+      "n. 现场直播电视新闻报道(或采访)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "star-journal",
+    "phonetic": "",
+    "definition": [
+      "un. (美国)《明星新闻报》"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "state-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国家新闻;州新闻;大学报"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "states-item",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国家新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sub-edited",
+    "phonetic": ",sʌb'ɛdɪtɚ",
+    "definition": [
+      "vt. (英)担任副编辑;审阅(稿件)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sun-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 太阳新闻网;太阳日报;阳光观点"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "super-important",
+    "phonetic": "",
+    "definition": [
+      "[网络] 总分;时事新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "super-standard news",
+    "phonetic": "",
+    "definition": [
+      "超标新闻纸"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "superimportant",
+    "phonetic": "",
+    "definition": [
+      "[网络] 总分;时事新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "supplementary story",
+    "phonetic": "",
+    "definition": [
+      "(对重要新闻的)从属报道"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "surrogate press",
+    "phonetic": "",
+    "definition": [
+      "代理新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tabloid journalism",
+    "phonetic": "",
+    "definition": [
+      "(以报道名人轶事以及耸人听闻的小道消息等来迎合低级趣味的)通俗新闻业,市井新闻业"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tech-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 科技新闻;科技新知;科技资讯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tech-tech",
+    "phonetic": "",
+    "definition": [
+      "[网络] 入门教学;资料库教学;大话新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telegraph editor",
+    "phonetic": "",
+    "definition": [
+      "外电新闻编辑"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "telephone interviewing",
+    "phonetic": "",
+    "definition": [
+      "电话采访"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "television newscaster",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电视新闻播报员"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "television-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电视新闻;电视新闻奖;电视新闻实务"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "think-piece",
+    "phonetic": "",
+    "definition": [
+      "na. 〈美〉署名的评论文章[背景资料等]",
+      "[网络] 内幕新闻报道;时事短评;内幕新闻报导"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tidbits",
+    "phonetic": "'tɪbbɪts",
+    "definition": [
+      "花边新闻",
+      "EN: n. a small tasty bit of food"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "times-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 时报新闻;时代新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "top-line",
+    "phonetic": "'tɔplain",
+    "definition": [
+      "a. 头条新闻的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "top-liner",
+    "phonetic": "'tɔp'lainə",
+    "definition": [
+      "n. 可上头条新闻的人物(或事件);最重要的人(或物),主要的人(或物);为首的人(或物)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tv-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 电视新闻;新闻节目;电视新闻台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "two-group",
+    "phonetic": "",
+    "definition": [
+      "[网络] 集团;公司新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "UKPA",
+    "phonetic": "",
+    "definition": [
+      "[网络] United Kingdom Passport Agency; 英国出版协会; 英国新闻联合会"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "uni",
+    "phonetic": "",
+    "definition": [
+      "abbr. 印度联合新闻社(United News of India)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "union-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 工会新闻;新闻中心;协和新闻"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "USE-NET",
+    "phonetic": "",
+    "definition": [
+      "新闻组网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "usenet",
+    "phonetic": "ju:znet",
+    "definition": [
+      "n. 世界性新闻组网络"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "USIA",
+    "phonetic": "",
+    "definition": [
+      "美国新闻署"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "USTV",
+    "phonetic": "",
+    "definition": [
+      "[网络] 非凡财经新闻频道;非凡商业台;非凡新闻台"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "virtual newsroom",
+    "phonetic": "",
+    "definition": [
+      "虚拟新闻室;虚拟编辑室"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "viss",
+    "phonetic": "",
+    "definition": [
+      "[网络] 维什什;维斯新闻社;制"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "VNA",
+    "phonetic": "",
+    "definition": [
+      "矢量网络分析仪(Vector Network Analyzer)",
+      "越南通讯社(Vietnam News Agency)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "water coolers",
+    "phonetic": "",
+    "definition": [
+      "n. 饮水机;【新闻传媒】指办公室里人们可以放松闲谈的场所",
+      "[网络] 购水冷却器;水冷器;制冷剂"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wire-agency",
+    "phonetic": "",
+    "definition": [
+      "[网络] 新闻通讯社;新闻电讯社;有光泽的"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wire-service",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻通讯社;电讯社"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wolf-pack journalists",
+    "phonetic": "",
+    "definition": [
+      "肆无忌惮或狼群似的猎取社会轶闻的新闻记者,狗仔队"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "world-news",
+    "phonetic": "",
+    "definition": [
+      "[网络] 国际新闻;世界新闻;世界新闻周刊"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wrap-up",
+    "phonetic": "",
+    "definition": [
+      "n. 新闻提要, 综合报导, 简讯"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zip-lock",
+    "phonetic": "zip'lɔk",
+    "definition": [
+      "vt. 封锁(消息、新闻等)"
+    ],
+    "examples": [],
+    "etymology": "",
+    "synonyms": [],
+    "antonyms": []
+  }
+]
