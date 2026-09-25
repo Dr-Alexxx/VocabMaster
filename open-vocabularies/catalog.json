@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-25T14:31:31+00:00",
+  "generated_at": "2026-09-25T15:03:33+00:00",
   "schema": [
     "word",
     "phonetic",
@@ -56,7 +56,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-cn/cn-middle-school.json",
+      "file": "exam-cn-中国内地考试/cn-middle-school-中国内地中考英语完整词汇.json",
       "words": 1603,
       "chinese_definitions": 1603,
       "language": "en-zh"
@@ -70,7 +70,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-cn/cn-high-school.json",
+      "file": "exam-cn-中国内地考试/cn-high-school-中国内地高考英语完整词汇.json",
       "words": 3676,
       "chinese_definitions": 3676,
       "language": "en-zh"
@@ -84,7 +84,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-cn/cn-postgraduate.json",
+      "file": "exam-cn-中国内地考试/cn-postgraduate-全国硕士研究生招生考试英语词汇.json",
       "words": 4801,
       "chinese_definitions": 4801,
       "language": "en-zh"
@@ -98,7 +98,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-cn/cn-cet6-full.json",
+      "file": "exam-cn-中国内地考试/cn-cet6-full-大学英语六级完整词汇.json",
       "words": 5407,
       "chinese_definitions": 5407,
       "language": "en-zh"
@@ -112,7 +112,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-cn/cn-cet4-full.json",
+      "file": "exam-cn-中国内地考试/cn-cet4-full-大学英语四级完整词汇.json",
       "words": 3849,
       "chinese_definitions": 3849,
       "language": "en-zh"
@@ -162,9 +162,16 @@
           "pageid": 16128381,
           "revision": 1376419882,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry"
+        },
+        {
+          "requested_page": "Glossary of the American trucking industry",
+          "resolved_page": "Glossary of the American trucking industry",
+          "pageid": 16128381,
+          "revision": 1376419882,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_the_American_trucking_industry"
         }
       ],
-      "file": "transport-manufacturing/trucking-logistics.json",
+      "file": "transport-manufacturing-交通与制造/trucking-logistics-公路运输与物流英语.json",
       "words": 257,
       "chinese_definitions": 227,
       "language": "en-zh"
@@ -178,7 +185,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "transport-manufacturing/printing.json",
+      "file": "transport-manufacturing-交通与制造/printing-印刷英语.json",
       "words": 694,
       "chinese_definitions": 694,
       "language": "en-zh"
@@ -192,7 +199,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "transport-manufacturing/woodworking.json",
+      "file": "transport-manufacturing-交通与制造/woodworking-木材加工英语.json",
       "words": 1059,
       "chinese_definitions": 1059,
       "language": "en-zh"
@@ -249,9 +256,16 @@
           "pageid": 3048838,
           "revision": 1374837802,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_automotive_design"
+        },
+        {
+          "requested_page": "Glossary of automotive design",
+          "resolved_page": "Glossary of automotive design",
+          "pageid": 3048838,
+          "revision": 1374837802,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_automotive_design"
         }
       ],
-      "file": "transport-manufacturing/automotive-design.json",
+      "file": "transport-manufacturing-交通与制造/automotive-design-汽车设计专业英语.json",
       "words": 312,
       "chinese_definitions": 260,
       "language": "en-zh"
@@ -385,9 +399,44 @@
           "pageid": 71284793,
           "revision": 1369005900,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_T%E2%80%93Z"
+        },
+        {
+          "requested_page": "Glossary of underwater diving terminology: A–C",
+          "resolved_page": "Glossary of underwater diving terminology: A–C",
+          "pageid": 71280328,
+          "revision": 1365270849,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_A%E2%80%93C"
+        },
+        {
+          "requested_page": "Glossary of underwater diving terminology: D–G",
+          "resolved_page": "Glossary of underwater diving terminology: D–G",
+          "pageid": 71280464,
+          "revision": 1372030483,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_D%E2%80%93G"
+        },
+        {
+          "requested_page": "Glossary of underwater diving terminology: H–O",
+          "resolved_page": "Glossary of underwater diving terminology: H–O",
+          "pageid": 71280749,
+          "revision": 1365270967,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_H%E2%80%93O"
+        },
+        {
+          "requested_page": "Glossary of underwater diving terminology: P–S",
+          "resolved_page": "Glossary of underwater diving terminology: P–S",
+          "pageid": 71284592,
+          "revision": 1365271026,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_P%E2%80%93S"
+        },
+        {
+          "requested_page": "Glossary of underwater diving terminology: T–Z",
+          "resolved_page": "Glossary of underwater diving terminology: T–Z",
+          "pageid": 71284793,
+          "revision": 1369005900,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology%3A_T%E2%80%93Z"
         }
       ],
-      "file": "transport-manufacturing/diving.json",
+      "file": "transport-manufacturing-交通与制造/diving-潜水专业英语.json",
       "words": 1654,
       "chinese_definitions": 1055,
       "language": "mixed"
@@ -437,9 +486,16 @@
           "pageid": 7581376,
           "revision": 1373893848,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing"
+        },
+        {
+          "requested_page": "Glossary of textile manufacturing",
+          "resolved_page": "Glossary of textile manufacturing",
+          "pageid": 7581376,
+          "revision": 1373893848,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_textile_manufacturing"
         }
       ],
-      "file": "transport-manufacturing/textile.json",
+      "file": "transport-manufacturing-交通与制造/textile-纺织英语.json",
       "words": 1535,
       "chinese_definitions": 1506,
       "language": "en-zh"
@@ -538,9 +594,23 @@
           "pageid": 66931758,
           "revision": 1369902303,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_%28M%E2%80%93Z%29"
+        },
+        {
+          "requested_page": "Glossary of nautical terms (A–L)",
+          "resolved_page": "Glossary of nautical terms (A–L)",
+          "pageid": 1036810,
+          "revision": 1373523960,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_%28A%E2%80%93L%29"
+        },
+        {
+          "requested_page": "Glossary of nautical terms (M–Z)",
+          "resolved_page": "Glossary of nautical terms (M–Z)",
+          "pageid": 66931758,
+          "revision": 1369902303,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_%28M%E2%80%93Z%29"
         }
       ],
-      "file": "transport-manufacturing/nautical.json",
+      "file": "transport-manufacturing-交通与制造/nautical-航海专业英语.json",
       "words": 2290,
       "chinese_definitions": 1541,
       "language": "mixed"
@@ -597,9 +667,16 @@
           "pageid": 50775420,
           "revision": 1365926087,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering"
+        },
+        {
+          "requested_page": "Glossary of aerospace engineering",
+          "resolved_page": "Glossary of aerospace engineering",
+          "pageid": 50775420,
+          "revision": 1365926087,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_aerospace_engineering"
         }
       ],
-      "file": "transport-manufacturing/aerospace-engineering.json",
+      "file": "transport-manufacturing-交通与制造/aerospace-engineering-航空航天工程英语.json",
       "words": 843,
       "chinese_definitions": 713,
       "language": "en-zh"
@@ -656,9 +733,16 @@
           "pageid": 578491,
           "revision": 1374787163,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms"
+        },
+        {
+          "requested_page": "Glossary of rail transport terms",
+          "resolved_page": "Glossary of rail transport terms",
+          "pageid": 578491,
+          "revision": 1374787163,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_rail_transport_terms"
         }
       ],
-      "file": "transport-manufacturing/rail-transport.json",
+      "file": "transport-manufacturing-交通与制造/rail-transport-铁路运输专业英语.json",
       "words": 661,
       "chinese_definitions": 308,
       "language": "mixed"
@@ -708,9 +792,16 @@
           "pageid": 3822296,
           "revision": 1365023714,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms"
+        },
+        {
+          "requested_page": "Glossary of rhetorical terms",
+          "resolved_page": "Glossary of rhetorical terms",
+          "pageid": 3822296,
+          "revision": 1365023714,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms"
         }
       ],
-      "file": "humanities-social/rhetorical-terms.json",
+      "file": "humanities-social-人文与社会科学/rhetorical-terms-修辞学术语英语.json",
       "words": 190,
       "chinese_definitions": 175,
       "language": "en-zh"
@@ -760,9 +851,16 @@
           "pageid": 21014942,
           "revision": 1347357551,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_history"
+        },
+        {
+          "requested_page": "Glossary of history",
+          "resolved_page": "Glossary of history",
+          "pageid": 21014942,
+          "revision": 1347357551,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_history"
         }
       ],
-      "file": "humanities-social/history.json",
+      "file": "humanities-social-人文与社会科学/history-史学专业英语.json",
       "words": 435,
       "chinese_definitions": 395,
       "language": "en-zh"
@@ -812,9 +910,16 @@
           "pageid": 3072809,
           "revision": 1372440821,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_philosophy"
+        },
+        {
+          "requested_page": "Glossary of philosophy",
+          "resolved_page": "Glossary of philosophy",
+          "pageid": 3072809,
+          "revision": 1372440821,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_philosophy"
         }
       ],
-      "file": "humanities-social/philosophy.json",
+      "file": "humanities-social-人文与社会科学/philosophy-哲学专业英语.json",
       "words": 560,
       "chinese_definitions": 494,
       "language": "en-zh"
@@ -850,9 +955,16 @@
           "pageid": 247808,
           "revision": 1316927425,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_library_and_information_science"
+        },
+        {
+          "requested_page": "Glossary of library and information science",
+          "resolved_page": "Glossary of library and information science",
+          "pageid": 247808,
+          "revision": 1316927425,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_library_and_information_science"
         }
       ],
-      "file": "humanities-social/library-science.json",
+      "file": "humanities-social-人文与社会科学/library-science-图书馆与信息科学英语.json",
       "words": 284,
       "chinese_definitions": 272,
       "language": "en-zh"
@@ -866,7 +978,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "humanities-social/psychology.json",
+      "file": "humanities-social-人文与社会科学/psychology-心理学英语.json",
       "words": 351,
       "chinese_definitions": 351,
       "language": "en-zh"
@@ -1175,9 +1287,58 @@
           "pageid": 4121145,
           "revision": 1359562168,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28T%E2%80%93Z%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (A–C)",
+          "resolved_page": "Glossary of education terms (A–C)",
+          "pageid": 4119490,
+          "revision": 1337614397,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28A%E2%80%93C%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (D–F)",
+          "resolved_page": "Glossary of education terms (D–F)",
+          "pageid": 4119715,
+          "revision": 1289865518,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28D%E2%80%93F%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (G–L)",
+          "resolved_page": "Glossary of education terms (G–L)",
+          "pageid": 4120098,
+          "revision": 1260838066,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28G%E2%80%93L%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (M–O)",
+          "resolved_page": "Glossary of education terms (M–O)",
+          "pageid": 4120308,
+          "revision": 1315465052,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28M%E2%80%93O%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (P–R)",
+          "resolved_page": "Glossary of education terms (P–R)",
+          "pageid": 4120556,
+          "revision": 1374201707,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28P%E2%80%93R%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (S)",
+          "resolved_page": "Glossary of education terms (S)",
+          "pageid": 4120925,
+          "revision": 1315465757,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28S%29"
+        },
+        {
+          "requested_page": "Glossary of education terms (T–Z)",
+          "resolved_page": "Glossary of education terms (T–Z)",
+          "pageid": 4121145,
+          "revision": 1359562168,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_education_terms_%28T%E2%80%93Z%29"
         }
       ],
-      "file": "humanities-social/education.json",
+      "file": "humanities-social-人文与社会科学/education-教育学专业英语.json",
       "words": 284,
       "chinese_definitions": 115,
       "language": "mixed"
@@ -1227,9 +1388,16 @@
           "pageid": 3878101,
           "revision": 1334412867,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_literary_terms"
+        },
+        {
+          "requested_page": "Glossary of literary terms",
+          "resolved_page": "Glossary of literary terms",
+          "pageid": 3878101,
+          "revision": 1334412867,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_literary_terms"
         }
       ],
-      "file": "humanities-social/literary-terms.json",
+      "file": "humanities-social-人文与社会科学/literary-terms-文学术语英语.json",
       "words": 708,
       "chinese_definitions": 683,
       "language": "en-zh"
@@ -1279,9 +1447,16 @@
           "pageid": 52637713,
           "revision": 1358900957,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_archaeology"
+        },
+        {
+          "requested_page": "Glossary of archaeology",
+          "resolved_page": "Glossary of archaeology",
+          "pageid": 52637713,
+          "revision": 1358900957,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_archaeology"
         }
       ],
-      "file": "humanities-social/archaeology.json",
+      "file": "humanities-social-人文与社会科学/archaeology-考古学专业英语.json",
       "words": 241,
       "chinese_definitions": 218,
       "language": "en-zh"
@@ -1331,9 +1506,16 @@
           "pageid": 4408141,
           "revision": 1360453118,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_poetry_terms"
+        },
+        {
+          "requested_page": "Glossary of poetry terms",
+          "resolved_page": "Glossary of poetry terms",
+          "pageid": 4408141,
+          "revision": 1360453118,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_poetry_terms"
         }
       ],
-      "file": "humanities-social/poetry-terms.json",
+      "file": "humanities-social-人文与社会科学/poetry-terms-诗歌术语英语.json",
       "words": 370,
       "chinese_definitions": 339,
       "language": "en-zh"
@@ -1383,9 +1565,16 @@
           "pageid": 10192795,
           "revision": 1344611714,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_language_education_terms"
+        },
+        {
+          "requested_page": "Glossary of language education terms",
+          "resolved_page": "Glossary of language education terms",
+          "pageid": 10192795,
+          "revision": 1344611714,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_language_education_terms"
         }
       ],
-      "file": "humanities-social/language-education.json",
+      "file": "humanities-social-人文与社会科学/language-education-语言教育专业英语.json",
       "words": 171,
       "chinese_definitions": 122,
       "language": "mixed"
@@ -1435,9 +1624,16 @@
           "pageid": 76765067,
           "revision": 1368301704,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_logic"
+        },
+        {
+          "requested_page": "Glossary of logic",
+          "resolved_page": "Glossary of logic",
+          "pageid": 76765067,
+          "revision": 1368301704,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_logic"
         }
       ],
-      "file": "humanities-social/logic.json",
+      "file": "humanities-social-人文与社会科学/logic-逻辑学英语.json",
       "words": 1471,
       "chinese_definitions": 1122,
       "language": "mixed"
@@ -1487,9 +1683,16 @@
           "pageid": 2901418,
           "revision": 1366120251,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms"
+        },
+        {
+          "requested_page": "Glossary of broadcasting terms",
+          "resolved_page": "Glossary of broadcasting terms",
+          "pageid": 2901418,
+          "revision": 1366120251,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms"
         }
       ],
-      "file": "media-arts/broadcasting.json",
+      "file": "media-arts-传媒与艺术/broadcasting-广播电视专业英语.json",
       "words": 1107,
       "chinese_definitions": 1050,
       "language": "en-zh"
@@ -1503,7 +1706,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "media-arts/photography.json",
+      "file": "media-arts-传媒与艺术/photography-摄影英语.json",
       "words": 1377,
       "chinese_definitions": 1377,
       "language": "en-zh"
@@ -1553,9 +1756,16 @@
           "pageid": 66726924,
           "revision": 1370559849,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_journalism"
+        },
+        {
+          "requested_page": "Glossary of journalism",
+          "resolved_page": "Glossary of journalism",
+          "pageid": 66726924,
+          "revision": 1370559849,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_journalism"
         }
       ],
-      "file": "media-arts/journalism.json",
+      "file": "media-arts-传媒与艺术/journalism-新闻学英语.json",
       "words": 498,
       "chinese_definitions": 479,
       "language": "en-zh"
@@ -1605,9 +1815,16 @@
           "pageid": 54239128,
           "revision": 1366517917,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_motion_picture_terms"
+        },
+        {
+          "requested_page": "Glossary of motion picture terms",
+          "resolved_page": "Glossary of motion picture terms",
+          "pageid": 54239128,
+          "revision": 1366517917,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_motion_picture_terms"
         }
       ],
-      "file": "media-arts/motion-picture.json",
+      "file": "media-arts-传媒与艺术/motion-picture-电影制作专业英语.json",
       "words": 1173,
       "chinese_definitions": 1140,
       "language": "en-zh"
@@ -1657,9 +1874,16 @@
           "pageid": 338960,
           "revision": 1372647440,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_music_terminology"
+        },
+        {
+          "requested_page": "Glossary of music terminology",
+          "resolved_page": "Glossary of music terminology",
+          "pageid": 338960,
+          "revision": 1372647440,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_music_terminology"
         }
       ],
-      "file": "media-arts/music.json",
+      "file": "media-arts-传媒与艺术/music-音乐术语英语.json",
       "words": 1498,
       "chinese_definitions": 1129,
       "language": "mixed"
@@ -1842,9 +2066,51 @@
           "pageid": 3417508,
           "revision": 1370229946,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_contract_bridge_terms"
+        },
+        {
+          "requested_page": "Glossary of chess",
+          "resolved_page": "Glossary of chess",
+          "pageid": 150643,
+          "revision": 1376146103,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_chess"
+        },
+        {
+          "requested_page": "Glossary of poker terms",
+          "resolved_page": "Glossary of poker terms",
+          "pageid": 21431937,
+          "revision": 1375839922,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_poker_terms"
+        },
+        {
+          "requested_page": "Glossary of card game terms",
+          "resolved_page": "Glossary of card game terms",
+          "pageid": 30826125,
+          "revision": 1368728247,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_card_game_terms"
+        },
+        {
+          "requested_page": "Glossary of gymnastics terms",
+          "resolved_page": "Glossary of gymnastics terms",
+          "pageid": 18313625,
+          "revision": 1343225783,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_gymnastics_terms"
+        },
+        {
+          "requested_page": "Glossary of cycling",
+          "resolved_page": "Glossary of cycling",
+          "pageid": 2390056,
+          "revision": 1373591611,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_cycling"
+        },
+        {
+          "requested_page": "Glossary of contract bridge terms",
+          "resolved_page": "Glossary of contract bridge terms",
+          "pageid": 3417508,
+          "revision": 1370229946,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_contract_bridge_terms"
         }
       ],
-      "file": "sports-leisure/sports-games.json",
+      "file": "sports-leisure-体育与休闲/sports-games-体育与棋牌英语.json",
       "words": 3243,
       "chinese_definitions": 2156,
       "language": "mixed"
@@ -1901,9 +2167,16 @@
           "pageid": 62031142,
           "revision": 1376119675,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_agriculture"
+        },
+        {
+          "requested_page": "Glossary of agriculture",
+          "resolved_page": "Glossary of agriculture",
+          "pageid": 62031142,
+          "revision": 1376119675,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_agriculture"
         }
       ],
-      "file": "agriculture/agriculture.json",
+      "file": "agriculture-农林科学/agriculture-农业专业英语.json",
       "words": 1056,
       "chinese_definitions": 788,
       "language": "mixed"
@@ -1917,7 +2190,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "agriculture/forestry.json",
+      "file": "agriculture-农林科学/forestry-林业英语.json",
       "words": 237,
       "chinese_definitions": 237,
       "language": "en-zh"
@@ -1967,9 +2240,16 @@
           "pageid": 19112738,
           "revision": 1334424456,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_fishery_terms"
+        },
+        {
+          "requested_page": "Glossary of fishery terms",
+          "resolved_page": "Glossary of fishery terms",
+          "pageid": 19112738,
+          "revision": 1334424456,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_fishery_terms"
         }
       ],
-      "file": "agriculture/fishery.json",
+      "file": "agriculture-农林科学/fishery-渔业英语.json",
       "words": 462,
       "chinese_definitions": 417,
       "language": "en-zh"
@@ -2054,9 +2334,23 @@
           "pageid": 4389159,
           "revision": 1365269792,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_wine_terms"
+        },
+        {
+          "requested_page": "Glossary of viticulture terms",
+          "resolved_page": "Glossary of viticulture terms",
+          "pageid": 20810282,
+          "revision": 1374209314,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_viticulture_terms"
+        },
+        {
+          "requested_page": "Glossary of wine terms",
+          "resolved_page": "Glossary of wine terms",
+          "pageid": 4389159,
+          "revision": 1365269792,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_wine_terms"
         }
       ],
-      "file": "agriculture/viticulture.json",
+      "file": "agriculture-农林科学/viticulture-葡萄栽培与葡萄酒英语.json",
       "words": 1319,
       "chinese_definitions": 1106,
       "language": "en-zh"
@@ -2071,11 +2365,18 @@
         "wikipedia"
       ],
       "license": "CC-BY-SA-4.0 AND MIT",
-      "file": "agriculture/food-science.json",
+      "file": "agriculture-农林科学/food-science-食品科学英语.json",
       "words": 1092,
       "chinese_definitions": 1089,
       "language": "en-zh",
       "source_revisions": [
+        {
+          "requested_page": "Glossary of historical culinary terms",
+          "resolved_page": "Glossary of historical culinary terms",
+          "pageid": 83559867,
+          "revision": 1371088991,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_historical_culinary_terms"
+        },
         {
           "requested_page": "Glossary of historical culinary terms",
           "resolved_page": "Glossary of historical culinary terms",
@@ -2144,9 +2445,16 @@
           "pageid": 19627485,
           "revision": 1372590257,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_clinical_research"
+        },
+        {
+          "requested_page": "Glossary of clinical research",
+          "resolved_page": "Glossary of clinical research",
+          "pageid": 19627485,
+          "revision": 1372590257,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_clinical_research"
         }
       ],
-      "file": "medical-health/clinical-research.json",
+      "file": "medical-health-医学与健康/clinical-research-临床研究英语.json",
       "words": 268,
       "chinese_definitions": 165,
       "language": "mixed"
@@ -2160,7 +2468,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "medical-health/anatomy-physiology.json",
+      "file": "medical-health-医学与健康/anatomy-physiology-人体解剖与生理英语.json",
       "words": 1105,
       "chinese_definitions": 1105,
       "language": "en-zh"
@@ -2217,9 +2525,16 @@
           "pageid": 57233472,
           "revision": 1364972883,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine"
+        },
+        {
+          "requested_page": "Glossary of medicine",
+          "resolved_page": "Glossary of medicine",
+          "pageid": 57233472,
+          "revision": 1364972883,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine"
         }
       ],
-      "file": "medical-health/medicine.json",
+      "file": "medical-health-医学与健康/medicine-医学专业英语.json",
       "words": 60018,
       "chinese_definitions": 59949,
       "language": "en-zh"
@@ -2233,7 +2548,7 @@
         "medical-abbreviations"
       ],
       "license": "MIT",
-      "file": "medical-health/medical-abbreviations.json",
+      "file": "medical-health-医学与健康/medical-abbreviations-医学英语缩略语.json",
       "words": 3928,
       "chinese_definitions": 2235,
       "language": "mixed"
@@ -2283,9 +2598,16 @@
           "pageid": 10216813,
           "revision": 1311863161,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_dentistry"
+        },
+        {
+          "requested_page": "Glossary of dentistry",
+          "resolved_page": "Glossary of dentistry",
+          "pageid": 10216813,
+          "revision": 1311863161,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_dentistry"
         }
       ],
-      "file": "medical-health/dentistry.json",
+      "file": "medical-health-医学与健康/dentistry-口腔医学英语.json",
       "words": 303,
       "chinese_definitions": 299,
       "language": "en-zh"
@@ -2335,9 +2657,16 @@
           "pageid": 3318239,
           "revision": 1371864018,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_psychiatry"
+        },
+        {
+          "requested_page": "Glossary of psychiatry",
+          "resolved_page": "Glossary of psychiatry",
+          "pageid": 3318239,
+          "revision": 1371864018,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_psychiatry"
         }
       ],
-      "file": "medical-health/psychiatry.json",
+      "file": "medical-health-医学与健康/psychiatry-精神医学与心理健康英语.json",
       "words": 350,
       "chinese_definitions": 306,
       "language": "en-zh"
@@ -2373,9 +2702,16 @@
           "pageid": 56345,
           "revision": 1370747348,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_diabetes"
+        },
+        {
+          "requested_page": "Glossary of diabetes",
+          "resolved_page": "Glossary of diabetes",
+          "pageid": 56345,
+          "revision": 1370747348,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_diabetes"
         }
       ],
-      "file": "medical-health/diabetes.json",
+      "file": "medical-health-医学与健康/diabetes-糖尿病与内分泌英语.json",
       "words": 669,
       "chinese_definitions": 582,
       "language": "en-zh"
@@ -2389,7 +2725,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "medical-health/pharmacology.json",
+      "file": "medical-health-医学与健康/pharmacology-药学英语.json",
       "words": 840,
       "chinese_definitions": 840,
       "language": "en-zh"
@@ -2403,7 +2739,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-international/gre-full.json",
+      "file": "exam-international-国际考试/gre-full-GRE 完整词汇.json",
       "words": 7504,
       "chinese_definitions": 7504,
       "language": "en-zh"
@@ -2417,7 +2753,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-international/ielts-full.json",
+      "file": "exam-international-国际考试/ielts-full-IELTS 完整词汇.json",
       "words": 5040,
       "chinese_definitions": 5040,
       "language": "en-zh"
@@ -2431,7 +2767,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "exam-international/toefl-full.json",
+      "file": "exam-international-国际考试/toefl-full-TOEFL 完整词汇.json",
       "words": 6974,
       "chinese_definitions": 6974,
       "language": "en-zh"
@@ -2502,9 +2838,23 @@
           "pageid": 74453724,
           "revision": 1351763874,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_geography_terms_%28N%E2%80%93Z%29"
+        },
+        {
+          "requested_page": "Glossary of geography terms (A–M)",
+          "resolved_page": "Glossary of geography terms (A–M)",
+          "pageid": 29034375,
+          "revision": 1349653306,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_geography_terms_%28A%E2%80%93M%29"
+        },
+        {
+          "requested_page": "Glossary of geography terms (N–Z)",
+          "resolved_page": "Glossary of geography terms (N–Z)",
+          "pageid": 74453724,
+          "revision": 1351763874,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_geography_terms_%28N%E2%80%93Z%29"
         }
       ],
-      "file": "earth-science/geography.json",
+      "file": "earth-science-地球科学/geography-地理学专业英语.json",
       "words": 1223,
       "chinese_definitions": 1132,
       "language": "en-zh"
@@ -2561,9 +2911,16 @@
           "pageid": 16068751,
           "revision": 1366012276,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_geology"
+        },
+        {
+          "requested_page": "Glossary of geology",
+          "resolved_page": "Glossary of geology",
+          "pageid": 16068751,
+          "revision": 1366012276,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_geology"
         }
       ],
-      "file": "earth-science/geology.json",
+      "file": "earth-science-地球科学/geology-地质学专业英语.json",
       "words": 1087,
       "chinese_definitions": 1014,
       "language": "en-zh"
@@ -2613,9 +2970,16 @@
           "pageid": 57575684,
           "revision": 1356453599,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_meteorology"
+        },
+        {
+          "requested_page": "Glossary of meteorology",
+          "resolved_page": "Glossary of meteorology",
+          "pageid": 57575684,
+          "revision": 1356453599,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_meteorology"
         }
       ],
-      "file": "earth-science/meteorology.json",
+      "file": "earth-science-地球科学/meteorology-气象学专业英语.json",
       "words": 1257,
       "chinese_definitions": 1199,
       "language": "en-zh"
@@ -2672,9 +3036,16 @@
           "pageid": 16270616,
           "revision": 1307237699,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_environmental_science"
+        },
+        {
+          "requested_page": "Glossary of environmental science",
+          "resolved_page": "Glossary of environmental science",
+          "pageid": 16270616,
+          "revision": 1307237699,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_environmental_science"
         }
       ],
-      "file": "earth-science/environmental-science.json",
+      "file": "earth-science-地球科学/environmental-science-环境科学专业英语.json",
       "words": 689,
       "chinese_definitions": 403,
       "language": "mixed"
@@ -2731,9 +3102,16 @@
           "pageid": 13849906,
           "revision": 1371138704,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms"
+        },
+        {
+          "requested_page": "Glossary of chemistry terms",
+          "resolved_page": "Glossary of chemistry terms",
+          "pageid": 13849906,
+          "revision": 1371138704,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms"
         }
       ],
-      "file": "basic-science/chemistry.json",
+      "file": "basic-science-基础科学/chemistry-化学专业英语.json",
       "words": 28843,
       "chinese_definitions": 28799,
       "language": "en-zh"
@@ -2783,9 +3161,16 @@
           "pageid": 1475381,
           "revision": 1259269808,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_game_theory"
+        },
+        {
+          "requested_page": "Glossary of game theory",
+          "resolved_page": "Glossary of game theory",
+          "pageid": 1475381,
+          "revision": 1259269808,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_game_theory"
         }
       ],
-      "file": "basic-science/game-theory.json",
+      "file": "basic-science-基础科学/game-theory-博弈论英语.json",
       "words": 58,
       "chinese_definitions": 44,
       "language": "mixed"
@@ -2835,9 +3220,16 @@
           "pageid": 34809573,
           "revision": 1372128359,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_astronomy"
+        },
+        {
+          "requested_page": "Glossary of astronomy",
+          "resolved_page": "Glossary of astronomy",
+          "pageid": 34809573,
+          "revision": 1372128359,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_astronomy"
         }
       ],
-      "file": "basic-science/astronomy.json",
+      "file": "basic-science-基础科学/astronomy-天文学专业英语.json",
       "words": 1354,
       "chinese_definitions": 1287,
       "language": "en-zh"
@@ -2886,9 +3278,16 @@
           "pageid": 36380999,
           "revision": 1355466934,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_string_theory"
+        },
+        {
+          "requested_page": "Glossary of string theory",
+          "resolved_page": "Glossary of string theory",
+          "pageid": 36380999,
+          "revision": 1355466934,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_string_theory"
         }
       ],
-      "file": "basic-science/string-theory.json",
+      "file": "basic-science-基础科学/string-theory-弦理论英语.json",
       "words": 288,
       "chinese_definitions": 212,
       "language": "mixed"
@@ -2945,9 +3344,16 @@
           "pageid": 1042164,
           "revision": 1373591613,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_mathematical_jargon"
+        },
+        {
+          "requested_page": "Glossary of mathematical jargon",
+          "resolved_page": "Glossary of mathematical jargon",
+          "pageid": 1042164,
+          "revision": 1373591613,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_mathematical_jargon"
         }
       ],
-      "file": "basic-science/mathematics.json",
+      "file": "basic-science-基础科学/mathematics-数学专业英语.json",
       "words": 2262,
       "chinese_definitions": 2228,
       "language": "en-zh"
@@ -3004,9 +3410,16 @@
           "pageid": 36626070,
           "revision": 1354927493,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_physics"
+        },
+        {
+          "requested_page": "Glossary of physics",
+          "resolved_page": "Glossary of physics",
+          "pageid": 36626070,
+          "revision": 1354927493,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_physics"
         }
       ],
-      "file": "basic-science/physics.json",
+      "file": "basic-science-基础科学/physics-物理学专业英语.json",
       "words": 1485,
       "chinese_definitions": 1447,
       "language": "en-zh"
@@ -3077,9 +3490,23 @@
           "pageid": 17943278,
           "revision": 1363457941,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_experimental_design"
+        },
+        {
+          "requested_page": "Glossary of probability and statistics",
+          "resolved_page": "Glossary of probability and statistics",
+          "pageid": 2142850,
+          "revision": 1363373483,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics"
+        },
+        {
+          "requested_page": "Glossary of experimental design",
+          "resolved_page": "Glossary of experimental design",
+          "pageid": 17943278,
+          "revision": 1363457941,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_experimental_design"
         }
       ],
-      "file": "basic-science/statistics.json",
+      "file": "basic-science-基础科学/statistics-统计学专业英语.json",
       "words": 975,
       "chinese_definitions": 965,
       "language": "en-zh"
@@ -3129,9 +3556,16 @@
           "pageid": 12984404,
           "revision": 1376399964,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations"
+        },
+        {
+          "requested_page": "Glossary of military abbreviations",
+          "resolved_page": "Glossary of military abbreviations",
+          "pageid": 12984404,
+          "revision": 1376399964,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_military_abbreviations"
         }
       ],
-      "file": "safety-public-service/military.json",
+      "file": "safety-public-service-安全与公共服务/military-军事英语.json",
       "words": 3571,
       "chinese_definitions": 3085,
       "language": "en-zh"
@@ -3181,9 +3615,16 @@
           "pageid": 1537367,
           "revision": 1376486544,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_firefighting"
+        },
+        {
+          "requested_page": "Glossary of firefighting",
+          "resolved_page": "Glossary of firefighting",
+          "pageid": 1537367,
+          "revision": 1376486544,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_firefighting"
         }
       ],
-      "file": "safety-public-service/firefighting.json",
+      "file": "safety-public-service-安全与公共服务/firefighting-消防专业英语.json",
       "words": 656,
       "chinese_definitions": 497,
       "language": "mixed"
@@ -3233,9 +3674,16 @@
           "pageid": 24103304,
           "revision": 1359304537,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms"
+        },
+        {
+          "requested_page": "Glossary of HVAC terms",
+          "resolved_page": "Glossary of HVAC terms",
+          "pageid": 24103304,
+          "revision": 1359304537,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_HVAC_terms"
         }
       ],
-      "file": "engineering/refrigeration-hvac.json",
+      "file": "engineering-工程技术/refrigeration-hvac-制冷与空调英语.json",
       "words": 407,
       "chinese_definitions": 388,
       "language": "en-zh"
@@ -3249,7 +3697,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "engineering/chemical-engineering.json",
+      "file": "engineering-工程技术/chemical-engineering-化学工程英语.json",
       "words": 722,
       "chinese_definitions": 722,
       "language": "en-zh"
@@ -3306,9 +3754,16 @@
           "pageid": 50969944,
           "revision": 1287136140,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_civil_engineering"
+        },
+        {
+          "requested_page": "Glossary of civil engineering",
+          "resolved_page": "Glossary of civil engineering",
+          "pageid": 50969944,
+          "revision": 1287136140,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_civil_engineering"
         }
       ],
-      "file": "engineering/civil-engineering.json",
+      "file": "engineering-工程技术/civil-engineering-土木工程专业英语.json",
       "words": 61,
       "chinese_definitions": 49,
       "language": "en-zh"
@@ -3407,9 +3862,23 @@
           "pageid": 68711047,
           "revision": 1369639277,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_engineering%3A_M%E2%80%93Z"
+        },
+        {
+          "requested_page": "Glossary of engineering: A–L",
+          "resolved_page": "Glossary of engineering: A–L",
+          "pageid": 36535684,
+          "revision": 1347039928,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_engineering%3A_A%E2%80%93L"
+        },
+        {
+          "requested_page": "Glossary of engineering: M–Z",
+          "resolved_page": "Glossary of engineering: M–Z",
+          "pageid": 68711047,
+          "revision": 1369639277,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_engineering%3A_M%E2%80%93Z"
         }
       ],
-      "file": "engineering/engineering-general.json",
+      "file": "engineering-工程技术/engineering-general-工程学综合英语.json",
       "words": 1166,
       "chinese_definitions": 1021,
       "language": "en-zh"
@@ -3466,9 +3935,16 @@
           "pageid": 3104368,
           "revision": 1375981287,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_architecture"
+        },
+        {
+          "requested_page": "Glossary of architecture",
+          "resolved_page": "Glossary of architecture",
+          "pageid": 3104368,
+          "revision": 1375981287,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_architecture"
         }
       ],
-      "file": "engineering/architecture.json",
+      "file": "engineering-工程技术/architecture-建筑学专业英语.json",
       "words": 3112,
       "chinese_definitions": 3032,
       "language": "en-zh"
@@ -3525,9 +4001,16 @@
           "pageid": 50783328,
           "revision": 1364829658,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_mechanical_engineering"
+        },
+        {
+          "requested_page": "Glossary of mechanical engineering",
+          "resolved_page": "Glossary of mechanical engineering",
+          "pageid": 50783328,
+          "revision": 1364829658,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_mechanical_engineering"
         }
       ],
-      "file": "engineering/mechanical-engineering.json",
+      "file": "engineering-工程技术/mechanical-engineering-机械工程专业英语.json",
       "words": 9824,
       "chinese_definitions": 9779,
       "language": "en-zh"
@@ -3541,7 +4024,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "engineering/nuclear.json",
+      "file": "engineering-工程技术/nuclear-核能英语.json",
       "words": 1079,
       "chinese_definitions": 1079,
       "language": "en-zh"
@@ -3598,9 +4081,16 @@
           "pageid": 50937678,
           "revision": 1374748322,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"
+        },
+        {
+          "requested_page": "Glossary of electrical and electronics engineering",
+          "resolved_page": "Glossary of electrical and electronics engineering",
+          "pageid": 50937678,
+          "revision": 1374748322,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"
         }
       ],
-      "file": "engineering/electrical-electronics.json",
+      "file": "engineering-工程技术/electrical-electronics-电气与电子工程英语.json",
       "words": 10374,
       "chinese_definitions": 9928,
       "language": "en-zh"
@@ -3614,7 +4104,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "engineering/petroleum.json",
+      "file": "engineering-工程技术/petroleum-石油天然气英语.json",
       "words": 767,
       "chinese_definitions": 767,
       "language": "en-zh"
@@ -3628,7 +4118,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "engineering/mining-metallurgy.json",
+      "file": "engineering-工程技术/mining-metallurgy-矿业与冶金英语.json",
       "words": 1754,
       "chinese_definitions": 1754,
       "language": "en-zh"
@@ -3678,9 +4168,16 @@
           "pageid": 63399479,
           "revision": 1341011566,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"
+        },
+        {
+          "requested_page": "Glossary of nanotechnology",
+          "resolved_page": "Glossary of nanotechnology",
+          "pageid": 63399479,
+          "revision": 1341011566,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"
         }
       ],
-      "file": "engineering/nanotechnology.json",
+      "file": "engineering-工程技术/nanotechnology-纳米技术英语.json",
       "words": 206,
       "chinese_definitions": 115,
       "language": "mixed"
@@ -3730,9 +4227,16 @@
           "pageid": 50970290,
           "revision": 1346004850,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_structural_engineering"
+        },
+        {
+          "requested_page": "Glossary of structural engineering",
+          "resolved_page": "Glossary of structural engineering",
+          "pageid": 50970290,
+          "revision": 1346004850,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_structural_engineering"
         }
       ],
-      "file": "engineering/structural-engineering.json",
+      "file": "engineering-工程技术/structural-engineering-结构工程英语.json",
       "words": 195,
       "chinese_definitions": 186,
       "language": "en-zh"
@@ -3782,9 +4286,16 @@
           "pageid": 4820943,
           "revision": 1370691523,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_patent_law_terms"
+        },
+        {
+          "requested_page": "Glossary of patent law terms",
+          "resolved_page": "Glossary of patent law terms",
+          "pageid": 4820943,
+          "revision": 1370691523,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_patent_law_terms"
         }
       ],
-      "file": "law-public/patent.json",
+      "file": "law-public-法律与公共事务/patent-专利与知识产权英语.json",
       "words": 392,
       "chinese_definitions": 331,
       "language": "en-zh"
@@ -3841,9 +4352,16 @@
           "pageid": 69374745,
           "revision": 1329911812,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_law"
+        },
+        {
+          "requested_page": "Glossary of law",
+          "resolved_page": "Glossary of law",
+          "pageid": 69374745,
+          "revision": 1329911812,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_law"
         }
       ],
-      "file": "law-public/law.json",
+      "file": "law-public-法律与公共事务/law-法律专业英语.json",
       "words": 9839,
       "chinese_definitions": 9823,
       "language": "en-zh"
@@ -3858,11 +4376,18 @@
         "wikipedia"
       ],
       "license": "CC-BY-SA-4.0 AND MIT",
-      "file": "life-science/zoology.json",
+      "file": "life-science-生命科学/zoology-动物学专业英语.json",
       "words": 3476,
       "chinese_definitions": 3427,
       "language": "en-zh",
       "source_revisions": [
+        {
+          "requested_page": "Glossary of bird terms",
+          "resolved_page": "Glossary of bird terms",
+          "pageid": 52872120,
+          "revision": 1375071511,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_bird_terms"
+        },
         {
           "requested_page": "Glossary of bird terms",
           "resolved_page": "Glossary of bird terms",
@@ -3952,9 +4477,23 @@
           "pageid": 47580563,
           "revision": 1317130795,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_ant_terms"
+        },
+        {
+          "requested_page": "Glossary of entomology terms",
+          "resolved_page": "Glossary of entomology terms",
+          "pageid": 5072111,
+          "revision": 1367433315,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"
+        },
+        {
+          "requested_page": "Glossary of ant terms",
+          "resolved_page": "Glossary of ant terms",
+          "pageid": 47580563,
+          "revision": 1317130795,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_ant_terms"
         }
       ],
-      "file": "life-science/entomology.json",
+      "file": "life-science-生命科学/entomology-昆虫学专业英语.json",
       "words": 2135,
       "chinese_definitions": 2052,
       "language": "en-zh"
@@ -4004,9 +4543,16 @@
           "pageid": 18238240,
           "revision": 1376228587,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_botanical_terms"
+        },
+        {
+          "requested_page": "Glossary of botanical terms",
+          "resolved_page": "Glossary of botanical terms",
+          "pageid": 18238240,
+          "revision": 1376228587,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_botanical_terms"
         }
       ],
-      "file": "life-science/botany.json",
+      "file": "life-science-生命科学/botany-植物学专业英语.json",
       "words": 6653,
       "chinese_definitions": 6545,
       "language": "en-zh"
@@ -4056,9 +4602,16 @@
           "pageid": 306794,
           "revision": 1349226428,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_ecology"
+        },
+        {
+          "requested_page": "Glossary of ecology",
+          "resolved_page": "Glossary of ecology",
+          "pageid": 306794,
+          "revision": 1349226428,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_ecology"
         }
       ],
-      "file": "life-science/ecology.json",
+      "file": "life-science-生命科学/ecology-生态学专业英语.json",
       "words": 970,
       "chinese_definitions": 932,
       "language": "en-zh"
@@ -4115,9 +4668,16 @@
           "pageid": 36675565,
           "revision": 1358416505,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_biology"
+        },
+        {
+          "requested_page": "Glossary of biology",
+          "resolved_page": "Glossary of biology",
+          "pageid": 36675565,
+          "revision": 1358416505,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_biology"
         }
       ],
-      "file": "life-science/biology.json",
+      "file": "life-science-生命科学/biology-生物学专业英语.json",
       "words": 1245,
       "chinese_definitions": 1202,
       "language": "en-zh"
@@ -4167,9 +4727,16 @@
           "pageid": 47511346,
           "revision": 1316223708,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_virology"
+        },
+        {
+          "requested_page": "Glossary of virology",
+          "resolved_page": "Glossary of virology",
+          "pageid": 47511346,
+          "revision": 1316223708,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_virology"
         }
       ],
-      "file": "life-science/virology.json",
+      "file": "life-science-生命科学/virology-病毒学专业英语.json",
       "words": 761,
       "chinese_definitions": 752,
       "language": "en-zh"
@@ -4219,9 +4786,16 @@
           "pageid": 71980146,
           "revision": 1362825290,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_mycology"
+        },
+        {
+          "requested_page": "Glossary of mycology",
+          "resolved_page": "Glossary of mycology",
+          "pageid": 71980146,
+          "revision": 1362825290,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_mycology"
         }
       ],
-      "file": "life-science/mycology.json",
+      "file": "life-science-生命科学/mycology-真菌学专业英语.json",
       "words": 863,
       "chinese_definitions": 839,
       "language": "en-zh"
@@ -4271,9 +4845,16 @@
           "pageid": 80167515,
           "revision": 1365269439,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_neuroscience"
+        },
+        {
+          "requested_page": "Glossary of neuroscience",
+          "resolved_page": "Glossary of neuroscience",
+          "pageid": 80167515,
+          "revision": 1365269439,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_neuroscience"
         }
       ],
-      "file": "life-science/neuroscience.json",
+      "file": "life-science-生命科学/neuroscience-神经科学英语.json",
       "words": 2176,
       "chinese_definitions": 2089,
       "language": "en-zh"
@@ -4323,9 +4904,16 @@
           "pageid": 56807771,
           "revision": 1360443546,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_genetics_and_evolutionary_biology"
+        },
+        {
+          "requested_page": "Glossary of genetics and evolutionary biology",
+          "resolved_page": "Glossary of genetics and evolutionary biology",
+          "pageid": 56807771,
+          "revision": 1360443546,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_genetics_and_evolutionary_biology"
         }
       ],
-      "file": "life-science/genetics.json",
+      "file": "life-science-生命科学/genetics-遗传学英语.json",
       "words": 1730,
       "chinese_definitions": 1683,
       "language": "en-zh"
@@ -4375,9 +4963,16 @@
           "pageid": 4963905,
           "revision": 1245926707,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_ichthyology"
+        },
+        {
+          "requested_page": "Glossary of ichthyology",
+          "resolved_page": "Glossary of ichthyology",
+          "pageid": 4963905,
+          "revision": 1245926707,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_ichthyology"
         }
       ],
-      "file": "life-science/ichthyology.json",
+      "file": "life-science-生命科学/ichthyology-鱼类学专业英语.json",
       "words": 628,
       "chinese_definitions": 590,
       "language": "en-zh"
@@ -4392,7 +4987,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/cloud-computing.json",
+      "file": "computer-it-计算机与信息技术/cloud-computing-云计算专业英语.json",
       "words": 46,
       "chinese_definitions": 46,
       "language": "en-zh"
@@ -4442,9 +5037,16 @@
           "pageid": 366094,
           "revision": 1223442825,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms"
+        },
+        {
+          "requested_page": "Glossary of Internet-related terms",
+          "resolved_page": "Glossary of Internet-related terms",
+          "pageid": 366094,
+          "revision": 1223442825,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_Internet-related_terms"
         }
       ],
-      "file": "computer-it/internet.json",
+      "file": "computer-it-计算机与信息技术/internet-互联网专业英语.json",
       "words": 113,
       "chinese_definitions": 110,
       "language": "en-zh"
@@ -4501,9 +5103,16 @@
           "pageid": 50336055,
           "revision": 1376657211,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
+        },
+        {
+          "requested_page": "Glossary of artificial intelligence",
+          "resolved_page": "Glossary of artificial intelligence",
+          "pageid": 50336055,
+          "revision": 1376657211,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
         }
       ],
-      "file": "computer-it/artificial-intelligence.json",
+      "file": "computer-it-计算机与信息技术/artificial-intelligence-人工智能专业英语.json",
       "words": 398,
       "chinese_definitions": 107,
       "language": "mixed"
@@ -4518,7 +5127,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/distributed-systems.json",
+      "file": "computer-it-计算机与信息技术/distributed-systems-分布式系统专业英语.json",
       "words": 86,
       "chinese_definitions": 86,
       "language": "en-zh"
@@ -4533,7 +5142,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/blockchain.json",
+      "file": "computer-it-计算机与信息技术/blockchain-区块链专业英语.json",
       "words": 53,
       "chinese_definitions": 53,
       "language": "en-zh"
@@ -4548,7 +5157,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/big-data.json",
+      "file": "computer-it-计算机与信息技术/big-data-大数据专业英语.json",
       "words": 19,
       "chinese_definitions": 19,
       "language": "en-zh"
@@ -4598,9 +5207,16 @@
           "pageid": 42100545,
           "revision": 1336240793,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_operating_systems_terms"
+        },
+        {
+          "requested_page": "Glossary of operating systems terms",
+          "resolved_page": "Glossary of operating systems terms",
+          "pageid": 42100545,
+          "revision": 1336240793,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_operating_systems_terms"
         }
       ],
-      "file": "computer-it/operating-systems.json",
+      "file": "computer-it-计算机与信息技术/operating-systems-操作系统专业英语.json",
       "words": 140,
       "chinese_definitions": 139,
       "language": "en-zh"
@@ -4615,7 +5231,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/data-mining.json",
+      "file": "computer-it-计算机与信息技术/data-mining-数据挖掘专业英语.json",
       "words": 16,
       "chinese_definitions": 16,
       "language": "en-zh"
@@ -4665,9 +5281,16 @@
           "pageid": 19148519,
           "revision": 1348593072,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_robotics"
+        },
+        {
+          "requested_page": "Glossary of robotics",
+          "resolved_page": "Glossary of robotics",
+          "pageid": 19148519,
+          "revision": 1348593072,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_robotics"
         }
       ],
-      "file": "computer-it/robotics.json",
+      "file": "computer-it-计算机与信息技术/robotics-机器人专业英语.json",
       "words": 522,
       "chinese_definitions": 511,
       "language": "en-zh"
@@ -4682,7 +5305,7 @@
         "ecdict"
       ],
       "license": "Apache-2.0 AND MIT",
-      "file": "computer-it/machine-learning.json",
+      "file": "computer-it-计算机与信息技术/machine-learning-机器学习专业英语.json",
       "words": 48,
       "chinese_definitions": 48,
       "language": "en-zh"
@@ -4696,7 +5319,7 @@
         "technology-words"
       ],
       "license": "MIT",
-      "file": "computer-it/technology-high-frequency.json",
+      "file": "computer-it-计算机与信息技术/technology-high-frequency-程序员技术英语高频词.json",
       "words": 259,
       "chinese_definitions": 259,
       "language": "en-zh"
@@ -4753,9 +5376,16 @@
           "pageid": 57143357,
           "revision": 1369408228,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
+        },
+        {
+          "requested_page": "Glossary of computer science",
+          "resolved_page": "Glossary of computer science",
+          "pageid": 57143357,
+          "revision": 1369408228,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
         }
       ],
-      "file": "computer-it/computer-science.json",
+      "file": "computer-it-计算机与信息技术/computer-science-计算机科学专业英语.json",
       "words": 19432,
       "chinese_definitions": 19356,
       "language": "en-zh"
@@ -4769,7 +5399,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "business-finance/accounting.json",
+      "file": "business-finance-财经与管理/accounting-会计与审计英语.json",
       "words": 642,
       "chinese_definitions": 642,
       "language": "en-zh"
@@ -4826,9 +5456,16 @@
           "pageid": 3349994,
           "revision": 1364823049,
           "url": "https://en.wikipedia.org/wiki/List_of_business_terms"
+        },
+        {
+          "requested_page": "List of business terms",
+          "resolved_page": "List of business terms",
+          "pageid": 3349994,
+          "revision": 1364823049,
+          "url": "https://en.wikipedia.org/wiki/List_of_business_terms"
         }
       ],
-      "file": "business-finance/business.json",
+      "file": "business-finance-财经与管理/business-商务与管理英语.json",
       "words": 147,
       "chinese_definitions": 99,
       "language": "mixed"
@@ -4842,7 +5479,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "business-finance/trade.json",
+      "file": "business-finance-财经与管理/trade-国际贸易英语.json",
       "words": 917,
       "chinese_definitions": 917,
       "language": "en-zh"
@@ -4899,9 +5536,16 @@
           "pageid": 50757843,
           "revision": 1374409652,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_economics"
+        },
+        {
+          "requested_page": "Glossary of economics",
+          "resolved_page": "Glossary of economics",
+          "pageid": 50757843,
+          "revision": 1374409652,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_economics"
         }
       ],
-      "file": "business-finance/economics.json",
+      "file": "business-finance-财经与管理/economics-经济学专业英语.json",
       "words": 8847,
       "chinese_definitions": 8628,
       "language": "en-zh"
@@ -4958,9 +5602,16 @@
           "pageid": 46224045,
           "revision": 1352051376,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_stock_market_terms"
+        },
+        {
+          "requested_page": "Glossary of stock market terms",
+          "resolved_page": "Glossary of stock market terms",
+          "pageid": 46224045,
+          "revision": 1352051376,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_stock_market_terms"
         }
       ],
-      "file": "business-finance/stock-market.json",
+      "file": "business-finance-财经与管理/stock-market-证券与股票市场英语.json",
       "words": 28,
       "chinese_definitions": 11,
       "language": "mixed"
@@ -4974,7 +5625,7 @@
         "ecdict"
       ],
       "license": "MIT",
-      "file": "business-finance/finance.json",
+      "file": "business-finance-财经与管理/finance-金融与财务英语.json",
       "words": 1028,
       "chinese_definitions": 1028,
       "language": "en-zh"
@@ -5031,9 +5682,16 @@
           "pageid": 20052202,
           "revision": 1300962361,
           "url": "https://en.wikipedia.org/wiki/Glossary_of_project_management"
+        },
+        {
+          "requested_page": "Glossary of project management",
+          "resolved_page": "Glossary of project management",
+          "pageid": 20052202,
+          "revision": 1300962361,
+          "url": "https://en.wikipedia.org/wiki/Glossary_of_project_management"
         }
       ],
-      "file": "business-finance/project-management.json",
+      "file": "business-finance-财经与管理/project-management-项目管理专业英语.json",
       "words": 135,
       "chinese_definitions": 62,
       "language": "mixed"

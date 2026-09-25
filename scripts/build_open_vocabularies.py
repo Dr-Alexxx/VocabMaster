@@ -542,9 +542,20 @@ def contains_chinese(value: str) -> bool:
     return bool(re.search(r"[\u3400-\u9fff]", value))
 
 
+def pack_file_stem(identifier: str, name: str) -> str:
+    """File name keeps both the stable English id and the Chinese name."""
+    clean = re.sub(r'[\\/:*?"<>|]', "", str(name)).strip()
+    clean = re.sub(r"\s+", " ", clean)
+    return f"{identifier}-{clean}"
+
+
+def library_path(output_root: Path, entry: dict[str, object]) -> Path:
+    directory = f"{entry['category_slug']}-{entry['category']}"
+    return output_root / directory / f"{pack_file_stem(str(entry['id']), str(entry['name']))}.json"
+
+
 def write_library(output_root: Path, entry: dict[str, object], words: list[dict[str, object]]) -> None:
-    category_slug = str(entry["category_slug"])
-    path = output_root / category_slug / f"{entry['id']}.json"
+    path = library_path(output_root, entry)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(words, ensure_ascii=False, indent=2), encoding="utf-8")
     chinese = sum(1 for word in words if any(contains_chinese(item) for item in word["definition"]))

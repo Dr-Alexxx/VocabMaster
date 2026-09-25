@@ -480,7 +480,11 @@ def main() -> None:
                 "category": category,
                 "category_slug": CATEGORY_SLUGS[category],
             }
-        words_path = output_root / entry["category_slug"] / f"{pack_id}.json"
+        else:
+            entry["name"] = entry.get("name") or name
+            entry["category"] = entry.get("category") or category
+            entry["category_slug"] = entry.get("category_slug") or CATEGORY_SLUGS[category]
+        words_path = base.library_path(output_root, entry)
         current = json.loads(words_path.read_text(encoding="utf-8")) if words_path.exists() else []
         seen = {str(word["word"]).strip().lower() for word in current}
         added = []
