@@ -14,6 +14,8 @@
     "build:web": "vite build",
     "build:win": "vite build && electron-builder --win --x64",
     "pack:win": "vite build && electron-builder --win --x64 --dir",
+    "build:mac": "vite build && electron-builder --mac --arm64",
+    "pack:mac": "vite build && electron-builder --mac --arm64 --dir",
     "pack:zip": "node scripts/pack-zip.cjs"
   },
   "dependencies": {
@@ -70,6 +72,30 @@
           ]
         }
       ]
+    },
+    "mac": {
+      "icon": "resources/icons/icon.icns",
+      "category": "public.app-category.education",
+      "identity": null,
+      "artifactName": "VocabMaster-${version}-mac-${arch}.${ext}",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64"
+          ]
+        },
+        {
+          "target": "zip",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ]
+    },
+    "dmg": {
+      "artifactName": "VocabMaster-Setup-${version}-mac-${arch}.${ext}",
+      "title": "VocabMaster ${version}"
     },
     "nsis": {
       "artifactName": "VocabMaster-Setup-${version}-win-${arch}.${ext}",
