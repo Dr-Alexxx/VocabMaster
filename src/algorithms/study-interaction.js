@@ -19,3 +19,12 @@ export function testGrade(correct, total) {
   const label = grade === 'A' ? '优秀' : grade === 'B' ? '良好' : '继续加油'
   return { percent, grade, label }
 }
+
+export function speechPolicy({ mode, phase, autoPronounce, speakOnReveal }) {
+  const revealed = phase === 'revealed'
+  const wordVisible = revealed || mode !== 'spelling'
+  return {
+    manual: wordVisible,
+    auto: revealed ? Boolean(speakOnReveal) : Boolean(autoPronounce) && wordVisible
+  }
+}

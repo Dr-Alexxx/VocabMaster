@@ -51,13 +51,13 @@
       <section v-if="currentMode === 'flashcard'" class="study-card flashcard" :class="{ revealed }">
         <div class="card-front">
           <button class="speak-btn" title="朗读 (P)" @click="speak"><Volume2 :size="20" /></button>
-          <h1>{{ currentWord.word }}</h1><p class="phonetic">{{ currentWord.phonetic || ' ' }}</p>
+          <h1 class="speak-word" title="点击朗读" @click="speak">{{ currentWord.word }}</h1><p class="phonetic">{{ currentWord.phonetic || ' ' }}</p>
         </div>
         <div v-if="revealed" class="card-answer">
           <ol class="definition-list"><li v-for="item in currentWord.definition" :key="item">{{ item }}</li></ol>
           <p v-if="settings.values.showExamples && currentWord.examples?.[0]" class="example">{{ currentWord.examples[0] }}</p>
         </div>
-        <button v-if="!revealed" class="primary-btn reveal-btn" @click="revealed = true">显示答案 <span>Space</span></button>
+        <button v-if="!revealed" class="primary-btn reveal-btn" @click="revealCard">显示答案 <span>Space</span></button>
       </section>
 
       <section v-else-if="currentMode === 'spelling'" class="study-card spelling-card">
@@ -72,12 +72,14 @@
         <div v-if="feedback" class="answer-feedback" :class="feedbackClass" aria-live="polite">
           <component :is="feedbackIcon" :size="22" />
           <div><b>{{ feedbackTitle }}</b><span v-if="feedbackDetail">{{ feedbackDetail }}</span></div>
+          <button v-if="speech.manual" class="icon-btn" title="朗读 (P)" @click="speak"><Volume2 :size="19" /></button>
         </div>
       </section>
 
       <section v-else class="study-card choice-card">
+        <button class="speak-btn" title="朗读 (P)" @click="speak"><Volume2 :size="20" /></button>
         <span class="question-label">选择正确释义</span>
-        <h1>{{ currentWord.word }}</h1><p class="phonetic">{{ currentWord.phonetic || ' ' }}</p>
+        <h1 class="speak-word" title="点击朗读" @click="speak">{{ currentWord.word }}</h1><p class="phonetic">{{ currentWord.phonetic || ' ' }}</p>
         <div class="choice-grid">
           <button v-for="(option, index) in choices" :key="option" :disabled="Boolean(feedback) || submitting" :class="choiceClass(option)" :title="`${String.fromCharCode(65 + index)} / ${index + 1}`" :aria-keyshortcuts="`${String.fromCharCode(65 + index)} ${index + 1}`" @click="submitChoice(option)">
             <span>{{ String.fromCharCode(65 + index) }}</span><b>{{ option }}</b>
@@ -110,7 +112,7 @@ import { ArrowLeft, ArrowRight, BadgeCheck, CircleAlert, CircleCheck, CircleX, C
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
 import { calculateQuality, spellingFeedback } from '@/algorithms/anki.js'
-import { choiceShortcutIndex, spellingEnterAction, testGrade } from '@/algorithms/study-interaction.js'
+import { choiceShortcutIndex, speechPolicy, spellingEnterAction, testGrade } from '@/algorithms/study-interaction.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 import { useSpeech } from '@/composables/useSpeech.js'
@@ -143,6 +145,12 @@ const progress = computed(() => words.value.length ? Math.round(currentIndex.val
 const accuracy = computed(() => sessionStats.value.total ? Math.round(sessionStats.value.correct / sessionStats.value.total * 100) : 0)
 const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹' })[source.value])
 const testResult = computed(() => testGrade(sessionStats.value.correct, sessionStats.value.total))
+const speech = computed(() => speechPolicy({
+  mode: currentMode.value,
+  phase: (feedback.value || revealed.value) ? 'revealed' : 'question',
+  autoPronounce: settings.values.autoPronounce,
+  speakOnReveal: settings.values.speakOnReveal
+}))
 const feedbackClass = computed(() => {
   if (!feedback.value) return ''
   if (feedback.value.tier === 'close') return 'close'
@@ -169,7 +177,7 @@ function prepareQuestion() {
     const distractors = shuffled(choicePool.value.filter((item) => item && item !== correct)).slice(0, 3)
     choices.value = shuffled([correct, ...distractors])
   }
-  if (settings.values.autoPronounce) speak()
+  if (speech.value.auto) speak()
   if (currentMode.value === 'spelling') nextTick(() => spellingInput.value?.focus())
 }
 async function startSession() {
@@ -212,6 +220,7 @@ async function submitSpelling() {
   if (feedback.value || submitting.value || !answer.value.trim()) return
   const result = spellingFeedback(answer.value, currentWord.value.word)
   feedback.value = { correct: result.quality >= 3, quality: result.quality, tier: result.tier, recorded: false }
+  if (speech.value.auto) speak()
   await submit(result.quality)
 }
 function handleSpellingEnter() {
@@ -229,6 +238,7 @@ async function submitChoice(option) {
   selectedChoice.value = option
   const quality = calculateQuality('choice', option, currentWord.value.definition[0], Date.now() - questionStartedAt.value)
   feedback.value = { correct: quality >= 3, quality, recorded: false }
+  if (speech.value.auto) speak()
   await submit(quality)
 }
 function choiceClass(option) {
@@ -263,6 +273,7 @@ async function toggleFavorite() {
 }
 function updateCurrent(updated) { Object.assign(currentWord.value, updated) }
 function speak() { if (currentWord.value) speakWord(currentWord.value.word) }
+function revealCard() { revealed.value = true; if (speech.value.auto) speak() }
 function pauseStudy() { if (!sessionActive.value || paused.value || submitting.value) return; pausedAt.value = Date.now(); paused.value = true }
 function resume() { pausedTotal.value += Date.now() - pausedAt.value; paused.value = false; if (currentMode.value === 'spelling') nextTick(() => spellingInput.value?.focus()) }
 function leave() { router.push('/') }
@@ -275,11 +286,11 @@ function handleKey(event) {
   if (drawerOpen.value) return
   if (event.target instanceof HTMLInputElement || event.target instanceof HTMLTextAreaElement || event.target?.isContentEditable) return
   if (feedback.value && (event.key === 'Enter' || event.key === ' ')) { event.preventDefault(); nextWord(); return }
-  if (event.key === ' ' && currentMode.value === 'flashcard') { event.preventDefault(); revealed.value = true; return }
+  if (event.key === ' ' && currentMode.value === 'flashcard') { event.preventDefault(); revealCard(); return }
   if (/^[0-5]$/.test(event.key) && currentMode.value === 'flashcard' && revealed.value) { submit(Number(event.key)); return }
   if (event.key.toLowerCase() === 'f') { toggleFavorite(); return }
   if (event.key.toLowerCase() === 's') { skip(); return }
-  if (event.key.toLowerCase() === 'p') { speak(); return }
+  if (event.key.toLowerCase() === 'p') { if (speech.value.manual) speak(); return }
   if (currentMode.value === 'choice' && !feedback.value) {
     const index = choiceShortcutIndex(event.key)
     if (index >= 0 && choices.value[index]) { event.preventDefault(); submitChoice(choices.value[index]) }

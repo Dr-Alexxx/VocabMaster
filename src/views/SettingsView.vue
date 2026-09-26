@@ -9,6 +9,7 @@
       <div class="setting-row"><label><b>跨词库去重</b><span>已学过的相同拼写不会作为新词再次出现</span></label><label class="switch"><input v-model="values.enableCrossVocabDedup" type="checkbox" /><span></span></label></div>
       <div class="setting-row"><label><b>显示例句</b><span>翻开卡片后展示首条例句</span></label><label class="switch"><input v-model="values.showExamples" type="checkbox" /><span></span></label></div>
       <div class="setting-row"><label><b>自动朗读</b><span>每道题出现时使用 Windows 系统语音朗读</span></label><label class="switch"><input v-model="values.autoPronounce" type="checkbox" /><span></span></label></div>
+      <div class="setting-row"><label><b>揭晓答案时朗读</b><span>答题反馈出现时自动再朗读一遍单词，可反复跟读</span></label><label class="switch"><input v-model="values.speakOnReveal" type="checkbox" /><span></span></label></div>
     </section>
 
     <section class="settings-band">

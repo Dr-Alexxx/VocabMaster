@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest'
-import { choiceShortcutIndex, spellingEnterAction, testGrade } from '../src/algorithms/study-interaction.js'
+import { choiceShortcutIndex, speechPolicy, spellingEnterAction, testGrade } from '../src/algorithms/study-interaction.js'
 
 describe('study keyboard interactions', () => {
   test('submits a non-empty spelling answer on the first Enter', () => {
@@ -34,5 +34,29 @@ describe('test session grading', () => {
   test('handles empty and clamped sessions', () => {
     expect(testGrade(0, 0)).toEqual({ percent: 0, grade: 'C', label: '继续加油' })
     expect(testGrade(25, 20)).toEqual({ percent: 100, grade: 'A', label: '优秀' })
+  })
+})
+
+describe('study speech policy', () => {
+  test('keeps the word silent while spelling hides it', () => {
+    expect(speechPolicy({ mode: 'spelling', phase: 'question', autoPronounce: true, speakOnReveal: true }))
+      .toEqual({ auto: false, manual: false })
+  })
+
+  test('allows manual replay wherever the word is visible', () => {
+    expect(speechPolicy({ mode: 'flashcard', phase: 'question', autoPronounce: false, speakOnReveal: true }).manual).toBe(true)
+    expect(speechPolicy({ mode: 'choice', phase: 'question', autoPronounce: false, speakOnReveal: true }).manual).toBe(true)
+    expect(speechPolicy({ mode: 'spelling', phase: 'revealed', autoPronounce: false, speakOnReveal: true }).manual).toBe(true)
+  })
+
+  test('auto-plays at question start only with auto pronounce', () => {
+    expect(speechPolicy({ mode: 'flashcard', phase: 'question', autoPronounce: true, speakOnReveal: false }).auto).toBe(true)
+    expect(speechPolicy({ mode: 'flashcard', phase: 'question', autoPronounce: false, speakOnReveal: false }).auto).toBe(false)
+  })
+
+  test('auto-plays again when the answer is revealed', () => {
+    expect(speechPolicy({ mode: 'flashcard', phase: 'revealed', autoPronounce: false, speakOnReveal: true }).auto).toBe(true)
+    expect(speechPolicy({ mode: 'spelling', phase: 'revealed', autoPronounce: false, speakOnReveal: true }).auto).toBe(true)
+    expect(speechPolicy({ mode: 'choice', phase: 'revealed', autoPronounce: true, speakOnReveal: false }).auto).toBe(false)
   })
 })
