@@ -4,7 +4,8 @@ import { beforeEach, describe, expect, test } from 'vitest'
 const require = createRequire(import.meta.url)
 const { DatabaseSync } = require('node:sqlite')
 const { schema } = require('../src/backend/schema.cjs')
-const { applyBackup } = require('../electron/backup-merge.cjs')
+const { createAdapter } = require('../src/backend/db-adapter.cjs')
+const { applyBackup } = require('../src/backend/backup-merge.cjs')
 
 function makeDb() {
   const db = new DatabaseSync(':memory:')
@@ -48,33 +49,33 @@ describe('backup restore strategies', () => {
   let db
   beforeEach(() => { db = makeDb() })
 
-  test('replace wipes local data and restores the backup', () => {
-    applyBackup(db, makeBackup(), 'replace')
+  test('replace wipes local data and restores the backup', async () => {
+    await applyBackup(createAdapter(db), makeBackup(), 'replace')
     expect(db.prepare('SELECT COUNT(*) c FROM words').get().c).toBe(3)
     expect(db.prepare("SELECT interval FROM learning_records lr JOIN words w ON w.id = lr.word_id WHERE w.word = 'abandon'").get().interval).toBe(12)
   })
 
-  test('skip keeps existing rows and only adds missing ones', () => {
-    applyBackup(db, makeBackup(), 'skip')
+  test('skip keeps existing rows and only adds missing ones', async () => {
+    await applyBackup(createAdapter(db), makeBackup(), 'skip')
     expect(db.prepare("SELECT interval FROM learning_records lr JOIN words w ON w.id = lr.word_id WHERE w.word = 'abandon'").get().interval).toBe(6)
     expect(db.prepare("SELECT COUNT(*) c FROM words WHERE word = 'ability'").get().c).toBe(1)
     expect(db.prepare("SELECT COUNT(*) c FROM vocabularies WHERE name = '自定义词库'").get().c).toBe(1)
   })
 
-  test('merge updates a record only when the incoming copy is newer', () => {
-    applyBackup(db, makeBackup('2026-09-25 09:00:00'), 'merge')
+  test('merge updates a record only when the incoming copy is newer', async () => {
+    await applyBackup(createAdapter(db), makeBackup('2026-09-25 09:00:00'), 'merge')
     expect(db.prepare("SELECT interval FROM learning_records lr JOIN words w ON w.id = lr.word_id WHERE w.word = 'abandon'").get().interval).toBe(12)
-    applyBackup(db, makeBackup('2026-09-01 09:00:00'), 'merge')
+    await applyBackup(createAdapter(db), makeBackup('2026-09-01 09:00:00'), 'merge')
     expect(db.prepare("SELECT interval FROM learning_records lr JOIN words w ON w.id = lr.word_id WHERE w.word = 'abandon'").get().interval).toBe(12)
   })
 
-  test('merge keeps the local record when it is newer', () => {
-    applyBackup(db, makeBackup('2026-09-01 09:00:00'), 'merge')
+  test('merge keeps the local record when it is newer', async () => {
+    await applyBackup(createAdapter(db), makeBackup('2026-09-01 09:00:00'), 'merge')
     expect(db.prepare("SELECT interval FROM learning_records lr JOIN words w ON w.id = lr.word_id WHERE w.word = 'abandon'").get().interval).toBe(6)
   })
 
-  test('remaps incoming vocabulary and word ids onto local rows', () => {
-    applyBackup(db, makeBackup(), 'merge')
+  test('remaps incoming vocabulary and word ids onto local rows', async () => {
+    await applyBackup(createAdapter(db), makeBackup(), 'merge')
     const ability = db.prepare("SELECT vocabulary_id FROM words WHERE word = 'ability'").get()
     expect(ability.vocabulary_id).toBe(1)
     const cloudVocab = db.prepare("SELECT v.name name FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id WHERE w.word = 'cloud'").get()
@@ -82,20 +83,20 @@ describe('backup restore strategies', () => {
     expect(db.prepare("SELECT COUNT(*) c FROM learning_records WHERE word_id = 10").get().c).toBe(1)
   })
 
-  test('history is not duplicated when the same backup is applied twice', () => {
-    applyBackup(db, makeBackup(), 'skip')
-    applyBackup(db, makeBackup(), 'skip')
+  test('history is not duplicated when the same backup is applied twice', async () => {
+    await applyBackup(createAdapter(db), makeBackup(), 'skip')
+    await applyBackup(createAdapter(db), makeBackup(), 'skip')
     expect(db.prepare('SELECT COUNT(*) c FROM study_history').get().c).toBe(1)
   })
 
-  test('daily statistics keep the row with the larger total on merge', () => {
-    applyBackup(db, makeBackup('2026-09-25 09:00:00', 10), 'merge')
+  test('daily statistics keep the row with the larger total on merge', async () => {
+    await applyBackup(createAdapter(db), makeBackup('2026-09-25 09:00:00', 10), 'merge')
     expect(db.prepare("SELECT total_count t FROM daily_statistics WHERE date = '2026-09-20'").get().t).toBe(30)
-    applyBackup(db, makeBackup('2026-09-25 09:00:00', 40), 'merge')
+    await applyBackup(createAdapter(db), makeBackup('2026-09-25 09:00:00', 40), 'merge')
     expect(db.prepare("SELECT total_count t FROM daily_statistics WHERE date = '2026-09-20'").get().t).toBe(40)
   })
 
-  test('rejects unknown strategies', () => {
-    expect(() => applyBackup(db, makeBackup(), 'upsert')).toThrow(/未知恢复策略/)
+  test('rejects unknown strategies', async () => {
+    await expect(applyBackup(createAdapter(db), makeBackup(), 'upsert')).rejects.toThrow(/未知恢复策略/)
   })
 })

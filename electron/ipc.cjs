@@ -2,13 +2,14 @@ const { ipcMain, dialog } = require('electron')
 const fs = require('node:fs')
 const path = require('node:path')
 const crypto = require('node:crypto')
-const iconv = require('iconv-lite')
 const XLSX = require('xlsx')
 const { getDatabase } = require('./database.cjs')
 const { createVocabularyTemplate } = require('./vocabulary-template.cjs')
 const { localDateKey, addLocalDays } = require('../src/backend/date-utils.cjs')
 const { planDailyNewQuota } = require('../src/backend/study-goal.cjs')
-const { applyBackup } = require('./backup-merge.cjs')
+const { createAdapter } = require('../src/backend/db-adapter.cjs')
+const { applyBackup } = require('../src/backend/backup-merge.cjs')
+const { parseVocabularyFile, decodeText } = require('../src/backend/file-parse.cjs')
 
 const importCache = new Map()
 const backupCache = new Map()
@@ -330,35 +331,6 @@ function registerIpcHandlers() {
   registerFileHandlers(db)
 }
 
-function decodeText(buffer) {
-  const utf8 = iconv.decode(buffer, 'utf8')
-  return utf8.includes('\uFFFD') ? iconv.decode(buffer, 'gb18030') : utf8
-}
-
-function parseVocabularyFile(filePath) {
-  const extension = path.extname(filePath).toLowerCase()
-  const buffer = fs.readFileSync(filePath)
-  if (extension === '.json') {
-    const parsed = JSON.parse(decodeText(buffer))
-    const source = Array.isArray(parsed) ? parsed : parsed.words
-    if (!Array.isArray(source)) throw new Error('JSON 文件必须是数组或包含 words 数组')
-    const headers = [...new Set(source.flatMap((row) => Object.keys(row || {})))]
-    return { headers, rows: source.map((row) => headers.map((header) => row[header] ?? '')) }
-  }
-  let workbook
-  if (['.xlsx', '.xls'].includes(extension)) workbook = XLSX.read(buffer, { type: 'buffer' })
-  else workbook = XLSX.read(decodeText(buffer), { type: 'string', raw: false })
-  const sheet = workbook.Sheets[workbook.SheetNames[0]]
-  let matrix = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: '', raw: false })
-  matrix = matrix.filter((row) => row.some((cell) => String(cell).trim()))
-  if (!matrix.length) throw new Error('文件中没有可导入的数据')
-  const first = matrix[0].map((cell) => String(cell).trim())
-  const headerWords = /word|单词|definition|释义|meaning|音标|phonetic|example|例句/i
-  const hasHeader = first.some((cell) => headerWords.test(cell))
-  const headers = hasHeader ? first : first.map((_cell, index) => `第 ${index + 1} 列`)
-  return { headers, rows: hasHeader ? matrix.slice(1) : matrix }
-}
-
 const suggestField = (headers, pattern, fallback = '') => headers.find((header) => pattern.test(header)) || fallback
 const cellValue = (row, headers, field) => field ? row[headers.indexOf(field)] : ''
 const listValue = (value) => {
@@ -377,7 +349,7 @@ function registerFileHandlers(db) {
       filters: [{ name: '支持的词库', extensions: ['csv', 'xlsx', 'xls', 'json', 'txt'] }]
     })
     if (selected.canceled) return null
-    const parsed = parseVocabularyFile(selected.filePaths[0])
+    const parsed = parseVocabularyFile(fs.readFileSync(selected.filePaths[0]), path.basename(selected.filePaths[0]))
     const token = crypto.randomUUID()
     importCache.set(token, parsed)
     setTimeout(() => importCache.delete(token), 15 * 60 * 1000).unref()
@@ -495,10 +467,10 @@ function registerFileHandlers(db) {
       vocabularies: data.vocabularies.length, words: data.words.length, records: data.learning_records?.length || 0 }
   })
 
-  ipcMain.handle('data:import-commit', (_event, token, strategy = 'replace') => {
+  ipcMain.handle('data:import-commit', async (_event, token, strategy = 'replace') => {
     const data = backupCache.get(token)
     if (!data) throw new Error('备份预览已过期，请重新选择文件')
-    const result = applyBackup(db, data, strategy)
+    const result = await applyBackup(createAdapter(db), data, strategy)
     backupCache.delete(token)
     return result
   })
