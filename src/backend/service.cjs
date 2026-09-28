@@ -333,4 +333,4 @@ function createBackend(adapter, {
   return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings, buildPlan }
 }
 
-module.exports = { createBackend }
+module.exports = { createBackend, hydrateWord, jsonArray }
