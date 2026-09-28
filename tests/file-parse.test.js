@@ -5,7 +5,7 @@ const require = createRequire(import.meta.url)
 const { parseVocabularyFile } = require('../src/backend/file-parse.cjs')
 const XLSX = require('xlsx')
 
-test('parses json arrays and {words} objects', () => {
+test('parses json arrays', () => {
   const bytes = new TextEncoder().encode(JSON.stringify([{ word: 'a', definition: 'x' }]))
   const parsed = parseVocabularyFile(bytes, 'a.json')
   expect(parsed.headers).toContain('word')
