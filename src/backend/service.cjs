@@ -31,6 +31,28 @@ function createBackend(adapter, {
   todayKey = () => localDateKey(),
   addDaysFrom = (amount) => addLocalDays(new Date(), amount)
 } = {}) {
+  function calculateReview(record, quality, options = {}) {
+    const q = boundedInt(quality, 0, 5, 0)
+    let easiness = Number(record.easiness_factor || options.initialEasiness || 2.5)
+    let interval = Number(record.interval || 0)
+    let repetitions = Number(record.repetitions || 0)
+    easiness = Math.max(1.3, easiness + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02)))
+    if (q < 3) {
+      repetitions = 0
+      interval = 1
+    } else {
+      if (repetitions === 0) interval = 1
+      else if (repetitions === 1) interval = 6
+      else interval = Math.max(1, Math.round(interval * easiness * Number(options.intervalModifier || 1)))
+      repetitions += 1
+    }
+    const masteryRepetitions = boundedInt(options.masteryRepetitions, 2, 20, 5)
+    const masteryDays = boundedInt(options.masteryDays, 7, 365, 21)
+    let status = repetitions >= 2 ? 'review' : 'learning'
+    if (repetitions >= masteryRepetitions && interval >= masteryDays) status = 'mastered'
+    return { easiness_factor: easiness, interval, repetitions, status, next_review_date: addDaysFrom(interval) }
+  }
+
   async function computeStreak() {
     const dates = new Set((await adapter.all('SELECT date FROM daily_statistics WHERE total_count > 0')).map((row) => row.date))
     let streak = 0
@@ -154,7 +176,94 @@ function createBackend(adapter, {
     return { daily, modes, vocabularies, weakWords, totals: { ...totals, streak: await computeStreak() } }
   }
 
-  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics }
+  async function updateWord(id, updates = {}) {
+    if (Object.hasOwn(updates, 'is_favorited')) await adapter.run('UPDATE words SET is_favorited = ? WHERE id = ?', [updates.is_favorited ? 1 : 0, Number(id)])
+    if (Object.hasOwn(updates, 'notes')) await adapter.run('UPDATE words SET notes = ? WHERE id = ?', [String(updates.notes || '').slice(0, 4000), Number(id)])
+    return hydrateWord(await adapter.get('SELECT * FROM words WHERE id = ?', [Number(id)]))
+  }
+
+  async function submitAnswer(payload = {}) {
+    const wordId = Number(payload.wordId)
+    const quality = boundedInt(payload.quality, 0, 5, 0)
+    const mode = ['flashcard', 'spelling', 'choice'].includes(payload.mode) ? payload.mode : 'flashcard'
+    const timeSpent = boundedInt(payload.timeSpent, 0, 3600, 0)
+    return adapter.withTransaction(async () => {
+      let record = await adapter.get('SELECT * FROM learning_records WHERE word_id = ?', [wordId])
+      if (!record) {
+        await adapter.run('INSERT INTO learning_records (word_id) VALUES (?)', [wordId])
+        record = await adapter.get('SELECT * FROM learning_records WHERE word_id = ?', [wordId])
+      }
+      const wasNew = !record.is_learned
+      const next = calculateReview(record, quality, payload.options)
+      await adapter.run(`
+        UPDATE learning_records SET easiness_factor = ?, interval = ?, repetitions = ?, status = ?,
+          next_review_date = ?, last_review_date = ?, is_learned = 1,
+          first_learned_at = COALESCE(first_learned_at, CURRENT_TIMESTAMP), updated_at = CURRENT_TIMESTAMP
+        WHERE word_id = ?
+      `, [next.easiness_factor, next.interval, next.repetitions, next.status, next.next_review_date, todayKey(), wordId])
+      const updated = await adapter.get('SELECT * FROM learning_records WHERE word_id = ?', [wordId])
+      await adapter.run(`INSERT INTO study_history (word_id, learning_record_id, study_mode, quality, time_spent, is_correct)
+        VALUES (?, ?, ?, ?, ?, ?)`, [wordId, updated.id, mode, quality, timeSpent, quality >= 3 ? 1 : 0])
+      if (quality < 3) await adapter.run(`
+        INSERT INTO mistake_book (word_id, mistake_count, last_mistake_at, last_mode, is_frequent)
+        VALUES (?, 1, CURRENT_TIMESTAMP, ?, 0)
+        ON CONFLICT(word_id) DO UPDATE SET mistake_count = mistake_count + 1,
+          last_mistake_at = CURRENT_TIMESTAMP, last_mode = excluded.last_mode,
+          is_frequent = CASE WHEN mistake_count + 1 >= 3 THEN 1 ELSE 0 END
+      `, [wordId, mode])
+      await adapter.run(`
+        INSERT INTO daily_statistics (date, new_words_count, review_count, correct_count, total_count, study_time)
+        VALUES (?, ?, ?, ?, 1, ?)
+        ON CONFLICT(date) DO UPDATE SET new_words_count = new_words_count + excluded.new_words_count,
+          review_count = review_count + excluded.review_count, correct_count = correct_count + excluded.correct_count,
+          total_count = total_count + 1, study_time = study_time + excluded.study_time
+      `, [todayKey(), wasNew ? 1 : 0, wasNew ? 0 : 1, quality >= 3 ? 1 : 0, timeSpent])
+      return updated
+    })
+  }
+
+  async function removeMistake(wordId) {
+    await adapter.run('DELETE FROM mistake_book WHERE word_id = ?', [Number(wordId)])
+    return true
+  }
+
+  async function setVocabularyActive(id, active) {
+    await adapter.run('UPDATE vocabularies SET is_active = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?', [active ? 1 : 0, Number(id)])
+    return true
+  }
+
+  async function deleteVocabulary(id) {
+    const vocab = await adapter.get('SELECT is_default FROM vocabularies WHERE id = ?', [Number(id)])
+    if (!vocab) return false
+    if (vocab.is_default) throw new Error('系统默认词库不能删除')
+    await adapter.run('DELETE FROM vocabularies WHERE id = ?', [Number(id)])
+    return true
+  }
+
+  async function resetProgress() {
+    await adapter.withTransaction(async () => {
+      await adapter.run('DELETE FROM study_history')
+      await adapter.run('DELETE FROM mistake_book')
+      await adapter.run('DELETE FROM learning_records')
+      await adapter.run('DELETE FROM daily_statistics')
+    })
+    return true
+  }
+
+  async function getSettings() {
+    const row = await adapter.get("SELECT value FROM user_settings WHERE key = 'app_settings'")
+    if (!row) return null
+    try { return JSON.parse(row.value) } catch { return null }
+  }
+
+  async function setSettings(settings) {
+    const value = JSON.stringify(settings || {})
+    await adapter.run(`INSERT INTO user_settings (key, value) VALUES ('app_settings', ?)
+      ON CONFLICT(key) DO UPDATE SET value = excluded.value, updated_at = CURRENT_TIMESTAMP`, [value])
+    return true
+  }
+
+  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings }
 }
 
 module.exports = { createBackend }
