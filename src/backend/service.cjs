@@ -1,4 +1,5 @@
 const { localDateKey, addLocalDays } = require('./date-utils.cjs')
+const { planDailyNewQuota } = require('./study-goal.cjs')
 
 const jsonArray = (value) => {
   if (Array.isArray(value)) return value
@@ -263,7 +264,73 @@ function createBackend(adapter, {
     return true
   }
 
-  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings }
+  async function buildPlan(settings = {}, source = 'daily') {
+    const reviewLimit = boundedInt(settings.dailyReviewLimit, 0, 500, 100)
+    const newLimit = boundedInt(settings.dailyNewLimit, 0, 200, 20)
+    let reviews = []
+    let newWords = []
+    let goal = null
+    if (source === 'mistakes') {
+      reviews = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
+          lr.status, 'review' queue_type, m.mistake_count
+        FROM mistake_book m JOIN words w ON w.id = m.word_id JOIN vocabularies v ON v.id = w.vocabulary_id
+        LEFT JOIN learning_records lr ON lr.word_id = w.id ORDER BY m.is_frequent DESC, m.mistake_count DESC LIMIT ?
+      `, [Math.max(reviewLimit, 20)])
+    } else if (source === 'favorites') {
+      reviews = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
+          COALESCE(lr.status, 'new') status, CASE WHEN lr.is_learned = 1 THEN 'review' ELSE 'new' END queue_type
+        FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN learning_records lr ON lr.word_id = w.id
+        WHERE w.is_favorited = 1 ORDER BY w.id DESC LIMIT ?
+      `, [Math.max(reviewLimit, 20)])
+    } else if (source === 'test') {
+      newWords = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, COALESCE(lr.easiness_factor, 2.5) easiness_factor,
+          COALESCE(lr.interval, 0) interval, COALESCE(lr.repetitions, 0) repetitions,
+          COALESCE(lr.status, 'new') status, 'test' queue_type, COALESCE(m.mistake_count, 0) mistake_count
+        FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id
+        LEFT JOIN learning_records lr ON lr.word_id = w.id LEFT JOIN mistake_book m ON m.word_id = w.id
+        WHERE v.is_active = 1
+        GROUP BY lower(w.word) ORDER BY RANDOM() LIMIT ?
+      `, [20])
+    } else {
+      reviews = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
+          lr.status, 'review' queue_type, COALESCE(m.mistake_count, 0) mistake_count
+        FROM learning_records lr JOIN words w ON w.id = lr.word_id
+        JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN mistake_book m ON m.word_id = w.id
+        WHERE v.is_active = 1 AND lr.is_learned = 1 AND lr.next_review_date <= ?
+        ORDER BY COALESCE(m.is_frequent, 0) DESC, COALESCE(m.mistake_count, 0) DESC, lr.next_review_date ASC LIMIT ?
+      `, [todayKey(), reviewLimit])
+      const dedupClause = settings.enableCrossVocabDedup === false ? '' : `
+        AND NOT EXISTS (
+          SELECT 1 FROM words same JOIN learning_records known ON known.word_id = same.id
+          WHERE lower(same.word) = lower(w.word) AND known.is_learned = 1
+        )`
+      const remainingNew = (await adapter.get(`
+        SELECT COUNT(DISTINCT lower(w.word)) count FROM words w
+        JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN learning_records lr ON lr.word_id = w.id
+        WHERE v.is_active = 1 AND COALESCE(lr.is_learned, 0) = 0
+      `)).count
+      goal = planDailyNewQuota({ remainingWords: remainingNew, deadlineKey: settings.goalDeadline || null, todayKey: todayKey(), baseLimit: newLimit })
+      newWords = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, 2.5 easiness_factor, 0 interval, 0 repetitions,
+          'new' status, 'new' queue_type
+        FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id
+        LEFT JOIN learning_records lr ON lr.word_id = w.id
+        WHERE v.is_active = 1 AND COALESCE(lr.is_learned, 0) = 0 ${dedupClause}
+        GROUP BY lower(w.word) ORDER BY COALESCE(w.frequency, 0) DESC, w.id ASC LIMIT ?
+      `, [goal.quota])
+    }
+    const choicePool = (await adapter.all(`
+      SELECT definition FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id
+      WHERE v.is_active = 1 AND definition <> '[]' ORDER BY RANDOM() LIMIT 80
+    `)).flatMap((row) => jsonArray(row.definition).slice(0, 1))
+    return { words: [...reviews, ...newWords].map(hydrateWord), reviewCount: reviews.length, newCount: newWords.length, choicePool, goal }
+  }
+
+  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings, buildPlan }
 }
 
 module.exports = { createBackend }
