@@ -614,10 +614,12 @@ onBeforeUnmount(() => window.visualViewport?.removeEventListener('resize', syncV
 keytool -genkeypair -v -keystore android/keystore/vocabmaster.keystore -alias vocabmaster -keyalg RSA -keysize 2048 -validity 10000
 ```
 
+（密码记录到 `android/keystore.properties`；`android/keystore/` 与 `android/keystore.properties` 两路径进 `.gitignore`。）
+
 - [ ] **Step 2: `android/app/build.gradle` 版本与签名**（versionName 读根 `package.json`；keystore 缺失时回退 debug 签名并打印提示，保证他人克隆不炸）：
 
 ```groovy
-def rootPkg = new groovy.json.JsonSlurper().parse(file("${rootDir}/../package.json"))
+def rootPkg = new groovy.json.JsonSlurper().parse(file("${rootDir}/../../package.json"))
 android {
   defaultConfig {
     versionName rootPkg.version
@@ -631,7 +633,7 @@ android {
       def propsFile = file("${projectDir}/../keystore.properties")
       if (propsFile.exists()) {
         props.load(new FileInputStream(propsFile))
-        storeFile file("${projectDir}/../android/keystore/vocabmaster.keystore")
+        storeFile file("${projectDir}/../keystore/vocabmaster.keystore")
         storePassword props['storePassword']
         keyAlias props['keyAlias']
         keyPassword props['keyPassword']
