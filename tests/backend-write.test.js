@@ -34,6 +34,18 @@ describe('write backend', () => {
   })
   test('deleteVocabulary refuses default packs and cascades', async () => {
     await expect(backend.deleteVocabulary(1)).rejects.toThrow('系统默认词库不能删除')
+    await adapter.run("INSERT INTO vocabularies (id, name, type, is_default, is_active) VALUES (2, 'Custom Pack', 'CUSTOM', 0, 1)")
+    await adapter.run("INSERT INTO words (id, vocabulary_id, word, definition) VALUES (20, 2, 'custom-word', '[\"n. custom\"]')")
+    await adapter.run("INSERT INTO words (id, vocabulary_id, word, definition) VALUES (21, 2, 'custom-word-2', '[\"n. custom two\"]')")
+    await backend.submitAnswer({ wordId: 20, quality: 0, mode: 'choice', timeSpent: 1, options: {} })
+    expect((await adapter.get('SELECT COUNT(*) count FROM mistake_book WHERE word_id = 20')).count).toBe(1)
+    expect(await backend.deleteVocabulary(2)).toBe(true)
+    expect((await adapter.get('SELECT COUNT(*) count FROM vocabularies WHERE id = 2')).count).toBe(0)
+    expect((await adapter.get('SELECT COUNT(*) count FROM words WHERE vocabulary_id = 2')).count).toBe(0)
+    expect((await adapter.get('SELECT COUNT(*) count FROM learning_records WHERE word_id = 20')).count).toBe(0)
+    expect((await adapter.get('SELECT COUNT(*) count FROM study_history WHERE word_id = 20')).count).toBe(0)
+    expect((await adapter.get('SELECT COUNT(*) count FROM mistake_book WHERE word_id = 20')).count).toBe(0)
+    expect((await adapter.get('SELECT COUNT(*) count FROM words WHERE id = 10')).count).toBe(1)
   })
   test('resetProgress keeps words and favorites', async () => {
     await backend.submitAnswer({ wordId: 10, quality: 4, mode: 'flashcard', timeSpent: 2, options: {} })
