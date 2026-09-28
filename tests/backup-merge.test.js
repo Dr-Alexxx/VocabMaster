@@ -3,7 +3,7 @@ import { beforeEach, describe, expect, test } from 'vitest'
 
 const require = createRequire(import.meta.url)
 const { DatabaseSync } = require('node:sqlite')
-const { schema } = require('../electron/db-schema.cjs')
+const { schema } = require('../src/backend/schema.cjs')
 const { applyBackup } = require('../electron/backup-merge.cjs')
 
 function makeDb() {

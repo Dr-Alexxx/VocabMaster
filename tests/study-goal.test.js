@@ -2,7 +2,7 @@ import { createRequire } from 'node:module'
 import { describe, expect, test } from 'vitest'
 
 const require = createRequire(import.meta.url)
-const { daysBetween, planDailyNewQuota } = require('../electron/study-goal.cjs')
+const { daysBetween, planDailyNewQuota } = require('../src/backend/study-goal.cjs')
 
 describe('study goal scheduling', () => {
   test('measures whole days between date keys', () => {

@@ -83,8 +83,8 @@ import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
-import { localDateKey } from '../../electron/date-utils.cjs'
-import { planDailyNewQuota } from '../../electron/study-goal.cjs'
+import { localDateKey } from '@/backend/date-utils.cjs'
+import { planDailyNewQuota } from '@/backend/study-goal.cjs'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 

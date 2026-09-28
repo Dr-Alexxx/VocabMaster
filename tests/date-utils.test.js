@@ -2,7 +2,7 @@ import { createRequire } from 'node:module'
 import { describe, expect, test } from 'vitest'
 
 const require = createRequire(import.meta.url)
-const { localDateKey, addLocalDays } = require('../electron/date-utils.cjs')
+const { localDateKey, addLocalDays } = require('../src/backend/date-utils.cjs')
 
 describe('local date keys', () => {
   test('keeps the local calendar date right after midnight', () => {

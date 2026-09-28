@@ -43,7 +43,7 @@ import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref } from 'v
 import { BookOpenCheck, ChartNoAxesCombined, ChevronRight, Clock3, Flame, Target } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
-import { addLocalDays } from '../../electron/date-utils.cjs'
+import { addLocalDays } from '@/backend/date-utils.cjs'
 import { api } from '@/services/api.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'

@@ -5,7 +5,7 @@ const path = require('node:path')
 
 let database
 
-const { schema } = require('./db-schema.cjs')
+const { schema } = require('../src/backend/schema.cjs')
 
 function seedDefaultVocabularies(db) {
   const directory = path.join(app.getAppPath(), 'resources', 'vocabularies')
