@@ -19,7 +19,8 @@
     "pack:zip": "node scripts/pack-zip.cjs",
     "cap:sync": "node scripts/copy-seed.cjs && vite build && cap sync android",
     "build:android": "npm run cap:sync && cd android && .\\gradlew.bat assembleDebug",
-    "build:android:release": "npm run cap:sync && cd android && .\\gradlew.bat assembleRelease"
+    "build:android:release": "npm run cap:sync && cd android && .\\gradlew.bat assembleRelease",
+    "pack:apk": "node scripts/pack-apk.cjs"
   },
   "dependencies": {
     "@capacitor-community/sqlite": "^7.0.3",

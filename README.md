@@ -1,9 +1,10 @@
 # VocabMaster
 
-VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面词汇学习应用。数据保存在本机 SQLite 数据库，不需要账号或网络连接。
+VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面与 Android 移动词汇学习应用。数据保存在本机 SQLite 数据库，不需要账号或网络连接。
 
 ## 主要功能
 
+- 支持 Android 移动端（Capacitor）：底部四 Tab 导航与触屏优化的学习页，数据保存在本机 SQLite
 - 内置 CET-4（2,000）、CET-6（2,500）、IELTS（3,000）、TOEFL（3,500）核心词汇，可按需启用或停用
 - 基于 SM-2 的智能复习调度，可调整初始难易度、间隔系数和掌握阈值
 - 卡片、拼写、选择题、混合四种学习方式，以及 20 题词汇测试（成绩报告与薄弱词清单）
@@ -80,6 +81,30 @@ macOS 构建产物位于 `release/`：
 - 执行 `xattr -dr com.apple.quarantine /Applications/VocabMaster.app` 清除隔离属性后再启动
 
 如有 Apple Developer 证书，可在 `package.json` 的 `build.mac` 中移除 `identity: null` 并配置签名与公证后重新构建，安装后即可直接打开。
+
+### 安卓构建
+
+安卓构建在 Windows 11 x64 上执行，需要 JDK 21（设置 `JAVA_HOME`）和 Android SDK（compileSdk 35）：
+
+```bash
+# 调试包（安装到已连接的设备）
+npm run build:android
+
+# 发布包（本地自签 keystore 签名）
+npm run build:android:release
+
+# 将发布 APK 拷贝为 release/ 下的发布产物
+npm run pack:apk
+```
+
+构建产物位于 `release/`：
+
+- `VocabMaster-1.0.1-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
+- `android/app/build/outputs/apk/release/app-release.apk`：Gradle 原始输出，`npm run pack:apk` 据此生成上述发布产物
+
+发布签名使用本地自签 keystore（`android/keystore/vocabmaster.keystore`，密码记录在 `android/keystore.properties`），两者仅保存在本机且不入库。缺失时发布构建回退为 debug 签名并打印提示，保证他人克隆后仍能出包。
+
+下一期范围：词库文件导入导出、学习数据备份与恢复暂不支持。
 
 ## 学习快捷键
 
