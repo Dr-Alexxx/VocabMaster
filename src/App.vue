@@ -2,7 +2,7 @@
   <div class="app-shell" :data-theme="settings.effectiveTheme" :data-font="settings.values.fontSize">
     <Sidebar v-if="route.name !== 'study'" :streak="streak" />
     <main :class="{ 'study-main': route.name === 'study' }"><RouterView @dashboard="updateDashboard" /></main>
-    <MobileTabs />
+    <MobileTabs v-if="route.name !== 'study'" />
     <ToastHost />
   </div>
 </template>

@@ -19,6 +19,11 @@
           <component :is="item.icon" :size="20" /><span>{{ item.name }}</span>
         </button>
       </div>
+      <div class="segmented source-segments">
+        <button v-for="item in sourceOptions" :key="item.id" :class="{ active: source === item.id }" @click="source = item.id">
+          <component :is="item.icon" :size="20" /><span>{{ item.name }}</span>
+        </button>
+      </div>
       <div class="setup-summary">
         <div><span>每日新词</span><b>{{ settings.values.dailyNewLimit }}</b></div>
         <div><span>每日复习上限</span><b>{{ settings.values.dailyReviewLimit }}</b></div>
@@ -58,6 +63,10 @@
           <p v-if="settings.values.showExamples && currentWord.examples?.[0]" class="example">{{ currentWord.examples[0] }}</p>
         </div>
         <button v-if="!revealed" class="primary-btn reveal-btn" @click="revealCard">显示答案 <span>Space</span></button>
+        <div v-if="!revealed" class="study-actions">
+          <button class="text-btn" :disabled="submitting" @click="skip"><SkipForward :size="17" />稍后再学</button>
+          <button class="text-btn" :disabled="submitting" @click="toggleFavorite"><Star :size="17" :fill="currentWord.is_favorited ? 'currentColor' : 'none'" />{{ currentWord.is_favorited ? '已收藏' : '收藏' }}</button>
+        </div>
       </section>
 
       <section v-else-if="currentMode === 'spelling'" class="study-card spelling-card">
@@ -74,6 +83,10 @@
           <div><b>{{ feedbackTitle }}</b><span v-if="feedbackDetail">{{ feedbackDetail }}</span></div>
           <button v-if="speech.manual" class="icon-btn" title="朗读 (P)" @click="speak"><Volume2 :size="19" /></button>
         </div>
+        <div v-if="!feedback" class="study-actions">
+          <button class="text-btn" :disabled="submitting" @click="skip"><SkipForward :size="17" />稍后再学</button>
+          <button class="text-btn" :disabled="submitting" @click="toggleFavorite"><Star :size="17" :fill="currentWord.is_favorited ? 'currentColor' : 'none'" />{{ currentWord.is_favorited ? '已收藏' : '收藏' }}</button>
+        </div>
       </section>
 
       <section v-else class="study-card choice-card">
@@ -85,6 +98,10 @@
             <span>{{ String.fromCharCode(65 + index) }}</span><b>{{ option }}</b>
           </button>
         </div>
+        <div v-if="!feedback" class="study-actions">
+          <button class="text-btn" :disabled="submitting" @click="skip"><SkipForward :size="17" />稍后再学</button>
+          <button class="text-btn" :disabled="submitting" @click="toggleFavorite"><Star :size="17" :fill="currentWord.is_favorited ? 'currentColor' : 'none'" />{{ currentWord.is_favorited ? '已收藏' : '收藏' }}</button>
+        </div>
       </section>
 
       <div v-if="revealed && currentMode === 'flashcard'" class="rating-panel">
@@ -92,10 +109,6 @@
         <div class="ratings"><button v-for="rating in ratings" :key="rating.value" :class="rating.class" :disabled="submitting" @click="submit(rating.value)"><b>{{ rating.value }}</b><span>{{ rating.label }}</span></button></div>
       </div>
       <div v-else-if="feedback" class="next-panel"><button class="primary-btn" aria-keyshortcuts="Enter" :disabled="submitting || !feedback.recorded" @click="nextWord">{{ submitting ? '正在保存...' : '下一题' }} <ArrowRight :size="18" /></button></div>
-      <div v-else class="study-actions">
-        <button class="text-btn" :disabled="submitting" @click="skip"><SkipForward :size="17" />稍后再学</button>
-        <button class="text-btn" :disabled="submitting" @click="toggleFavorite"><Star :size="17" :fill="currentWord.is_favorited ? 'currentColor' : 'none'" />{{ currentWord.is_favorited ? '已收藏' : '收藏' }}</button>
-      </div>
     </main>
 
     <div v-if="paused" class="pause-layer">
@@ -108,7 +121,7 @@
 <script setup>
 import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { ArrowLeft, ArrowRight, BadgeCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, Shuffle, SkipForward, Star, Trophy, Volume2 } from 'lucide-vue-next'
+import { ArrowLeft, ArrowRight, BadgeCheck, CalendarCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, Shuffle, SkipForward, Star, TriangleAlert, Trophy, Volume2 } from 'lucide-vue-next'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
 import { calculateQuality, spellingFeedback } from '@/algorithms/anki.js'
@@ -123,6 +136,9 @@ const modeOptions = [
   { id: 'flashcard', name: '卡片', icon: Layers3 }, { id: 'spelling', name: '拼写', icon: Keyboard },
   { id: 'choice', name: '选择', icon: BadgeCheck }, { id: 'mixed', name: '混合', icon: Shuffle },
   { id: 'test', name: '测试', icon: ClipboardCheck }
+]
+const sourceOptions = [
+  { id: 'daily', name: '今日', icon: CalendarCheck }, { id: 'mistakes', name: '错题', icon: TriangleAlert }, { id: 'favorites', name: '收藏', icon: Star }
 ]
 const ratings = [
   { value: 0, label: '忘记', class: 'fail' }, { value: 1, label: '模糊', class: 'fail' },
@@ -279,6 +295,12 @@ function resume() { pausedTotal.value += Date.now() - pausedAt.value; paused.val
 function leave() { router.push('/') }
 function restart() { completed.value = false; startSession() }
 function formatDuration(seconds) { return seconds < 60 ? `${seconds} 秒` : `${Math.floor(seconds / 60)} 分 ${seconds % 60} 秒` }
+function syncViewport() {
+  const offset = window.visualViewport
+    ? Math.max(0, window.innerHeight - window.visualViewport.height - window.visualViewport.offsetTop)
+    : 0
+  document.documentElement.style.setProperty('--keyboard-offset', `${offset}px`)
+}
 function handleKey(event) {
   if (event.key === 'Escape' && drawerOpen.value) { drawerOpen.value = false; return }
   if (event.key === 'Escape' && sessionActive.value) { event.preventDefault(); if (paused.value) resume(); else pauseStudy(); return }
@@ -297,5 +319,7 @@ function handleKey(event) {
   }
 }
 onMounted(() => { window.addEventListener('keydown', handleKey); if (route.query.start === '1') startSession() })
+onMounted(() => window.visualViewport?.addEventListener('resize', syncViewport))
+onBeforeUnmount(() => window.visualViewport?.removeEventListener('resize', syncViewport))
 onBeforeUnmount(() => { window.removeEventListener('keydown', handleKey); stopSpeech() })
 </script>
