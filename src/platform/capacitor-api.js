@@ -38,12 +38,18 @@ let backendPromise = null
 function getBackend() {
   if (!backendPromise) {
     backendPromise = (async () => {
-      const { createBackend, schema } = await import('@/backend/index.cjs')
+      const { createBackend, schema, ensureSeeded } = await import('@/backend/index.cjs')
       const connection = await sqlite.createConnection('vocabmaster', false, 'no-encryption', 1, false)
       await connection.open()
       await connection.execute(schema)
-      return createBackend(createCapacitorAdapter(connection))
-    })()
+      const adapter = createCapacitorAdapter(connection)
+      const loadJson = async (name) => (await fetch(`vocabularies/${name}`)).json()
+      await ensureSeeded(adapter, loadJson)
+      return createBackend(adapter)
+    })().catch((error) => {
+      backendPromise = null
+      throw error
+    })
   }
   return backendPromise
 }

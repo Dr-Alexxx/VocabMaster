@@ -17,7 +17,7 @@
     "build:mac": "vite build && electron-builder --mac --arm64",
     "pack:mac": "vite build && electron-builder --mac --arm64 --dir",
     "pack:zip": "node scripts/pack-zip.cjs",
-    "cap:sync": "vite build && cap sync android",
+    "cap:sync": "node scripts/copy-seed.cjs && vite build && cap sync android",
     "build:android": "npm run cap:sync && cd android && .\\gradlew.bat assembleDebug",
     "build:android:release": "npm run cap:sync && cd android && .\\gradlew.bat assembleRelease"
   },
