@@ -251,3 +251,15 @@ h3 { font-size: 15px; }
   .study-card h1 { font-size: 38px; }
   .mode-segments { margin-top: 22px; }
 }
+
+.mobile-tabs { display: none; }
+@media (max-width: 767.98px) {
+  .sidebar { display: none; }
+  .app-shell > main { width: 100%; margin-left: 0; }
+  .mobile-tabs { display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+    padding-bottom: env(safe-area-inset-bottom); background: var(--surface); border-top: 1px solid var(--border); }
+  .mobile-tabs a { flex: 1; display: grid; justify-items: center; gap: 2px; padding: 8px 0 6px; font-size: 11px; color: var(--text-soft); text-decoration: none; }
+  .mobile-tabs a.router-link-active { color: var(--primary); font-weight: 650; }
+  .app-shell > main, .page { padding-bottom: calc(64px + env(safe-area-inset-bottom)); }
+}
+@media (min-width: 768px) { .mobile-tabs { display: none; } }

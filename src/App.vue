@@ -2,6 +2,7 @@
   <div class="app-shell" :data-theme="settings.effectiveTheme" :data-font="settings.values.fontSize">
     <Sidebar v-if="route.name !== 'study'" :streak="streak" />
     <main :class="{ 'study-main': route.name === 'study' }"><RouterView @dashboard="updateDashboard" /></main>
+    <MobileTabs />
     <ToastHost />
   </div>
 </template>
@@ -10,6 +11,7 @@
 import { onMounted, ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import Sidebar from '@/components/Sidebar.vue'
+import MobileTabs from '@/components/MobileTabs.vue'
 import ToastHost from '@/components/ToastHost.vue'
 import { useSettingsStore } from '@/stores/settings.js'
 import { api } from '@/services/api.js'
