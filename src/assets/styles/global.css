@@ -170,7 +170,7 @@ h3 { font-size: 15px; }
 .setup-heading p, .study-complete > p { margin-top: 8px; color: var(--text-soft); }
 .mode-segments { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; min-width: 0; margin: 34px 0 12px; }
 .mode-segments button { min-height: 62px; }
-.source-segments { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); width: 100%; min-width: 0; margin-bottom: 20px; }
+.source-segments { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; min-width: 0; margin-bottom: 20px; }
 .source-segments button { min-height: 48px; }
 .setup-summary { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); width: 100%; min-width: 0; margin-bottom: 28px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
 .setup-summary div { display: flex; flex-direction: column; padding: 16px; border-right: 1px solid var(--border); }

@@ -121,7 +121,7 @@
 <script setup>
 import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { ArrowLeft, ArrowRight, BadgeCheck, CalendarCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, Shuffle, SkipForward, Star, TriangleAlert, Trophy, Volume2 } from 'lucide-vue-next'
+import { ArrowLeft, ArrowRight, BadgeCheck, CalendarCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, RefreshCw, Shuffle, SkipForward, Star, TriangleAlert, Trophy, Volume2 } from 'lucide-vue-next'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
 import { calculateQuality, spellingFeedback } from '@/algorithms/anki.js'
@@ -138,15 +138,16 @@ const modeOptions = [
   { id: 'test', name: '测试', icon: ClipboardCheck }
 ]
 const sourceOptions = [
-  { id: 'daily', name: '今日', icon: CalendarCheck }, { id: 'mistakes', name: '错题', icon: TriangleAlert }, { id: 'favorites', name: '收藏', icon: Star }
+  { id: 'daily', name: '今日', icon: CalendarCheck }, { id: 'mistakes', name: '错题', icon: TriangleAlert }, { id: 'favorites', name: '收藏', icon: Star },
+  { id: 'consolidate', name: '巩固', icon: RefreshCw }
 ]
 const ratings = [
   { value: 0, label: '忘记', class: 'fail' }, { value: 1, label: '模糊', class: 'fail' },
   { value: 2, label: '困难', class: 'hard' }, { value: 3, label: '犹豫', class: 'okay' },
   { value: 4, label: '轻松', class: 'good' }, { value: 5, label: '熟练', class: 'easy' }
 ]
-const selectedMode = ref(['flashcard','spelling','choice','mixed','test'].includes(route.query.mode) ? route.query.mode : 'mixed')
-const source = ref(['daily','mistakes','favorites'].includes(route.query.source) ? route.query.source : 'daily')
+const selectedMode = ref(['flashcard','spelling','choice','mixed','test'].includes(route.query.mode) ? route.query.mode : 'choice')
+const source = ref(['daily','mistakes','favorites','consolidate'].includes(route.query.source) ? route.query.source : 'daily')
 const loading = ref(false); const sessionActive = ref(false); const completed = ref(false); const paused = ref(false)
 const submitting = ref(false)
 const words = ref([]); const modes = ref([]); const choicePool = ref([]); const currentIndex = ref(0)
@@ -159,7 +160,7 @@ const currentWord = computed(() => words.value[currentIndex.value] || null)
 const currentMode = computed(() => modes.value[currentIndex.value] || selectedMode.value)
 const progress = computed(() => words.value.length ? Math.round(currentIndex.value / words.value.length * 100) : 0)
 const accuracy = computed(() => sessionStats.value.total ? Math.round(sessionStats.value.correct / sessionStats.value.total * 100) : 0)
-const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹' })[source.value])
+const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹', consolidate: '巩固复习' })[source.value])
 const testResult = computed(() => testGrade(sessionStats.value.correct, sessionStats.value.total))
 const speech = computed(() => speechPolicy({
   mode: currentMode.value,
@@ -201,7 +202,10 @@ async function startSession() {
   try {
     const plan = await api.dailyPlan({ ...settings.values }, selectedMode.value === 'test' ? 'test' : source.value)
     words.value = plan.words; choicePool.value = plan.choicePool || []
-    modes.value = words.value.map(() => selectedMode.value === 'mixed' ? shuffled(['flashcard','spelling','choice'])[0] : selectedMode.value === 'test' ? shuffled(['spelling','choice'])[0] : selectedMode.value)
+    modes.value = words.value.map((word) => {
+      if (word.queue_type === 'new' || word.status === 'new') return 'choice'
+      return selectedMode.value === 'mixed' ? shuffled(['flashcard','spelling','choice'])[0] : selectedMode.value === 'test' ? shuffled(['spelling','choice'])[0] : selectedMode.value
+    })
     currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0 }; wrongWords.value = []; startedAt.value = Date.now(); pausedTotal.value = 0
     if (!words.value.length) { completed.value = true; sessionActive.value = false }
     else { sessionActive.value = true; completed.value = false; prepareQuestion() }
@@ -214,7 +218,7 @@ async function submit(quality) {
   const elapsed = Math.max(0, Math.round((Date.now() - questionStartedAt.value) / 1000))
   let shouldAdvance = false
   try {
-    await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, timeSpent: elapsed, options: { ...settings.reviewOptions } })
+    await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, timeSpent: elapsed, reset: source.value === 'consolidate', options: { ...settings.reviewOptions } })
     sessionStats.value.total += 1
     if (quality >= 3) sessionStats.value.correct += 1
     else if (selectedMode.value === 'test') wrongWords.value.push(currentWord.value.word)
