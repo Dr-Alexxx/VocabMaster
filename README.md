@@ -7,9 +7,9 @@ VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面
 - 支持 Android 移动端（Capacitor）：底部四 Tab 导航与触屏优化的学习页，数据保存在本机 SQLite
 - 内置 CET-4（2,000）、CET-6（2,500）、IELTS（3,000）、TOEFL（3,500）核心词汇，可按需启用或停用
 - 基于 SM-2 的智能复习调度，可调整初始难易度、间隔系数和掌握阈值
-- 卡片、拼写、选择题、混合四种学习方式，以及 20 题词汇测试（成绩报告与薄弱词清单）
+- 卡片、拼写、选择题、混合四种学习方式，以及 20 题词汇测试（成绩报告与薄弱词清单）；生词固定用选择题认词，卡片与拼写只针对已学词
 - 拼写按编辑距离容错评分，并显式提示“接近正确”
-- 三种学习来源：今日计划、错题专项、收藏专项复习
+- 四种学习来源：今日计划、错题专项、收藏专项、巩固复习（易忘词优先，答题后重置记忆曲线重新排期）
 - 学习目标：设定截止日期后自动摊派每日新词量，并随完成进度动态调整
 - 跨词库学习去重、错题本、常错本（累计错 3 次）、收藏和个人笔记
 - 单词详情抽屉：释义、音标、例句、词源、近反义词、学习记录与正确率
@@ -43,15 +43,15 @@ npm run pack:zip
 npm run build:mac
 ```
 
-`npm test` 运行 9 个测试套件（SM-2 算法、本地日期与目标摊派、学习交互与测试评级、语音选择、备份合并策略、词库模板、内置词库与开放词库数据校验）。
+`npm test` 运行 15 个测试套件（SM-2 算法、本地日期与目标摊派、学习交互与测试评级、语音选择、备份合并策略、词库模板、内置词库与开放词库数据校验）。
 
 ### Windows 构建
 
 Windows 构建产物位于 `release/`（`npm run build:win` 生成安装包与程序目录，`npm run pack:zip` 将 `win-unpacked/` 打包为发布 zip）：
 
-- `VocabMaster-Setup-1.0.1-win-x64.exe`：可选择安装目录的 NSIS 安装程序
-- `VocabMaster-Portable-1.0.1-win-x64.exe`：无需安装的便携启动器
-- `VocabMaster-1.0.1-win-x64.zip`：直接包含 AMD64 主程序的压缩包
+- `VocabMaster-Setup-1.0.2-win-x64.exe`：可选择安装目录的 NSIS 安装程序
+- `VocabMaster-Portable-1.0.2-win-x64.exe`：无需安装的便携启动器
+- `VocabMaster-1.0.2-win-x64.zip`：直接包含 AMD64 主程序的压缩包
 - `win-unpacked/`：未压缩的 x64 程序目录
 
 NSIS 安装器和便携启动器使用通用 Windows 引导壳，内部应用与 SQLite 原生模块均按 AMD64/x64 构建。
@@ -66,13 +66,13 @@ macOS 构建流程（Apple Silicon / arm64）：
 
 macOS 构建产物位于 `release/`：
 
-- `VocabMaster-Setup-1.0.1-mac-arm64.dmg`：磁盘映像安装包
-- `VocabMaster-1.0.1-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
+- `VocabMaster-Setup-1.0.2-mac-arm64.dmg`：磁盘映像安装包
+- `VocabMaster-1.0.2-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
 - `mac-arm64/VocabMaster.app`：未打包的 arm64 应用程序包
 
 ### macOS 安装
 
-1. 打开 `VocabMaster-Setup-1.0.1-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
+1. 打开 `VocabMaster-Setup-1.0.2-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
 2. 从“应用程序”启动 VocabMaster
 
 注意：当前构建未配置 Apple 开发者签名与公证（`identity: null`），首次打开会被 Gatekeeper 拦截（提示“无法验证开发者”或“已损坏”）。处理方式：
@@ -99,7 +99,7 @@ npm run pack:apk
 
 构建产物位于 `release/`：
 
-- `VocabMaster-1.0.1-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
+- `VocabMaster-1.0.2-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
 - `android/app/build/outputs/apk/release/app-release.apk`：Gradle 原始输出，`npm run pack:apk` 据此生成上述发布产物
 
 发布签名使用本地自签 keystore（`android/keystore/vocabmaster.keystore`，密码记录在 `android/keystore.properties`），两者仅保存在本机且不入库。缺失时发布构建回退为 debug 签名并打印提示，保证他人克隆后仍能出包。
