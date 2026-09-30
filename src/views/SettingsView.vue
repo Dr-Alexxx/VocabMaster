@@ -43,7 +43,7 @@
       <button class="data-action" @click="previewImport"><Upload :size="19" /><span><b>从备份恢复</b><small>先预览内容，再替换当前数据</small></span><ChevronRight :size="18" /></button>
       <button class="data-action danger-action" @click="resetDialog = true"><Trash2 :size="19" /><span><b>清空学习记录</b><small>保留词库、收藏和个人笔记</small></span><ChevronRight :size="18" /></button>
     </section>
-    <footer class="app-about"><img src="/app-icon.png" alt="" /><div><b>VocabMaster {{ appVersion }}</b><span>Windows x64 · 本地数据存储</span></div></footer>
+    <footer class="app-about"><img src="/app-icon.png" alt="" /><div><b>VocabMaster {{ appVersion }}</b><span>{{ platformLabel }} · 本地数据存储</span></div></footer>
 
     <Teleport to="body"><div v-if="backupPreview" class="dialog-layer" @click.self="backupPreview = null"><section class="dialog backup-dialog"><div class="dialog-icon"><Database :size="22" /></div><h2>确认恢复备份</h2><p>{{ backupPreview.filename }}</p><dl><div><dt>导出时间</dt><dd>{{ formatDate(backupPreview.exportedAt) }}</dd></div><div><dt>词库</dt><dd>{{ backupPreview.vocabularies }} 个</dd></div><div><dt>单词</dt><dd>{{ backupPreview.words }} 个</dd></div><div><dt>学习记录</dt><dd>{{ backupPreview.records }} 条</dd></div></dl>
       <div class="strategy-pick" role="radiogroup" aria-label="恢复策略">
@@ -67,6 +67,14 @@ import { useToast } from '@/composables/useToast.js'
 
 const settings = useSettingsStore(); const values = computed(() => settings.values); const toast = useToast()
 const appVersion = __APP_VERSION__
+const platformLabel = (() => {
+  if (window.Capacitor?.isNativePlatform?.()) {
+    const platform = window.Capacitor.getPlatform?.()
+    return platform === 'android' ? 'Android' : platform === 'ios' ? 'iOS' : '移动端'
+  }
+  if (navigator.userAgent.includes('Electron')) return navigator.userAgent.includes('Mac') ? 'macOS' : 'Windows x64'
+  return 'Web'
+})()
 const resetDialog = ref(false); const backupPreview = ref(null); const restoreStrategy = ref('replace')
 const restoreStrategies = [
   { value: 'replace', label: '覆盖全部', hint: '清空当前数据后完整恢复备份' },
