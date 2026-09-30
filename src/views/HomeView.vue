@@ -32,7 +32,7 @@
             目标截止 {{ goalDeadlineText }} · 剩余 {{ goalPlan.daysLeft }} 天 · 今日建议 {{ goalPlan.quota }} 个新词
             <b v-if="!goalPlan.feasible">按每日上限无法按期完成，建议延长截止日期</b>
           </p>
-          <button class="primary-btn large" @click="start('mixed')"><Play :size="19" fill="currentColor" />开始学习</button>
+          <button class="primary-btn large" @click="start('choice')"><Play :size="19" fill="currentColor" />开始学习</button>
         </div>
         <div class="today-progress" :style="{ '--progress': `${todayProgress}%` }">
           <div class="progress-ring"><strong>{{ dashboard.todayTotal }}</strong><span>今日已答</span></div>
@@ -79,7 +79,7 @@
 <script setup>
 import { computed, onActivated, onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
-import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock3, Flame, Keyboard, Layers3, Play, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
+import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock3, Flame, Keyboard, Layers3, Play, RefreshCw, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
@@ -119,8 +119,9 @@ const modes = [
   { id: 'flashcard', name: '卡片记忆', description: '翻转卡片后进行 0–5 自评', icon: Layers3 },
   { id: 'spelling', name: '拼写练习', description: '根据释义输入英文单词', icon: Keyboard },
   { id: 'choice', name: '选择题', description: '从四个释义中辨认答案', icon: BadgeCheck },
-  { id: 'mixed', name: '混合模式', description: '三种题型自动交替出现', icon: Shuffle },
-  { id: 'test', name: '词汇测试', description: '20 题拼写与选择测验，生成成绩报告', icon: ClipboardCheck }
+  { id: 'mixed', name: '混合模式', description: '复习词三种题型交替出现', icon: Shuffle },
+  { id: 'test', name: '词汇测试', description: '20 题拼写与选择测验，生成成绩报告', icon: ClipboardCheck },
+  { id: 'consolidate', name: '巩固复习', description: '容易忘的词优先巩固，答题后重置记忆曲线', icon: RefreshCw }
 ]
 
 async function load() {
@@ -132,7 +133,10 @@ async function load() {
   } catch (error) { toast.error(error.message) }
 }
 async function loadFavorites() { favorites.value = await api.favorites() }
-function start(mode) { router.push({ name: 'study', query: { mode, start: '1' } }) }
+function start(mode) {
+  if (mode === 'consolidate') { router.push({ name: 'study', query: { source: 'consolidate', mode: 'mixed', start: '1' } }); return }
+  router.push({ name: 'study', query: { mode, start: '1' } })
+}
 function reviewFavorites() { router.push({ name: 'study', query: { mode: 'mixed', source: 'favorites', start: '1' } }) }
 function openWord(id) { selectedWord.value = id; drawerOpen.value = true }
 function statusLabel(status) { return ({ new: '新词', learning: '学习中', review: '复习中', mastered: '已掌握' })[status] || '新词' }
