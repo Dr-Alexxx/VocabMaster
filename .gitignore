@@ -7,6 +7,7 @@ public/vocabularies/
 *.log
 .vite/
 .agents/
+docs/
 __pycache__/
 *.py[cod]
 .DS_Store
