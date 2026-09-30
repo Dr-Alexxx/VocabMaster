@@ -195,7 +195,10 @@ function createBackend(adapter, {
         record = await adapter.get('SELECT * FROM learning_records WHERE word_id = ?', [wordId])
       }
       const wasNew = !record.is_learned
-      const next = calculateReview(record, quality, payload.options)
+      const reset = payload.reset === true
+      const next = reset
+        ? { easiness_factor: Number(record.easiness_factor) || 2.5, interval: 1, repetitions: 0, status: 'learning', next_review_date: addDaysFrom(1) }
+        : calculateReview(record, quality, payload.options)
       await adapter.run(`
         UPDATE learning_records SET easiness_factor = ?, interval = ?, repetitions = ?, status = ?,
           next_review_date = ?, last_review_date = ?, is_learned = 1,
@@ -284,6 +287,18 @@ function createBackend(adapter, {
         FROM words w JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN learning_records lr ON lr.word_id = w.id
         WHERE w.is_favorited = 1 ORDER BY w.id DESC LIMIT ?
       `, [Math.max(reviewLimit, 20)])
+    } else if (source === 'consolidate') {
+      reviews = await adapter.all(`
+        SELECT w.*, v.name vocabulary_name, lr.easiness_factor, lr.interval, lr.repetitions,
+          lr.status, 'review' queue_type, COALESCE(m.mistake_count, 0) mistake_count
+        FROM learning_records lr JOIN words w ON w.id = lr.word_id
+        JOIN vocabularies v ON v.id = w.vocabulary_id LEFT JOIN mistake_book m ON m.word_id = w.id
+        WHERE v.is_active = 1 AND lr.is_learned = 1
+        ORDER BY CASE WHEN lr.next_review_date <= ? THEN 0 ELSE 1 END,
+          COALESCE(m.mistake_count, 0) DESC, lr.easiness_factor ASC,
+          COALESCE(lr.last_review_date, '') ASC
+        LIMIT 30
+      `, [todayKey()])
     } else if (source === 'test') {
       newWords = await adapter.all(`
         SELECT w.*, v.name vocabulary_name, COALESCE(lr.easiness_factor, 2.5) easiness_factor,
