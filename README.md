@@ -17,6 +17,7 @@ VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面
 - 学习趋势、词库完成度、模式表现、热力图和薄弱词分析
 - CSV、Excel、JSON、TXT 词库字段映射导入，词库可导出为 JSON 或 CSV
 - 词库页面内置制作规范，并可下载 CSV、Excel、JSON 标准模板
+- Android 支持系统文件选择器导入词库、分享词库/模板和完整学习数据备份；恢复支持覆盖、合并与跳过策略
 - 系统语音朗读（美音/英音、0.5–2.0x 语速可调）：题目出现与揭晓答案时可自动朗读，点按单词或发音按钮随时反复跟读；每日新词/复习上限、例句显示和四档字体大小可调
 - 完整学习数据备份与恢复（覆盖/合并/跳过三种策略）、清空学习记录（保留词库、收藏与笔记），支持浅色、深色和跟随系统主题
 
@@ -49,9 +50,9 @@ npm run build:mac
 
 Windows 构建产物位于 `release/`（`npm run build:win` 生成安装包与程序目录，`npm run pack:zip` 将 `win-unpacked/` 打包为发布 zip）：
 
-- `VocabMaster-Setup-1.0.2-win-x64.exe`：可选择安装目录的 NSIS 安装程序
-- `VocabMaster-Portable-1.0.2-win-x64.exe`：无需安装的便携启动器
-- `VocabMaster-1.0.2-win-x64.zip`：直接包含 AMD64 主程序的压缩包
+- `VocabMaster-Setup-1.1.0-win-x64.exe`：可选择安装目录的 NSIS 安装程序
+- `VocabMaster-Portable-1.1.0-win-x64.exe`：无需安装的便携启动器
+- `VocabMaster-1.1.0-win-x64.zip`：直接包含 AMD64 主程序的压缩包
 - `win-unpacked/`：未压缩的 x64 程序目录
 
 NSIS 安装器和便携启动器使用通用 Windows 引导壳，内部应用与 SQLite 原生模块均按 AMD64/x64 构建。
@@ -66,13 +67,13 @@ macOS 构建流程（Apple Silicon / arm64）：
 
 macOS 构建产物位于 `release/`：
 
-- `VocabMaster-Setup-1.0.2-mac-arm64.dmg`：磁盘映像安装包
-- `VocabMaster-1.0.2-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
+- `VocabMaster-Setup-1.1.0-mac-arm64.dmg`：磁盘映像安装包
+- `VocabMaster-1.1.0-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
 - `mac-arm64/VocabMaster.app`：未打包的 arm64 应用程序包
 
 ### macOS 安装
 
-1. 打开 `VocabMaster-Setup-1.0.2-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
+1. 打开 `VocabMaster-Setup-1.1.0-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
 2. 从“应用程序”启动 VocabMaster
 
 注意：当前构建未配置 Apple 开发者签名与公证（`identity: null`），首次打开会被 Gatekeeper 拦截（提示“无法验证开发者”或“已损坏”）。处理方式：
@@ -99,12 +100,12 @@ npm run pack:apk
 
 构建产物位于 `release/`：
 
-- `VocabMaster-1.0.2-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
+- `VocabMaster-1.1.0-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
 - `android/app/build/outputs/apk/release/app-release.apk`：Gradle 原始输出，`npm run pack:apk` 据此生成上述发布产物
 
 发布签名使用本地自签 keystore（`android/keystore/vocabmaster.keystore`，密码记录在 `android/keystore.properties`），两者仅保存在本机且不入库。缺失时发布构建回退为 debug 签名并打印提示，保证他人克隆后仍能出包。
 
-下一期范围：词库文件导入导出、学习数据备份与恢复暂不支持。
+Android 端支持词库文件导入导出和完整学习数据备份恢复；文件由系统分享面板交付到用户选择的位置或应用，应用不会自动上传数据。
 
 ## 学习快捷键
 

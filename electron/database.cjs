@@ -58,7 +58,11 @@ function getDatabase() {
   database.pragma('journal_mode = WAL')
   database.pragma('foreign_keys = ON')
   database.exec(schema)
-  database.pragma('user_version = 1')
+  const historyColumns = database.prepare('PRAGMA table_info(study_history)').all()
+  if (!historyColumns.some((column) => column.name === 'session_mode')) {
+    database.exec("ALTER TABLE study_history ADD COLUMN session_mode TEXT NOT NULL DEFAULT ''")
+  }
+  database.pragma('user_version = 2')
   seedDefaultVocabularies(database)
   return database
 }

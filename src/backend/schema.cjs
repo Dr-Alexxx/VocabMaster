@@ -48,6 +48,7 @@ const schema = `
     word_id INTEGER NOT NULL REFERENCES words(id) ON DELETE CASCADE,
     learning_record_id INTEGER NOT NULL REFERENCES learning_records(id) ON DELETE CASCADE,
     study_mode TEXT NOT NULL,
+    session_mode TEXT NOT NULL DEFAULT '',
     quality INTEGER NOT NULL,
     time_spent INTEGER NOT NULL DEFAULT 0,
     is_correct INTEGER NOT NULL DEFAULT 0,

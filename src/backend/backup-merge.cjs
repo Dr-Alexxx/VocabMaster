@@ -13,7 +13,7 @@ async function replaceAll(adapter, data) {
     vocabularies: ['id', 'name', 'type', 'description', 'is_default', 'is_active', 'created_at', 'updated_at'],
     words: ['id', 'vocabulary_id', 'word', 'phonetic', 'definition', 'examples', 'etymology', 'synonyms', 'antonyms', 'frequency', 'notes', 'is_favorited', 'created_at'],
     learning_records: ['id', 'word_id', 'easiness_factor', 'interval', 'repetitions', 'status', 'next_review_date', 'last_review_date', 'is_learned', 'first_learned_at', 'created_at', 'updated_at'],
-    study_history: ['id', 'word_id', 'learning_record_id', 'study_mode', 'quality', 'time_spent', 'is_correct', 'studied_at'],
+    study_history: ['id', 'word_id', 'learning_record_id', 'study_mode', 'session_mode', 'quality', 'time_spent', 'is_correct', 'studied_at'],
     mistake_book: ['id', 'word_id', 'mistake_count', 'last_mistake_at', 'last_mode', 'is_frequent', 'created_at'],
     daily_statistics: ['id', 'date', 'new_words_count', 'review_count', 'correct_count', 'total_count', 'study_time', 'created_at'],
     user_settings: ['id', 'key', 'value', 'updated_at']
@@ -23,7 +23,9 @@ async function replaceAll(adapter, data) {
   for (const [table, fields] of Object.entries(columns)) {
     const insert = `INSERT INTO ${table} (${fields.join(',')}) VALUES (${fields.map(stamp).join(',')})`
     for (const row of data[table] || []) {
-      await adapter.run(insert, fields.map((field) => row[field] ?? null))
+      await adapter.run(insert, fields.map((field) => field === 'session_mode'
+        ? (row.session_mode || row.study_mode || 'flashcard')
+        : row[field] ?? null))
       added += 1
     }
   }
@@ -85,8 +87,8 @@ async function combine(adapter, data, mergeUpdates) {
     }
   }
 
-  const insertHistory = `INSERT INTO study_history (word_id, learning_record_id, study_mode, quality, time_spent, is_correct, studied_at)
-    VALUES (?, ?, ?, ?, ?, ?, ?)`
+  const insertHistory = `INSERT INTO study_history (word_id, learning_record_id, study_mode, session_mode, quality, time_spent, is_correct, studied_at)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?)`
   for (const row of data.study_history || []) {
     const wordId = wordMap.get(row.word_id)
     if (wordId == null) continue
@@ -99,7 +101,7 @@ async function combine(adapter, data, mergeUpdates) {
       record = { id: inserted.lastInsertRowid }
       counts.added += 1
     }
-    await adapter.run(insertHistory, [wordId, record.id, row.study_mode || 'flashcard', row.quality ?? 0, row.time_spent ?? 0, boolInt(row.is_correct), row.studied_at ?? null])
+    await adapter.run(insertHistory, [wordId, record.id, row.study_mode || 'flashcard', row.session_mode || row.study_mode || 'flashcard', row.quality ?? 0, row.time_spent ?? 0, boolInt(row.is_correct), row.studied_at ?? null])
     counts.added += 1
   }
 

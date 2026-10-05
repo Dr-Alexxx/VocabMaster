@@ -83,9 +83,15 @@ watch(() => [props.open, props.wordId], async ([open, id]) => {
 function statusLabel(status) { return ({ new: '新词', learning: '学习中', review: '复习中', mastered: '已掌握' })[status] || '新词' }
 function speak() { if (word.value) speakWord(word.value.word) }
 async function toggleFavorite() {
-  word.value = { ...word.value, is_favorited: !word.value.is_favorited }
-  await api.updateWord(word.value.id, { is_favorited: word.value.is_favorited })
-  emit('updated', word.value)
+  const previous = word.value.is_favorited
+  word.value = { ...word.value, is_favorited: !previous }
+  try {
+    await api.updateWord(word.value.id, { is_favorited: word.value.is_favorited })
+    emit('updated', word.value)
+  } catch (error) {
+    word.value = { ...word.value, is_favorited: previous }
+    toast.error(error.message)
+  }
 }
 async function save() {
   await api.updateWord(word.value.id, { notes: notes.value })

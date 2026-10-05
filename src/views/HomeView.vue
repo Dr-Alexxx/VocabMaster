@@ -26,13 +26,14 @@
       <section class="today-band">
         <div class="today-copy">
           <span class="eyebrow">今日计划</span>
-          <h2>{{ dashboard.due ? '先完成到期复习，再学习新词' : '复习已清空，可以开始新词' }}</h2>
-          <p>{{ dashboard.due }} 个待复习 · 最多 {{ plannedNew }} 个新词</p>
+          <h2>{{ planHeading }}</h2>
+          <p>{{ planDescription }}</p>
           <p v-if="goalActive" class="goal-line">
             目标截止 {{ goalDeadlineText }} · 剩余 {{ goalPlan.daysLeft }} 天 · 今日建议 {{ goalPlan.quota }} 个新词
             <b v-if="!goalPlan.feasible">按每日上限无法按期完成，建议延长截止日期</b>
           </p>
-          <button class="primary-btn large" @click="start('choice')"><Play :size="19" fill="currentColor" />开始学习</button>
+          <button v-if="dashboard.activeVocabularyCount" class="primary-btn large" @click="start('choice')"><Play :size="19" fill="currentColor" />开始学习</button>
+          <button v-else class="primary-btn large" @click="router.push('/vocab')"><LibraryBig :size="19" />管理词库</button>
         </div>
         <div class="today-progress" :style="{ '--progress': `${todayProgress}%` }">
           <div class="progress-ring"><strong>{{ dashboard.todayTotal }}</strong><span>今日已答</span></div>
@@ -92,7 +93,7 @@ const emit = defineEmits(['dashboard'])
 const router = useRouter()
 const settings = useSettingsStore()
 const toast = useToast()
-const dashboard = ref({ due: 0, newCount: 0, learned: 0, mastered: 0, streak: 0, weekTime: 0, todayTotal: 0, todayCorrect: 0 })
+const dashboard = ref({ due: 0, newCount: 0, learned: 0, mastered: 0, vocabularyCount: 0, activeVocabularyCount: 0, streak: 0, weekTime: 0, todayTotal: 0, todayCorrect: 0 })
 const favorites = ref([])
 const query = ref('')
 const results = ref([])
@@ -115,6 +116,15 @@ const goalDeadlineText = computed(() => settings.values.goalDeadline
   ? new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric' }).format(new Date(`${settings.values.goalDeadline}T00:00:00`))
   : '')
 const todayProgress = computed(() => Math.min(100, Math.round(dashboard.value.todayTotal / Math.max(1, settings.values.dailyNewLimit + dashboard.value.due) * 100)))
+const planHeading = computed(() => {
+  if (!dashboard.value.vocabularyCount) return '添加词库，开始第一组学习'
+  if (!dashboard.value.activeVocabularyCount) return '启用词库后即可开始学习'
+  if (dashboard.value.due || plannedNew.value) return dashboard.value.due ? '先完成到期复习，再学习新词' : '复习已清空，可以开始新词'
+  return '今日计划已完成'
+})
+const planDescription = computed(() => dashboard.value.activeVocabularyCount
+  ? `${dashboard.value.due} 个待复习 · 最多 ${plannedNew.value} 个新词`
+  : dashboard.value.vocabularyCount ? '已添加的词库目前都已停用' : '可启用内置词库或导入自己的词汇表')
 const modes = [
   { id: 'flashcard', name: '卡片记忆', description: '翻转卡片后进行 0–5 自评', icon: Layers3 },
   { id: 'spelling', name: '拼写练习', description: '根据释义输入英文单词', icon: Keyboard },

@@ -66,6 +66,8 @@ function createBackend(adapter, {
   }
 
   async function getDashboard() {
+    const vocabularySummary = await adapter.get(`SELECT COUNT(*) total,
+      COUNT(CASE WHEN is_active = 1 THEN 1 END) active FROM vocabularies`)
     const due = (await adapter.get(`
       SELECT COUNT(*) count FROM learning_records lr
       JOIN words w ON w.id = lr.word_id JOIN vocabularies v ON v.id = w.vocabulary_id
@@ -85,6 +87,7 @@ function createBackend(adapter, {
     const weekTime = (await adapter.get("SELECT COALESCE(SUM(study_time), 0) value FROM daily_statistics WHERE date >= date('now','localtime','-6 days')")).value
     return {
       due, newCount, learned: summary.learned || 0, mastered: summary.mastered || 0,
+      vocabularyCount: vocabularySummary.total || 0, activeVocabularyCount: vocabularySummary.active || 0,
       streak: await computeStreak(), weekTime, todayTotal: daily.total_count || 0,
       todayCorrect: daily.correct_count || 0, todayTime: daily.study_time || 0
     }
@@ -153,12 +156,21 @@ function createBackend(adapter, {
   }
 
   async function getStatistics(days = 30) {
-    const range = boundedInt(days, 7, 365, 30)
-    const daily = await adapter.all("SELECT * FROM daily_statistics WHERE date >= date('now','localtime', ?) ORDER BY date", [`-${range - 1} days`])
+    const allTime = days === 'all'
+    const range = allTime ? null : boundedInt(days, 7, 365, 30)
+    const rangeParams = allTime ? [] : [`-${range - 1} days`]
+    const daily = await adapter.all(allTime
+      ? 'SELECT * FROM daily_statistics ORDER BY date'
+      : "SELECT * FROM daily_statistics WHERE date >= date('now','localtime', ?) ORDER BY date", rangeParams)
+    const heatmap = await adapter.all("SELECT * FROM daily_statistics WHERE date >= date('now','localtime', '-125 days') ORDER BY date")
+    const historyFilter = allTime ? '' : "WHERE date(studied_at, 'localtime') >= date('now','localtime', ?)"
     const modes = await adapter.all(`
-      SELECT study_mode mode, COUNT(*) total, SUM(is_correct) correct, SUM(time_spent) time
-      FROM study_history GROUP BY study_mode
-    `)
+      SELECT COALESCE(NULLIF(session_mode, ''), study_mode) mode, COUNT(*) total,
+        SUM(is_correct) correct, SUM(time_spent) time
+      FROM study_history ${historyFilter}
+      GROUP BY COALESCE(NULLIF(session_mode, ''), study_mode)
+      ORDER BY mode
+    `, rangeParams)
     const vocabularies = await adapter.all(`
       SELECT v.id, v.name, COUNT(w.id) total, COUNT(CASE WHEN lr.is_learned = 1 THEN 1 END) learned,
         COUNT(CASE WHEN lr.status = 'mastered' THEN 1 END) mastered
@@ -173,14 +185,71 @@ function createBackend(adapter, {
       ORDER BY (1.0 * m.mistake_count / (COALESCE(lr.repetitions, 0) + 1)) DESC LIMIT 20
     `)).map(hydrateWord)
     const totals = await adapter.get(`SELECT COALESCE(SUM(total_count),0) total, COALESCE(SUM(correct_count),0) correct,
-      COALESCE(SUM(study_time),0) time, COALESCE(SUM(new_words_count),0) learned FROM daily_statistics`)
-    return { daily, modes, vocabularies, weakWords, totals: { ...totals, streak: await computeStreak() } }
+      COALESCE(SUM(study_time),0) time, COALESCE(SUM(new_words_count),0) learned FROM daily_statistics
+      ${allTime ? '' : "WHERE date >= date('now','localtime', ?)"}`, rangeParams)
+    return { daily, heatmap, modes, vocabularies, weakWords, totals: { ...totals, streak: await computeStreak() }, range: allTime ? 'all' : range }
   }
 
   async function updateWord(id, updates = {}) {
     if (Object.hasOwn(updates, 'is_favorited')) await adapter.run('UPDATE words SET is_favorited = ? WHERE id = ?', [updates.is_favorited ? 1 : 0, Number(id)])
     if (Object.hasOwn(updates, 'notes')) await adapter.run('UPDATE words SET notes = ? WHERE id = ?', [String(updates.notes || '').slice(0, 4000), Number(id)])
     return hydrateWord(await adapter.get('SELECT * FROM words WHERE id = ?', [Number(id)]))
+  }
+
+  async function importVocabulary({ name, filename, headers = [], rows = [], mapping = {} } = {}) {
+    const vocabName = String(name || '自定义词库').trim().slice(0, 80)
+    if (!vocabName) throw new Error('请输入词库名称')
+    if (!mapping.word || !mapping.definition) throw new Error('必须映射单词和释义字段')
+    if (rows.length > 50000) throw new Error('单个词库最多支持 50,000 行')
+    const indexes = Object.fromEntries(Object.entries(mapping).map(([field, header]) => [field, headers.indexOf(header)]))
+    const valueFor = (row, field) => indexes[field] >= 0 ? row[indexes[field]] : ''
+    const listValue = (value) => {
+      if (Array.isArray(value)) return value.map(String).map((item) => item.trim()).filter(Boolean)
+      const text = String(value || '').trim()
+      if (!text) return []
+      try { const parsed = JSON.parse(text); if (Array.isArray(parsed)) return parsed.map(String).map((item) => item.trim()).filter(Boolean) } catch {}
+      return text.split(/[|;；]/).map((item) => item.trim()).filter(Boolean)
+    }
+    return adapter.withTransaction(async () => {
+      const inserted = await adapter.run("INSERT INTO vocabularies (name, type, description, is_default, is_active) VALUES (?, 'CUSTOM', ?, 0, 1)",
+        [vocabName, `从 ${String(filename || '文件').slice(0, 160)} 导入`])
+      const vocabularyId = inserted.lastInsertRowid
+      let imported = 0; let skipped = 0
+      for (const row of rows) {
+        const word = String(valueFor(row, 'word') || '').trim().slice(0, 160)
+        const definition = listValue(valueFor(row, 'definition'))
+        if (!word || !definition.length) { skipped += 1; continue }
+        const frequencyValue = Number(valueFor(row, 'frequency'))
+        const result = await adapter.run(`INSERT OR IGNORE INTO words
+          (vocabulary_id, word, phonetic, definition, examples, etymology, synonyms, antonyms, frequency)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`, [
+          vocabularyId, word, String(valueFor(row, 'phonetic') || '').trim() || null,
+          JSON.stringify(definition), JSON.stringify(listValue(valueFor(row, 'examples'))),
+          String(valueFor(row, 'etymology') || '').trim() || null,
+          JSON.stringify(listValue(valueFor(row, 'synonyms'))), JSON.stringify(listValue(valueFor(row, 'antonyms'))),
+          Number.isFinite(frequencyValue) && frequencyValue >= 0 ? Math.round(frequencyValue) : null
+        ])
+        if (result.changes) imported += 1
+        else skipped += 1
+      }
+      if (!imported) throw new Error('没有可导入的有效单词，已取消本次导入')
+      return { vocabId: vocabularyId, imported, skipped }
+    })
+  }
+
+  async function getVocabularyExport(id) {
+    const vocabulary = await adapter.get('SELECT * FROM vocabularies WHERE id = ?', [Number(id)])
+    if (!vocabulary) throw new Error('词库不存在')
+    const words = (await adapter.all('SELECT * FROM words WHERE vocabulary_id = ? ORDER BY id', [Number(id)])).map(hydrateWord)
+    return { version: '1.0', vocabulary, words }
+  }
+
+  async function exportBackupData() {
+    const data = { version: '1.0', exported_at: new Date().toISOString() }
+    for (const table of ['vocabularies', 'words', 'learning_records', 'study_history', 'mistake_book', 'daily_statistics', 'user_settings']) {
+      data[table] = await adapter.all(`SELECT * FROM ${table}`)
+    }
+    return data
   }
 
   async function submitAnswer(payload = {}) {
@@ -206,8 +275,9 @@ function createBackend(adapter, {
         WHERE word_id = ?
       `, [next.easiness_factor, next.interval, next.repetitions, next.status, next.next_review_date, todayKey(), wordId])
       const updated = await adapter.get('SELECT * FROM learning_records WHERE word_id = ?', [wordId])
-      await adapter.run(`INSERT INTO study_history (word_id, learning_record_id, study_mode, quality, time_spent, is_correct)
-        VALUES (?, ?, ?, ?, ?, ?)`, [wordId, updated.id, mode, quality, timeSpent, quality >= 3 ? 1 : 0])
+      const sessionMode = ['flashcard', 'spelling', 'choice', 'mixed', 'test'].includes(payload.sessionMode) ? payload.sessionMode : mode
+      await adapter.run(`INSERT INTO study_history (word_id, learning_record_id, study_mode, session_mode, quality, time_spent, is_correct)
+        VALUES (?, ?, ?, ?, ?, ?, ?)`, [wordId, updated.id, mode, sessionMode, quality, timeSpent, quality >= 3 ? 1 : 0])
       if (quality < 3) await adapter.run(`
         INSERT INTO mistake_book (word_id, mistake_count, last_mistake_at, last_mode, is_frequent)
         VALUES (?, 1, CURRENT_TIMESTAMP, ?, 0)
@@ -345,7 +415,7 @@ function createBackend(adapter, {
     return { words: [...reviews, ...newWords].map(hydrateWord), reviewCount: reviews.length, newCount: newWords.length, choicePool, goal }
   }
 
-  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings, buildPlan }
+  return { getDashboard, listVocabularies, searchWords, getWord, listFavorites, listMistakes, getStatistics, updateWord, importVocabulary, getVocabularyExport, exportBackupData, submitAnswer, removeMistake, setVocabularyActive, deleteVocabulary, resetProgress, getSettings, setSettings, buildPlan }
 }
 
 module.exports = { createBackend, hydrateWord, jsonArray }

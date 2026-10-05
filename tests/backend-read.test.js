@@ -50,5 +50,21 @@ describe('read-only backend', () => {
     const stats = await backend.getStatistics(30)
     expect(stats.vocabularies).toHaveLength(1)
     expect(stats.totals.total).toBe(0)
+    expect(stats.heatmap).toBeDefined()
+  })
+  test('filters history by range and groups mixed sessions without losing actual question mode', async () => {
+    await adapter.run("INSERT INTO learning_records (id, word_id, is_learned) VALUES (1, 10, 1)")
+    await adapter.run(`INSERT INTO study_history (word_id, learning_record_id, study_mode, session_mode, quality, is_correct, studied_at)
+      VALUES (10, 1, 'choice', 'mixed', 5, 1, datetime('now','localtime'))`)
+    await adapter.run(`INSERT INTO study_history (word_id, learning_record_id, study_mode, session_mode, quality, is_correct, studied_at)
+      VALUES (10, 1, 'spelling', '', 0, 0, datetime('now','localtime','-8 days'))`)
+    const recent = await backend.getStatistics(7)
+    const all = await backend.getStatistics('all')
+    expect(recent.modes).toEqual([{ mode: 'mixed', total: 1, correct: 1, time: 0 }])
+    expect(recent.totals).toMatchObject({ total: 0, learned: 0 })
+    expect(all.modes).toEqual([
+      { mode: 'mixed', total: 1, correct: 1, time: 0 },
+      { mode: 'spelling', total: 1, correct: 0, time: 0 }
+    ])
   })
 })

@@ -19,12 +19,25 @@ beforeEach(async () => {
 
 describe('write backend', () => {
   test('submitAnswer schedules review and records history atomically', async () => {
-    const record = await backend.submitAnswer({ wordId: 10, quality: 5, mode: 'spelling', timeSpent: 8, options: {} })
+    const record = await backend.submitAnswer({ wordId: 10, quality: 5, mode: 'spelling', sessionMode: 'mixed', timeSpent: 8, options: {} })
     expect(record.repetitions).toBe(1)
     expect(record.status).toBe('learning')
     expect(record.next_review_date).toBe('2026-09-29') // todayKey 2026-09-28 + interval 1
+    expect((await adapter.get('SELECT study_mode, session_mode FROM study_history WHERE word_id = 10'))).toEqual({ study_mode: 'spelling', session_mode: 'mixed' })
     const stats = await backend.getStatistics(30)
     expect(stats.totals.total).toBe(1)
+  })
+  test('imports mapped vocabulary rows atomically and skips duplicate or incomplete rows', async () => {
+    const result = await backend.importVocabulary({
+      name: 'Imported', filename: 'words.csv', headers: ['English', 'Meaning', 'Examples'],
+      mapping: { word: 'English', definition: 'Meaning', examples: 'Examples' },
+      rows: [['learn', 'v. 学习', 'Learn every day.'], ['learn', '学习', ''], ['', '空词', ''], ['broken', '', '']]
+    })
+    expect(result).toMatchObject({ imported: 1, skipped: 3 })
+    expect(await backend.searchWords('learn')).toHaveLength(1)
+    await expect(backend.importVocabulary({ name: 'Empty', headers: ['word', 'definition'], mapping: { word: 'word', definition: 'definition' }, rows: [['', '']] }))
+      .rejects.toThrow('没有可导入的有效单词')
+    expect((await backend.listVocabularies()).some((item) => item.name === 'Empty')).toBe(false)
   })
   test('low quality adds to mistake book with frequent flag after 3', async () => {
     for (let i = 0; i < 3; i += 1) await backend.submitAnswer({ wordId: 10, quality: 0, mode: 'choice', timeSpent: 3, options: {} })

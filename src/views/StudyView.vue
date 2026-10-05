@@ -1,7 +1,7 @@
 <template>
-  <div class="study-page">
+  <div class="study-page" :class="{ 'study-setup-state': !immersive }">
     <header class="study-header">
-      <button class="icon-btn" title="返回今日学习" @click="leave"><ArrowLeft :size="21" /></button>
+      <button class="icon-btn" :title="sessionActive ? '暂停并返回' : '返回今日学习'" @click="handleBack"><ArrowLeft :size="21" /></button>
       <div class="study-progress-wrap">
         <div class="study-progress-meta"><span>{{ sessionActive ? `${currentIndex + 1} / ${words.length}` : '学习模式' }}</span><span>{{ progress }}%</span></div>
         <div class="progress-track"><span :style="{ width: `${progress}%` }"></span></div>
@@ -37,17 +37,18 @@
       <span class="eyebrow">本次完成</span>
       <h1>{{ words.length ? (selectedMode === 'test' ? '测试完成' : '学习计划已完成') : '当前没有待学单词' }}</h1>
       <p>{{ words.length ? '新的复习时间已经根据本次表现安排。' : '可以激活其他词库，或稍后回来复习。' }}</p>
-      <div v-if="words.length && selectedMode === 'test'" class="test-report">
-        <b>{{ testResult.grade }} · {{ testResult.percent }}%</b>
-        <p>答对 {{ sessionStats.correct }} / {{ sessionStats.total }} 题 · {{ testResult.label }}</p>
+        <div v-if="words.length && selectedMode === 'test'" class="test-report">
+          <b>{{ testResult.grade }} · {{ testResult.percent }}%</b>
+          <p>答对 {{ sessionStats.correct }} / {{ sessionStats.total }} 题 · {{ testResult.label }}</p>
+        </div>
+        <div v-if="words.length" class="completion-stats">
+          <div><b>{{ sessionStats.total }}</b><span>完成题目</span></div>
+          <div><b>{{ accuracy }}%</b><span>本次正确率</span></div>
+          <div><b>{{ formatDuration(sessionStats.duration) }}</b><span>学习时长</span></div>
+        </div>
+        <p v-if="words.length" class="completion-breakdown">新词 {{ sessionStats.newWords }} · 复习 {{ sessionStats.reviewed }}<span v-if="wrongWords.length"> · 错题 {{ wrongWords.length }}</span></p>
         <div v-if="wrongWords.length" class="wrong-words"><span>需加强：</span><em v-for="word in wrongWords" :key="word">{{ word }}</em></div>
-      </div>
-      <div v-if="words.length" class="completion-stats">
-        <div><b>{{ sessionStats.total }}</b><span>完成题目</span></div>
-        <div><b>{{ accuracy }}%</b><span>本次正确率</span></div>
-        <div><b>{{ formatDuration(sessionStats.duration) }}</b><span>学习时长</span></div>
-      </div>
-      <div class="completion-actions"><button class="secondary-btn" @click="leave">返回首页</button><button class="primary-btn" @click="restart">再学一组</button></div>
+        <div class="completion-actions"><button v-if="wrongWordIds.length" class="secondary-btn" @click="startWrongReview">复习本次错题</button><button class="secondary-btn" @click="endSession">返回首页</button><button class="primary-btn" @click="restart">再学一组</button></div>
     </main>
 
     <main v-else class="study-stage">
@@ -112,14 +113,14 @@
     </main>
 
     <div v-if="paused" class="pause-layer">
-      <div><Pause :size="32" /><h2>学习已暂停</h2><p>计时已暂停，你可以稍后继续。</p><button class="primary-btn" @click="resume">继续学习</button><button class="text-btn" @click="leave">结束本次学习</button></div>
+      <div><Pause :size="32" /><h2>学习已暂停</h2><p>已提交的答案已保存；结束后可从今日计划继续。</p><button class="primary-btn" @click="resume">继续学习</button><button class="text-btn" @click="endSession">结束本次学习</button></div>
     </div>
     <WordDrawer :open="drawerOpen" :word-id="currentWord?.id" @close="drawerOpen = false" @updated="updateCurrent" />
   </div>
 </template>
 
 <script setup>
-import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ArrowLeft, ArrowRight, BadgeCheck, CalendarCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, RefreshCw, Shuffle, SkipForward, Star, TriangleAlert, Trophy, Volume2 } from 'lucide-vue-next'
 import WordDrawer from '@/components/WordDrawer.vue'
@@ -129,6 +130,9 @@ import { choiceShortcutIndex, speechPolicy, spellingEnterAction, testGrade } fro
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 import { useSpeech } from '@/composables/useSpeech.js'
+import { App as CapacitorApp } from '@capacitor/app'
+
+defineOptions({ name: 'StudyView' })
 
 const route = useRoute(); const router = useRouter(); const settings = useSettingsStore(); const toast = useToast()
 const { speak: speakWord, stop: stopSpeech } = useSpeech()
@@ -154,9 +158,12 @@ const words = ref([]); const modes = ref([]); const choicePool = ref([]); const 
 const revealed = ref(false); const answer = ref(''); const feedback = ref(null); const choices = ref([])
 const selectedChoice = ref(''); const drawerOpen = ref(false); const spellingInput = ref(null)
 const startedAt = ref(0); const questionStartedAt = ref(0); const pausedAt = ref(0); const pausedTotal = ref(0)
-const sessionStats = ref({ total: 0, correct: 0, duration: 0 })
+const sessionStats = ref({ total: 0, correct: 0, duration: 0, newWords: 0, reviewed: 0 })
 const wrongWords = ref([])
+const wrongWordIds = ref([])
+let backButtonListener = null
 const currentWord = computed(() => words.value[currentIndex.value] || null)
+const immersive = computed(() => sessionActive.value || completed.value)
 const currentMode = computed(() => modes.value[currentIndex.value] || selectedMode.value)
 const progress = computed(() => words.value.length ? Math.round(currentIndex.value / words.value.length * 100) : 0)
 const accuracy = computed(() => sessionStats.value.total ? Math.round(sessionStats.value.correct / sessionStats.value.total * 100) : 0)
@@ -184,6 +191,9 @@ const feedbackTitle = computed(() => {
   return feedback.value.correct ? '拼写正确' : `正确答案：${currentWord.value.word}`
 })
 const feedbackDetail = computed(() => (feedback.value && feedback.value.tier !== 'exact') ? `你的答案：${answer.value || '未作答'}` : '')
+const emit = defineEmits(['immersive-change'])
+
+watch(immersive, (value) => emit('immersive-change', value), { immediate: true })
 
 function shuffled(items) { return [...items].sort(() => Math.random() - 0.5) }
 function modeName(mode) { return ({ flashcard: '卡片', spelling: '拼写', choice: '选择题', test: '测验' })[mode] }
@@ -206,7 +216,7 @@ async function startSession() {
       if (word.queue_type === 'new' || word.status === 'new') return 'choice'
       return selectedMode.value === 'mixed' ? shuffled(['flashcard','spelling','choice'])[0] : selectedMode.value === 'test' ? shuffled(['spelling','choice'])[0] : selectedMode.value
     })
-    currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0 }; wrongWords.value = []; startedAt.value = Date.now(); pausedTotal.value = 0
+    currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0, newWords: 0, reviewed: 0 }; wrongWords.value = []; wrongWordIds.value = []; startedAt.value = Date.now(); pausedTotal.value = 0
     if (!words.value.length) { completed.value = true; sessionActive.value = false }
     else { sessionActive.value = true; completed.value = false; prepareQuestion() }
   } catch (error) { toast.error(error.message) }
@@ -218,10 +228,15 @@ async function submit(quality) {
   const elapsed = Math.max(0, Math.round((Date.now() - questionStartedAt.value) / 1000))
   let shouldAdvance = false
   try {
-    await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, timeSpent: elapsed, reset: source.value === 'consolidate', options: { ...settings.reviewOptions } })
+    await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, sessionMode: selectedMode.value, timeSpent: elapsed, reset: source.value === 'consolidate', options: { ...settings.reviewOptions } })
     sessionStats.value.total += 1
+    if (currentWord.value.queue_type === 'new') sessionStats.value.newWords += 1
+    else sessionStats.value.reviewed += 1
     if (quality >= 3) sessionStats.value.correct += 1
-    else if (selectedMode.value === 'test') wrongWords.value.push(currentWord.value.word)
+    else {
+      wrongWords.value.push(currentWord.value.word)
+      if (!wrongWordIds.value.includes(currentWord.value.id)) wrongWordIds.value.push(currentWord.value.id)
+    }
     if (currentMode.value === 'flashcard') shouldAdvance = true
     else feedback.value.recorded = true
     return true
@@ -296,7 +311,21 @@ function speak() { if (currentWord.value) speakWord(currentWord.value.word) }
 function revealCard() { revealed.value = true; if (speech.value.auto) speak() }
 function pauseStudy() { if (!sessionActive.value || paused.value || submitting.value) return; pausedAt.value = Date.now(); paused.value = true }
 function resume() { pausedTotal.value += Date.now() - pausedAt.value; paused.value = false; if (currentMode.value === 'spelling') nextTick(() => spellingInput.value?.focus()) }
-function leave() { router.push('/') }
+function handleBack() {
+  if (sessionActive.value && !paused.value) { pauseStudy(); return }
+  if (!sessionActive.value && !completed.value) router.push('/')
+}
+function endSession() {
+  sessionActive.value = false; completed.value = false; paused.value = false
+  router.push('/')
+}
+function startWrongReview() {
+  const ids = new Set(wrongWordIds.value)
+  const retryWords = words.value.filter((word) => ids.has(word.id))
+  if (!retryWords.length) return
+  const retryModes = retryWords.map((word) => selectedMode.value === 'mixed' ? 'choice' : (selectedMode.value === 'test' ? 'choice' : selectedMode.value))
+  words.value = retryWords; modes.value = retryModes; currentIndex.value = 0; sessionStats.value = { total: 0, correct: 0, duration: 0, newWords: 0, reviewed: 0 }; wrongWords.value = []; wrongWordIds.value = []; startedAt.value = Date.now(); pausedTotal.value = 0; completed.value = false; sessionActive.value = true; paused.value = false; prepareQuestion()
+}
 function restart() { completed.value = false; startSession() }
 function formatDuration(seconds) { return seconds < 60 ? `${seconds} 秒` : `${Math.floor(seconds / 60)} 分 ${seconds % 60} 秒` }
 function syncViewport() {
@@ -323,7 +352,18 @@ function handleKey(event) {
   }
 }
 onMounted(() => { window.addEventListener('keydown', handleKey); if (route.query.start === '1') startSession() })
+onMounted(async () => {
+  if (!window.Capacitor?.isNativePlatform?.() || window.Capacitor.getPlatform?.() !== 'android') return
+  backButtonListener = await CapacitorApp.addListener('backButton', ({ canGoBack }) => {
+    if (route.name !== 'study') { if (canGoBack) router.back(); else router.push('/'); return }
+    if (drawerOpen.value) { drawerOpen.value = false; return }
+    if (sessionActive.value && !paused.value) { pauseStudy(); return }
+    if (completed.value) { router.push('/'); return }
+    if (canGoBack) router.back()
+    else router.push('/')
+  })
+})
 onMounted(() => window.visualViewport?.addEventListener('resize', syncViewport))
 onBeforeUnmount(() => window.visualViewport?.removeEventListener('resize', syncViewport))
-onBeforeUnmount(() => { window.removeEventListener('keydown', handleKey); stopSpeech() })
+onBeforeUnmount(async () => { window.removeEventListener('keydown', handleKey); stopSpeech(); await backButtonListener?.remove(); backButtonListener = null })
 </script>

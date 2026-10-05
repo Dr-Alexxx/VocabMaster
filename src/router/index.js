@@ -5,6 +5,7 @@ export default createRouter({
   history: createWebHashHistory(),
   routes: [
     { path: '/', name: 'home', component: HomeView },
+    { path: '/onboarding', name: 'onboarding', component: () => import('@/views/OnboardingView.vue') },
     { path: '/study', name: 'study', component: () => import('@/views/StudyView.vue') },
     { path: '/vocab', name: 'vocab', component: () => import('@/views/VocabView.vue') },
     { path: '/mistakes', name: 'mistakes', component: () => import('@/views/MistakeView.vue') },

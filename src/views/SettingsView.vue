@@ -1,11 +1,12 @@
 <template>
   <div class="page settings-page">
-    <header class="page-header"><div><span class="eyebrow">个性化</span><h1>设置</h1><p>更改会自动保存到本机数据库。</p></div><span class="save-state"><CircleCheck :size="16" />自动保存</span></header>
+    <header class="page-header"><div><span class="eyebrow">个性化</span><h1>设置</h1><p>更改会自动保存到本机数据库。</p></div><span class="save-state" :class="settings.saveState"><component :is="saveIcon" :size="16" />{{ saveLabel }}</span></header>
     <section class="settings-band">
       <div class="settings-heading"><Compass :size="21" /><div><h2>导航入口</h2><p>词库管理、错题本与收藏词汇的快速入口。</p></div></div>
       <RouterLink class="data-action" to="/vocab"><LibraryBig :size="19" /><span><b>词库管理</b><small>导入、导出与词库制作规范</small></span><ChevronRight :size="18" /></RouterLink>
       <RouterLink class="data-action" to="/mistakes"><TriangleAlert :size="19" /><span><b>错题本</b><small>全部错题与常错词</small></span><ChevronRight :size="18" /></RouterLink>
       <RouterLink class="data-action" to="/"><Star :size="19" /><span><b>收藏词汇</b><small>今日页收藏列表与专项复习</small></span><ChevronRight :size="18" /></RouterLink>
+      <RouterLink class="data-action" to="/onboarding"><Compass :size="19" /><span><b>首次设置</b><small>调整起始词库和每日学习计划</small></span><ChevronRight :size="18" /></RouterLink>
     </section>
     <section class="settings-band">
       <div class="settings-heading"><BookOpen :size="21" /><div><h2>学习计划</h2><p>控制每日计划规模与内容选择。</p></div></div>
@@ -59,13 +60,15 @@
 
 <script setup>
 import { computed, ref } from 'vue'
-import { BookOpen, ChevronRight, CircleCheck, Compass, Database, Download, Laptop, LibraryBig, Minus, Moon, Palette, Plus, SlidersHorizontal, Star, Sun, Trash2, TriangleAlert, Upload, Volume2 } from 'lucide-vue-next'
+import { BookOpen, ChevronRight, CircleAlert, CircleCheck, Compass, Database, Download, Laptop, LibraryBig, LoaderCircle, Minus, Moon, Palette, Plus, SlidersHorizontal, Star, Sun, Trash2, TriangleAlert, Upload, Volume2 } from 'lucide-vue-next'
 import ConfirmDialog from '@/components/ConfirmDialog.vue'
 import { api } from '@/services/api.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'
 
 const settings = useSettingsStore(); const values = computed(() => settings.values); const toast = useToast()
+const saveLabel = computed(() => ({ idle: '自动保存', saving: '保存中...', saved: '已保存', error: '保存失败' })[settings.saveState] || '自动保存')
+const saveIcon = computed(() => ({ saving: LoaderCircle, error: CircleAlert })[settings.saveState] || CircleCheck)
 const appVersion = __APP_VERSION__
 const platformLabel = (() => {
   if (window.Capacitor?.isNativePlatform?.()) {
