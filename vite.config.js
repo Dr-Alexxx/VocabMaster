@@ -5,6 +5,7 @@ import { createRequire } from 'node:module'
 
 const require = createRequire(import.meta.url)
 const pkg = require('./package.json')
+const { previewBackendPlugin } = require('./scripts/preview-backend.cjs')
 
 function backendCjsToEsm(code) {
   let exportCount = 0
@@ -55,7 +56,7 @@ function backendCjsDevTransform() {
 }
 
 export default defineConfig({
-  plugins: [vue(), backendCjsDevTransform()],
+  plugins: [vue(), backendCjsDevTransform(), previewBackendPlugin()],
   base: './',
   define: { __APP_VERSION__: JSON.stringify(pkg.version) },
   server: { port: 5173, strictPort: false },

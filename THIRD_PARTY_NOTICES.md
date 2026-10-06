@@ -89,3 +89,15 @@ where a Chinese definition was available, and converted to VocabMaster's JSON
 schema. These are modified/adapted versions of the source pages. Redistribution
 and adaptations must comply with CC BY-SA 4.0:
 <https://creativecommons.org/licenses/by-sa/4.0/>.
+
+## ts-fsrs
+
+Source: [open-spaced-repetition/ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs)
+
+Version: 5.4.2 (FSRS-6)
+
+Copyright (c) 2026 Open Spaced Repetition
+
+License: MIT
+
+Used locally for optional spaced repetition scheduling. The package license is distributed with the application dependencies. No third-party audio recordings are added in v1.2.

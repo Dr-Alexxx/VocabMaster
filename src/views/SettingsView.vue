@@ -1,11 +1,12 @@
 <template>
   <div class="page settings-page">
     <header class="page-header"><div><span class="eyebrow">个性化</span><h1>设置</h1><p>更改会自动保存到本机数据库。</p></div><span class="save-state" :class="settings.saveState"><component :is="saveIcon" :size="16" />{{ saveLabel }}</span></header>
+    <PersonalizationSettings />
     <section class="settings-band">
       <div class="settings-heading"><Compass :size="21" /><div><h2>导航入口</h2><p>词库管理、错题本与收藏词汇的快速入口。</p></div></div>
       <RouterLink class="data-action" to="/vocab"><LibraryBig :size="19" /><span><b>词库管理</b><small>导入、导出与词库制作规范</small></span><ChevronRight :size="18" /></RouterLink>
       <RouterLink class="data-action" to="/mistakes"><TriangleAlert :size="19" /><span><b>错题本</b><small>全部错题与常错词</small></span><ChevronRight :size="18" /></RouterLink>
-      <RouterLink class="data-action" to="/"><Star :size="19" /><span><b>收藏词汇</b><small>今日页收藏列表与专项复习</small></span><ChevronRight :size="18" /></RouterLink>
+      <RouterLink class="data-action" to="/tags"><Star :size="19" /><span><b>收藏与标签</b><small>按标签筛选、组织词汇和专项复习</small></span><ChevronRight :size="18" /></RouterLink>
       <RouterLink class="data-action" to="/onboarding"><Compass :size="19" /><span><b>首次设置</b><small>调整起始词库和每日学习计划</small></span><ChevronRight :size="18" /></RouterLink>
     </section>
     <section class="settings-band">
@@ -15,18 +16,18 @@
       <div class="setting-row"><label for="goal-deadline"><b>目标截止日</b><span>按剩余新词自动摊派每日学习量并动态调整，留空则使用每日新词上限</span></label><div class="inline-inputs"><input id="goal-deadline" v-model="values.goalDeadline" type="date" /><button v-if="values.goalDeadline" class="text-btn" @click="values.goalDeadline = ''">清除</button></div></div>
       <div class="setting-row"><label><b>跨词库去重</b><span>已学过的相同拼写不会作为新词再次出现</span></label><label class="switch"><input v-model="values.enableCrossVocabDedup" type="checkbox" /><span></span></label></div>
       <div class="setting-row"><label><b>显示例句</b><span>翻开卡片后展示首条例句</span></label><label class="switch"><input v-model="values.showExamples" type="checkbox" /><span></span></label></div>
-      <div class="setting-row"><label><b>自动朗读</b><span>每道题出现时使用 Windows 系统语音朗读</span></label><label class="switch"><input v-model="values.autoPronounce" type="checkbox" /><span></span></label></div>
+      <div class="setting-row"><label><b>自动朗读</b><span>每道题出现时使用 本机系统语音朗读</span></label><label class="switch"><input v-model="values.autoPronounce" type="checkbox" /><span></span></label></div>
       <div class="setting-row"><label><b>揭晓答案时朗读</b><span>答题反馈出现时自动再朗读一遍单词，可反复跟读</span></label><label class="switch"><input v-model="values.speakOnReveal" type="checkbox" /><span></span></label></div>
     </section>
 
     <section class="settings-band">
-      <div class="settings-heading"><Volume2 :size="21" /><div><h2>发音</h2><p>朗读使用 Windows 系统语音，找不到对应口音时回退默认语音。</p></div></div>
+      <div class="settings-heading"><Volume2 :size="21" /><div><h2>发音</h2><p>朗读使用 本机系统语音，找不到对应口音时回退默认语音。</p></div></div>
       <div class="setting-row"><label><b>口音</b><span>美式或英式英语发音</span></label><div class="segmented"><button v-for="accent in accents" :key="accent.value" :class="{ active: values.voiceAccent === accent.value }" @click="values.voiceAccent = accent.value">{{ accent.label }}</button></div></div>
       <div class="setting-row slider-row"><label for="rate"><b>语速</b><span>0.5x – 2.0x</span></label><div><input id="rate" v-model.number="values.speechRate" type="range" min="0.5" max="2" step="0.1" /><output>{{ Number(values.speechRate).toFixed(1) }}x</output></div></div>
     </section>
 
     <section class="settings-band">
-      <div class="settings-heading"><SlidersHorizontal :size="21" /><div><h2>记忆算法</h2><p>调整 SM-2 间隔和掌握判定。</p></div></div>
+      <div class="settings-heading"><SlidersHorizontal :size="21" /><div><h2>SM-2 参数与掌握阈值</h2><p>难易度和间隔系数仅用于 SM-2；掌握阈值适用于两种算法。</p></div></div>
       <div class="setting-row slider-row"><label for="ease"><b>初始难易度</b><span>新卡片的初始扩展系数</span></label><div><input id="ease" v-model.number="values.initialEasiness" type="range" min="1.3" max="3" step="0.1" /><output>{{ values.initialEasiness.toFixed(1) }}</output></div></div>
       <div class="setting-row slider-row"><label for="modifier"><b>间隔系数</b><span>低于 1 会更频繁，高于 1 会延长间隔</span></label><div><input id="modifier" v-model.number="values.intervalModifier" type="range" min="0.5" max="1.5" step="0.05" /><output>{{ values.intervalModifier.toFixed(2) }}</output></div></div>
       <div class="setting-row"><label><b>掌握阈值</b><span>同时达到连续正确次数和复习间隔</span></label><div class="inline-inputs"><label><input v-model.number="values.masteryRepetitions" type="number" min="2" max="20" /> 次</label><label><input v-model.number="values.masteryDays" type="number" min="7" max="365" /> 天</label></div></div>
@@ -34,7 +35,7 @@
 
     <section class="settings-band">
       <div class="settings-heading"><Palette :size="21" /><div><h2>界面显示</h2><p>选择主题和界面字号。</p></div></div>
-      <div class="setting-row"><label><b>主题</b><span>可跟随 Windows 颜色模式</span></label><div class="segmented"><button v-for="theme in themes" :key="theme.value" :class="{ active: values.theme === theme.value }" @click="values.theme = theme.value"><component :is="theme.icon" :size="17" />{{ theme.label }}</button></div></div>
+      <div class="setting-row"><label><b>主题</b><span>可跟随 系统颜色模式</span></label><div class="segmented"><button v-for="theme in themes" :key="theme.value" :class="{ active: values.theme === theme.value }" @click="values.theme = theme.value"><component :is="theme.icon" :size="17" />{{ theme.label }}</button></div></div>
       <div class="setting-row"><label><b>字体大小</b><span>适用于全部页面和学习卡片</span></label><div class="segmented"><button v-for="font in fonts" :key="font.value" :class="{ active: values.fontSize === font.value }" @click="values.fontSize = font.value">{{ font.label }}</button></div></div>
     </section>
 
@@ -62,6 +63,7 @@
 import { computed, ref } from 'vue'
 import { BookOpen, ChevronRight, CircleAlert, CircleCheck, Compass, Database, Download, Laptop, LibraryBig, LoaderCircle, Minus, Moon, Palette, Plus, SlidersHorizontal, Star, Sun, Trash2, TriangleAlert, Upload, Volume2 } from 'lucide-vue-next'
 import ConfirmDialog from '@/components/ConfirmDialog.vue'
+import PersonalizationSettings from '@/components/PersonalizationSettings.vue'
 import { api } from '@/services/api.js'
 import { useSettingsStore } from '@/stores/settings.js'
 import { useToast } from '@/composables/useToast.js'

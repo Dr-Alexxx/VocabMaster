@@ -6,6 +6,7 @@ const path = require('node:path')
 let database
 
 const { schema } = require('../src/backend/schema.cjs')
+const { migrateDatabaseSync } = require('../src/backend/migrations.cjs')
 
 function seedDefaultVocabularies(db) {
   const directory = path.join(app.getAppPath(), 'resources', 'vocabularies')
@@ -57,12 +58,7 @@ function getDatabase() {
   database = new Database(dbPath)
   database.pragma('journal_mode = WAL')
   database.pragma('foreign_keys = ON')
-  database.exec(schema)
-  const historyColumns = database.prepare('PRAGMA table_info(study_history)').all()
-  if (!historyColumns.some((column) => column.name === 'session_mode')) {
-    database.exec("ALTER TABLE study_history ADD COLUMN session_mode TEXT NOT NULL DEFAULT ''")
-  }
-  database.pragma('user_version = 2')
+  migrateDatabaseSync(database)
   seedDefaultVocabularies(database)
   return database
 }

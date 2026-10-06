@@ -1,6 +1,8 @@
 import { CapacitorSQLite, SQLiteConnection } from '@capacitor-community/sqlite'
 import { Directory, Encoding, Filesystem } from '@capacitor/filesystem'
 import { Share } from '@capacitor/share'
+import { validateBackup } from '@/backend/backup-merge.cjs'
+import { migrateDatabase } from '@/backend/migrations.cjs'
 
 const sqlite = new SQLiteConnection(CapacitorSQLite)
 
@@ -19,7 +21,7 @@ function createCapacitorAdapter(connection) {
       const result = await connection.query(sql, params)
       return result?.values || []
     },
-    exec: async (sql) => { await connection.execute(sql) },
+    exec: async (sql) => { await connection.execute(sql, false) },
     withTransaction: async (fn) => {
       await connection.beginTransaction()
       try {
@@ -45,15 +47,19 @@ function getBackend() {
       const { createBackend, schema, ensureSeeded, parseVocabularyFile, applyBackup, createVocabularyTemplate } = await import('@/backend/index.cjs')
       const connection = await sqlite.createConnection('vocabmaster', false, 'no-encryption', 1, false)
       await connection.open()
-      await connection.execute(schema)
       const adapter = createCapacitorAdapter(connection)
-      const historyColumns = await adapter.all('PRAGMA table_info(study_history)')
-      if (!historyColumns.some((column) => column.name === 'session_mode')) {
-        await adapter.exec("ALTER TABLE study_history ADD COLUMN session_mode TEXT NOT NULL DEFAULT ''")
-      }
+      await migrateDatabase(adapter)
       const loadJson = async (name) => (await fetch(`vocabularies/${name}`)).json()
       await ensureSeeded(adapter, loadJson)
-      return { adapter, backend: createBackend(adapter), parseVocabularyFile, applyBackup, createVocabularyTemplate }
+      let queue = Promise.resolve()
+      const enqueue = (action) => {
+        const result = queue.catch(() => {}).then(action)
+        queue = result
+        return result
+      }
+      const rawBackend = createBackend(adapter)
+      const backend = new Proxy(rawBackend, { get: (target, method) => (...args) => enqueue(() => target[method](...args)) })
+      return { adapter, backend, enqueue, parseVocabularyFile, applyBackup, createVocabularyTemplate }
     })().catch((error) => {
       backendPromise = null
       throw error
@@ -116,6 +122,15 @@ function csvCell(value) {
 }
 
 export const capacitorApi = {
+  listTags: call('listTags'),
+  saveTag: call('saveTag'),
+  deleteTag: call('deleteTag'),
+  setWordTags: call('setWordTags'),
+  setMistakeReason: call('setMistakeReason'),
+  getPlanPreview: call('getPlanPreview'),
+  recordDailyPlan: call('recordDailyPlan'),
+  previewAlgorithm: call('previewAlgorithm'),
+  getReminderDates: call('getReminderDates'),
   dashboard: call('getDashboard'),
   vocabularies: call('listVocabularies'),
   setVocabularyActive: call('setVocabularyActive'),
@@ -135,7 +150,9 @@ export const capacitorApi = {
         definition: suggestField(parsed.headers, /definition|释义|meaning|翻译/i, parsed.headers[1] || ''),
         phonetic: suggestField(parsed.headers, /phonetic|音标/i), examples: suggestField(parsed.headers, /example|例句/i),
         etymology: suggestField(parsed.headers, /etymology|词根|词源/i), synonyms: suggestField(parsed.headers, /synonym|同义/i),
-        antonyms: suggestField(parsed.headers, /antonym|反义/i), frequency: suggestField(parsed.headers, /frequency|词频|优先级/i)
+        antonyms: suggestField(parsed.headers, /antonym|反义/i), frequency: suggestField(parsed.headers, /frequency|词频|优先级/i),
+        roots: suggestField(parsed.headers, /^roots$|词缀|词根/i), word_family: suggestField(parsed.headers, /word_family|词族/i),
+        collocations: suggestField(parsed.headers, /collocations|搭配/i), content_source: suggestField(parsed.headers, /content_source|素材来源/i), content_license: suggestField(parsed.headers, /content_license|素材许可/i)
       }
     }
   },
@@ -162,8 +179,8 @@ export const capacitorApi = {
     const vocab = data.vocabulary
     const filename = safeFilename(vocab.name)
     if (format === 'csv') {
-      const headers = ['word', 'phonetic', 'definition', 'examples', 'etymology', 'synonyms', 'antonyms', 'frequency']
-      const rows = data.words.map((word) => [word.word, word.phonetic || '', listText(word.definition), listText(word.examples), word.etymology || '', listText(word.synonyms), listText(word.antonyms), word.frequency ?? ''])
+      const headers = ['word', 'phonetic', 'definition', 'examples', 'etymology', 'synonyms', 'antonyms', 'frequency', 'roots', 'word_family', 'collocations', 'content_source', 'content_license']
+      const rows = data.words.map((word) => headers.map((header) => listText(word[header])))
       const content = `\uFEFF${[headers, ...rows].map((row) => row.map(csvCell).join(',')).join('\r\n')}\r\n`
       return shareFile(`${filename}.csv`, content)
     }
@@ -189,7 +206,7 @@ export const capacitorApi = {
     if (!file) return null
     const bytes = await readFile(file)
     const data = JSON.parse(new TextDecoder('utf-8').decode(bytes))
-    if (data.version !== '1.0' || !Array.isArray(data.vocabularies) || !Array.isArray(data.words)) throw new Error('不是有效的 VocabMaster 1.0 备份')
+    validateBackup(data)
     const id = token(); backupCache.set(id, data)
     setTimeout(() => backupCache.delete(id), 15 * 60 * 1000)
     return { token: id, filename: file.name, version: data.version, exportedAt: data.exported_at,
@@ -198,7 +215,7 @@ export const capacitorApi = {
   commitBackup: async (id, strategy = 'replace') => {
     const data = backupCache.get(id)
     if (!data) throw new Error('备份预览已过期，请重新选择文件')
-    const runtime = await getBackend(); const result = await runtime.applyBackup(runtime.adapter, data, strategy)
+    const runtime = await getBackend(); const result = await runtime.enqueue(() => runtime.applyBackup(runtime.adapter, data, strategy))
     backupCache.delete(id)
     return result
   },

@@ -29,6 +29,7 @@
         <div><span>每日复习上限</span><b>{{ settings.values.dailyReviewLimit }}</b></div>
         <div><span>学习来源</span><b>{{ sourceLabel }}</b></div>
       </div>
+      <div v-if="source === 'daily' && selectedMode !== 'test'" class="plan-preview"><p>{{ planPreview ? `本次预计：${planPreview.reviewCount} 个复习 · ${planPreview.newCount} 个新词` : '正在读取今日计划...' }}</p><small>{{ planPreview?.reason }}</small><label>今日新词目标<input v-model.number="newWordOverride" type="number" min="0" :max="settings.values.dailyNewLimit" @change="loadPlanPreview" /></label><small v-if="planPreview && !planPreview.deadlineFeasible">当前计划无法按期完成，建议调整截止日期。</small></div>
       <button class="primary-btn large" :disabled="loading" @click="startSession"><Play :size="19" fill="currentColor" />{{ loading ? '正在生成计划...' : '开始本次学习' }}</button>
     </main>
 
@@ -105,11 +106,11 @@
         </div>
       </section>
 
-      <div v-if="revealed && currentMode === 'flashcard'" class="rating-panel">
+      <div v-if="revealed && currentMode === 'flashcard' && !feedback" class="rating-panel">
         <p>你记得多清楚？</p>
         <div class="ratings"><button v-for="rating in ratings" :key="rating.value" :class="rating.class" :disabled="submitting" @click="submit(rating.value)"><b>{{ rating.value }}</b><span>{{ rating.label }}</span></button></div>
       </div>
-      <div v-else-if="feedback" class="next-panel"><button class="primary-btn" aria-keyshortcuts="Enter" :disabled="submitting || !feedback.recorded" @click="nextWord">{{ submitting ? '正在保存...' : '下一题' }} <ArrowRight :size="18" /></button></div>
+      <div v-else-if="feedback" class="next-panel"><MistakeReasonPicker v-if="!feedback.correct && feedback.historyId" :history-id="feedback.historyId" /><button class="primary-btn" aria-keyshortcuts="Enter" :disabled="submitting || !feedback.recorded" @click="nextWord">{{ submitting ? '正在保存...' : '下一题' }} <ArrowRight :size="18" /></button></div>
     </main>
 
     <div v-if="paused" class="pause-layer">
@@ -120,10 +121,12 @@
 </template>
 
 <script setup>
-import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { useRoute, useRouter } from 'vue-router'
+import { computed, nextTick, onBeforeUnmount, onMounted, onActivated, ref, watch } from 'vue'
+import { useRoute, useRouter, onBeforeRouteLeave } from 'vue-router'
 import { ArrowLeft, ArrowRight, BadgeCheck, CalendarCheck, CircleAlert, CircleCheck, CircleX, ClipboardCheck, Keyboard, Layers3, PanelRightOpen, Pause, Play, RefreshCw, Shuffle, SkipForward, Star, TriangleAlert, Trophy, Volume2 } from 'lucide-vue-next'
 import WordDrawer from '@/components/WordDrawer.vue'
+import MistakeReasonPicker from '@/components/MistakeReasonPicker.vue'
+import { refreshReminders } from '@/services/reminders.js'
 import { api } from '@/services/api.js'
 import { calculateQuality, spellingFeedback } from '@/algorithms/anki.js'
 import { choiceShortcutIndex, speechPolicy, spellingEnterAction, testGrade } from '@/algorithms/study-interaction.js'
@@ -151,7 +154,11 @@ const ratings = [
   { value: 4, label: '轻松', class: 'good' }, { value: 5, label: '熟练', class: 'easy' }
 ]
 const selectedMode = ref(['flashcard','spelling','choice','mixed','test'].includes(route.query.mode) ? route.query.mode : 'choice')
-const source = ref(['daily','mistakes','favorites','consolidate'].includes(route.query.source) ? route.query.source : 'daily')
+const source = ref(['daily','mistakes','favorites','consolidate','tag'].includes(route.query.source) ? route.query.source : 'daily')
+const tagId = ref(route.query.tagId ? Number(route.query.tagId) : null)
+const mistakeReason = ref(route.query.mistakeReason || '')
+const planPreview = ref(null); const newWordOverride = ref(null)
+let planPreviewRequest = 0
 const loading = ref(false); const sessionActive = ref(false); const completed = ref(false); const paused = ref(false)
 const submitting = ref(false)
 const words = ref([]); const modes = ref([]); const choicePool = ref([]); const currentIndex = ref(0)
@@ -167,7 +174,7 @@ const immersive = computed(() => sessionActive.value || completed.value)
 const currentMode = computed(() => modes.value[currentIndex.value] || selectedMode.value)
 const progress = computed(() => words.value.length ? Math.round(currentIndex.value / words.value.length * 100) : 0)
 const accuracy = computed(() => sessionStats.value.total ? Math.round(sessionStats.value.correct / sessionStats.value.total * 100) : 0)
-const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹', consolidate: '巩固复习' })[source.value])
+const sourceLabel = computed(() => selectedMode.value === 'test' ? '随机 20 题' : ({ daily: '今日计划', mistakes: '错题本', favorites: '收藏夹', consolidate: '巩固复习', tag: '标签专项' })[source.value])
 const testResult = computed(() => testGrade(sessionStats.value.correct, sessionStats.value.total))
 const speech = computed(() => speechPolicy({
   mode: currentMode.value,
@@ -210,7 +217,7 @@ function prepareQuestion() {
 async function startSession() {
   loading.value = true
   try {
-    const plan = await api.dailyPlan({ ...settings.values }, selectedMode.value === 'test' ? 'test' : source.value)
+    const plan = await api.dailyPlan({ ...settings.values, tagId: tagId.value, mistakeReason: mistakeReason.value, newWordOverride: newWordOverride.value }, selectedMode.value === 'test' ? 'test' : source.value)
     words.value = plan.words; choicePool.value = plan.choicePool || []
     modes.value = words.value.map((word) => {
       if (word.queue_type === 'new' || word.status === 'new') return 'choice'
@@ -228,7 +235,7 @@ async function submit(quality) {
   const elapsed = Math.max(0, Math.round((Date.now() - questionStartedAt.value) / 1000))
   let shouldAdvance = false
   try {
-    await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, sessionMode: selectedMode.value, timeSpent: elapsed, reset: source.value === 'consolidate', options: { ...settings.reviewOptions } })
+    const result = await api.submitAnswer({ wordId: currentWord.value.id, quality, mode: currentMode.value, sessionMode: selectedMode.value, timeSpent: elapsed, reset: source.value === 'consolidate', options: { ...settings.reviewOptions } })
     sessionStats.value.total += 1
     if (currentWord.value.queue_type === 'new') sessionStats.value.newWords += 1
     else sessionStats.value.reviewed += 1
@@ -237,8 +244,12 @@ async function submit(quality) {
       wrongWords.value.push(currentWord.value.word)
       if (!wrongWordIds.value.includes(currentWord.value.id)) wrongWordIds.value.push(currentWord.value.id)
     }
-    if (currentMode.value === 'flashcard') shouldAdvance = true
-    else feedback.value.recorded = true
+    if (currentMode.value === 'flashcard' && quality >= 3) shouldAdvance = true
+    else {
+      if (!feedback.value) feedback.value = { correct: false, quality }
+      feedback.value.recorded = true; feedback.value.historyId = result.historyId
+    }
+    refreshReminders({ ...settings.values }).catch(() => {})
     return true
   } catch (error) {
     feedback.value = null
@@ -313,7 +324,7 @@ function pauseStudy() { if (!sessionActive.value || paused.value || submitting.v
 function resume() { pausedTotal.value += Date.now() - pausedAt.value; paused.value = false; if (currentMode.value === 'spelling') nextTick(() => spellingInput.value?.focus()) }
 function handleBack() {
   if (sessionActive.value && !paused.value) { pauseStudy(); return }
-  if (!sessionActive.value && !completed.value) router.push('/')
+  if (!sessionActive.value) endSession()
 }
 function endSession() {
   sessionActive.value = false; completed.value = false; paused.value = false
@@ -335,6 +346,7 @@ function syncViewport() {
   document.documentElement.style.setProperty('--keyboard-offset', `${offset}px`)
 }
 function handleKey(event) {
+  if (route.name !== 'study') return
   if (event.key === 'Escape' && drawerOpen.value) { drawerOpen.value = false; return }
   if (event.key === 'Escape' && sessionActive.value) { event.preventDefault(); if (paused.value) resume(); else pauseStudy(); return }
   if (paused.value || !sessionActive.value) return
@@ -351,7 +363,23 @@ function handleKey(event) {
     if (index >= 0 && choices.value[index]) { event.preventDefault(); submitChoice(choices.value[index]) }
   }
 }
-onMounted(() => { window.addEventListener('keydown', handleKey); if (route.query.start === '1') startSession() })
+async function loadPlanPreview() {
+  const request = ++planPreviewRequest
+  try { const result = await api.getPlanPreview({ ...settings.values, newWordOverride: newWordOverride.value }); if (request === planPreviewRequest) planPreview.value = result }
+  catch (error) { toast.error(error.message) }
+}
+onBeforeRouteLeave(() => { if (sessionActive.value) { pauseStudy(); return false } })
+onMounted(() => { window.addEventListener('keydown', handleKey); loadPlanPreview() })
+onActivated(() => {
+  emit('immersive-change', immersive.value)
+  if (sessionActive.value) return
+  if (route.query.mode) selectedMode.value = route.query.mode
+  if (route.query.source) source.value = route.query.source
+  if (route.query.tagId) tagId.value = Number(route.query.tagId)
+  mistakeReason.value = route.query.mistakeReason || ''
+  if (route.query.start === '1') { router.replace({ name: 'study', query: { mode: selectedMode.value, source: source.value, tagId: tagId.value || undefined, mistakeReason: mistakeReason.value || undefined } }); startSession() }
+  else loadPlanPreview()
+})
 onMounted(async () => {
   if (!window.Capacitor?.isNativePlatform?.() || window.Capacitor.getPlatform?.() !== 'android') return
   backButtonListener = await CapacitorApp.addListener('backButton', ({ canGoBack }) => {
@@ -359,6 +387,7 @@ onMounted(async () => {
     if (drawerOpen.value) { drawerOpen.value = false; return }
     if (sessionActive.value && !paused.value) { pauseStudy(); return }
     if (completed.value) { router.push('/'); return }
+    if (paused.value) return
     if (canGoBack) router.back()
     else router.push('/')
   })

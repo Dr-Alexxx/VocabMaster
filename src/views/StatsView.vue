@@ -25,6 +25,13 @@
         <EmptyState v-else :icon="ChartNoAxesCombined" title="此范围暂无模式数据" description="完成学习后会显示各模式的答题量和正确率。" />
       </div>
     </section>
+    <section class="reason-section">
+      <div class="section-heading"><div><h2>错题原因</h2><p>{{ rangeLabel }}已标注的错误；未标注的历史题目不计入。</p></div></div>
+      <div v-if="data.reasons?.length" class="reason-counts"><span v-for="item in data.reasons" :key="item.reason"><b>{{ reasonLabels[item.reason] || item.reason }}</b>{{ item.total }} 次</span></div>
+      <p v-else class="muted-copy">还没有标注原因，可在答题反馈或单词详情中补充。</p>
+      <details v-if="data.reasonTrend?.length"><summary>查看每日变化</summary><div class="reason-trend"><p v-for="row in data.reasonTrend" :key="`${row.date}-${row.reason}`">{{ row.date }} · {{ reasonLabels[row.reason] || row.reason }} · {{ row.total }} 次</p></div></details>
+      <p v-if="markedErrors >= 10" class="muted-copy">最常标注：{{ reasonLabels[leadingReason] }}。可在错题本按原因筛选后专项练习。</p>
+    </section>
     <section class="heatmap-section">
       <div class="section-heading"><div><h2>学习热力图</h2><p>最近 18 周每日完成题量</p></div><div class="heat-legend"><span>少</span><i v-for="level in 5" :key="level" :class="`level-${level - 1}`"></i><span>多</span></div></div>
       <div class="heatmap"><i v-for="day in heatDays" :key="day.date" :class="`level-${day.level}`" :title="`${day.date}：${day.count} 题`"></i></div>
@@ -52,10 +59,13 @@ import { useToast } from '@/composables/useToast.js'
 
 const periods = [{ value: 7, label: '7 天' }, { value: 30, label: '30 天' }, { value: 90, label: '90 天' }, { value: 'all', label: '累计' }]
 const modeLabels = { flashcard: '卡片', spelling: '拼写', choice: '选择题', mixed: '混合', test: '测试' }
+const reasonLabels = { spelling: '拼写错误', meaning: '释义混淆', listening: '听音不识', careless: '粗心', other: '其他' }
 const settings = useSettingsStore(); const toast = useToast(); const period = ref(30)
-const data = reactive({ daily: [], heatmap: [], modes: [], vocabularies: [], weakWords: [], totals: {} })
+const data = reactive({ daily: [], heatmap: [], modes: [], reasons: [], reasonTrend: [], vocabularies: [], weakWords: [], totals: {} })
 const trendEl = ref(null); const vocabEl = ref(null); const modeEl = ref(null); const charts = []
 const drawerOpen = ref(false); const selectedWord = ref(null)
+const markedErrors = computed(() => data.reasons.reduce((sum, row) => sum + row.total, 0))
+const leadingReason = computed(() => [...data.reasons].sort((left,right) => right.total-left.total)[0]?.reason)
 let echartsPromise
 const rangeLabel = computed(() => period.value === 'all' ? '累计' : `近 ${period.value} 天`)
 const accuracy = computed(() => data.totals.total ? Math.round(data.totals.correct / data.totals.total * 100) : 0)
@@ -133,3 +143,5 @@ function resize() { charts.forEach((chart) => chart.resize()) }
 onMounted(() => { load(); window.addEventListener('resize', resize) })
 onBeforeUnmount(() => { window.removeEventListener('resize', resize); charts.forEach((chart) => chart.dispose()) })
 </script>
+
+<style scoped>.reason-counts { display: flex; flex-wrap: wrap; gap: 12px; }.reason-counts span { display: grid; gap: 5px; padding: 12px 20px; background: var(--surface); border: 1px solid var(--border); border-radius: 7px; }.muted-copy { margin: 12px 0; color: var(--text-soft); font-size: 13px; }.reason-trend { max-height: 220px; overflow: auto; color: var(--text-soft); font-size: 12px; }</style>

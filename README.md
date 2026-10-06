@@ -21,6 +21,21 @@ VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面
 - 系统语音朗读（美音/英音、0.5–2.0x 语速可调）：题目出现与揭晓答案时可自动朗读，点按单词或发音按钮随时反复跟读；每日新词/复习上限、例句显示和四档字体大小可调
 - 完整学习数据备份与恢复（覆盖/合并/跳过三种策略）、清空学习记录（保留词库、收藏与笔记），支持浅色、深色和跟随系统主题
 
+## v1.2 新功能
+
+- 本地到期提醒（默认关闭）：工作日、提醒时间和免打扰设置。桌面应用运行时提醒；Android 预排未来 14 天，在启动、进入前台和学习后更新，系统省电可能延后投递。
+- 自适应每日计划：参考近 7 天完成率、复习积压和耗时，支持手动调整，始终受每日新词上限约束；当天已完成量从剩余计划扣除。
+- 可选 FSRS-6（ts-fsrs 5.4.2）：切换前模拟排期、80%–97% 目标保持率，默认仍为 SM-2。切换只影响后续答题，保留可切回的 SM-2 状态和全部历史，不提供个人权重训练。
+- 收藏与标签：多标签组织、筛选及标签专项复习；删除标签保留单词和学习记录。
+- 错题原因标注、详情补改、筛选、数量与每日变化统计。
+- 可选词根、词族、搭配和素材来源/许可字段，以及系统语音例句朗读。系统语音的离线可用性取决于本机已安装的语音。
+
+## 版本文档
+
+- [路线图索引](./roadmap/README.md)：各版本范围、实现状态、延期原因和验收条件。
+- [变更记录索引](./changelog/README.md)：按实际版本归档；[v1.2.0](./changelog/CHANGELOG-v1.2.0.md) 和 [v1.1.0](./changelog/CHANGELOG-v1.1.0.md)。
+- `roadmap/` 与 `changelog/` 均纳入 Git，独立于本机忽略的 `docs/`。实现、测试通过、设备验收和正式发布分别记录。
+
 ## 开发
 
 Windows 需要 Windows 11 x64，macOS 需要 macOS 13 或更高版本（Apple Silicon）。两端都需要 Node.js 24 或更高版本（单测使用内置 `node:sqlite`）。
@@ -28,6 +43,9 @@ Windows 需要 Windows 11 x64，macOS 需要 macOS 13 或更高版本（Apple Si
 ```bash
 npm install
 npm run dev
+
+# 本机浏览器验收：使用临时内存数据库，重启即清空，不触碰用户数据库
+npm run dev:web -- --mode preview
 ```
 
 ## 测试与构建
@@ -44,15 +62,15 @@ npm run pack:zip
 npm run build:mac
 ```
 
-`npm test` 运行 15 个测试套件（SM-2 算法、本地日期与目标摊派、学习交互与测试评级、语音选择、备份合并策略、词库模板、内置词库与开放词库数据校验）。
+`npm test` 运行 16 个测试套件（SM-2 算法、本地日期与目标摊派、学习交互与测试评级、语音选择、FSRS/自适应计划/本地提醒/标签与错因、数据库迁移、备份合并策略、词库模板、内置词库与开放词库数据校验）。
 
 ### Windows 构建
 
 Windows 构建产物位于 `release/`（`npm run build:win` 生成安装包与程序目录，`npm run pack:zip` 将 `win-unpacked/` 打包为发布 zip）：
 
-- `VocabMaster-Setup-1.1.0-win-x64.exe`：可选择安装目录的 NSIS 安装程序
-- `VocabMaster-Portable-1.1.0-win-x64.exe`：无需安装的便携启动器
-- `VocabMaster-1.1.0-win-x64.zip`：直接包含 AMD64 主程序的压缩包
+- `VocabMaster-Setup-1.2.0-win-x64.exe`：可选择安装目录的 NSIS 安装程序
+- `VocabMaster-Portable-1.2.0-win-x64.exe`：无需安装的便携启动器
+- `VocabMaster-1.2.0-win-x64.zip`：直接包含 AMD64 主程序的压缩包
 - `win-unpacked/`：未压缩的 x64 程序目录
 
 NSIS 安装器和便携启动器使用通用 Windows 引导壳，内部应用与 SQLite 原生模块均按 AMD64/x64 构建。
@@ -67,13 +85,13 @@ macOS 构建流程（Apple Silicon / arm64）：
 
 macOS 构建产物位于 `release/`：
 
-- `VocabMaster-Setup-1.1.0-mac-arm64.dmg`：磁盘映像安装包
-- `VocabMaster-1.1.0-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
+- `VocabMaster-Setup-1.2.0-mac-arm64.dmg`：磁盘映像安装包
+- `VocabMaster-1.2.0-mac-arm64.zip`：直接包含 `VocabMaster.app` 的压缩包
 - `mac-arm64/VocabMaster.app`：未打包的 arm64 应用程序包
 
 ### macOS 安装
 
-1. 打开 `VocabMaster-Setup-1.1.0-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
+1. 打开 `VocabMaster-Setup-1.2.0-mac-arm64.dmg`，将 VocabMaster 图标拖入“应用程序”文件夹
 2. 从“应用程序”启动 VocabMaster
 
 注意：当前构建未配置 Apple 开发者签名与公证（`identity: null`），首次打开会被 Gatekeeper 拦截（提示“无法验证开发者”或“已损坏”）。处理方式：
@@ -100,7 +118,7 @@ npm run pack:apk
 
 构建产物位于 `release/`：
 
-- `VocabMaster-1.1.0-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
+- `VocabMaster-1.2.0-android.apk`：可直接安装到 Android 8.0（API 26）及以上设备的发布 APK
 - `android/app/build/outputs/apk/release/app-release.apk`：Gradle 原始输出，`npm run pack:apk` 据此生成上述发布产物
 
 发布签名使用本地自签 keystore（`android/keystore/vocabmaster.keystore`，密码记录在 `android/keystore.properties`），两者仅保存在本机且不入库。缺失时发布构建回退为 debug 签名并打印提示，保证他人克隆后仍能出包。
@@ -122,7 +140,7 @@ Android 端支持词库文件导入导出和完整学习数据备份恢复；文
 
 ## 本机数据
 
-数据库保存在 Electron 的用户数据目录中，Windows 默认位置为 `%APPDATA%\VocabMaster\vocabmaster.db`，macOS 默认位置为 `~/Library/Application Support/VocabMaster/vocabmaster.db`。应用内“设置 → 数据管理”可以导出完整 JSON 备份。
+数据库保存在 Electron 的用户数据目录中，Windows 默认位置为 `%APPDATA%\VocabMaster\vocabmaster.db`，macOS 默认位置为 `~/Library/Application Support/VocabMaster/vocabmaster.db`。应用内“设置 → 数据管理”可以导出完整 JSON 备份。v1.2 的完整备份格式为 1.2，包含标签、错误原因、FSRS 状态和每日计划；继续支持读取格式 1.0 的旧备份。新备份需使用 v1.2 或更高版本恢复。
 
 ## 词汇数据来源
 

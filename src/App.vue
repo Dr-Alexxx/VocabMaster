@@ -20,6 +20,8 @@ import ToastHost from '@/components/ToastHost.vue'
 import { useSettingsStore } from '@/stores/settings.js'
 import { api } from '@/services/api.js'
 import { useToast } from '@/composables/useToast.js'
+import { refreshReminders, listenForReminders } from '@/services/reminders.js'
+import { App as NativeApp } from '@capacitor/app'
 
 const route = useRoute()
 const router = useRouter()
@@ -30,6 +32,8 @@ const isMobile = ref(window.matchMedia('(max-width: 767.98px)').matches)
 const toast = useToast()
 const mobileQuery = window.matchMedia('(max-width: 767.98px)')
 const updateMobile = (event) => { isMobile.value = event.matches }
+let stopReminderListener; let appStateListener
+const refresh = () => refreshReminders({ ...settings.values }).catch((error) => toast.error(error.message))
 
 async function updateDashboard(data) {
   if (data) streak.value = data.streak || 0
@@ -42,10 +46,15 @@ onMounted(async () => {
   try {
     await Promise.all([settings.load(), updateDashboard()])
     if (!settings.values.onboardingComplete && route.name === 'home') await router.replace({ name: 'onboarding' })
+    stopReminderListener = await listenForReminders(router)
+    await api.recordDailyPlan({ ...settings.values })
+    await refresh()
+    if (window.Capacitor?.isNativePlatform?.()) appStateListener = await NativeApp.addListener('appStateChange', ({ isActive }) => { if (isActive) refresh() })
   }
   catch (error) { toast.error(error.message) }
 })
-onBeforeUnmount(() => mobileQuery.removeEventListener('change', updateMobile))
+onBeforeUnmount(() => { mobileQuery.removeEventListener('change', updateMobile); stopReminderListener?.(); appStateListener?.remove() })
+watch(() => route.fullPath, refresh)
 watch(() => settings.effectiveTheme, (theme) => {
   document.documentElement.style.colorScheme = theme
   document.documentElement.dataset.theme = theme

@@ -1,4 +1,5 @@
 import { getPlatformApi } from '@/platform/platform-api.js'
+import { previewApi } from '@/platform/preview-api.js'
 
 const missingApi = new Proxy({}, {
   get: (_target, name) => async () => {
@@ -6,4 +7,4 @@ const missingApi = new Proxy({}, {
   }
 })
 
-export const api = window.vocabApi || getPlatformApi() || missingApi
+export const api = window.vocabApi || getPlatformApi() || (import.meta.env.MODE === 'preview' ? previewApi : missingApi)

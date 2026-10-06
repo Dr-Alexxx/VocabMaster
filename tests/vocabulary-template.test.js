@@ -6,7 +6,7 @@ const { headers, samples, createVocabularyTemplate } = require('../electron/voca
 
 describe('vocabulary creator templates', () => {
   test('keeps the eight documented columns in a stable order', () => {
-    expect(headers).toEqual(['word', 'phonetic', 'definition', 'examples', 'etymology', 'synonyms', 'antonyms', 'frequency'])
+    expect(headers.slice(0, 8)).toEqual(['word', 'phonetic', 'definition', 'examples', 'etymology', 'synonyms', 'antonyms', 'frequency'])
   })
 
   test('creates a UTF-8 BOM CSV template with sample rows', () => {
@@ -29,5 +29,7 @@ describe('vocabulary creator templates', () => {
     expect(template.headers).toEqual(headers)
     expect(template.rows).toHaveLength(2)
     expect(template.rows[0]).toHaveLength(headers.length)
+    expect(headers).toContain('collocations')
+    expect(headers).toContain('content_license')
   })
 })

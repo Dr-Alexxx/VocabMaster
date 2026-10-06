@@ -93,7 +93,7 @@
             </section>
           </div>
           <footer>
-            <span>模板包含 8 个标准字段和 2 条示例数据</span>
+            <span>模板包含 8 个基础字段和 5 个扩展字段和 2 条示例数据</span>
             <div>
               <button class="secondary-btn" :disabled="savingTemplate" @click="downloadTemplate('csv')"><Download :size="17" />CSV 模板</button>
               <button class="secondary-btn" :disabled="savingTemplate" @click="downloadTemplate('xlsx')"><Download :size="17" />Excel 模板</button>
@@ -120,7 +120,8 @@ const specsOpen = ref(false); const savingTemplate = ref(false)
 const mappingFields = [
   { key: 'word', label: '单词', required: true }, { key: 'definition', label: '释义', required: true },
   { key: 'phonetic', label: '音标' }, { key: 'examples', label: '例句' }, { key: 'etymology', label: '词源/词根' },
-  { key: 'synonyms', label: '同义词' }, { key: 'antonyms', label: '反义词' }, { key: 'frequency', label: '词频/优先级' }
+  { key: 'synonyms', label: '同义词' }, { key: 'antonyms', label: '反义词' }, { key: 'frequency', label: '词频/优先级' },
+  { key: 'roots', label: '词根/词缀' }, { key: 'word_family', label: '词族' }, { key: 'collocations', label: '常见搭配' }, { key: 'content_source', label: '素材来源' }, { key: 'content_license', label: '素材许可' }
 ]
 const fieldSpecs = [
   { name: 'word', label: '单词', required: true, type: '字符串', rule: '英文单词或词组；前后空格会自动去除。建议统一使用小写。' },
@@ -130,6 +131,11 @@ const fieldSpecs = [
   { name: 'etymology', label: '词源/词根', type: '字符串', rule: '词源、词根词缀或构词说明。' },
   { name: 'synonyms', label: '同义词', type: '字符串 / 数组', rule: '同义词列表；表格中使用 | 分隔。' },
   { name: 'antonyms', label: '反义词', type: '字符串 / 数组', rule: '反义词列表；表格中使用 | 分隔。' },
+  { name: 'roots', label: '词根/词缀', type: '字符串', rule: '构词说明，缺省时不显示。' },
+  { name: 'word_family', label: '词族', type: '字符串 / 数组', rule: '相关派生词，表格使用 | 分隔。' },
+  { name: 'collocations', label: '搭配', type: '字符串 / 数组', rule: '常见短语，表格使用 | 分隔。' },
+  { name: 'content_source', label: '素材来源', type: '字符串', rule: '扩展素材来源或作者。' },
+  { name: 'content_license', label: '素材许可', type: '字符串', rule: '素材许可；分享前确认许可允许再分发。' },
   { name: 'frequency', label: '词频/优先级', type: '非负整数', rule: '可选排序权重；数值越大，新词计划中的优先级越高。' }
 ]
 const csvExample = `word,phonetic,definition,examples,etymology,synonyms,antonyms,frequency

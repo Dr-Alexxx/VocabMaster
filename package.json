@@ -1,6 +1,6 @@
 {
   "name": "vocabmaster",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CET-4/6, IELTS and TOEFL vocabulary learning desktop application",
   "author": "VocabMaster",
   "license": "MIT",
@@ -29,11 +29,13 @@
     "@capacitor/cli": "^7.6.9",
     "@capacitor/core": "^7.6.9",
     "@capacitor/filesystem": "^7.1.8",
+    "@capacitor/local-notifications": "7.0.7",
     "@capacitor/share": "^7.0.4",
     "better-sqlite3": "^12.11.1",
     "echarts": "^6.1.0",
     "lucide-vue-next": "^0.468.0",
     "pinia": "^2.3.0",
+    "ts-fsrs": "5.4.2",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0",
     "xlsx": "npm:@e965/xlsx@^0.20.3"

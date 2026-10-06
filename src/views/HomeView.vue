@@ -27,7 +27,7 @@
         <div class="today-copy">
           <span class="eyebrow">今日计划</span>
           <h2>{{ planHeading }}</h2>
-          <p>{{ planDescription }}</p>
+          <p>{{ planDescription }}</p><p v-if="settings.values.adaptivePlan && planPreview" class="goal-line">{{ planPreview.reason }}</p>
           <p v-if="goalActive" class="goal-line">
             目标截止 {{ goalDeadlineText }} · 剩余 {{ goalPlan.daysLeft }} 天 · 今日建议 {{ goalPlan.quota }} 个新词
             <b v-if="!goalPlan.feasible">按每日上限无法按期完成，建议延长截止日期</b>
@@ -62,6 +62,7 @@
       <section>
         <div class="section-heading">
           <div><h2>收藏词汇</h2><p>快速回到需要重点关注的单词</p></div>
+          <RouterLink class="text-btn" to="/tags">管理标签</RouterLink>
           <button v-if="favorites.length" class="text-btn" @click="reviewFavorites">专项复习 <ArrowRight :size="16" /></button>
         </div>
         <div v-if="favorites.length" class="favorite-list">
@@ -78,9 +79,9 @@
 </template>
 
 <script setup>
-import { computed, onActivated, onMounted, ref } from 'vue'
+import { computed, onActivated, onMounted, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
-import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock3, Flame, Keyboard, Layers3, Play, RefreshCw, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
+import { ArrowRight, BadgeCheck, BookMarked, ChevronRight, ClipboardCheck, Clock3, Flame, Keyboard, Layers3, LibraryBig, Play, RefreshCw, Search, SearchX, Shuffle, Star, X } from 'lucide-vue-next'
 import EmptyState from '@/components/EmptyState.vue'
 import WordDrawer from '@/components/WordDrawer.vue'
 import { api } from '@/services/api.js'
@@ -95,6 +96,7 @@ const settings = useSettingsStore()
 const toast = useToast()
 const dashboard = ref({ due: 0, newCount: 0, learned: 0, mastered: 0, vocabularyCount: 0, activeVocabularyCount: 0, streak: 0, weekTime: 0, todayTotal: 0, todayCorrect: 0 })
 const favorites = ref([])
+const planPreview = ref(null)
 const query = ref('')
 const results = ref([])
 const searching = ref(false)
@@ -111,7 +113,7 @@ const goalPlan = computed(() => planDailyNewQuota({
   baseLimit: Math.min(dashboard.value.newCount, settings.values.dailyNewLimit)
 }))
 const goalActive = computed(() => Boolean(settings.values.goalDeadline) && dashboard.value.newCount > 0)
-const plannedNew = computed(() => goalActive.value ? goalPlan.value.quota : Math.min(dashboard.value.newCount, settings.values.dailyNewLimit))
+const plannedNew = computed(() => planPreview.value?.newCount ?? Math.min(dashboard.value.newCount, settings.values.dailyNewLimit))
 const goalDeadlineText = computed(() => settings.values.goalDeadline
   ? new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric' }).format(new Date(`${settings.values.goalDeadline}T00:00:00`))
   : '')
@@ -136,7 +138,8 @@ const modes = [
 
 async function load() {
   try {
-    const [summary, saved] = await Promise.all([api.dashboard(), api.favorites()])
+    const [summary, saved, preview] = await Promise.all([api.dashboard(), api.favorites(), api.getPlanPreview({ ...settings.values })])
+    planPreview.value = preview
     dashboard.value = summary
     favorites.value = saved
     emit('dashboard', summary)
@@ -162,6 +165,7 @@ function scheduleSearch() {
   }, 180)
 }
 function clearSearch() { query.value = ''; results.value = [] }
+watch(() => [settings.loaded, settings.values.adaptivePlan, settings.values.dailyNewLimit, settings.values.goalDeadline], load)
 onMounted(load)
 onActivated(load)
 </script>

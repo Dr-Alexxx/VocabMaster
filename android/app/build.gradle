@@ -9,7 +9,7 @@ android {
         applicationId "com.vocabmaster.app"
         minSdkVersion 26
         targetSdkVersion 35
-        versionCode 10100
+        versionCode 10200
         versionName rootPkg.version
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {

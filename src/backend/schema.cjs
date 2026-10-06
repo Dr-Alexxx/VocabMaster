@@ -19,6 +19,11 @@ const schema = `
     etymology TEXT,
     synonyms TEXT NOT NULL DEFAULT '[]',
     antonyms TEXT NOT NULL DEFAULT '[]',
+    roots TEXT NOT NULL DEFAULT '',
+    word_family TEXT NOT NULL DEFAULT '[]',
+    collocations TEXT NOT NULL DEFAULT '[]',
+    content_source TEXT NOT NULL DEFAULT '',
+    content_license TEXT NOT NULL DEFAULT '',
     frequency INTEGER,
     notes TEXT,
     is_favorited INTEGER NOT NULL DEFAULT 0,
@@ -38,6 +43,9 @@ const schema = `
     last_review_date TEXT,
     is_learned INTEGER NOT NULL DEFAULT 0,
     first_learned_at TEXT,
+    algorithm TEXT NOT NULL DEFAULT 'sm2',
+    fsrs_card TEXT,
+    sm2_snapshot TEXT,
     created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
     updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
@@ -49,6 +57,10 @@ const schema = `
     learning_record_id INTEGER NOT NULL REFERENCES learning_records(id) ON DELETE CASCADE,
     study_mode TEXT NOT NULL,
     session_mode TEXT NOT NULL DEFAULT '',
+    algorithm TEXT NOT NULL DEFAULT 'sm2',
+    algorithm_version TEXT NOT NULL DEFAULT '1',
+    algorithm_params TEXT NOT NULL DEFAULT '{}',
+    mistake_reason TEXT NOT NULL DEFAULT '',
     quality INTEGER NOT NULL,
     time_spent INTEGER NOT NULL DEFAULT 0,
     is_correct INTEGER NOT NULL DEFAULT 0,
@@ -76,6 +88,20 @@ const schema = `
     created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
   CREATE INDEX IF NOT EXISTS idx_stats_date ON daily_statistics(date);
+  CREATE TABLE IF NOT EXISTS daily_plans (
+    date TEXT PRIMARY KEY,
+    planned_new INTEGER NOT NULL DEFAULT 0,
+    planned_review INTEGER NOT NULL DEFAULT 0
+  );
+  CREATE TABLE IF NOT EXISTS tags (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL UNIQUE COLLATE NOCASE
+  );
+  CREATE TABLE IF NOT EXISTS word_tags (
+    word_id INTEGER NOT NULL REFERENCES words(id) ON DELETE CASCADE,
+    tag_id INTEGER NOT NULL REFERENCES tags(id) ON DELETE CASCADE,
+    PRIMARY KEY (word_id, tag_id)
+  );
   CREATE TABLE IF NOT EXISTS user_settings (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     key TEXT NOT NULL UNIQUE,

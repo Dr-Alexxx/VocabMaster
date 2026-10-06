@@ -2,6 +2,7 @@ const { app, BrowserWindow, shell } = require('electron')
 const path = require('node:path')
 const { getDatabase, closeDatabase } = require('./database.cjs')
 const { registerIpcHandlers } = require('./ipc.cjs')
+const { registerReminders } = require('./reminders.cjs')
 
 let mainWindow
 
@@ -41,12 +42,21 @@ app.whenReady().then(() => {
   getDatabase()
   registerIpcHandlers()
   createWindow()
+  registerReminders(getDatabase, () => {
+    if (!mainWindow || mainWindow.isDestroyed()) {
+      createWindow()
+      mainWindow.webContents.once('did-finish-load', () => mainWindow.webContents.send('reminder:open'))
+    } else {
+      if (mainWindow.isMinimized()) mainWindow.restore()
+      mainWindow.show(); mainWindow.focus(); mainWindow.webContents.send('reminder:open')
+    }
+  })
   app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) createWindow()
   })
 })
 
 app.on('window-all-closed', () => {
-  closeDatabase()
   if (process.platform !== 'darwin') app.quit()
 })
+app.on('will-quit', closeDatabase)

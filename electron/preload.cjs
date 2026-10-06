@@ -3,6 +3,22 @@ const { contextBridge, ipcRenderer } = require('electron')
 const invoke = (channel) => (...args) => ipcRenderer.invoke(channel, ...args)
 
 contextBridge.exposeInMainWorld('vocabApi', {
+  onReminder: (callback) => {
+    const listener = () => callback()
+    ipcRenderer.on('reminder:open', listener)
+    return () => ipcRenderer.removeListener('reminder:open', listener)
+  },
+  listTags: invoke('features:listTags'),
+  saveTag: invoke('features:saveTag'),
+  deleteTag: invoke('features:deleteTag'),
+  setWordTags: invoke('features:setWordTags'),
+  setMistakeReason: invoke('features:setMistakeReason'),
+  getPlanPreview: invoke('features:getPlanPreview'),
+  recordDailyPlan: invoke('features:recordDailyPlan'),
+  previewAlgorithm: invoke('features:previewAlgorithm'),
+  getReminderDates: invoke('features:getReminderDates'),
+  notificationStatus: invoke('notifications:status'),
+  openNotificationSettings: invoke('notifications:settings'),
   dashboard: invoke('dashboard:get'),
   vocabularies: invoke('vocab:list'),
   setVocabularyActive: invoke('vocab:set-active'),
