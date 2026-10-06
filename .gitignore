@@ -21,3 +21,4 @@ android/local.properties
 android/.idea/
 android/keystore*
 .learnings/
+AGENTS.md
