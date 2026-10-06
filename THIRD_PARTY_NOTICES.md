@@ -100,4 +100,4 @@ Copyright (c) 2026 Open Spaced Repetition
 
 License: MIT
 
-Used locally for optional spaced repetition scheduling. The package license is distributed with the application dependencies. No third-party audio recordings are added in v1.2.
+Used locally for optional spaced repetition scheduling. The package license is distributed with the application dependencies. No third-party audio recordings are added in v1.1.0.

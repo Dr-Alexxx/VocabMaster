@@ -20,7 +20,7 @@ beforeEach(async () => {
   backend = createBackend(adapter, { todayKey: () => '2026-10-06', addDaysFrom: (n) => `2026-10-${String(6+n).padStart(2,'0')}` })
 })
 
-describe('1.2 migration and organization', () => {
+describe('1.1 migration and organization', () => {
   test('migrates legacy columns twice without losing records, with both adapters', async () => {
     const legacy = new DatabaseSync(':memory:')
     const oldSchema = schema.replace(/    (roots|word_family|collocations|content_source|content_license|algorithm|algorithm_version|algorithm_params|mistake_reason|fsrs_card|sm2_snapshot) .*\n/g, '')
