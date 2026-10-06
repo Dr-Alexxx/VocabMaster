@@ -35,7 +35,7 @@ VocabMaster 是面向 CET-4/6、IELTS 和 TOEFL 备考的 Windows / macOS 桌面
 ## 版本文档
 
 - [路线图索引](./roadmap/README.md)：各版本范围、实现状态、延期原因和验收条件。
-- [变更记录索引](./changelog/README.md)：[v1.1.0 完整变更](./changelog/CHANGELOG-v1.1.0.md)。
+- [v1.1.0 变更记录](./changelog/CHANGELOG-v1.1.0.md)。
 - `roadmap/` 与 `changelog/` 均纳入 Git，独立于本机忽略的 `docs/`。实现、测试通过、设备验收和正式发布分别记录。
 
 ## 开发

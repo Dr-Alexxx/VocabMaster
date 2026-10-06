@@ -1,6 +1,6 @@
 # 版本路线图
 
-路线图用于记录计划范围、取舍和验收状态；实际交付内容见 [changelog](../changelog/README.md)。本目录与 changelog 均提交到 Git，独立于被忽略的 `docs/`。
+路线图用于记录计划范围、取舍和验收状态；实际交付内容见对应版本的 changelog 文件，例如 [v1.1.0 changelog](../changelog/CHANGELOG-v1.1.0.md)。本目录与 changelog 均提交到 Git，独立于被忽略的 `docs/`。
 
 | 版本 | 路线图 | 实现状态 | 发布状态 |
 | --- | --- | --- | --- |
